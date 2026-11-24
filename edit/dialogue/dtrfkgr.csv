@@ -1,0 +1,41 @@
+﻿id,en,th
+dtrfkgr:72672056,~s~The arms package can be picked up by driving or walking near the weapon crate.~s~,~s~คุณสามารถเก็บแพ็กเกจอาวุธได้โดยการขับรถหรือเดินเข้าไปใกล้ลังอาวุธ~s~
+dtrfkgr:123776496,Airfield,สนามบิน
+dtrfkgr:179730044,~s~Drive to the ~y~house on the hill.~s~,~s~ขับรถไปยัง ~y~บ้านบนเนินเขา~s~
+dtrfkgr:223136187,~s~Drive to the ~y~recycle center.~s~,~s~ขับรถไปยัง ~y~ศูนย์รีไซเคิล~s~
+dtrfkgr:955785849,~s~Acquire an off-road vehicle.~s~,~s~หารถออฟโรดมาใช้งาน~s~
+dtrfkgr:1274853159,Rival Runner,นักขนส่งคู่แข่ง
+dtrfkgr:1424582583,~s~Kill the ~r~rival arms runners.~s~,~s~ฆ่า ~r~นักขนส่งอาวุธคู่แข่ง~s~
+dtrfkgr:1504268928,Pickup Location,จุดรับของ
+dtrfkgr:1719401856,~s~Drive to the ~y~airfield.~s~,~s~ขับรถไปยัง ~y~สนามบิน~s~
+dtrfkgr:1853066251,~s~Drive to the rail ~y~shed.~s~,~s~ขับรถไปยัง ~y~โรงเก็บของริมรางรถไฟ~s~
+dtrfkgr:1875120148,~s~Drive to the ~y~drop location.~s~,~s~ขับรถไปยัง ~y~จุดส่งของ~s~
+dtrfkgr:1948405300,~s~Drive back to the ~y~airfield.~s~,~s~ขับรถกลับไปยัง ~y~สนามบิน~s~
+dtrfkgr:2151690148,~s~Drive to the dirt ~y~island.~s~,~s~ขับรถไปยัง ~y~เกาะดิน~s~
+dtrfkgr:2189451149,~s~A weapons drop location has been marked on the Radar. Get to the pickup location before the rival arms runners to acquire the weapons.~s~,~s~ตำแหน่งส่งอาวุธถูกทำเครื่องหมายไว้บนเรดาร์แล้ว ไปให้ถึงจุดรับของก่อนนักขนส่งอาวุธคู่แข่งเพื่อชิงอาวุธมา~s~
+dtrfkgr:2234526093,Gang Member,สมาชิกแก๊ง
+dtrfkgr:2335458700,~s~Drive to the ~y~construction site.~s~,~s~ขับรถไปยัง ~y~เขตก่อสร้าง~s~
+dtrfkgr:2338276838,~s~Drive to the coastal ~y~home.~s~,~s~ขับรถไปยัง ~y~บ้านริมชายฝั่ง~s~
+dtrfkgr:2420439830,~s~A weapons drop location has been marked on the Radar. Avoid using main roads to evade the Cops. Staying on the road for too long will trigger a Cop response.~s~,~s~ตำแหน่งส่งอาวุธถูกทำเครื่องหมายไว้บนเรดาร์แล้ว หลีกเลี่ยงการใช้ถนนสายหลักเพื่อหนีตำรวจ หากอยู่บนถนนนานเกินไปจะทำให้ตำรวจออกมาตอบโต้~s~
+dtrfkgr:2448643186,~s~Lose the ~r~rival runners.~s~,~s~สลัดการตามล่าของ ~r~นักขนส่งคู่แข่ง~s~
+dtrfkgr:2562580639,~s~Drive to the ~y~trailer park.~s~,~s~ขับรถไปยัง ~y~วนอุทยานรถบ้าน~s~
+dtrfkgr:2565923081,~s~Drive to the rail ~y~shed.~s~,~s~ขับรถไปยัง ~y~โรงเก็บของริมรางรถไฟ~s~
+dtrfkgr:2621315465,~s~Drive to the ~y~mobile home.~s~,~s~ขับรถไปยัง ~y~บ้านเคลื่อนที่~s~
+dtrfkgr:2927345156,~s~Drive to the ~y~boat docks.~s~,~s~ขับรถไปยัง ~y~ท่าเรือ~s~
+dtrfkgr:2945630254,~s~Drive to the ~y~park.~s~,~s~ขับรถไปยัง ~y~สวนสาธารณะ~s~
+dtrfkgr:2966930108,~s~Drive to the old ~y~farm house.~s~,~s~ขับรถไปยัง ~y~บ้านไร่หลังเก่า~s~
+dtrfkgr:2987089014,The weapons drop plane is in the area. Press ~INPUT_SCRIPT_RRIGHT~ to track the plane.,เครื่องบินส่งอาวุธอยู่ในพื้นที่แล้ว กด ~INPUT_SCRIPT_RRIGHT~ เพื่อติดตามเครื่องบิน
+dtrfkgr:3016726582,~s~Take out the ~r~arms runners.~s~,~s~จัดการ ~r~คนขนอาวุธ~s~
+dtrfkgr:3081903755,~s~Drive to the ~y~plane graveyard.~s~,~s~ขับรถไปยัง ~y~สุสานเครื่องบิน~s~
+dtrfkgr:3214553023,~s~Retrieve the ~g~arms package.~s~,~s~กู้คืน ~g~แพ็กเกจอาวุธ~s~
+dtrfkgr:3263850017,~s~Drive to the ~y~rail station.~s~,~s~ขับรถไปยัง ~y~สถานีรถไฟ~s~
+dtrfkgr:3309628306,~s~Drive to the ~y~runway.~s~,~s~ขับรถไปยัง ~y~รันเวย์~s~
+dtrfkgr:3315382880,~s~Drive to the ~y~hardware store.~s~,~s~ขับรถไปยัง ~y~ร้านขายอุปกรณ์ช่าง~s~
+dtrfkgr:3561523617,~s~Drive to the ~y~storage barns.~s~,~s~ขับรถไปยัง ~y~โรงนาเก็บของ~s~
+dtrfkgr:3640626318,~s~Rival arms runners have obtained the weapons package. Eliminate the runners and retrieve the weapons before they reach the drop-off location.~s~,~s~นักขนส่งอาวุธคู่แข่งได้แพ็กเกจอาวุธไปแล้ว กำจัดคนพวกนั้นและชิงอาวุธกลับมาให้ได้ก่อนที่คนเหล่านั้นจะถึงจุดส่งของ~s~
+dtrfkgr:3712706717,~s~Drive to the ~y~plateau.~s~,~s~ขับรถไปยัง ~y~บริเวณที่ราบสูง~s~
+dtrfkgr:3860213052,~s~Drive to the old ~y~dock house.~s~,~s~ขับรถไปยัง ~y~บ้านพักริมน้ำหลังเก่า~s~
+dtrfkgr:4125233620,TIME,เวลา
+dtrfkgr:4137969131,Trevor must use the trafficking vehicle to pick up the weapons.,เทรเวอร์ต้องใช้พาหนะขนส่งสินค้าเพื่อไปรับอาวุธ
+dtrfkgr:4246448473,~s~Drive to the ~y~houses.~s~,~s~ขับรถไปยัง ~y~กลุ่มบ้านพัก~s~
+dtrfkgr:4292963188,~s~Return to the ~g~arms package.~s~,~s~กลับไปที่ ~g~แพ็กเกจอาวุธ~s~

@@ -1,0 +1,80 @@
+﻿id,en,th
+tow:127434911,Base: $~1~ Damage Penalty: $~1~ Total: $~1~,ราคาโดยทั่วไป: $~1~ ค่าปรับความเสียหาย : $~1~ รวมเป็น : $~1~
+tow:209418744,~s~Go to the ~b~illegally parked car.~s~,~s~ไปยัง ~b~รถที่จอดผิดกฎจราจร~s~
+tow:222228388,~s~The driver got his car back.~s~,~s~คนขับรถเอารถกลับไป~s~
+tow:284166001,~s~Franklin threatened the driver.~s~,~s~แฟรงคลินข่มขู่คนขับ~s~
+tow:357703141,~s~Dispatch has received a call about a car stalled on train tracks. The vehicle and pedestrian need to be taken to a mechanic shop.,~s~หน่วยขนส่งได้รับสายเกี่ยวกับรถที่หยุดทำงานบนรางรถไฟ พาหนะและคนเดินเท้าต้องถูกนำไปที่ร้านซ่อม
+tow:401219906,Passed,ผ่าน
+tow:418089091,~s~The wrong car has been hooked. Hold ~INPUT_VEH_HEADLIGHT~ to unhook the car.~s~,~s~รถผิดคันได้ถูกเกี่ยวยึด กดค้าง ~INPUT_VEH_HEADLIGHT~ เพื่อปลดรถออก~s~
+tow:476251660,"~s~When close to a vehicle, align the tow truck so the hook can attach properly.~s~",~s~เมื่ออยู่ใกล้กับพาหนะ จัดตำแหน่งของรถบรรทุกพ่วงเพื่อให้ขอเกี่ยวสามารถแนบได้อย่างถูกต้อง~s~
+tow:483304842,~s~Go to the ~b~tow truck.~s~,~s~ไปที่ ~b~รถลาก~s~
+tow:617124295,~s~The job was not completed in time.~s~,~s~งานเสร็จไม่ทันเวลา~s~
+tow:653658578,~s~Tonya died.~s~,~s~ทอนย่าตายแล้ว~s~
+tow:760682030,~s~Dispatch has received a call about an illegally parked car. The car needs to be towed to the local impound.,~s~หน่วยขนส่งได้รับสายเกี่ยวกับรถที่จอดผิดกฏจราจร รถจะต้องถูกลากไปยังลานยึดรถของท้องถิ่น
+tow:863346163,CONTROLS,การควบคุม
+tow:893891357,~s~The vehicle was destroyed.~s~,~s~พาหนะถูกทำลาย~s~
+tow:910243000,~s~The tow truck was destroyed.~s~,~s~รถลากถูกทำลาย~s~
+tow:925628153,~s~The homeless person was attacked.~s~,~s~คนจรจัดถูกโจมตี~s~
+tow:958631919,~s~Wait for ~b~Tonya.~s~,~s~รอ ~b~ทอนย่า~s~
+tow:1009114232,~s~Hook the tow truck arm back onto the ~b~broken down car.~s~,~s~ใช้ขอเกี่ยวรถลากเกี่ยวกับ ~b~ด้านหลังของรถที่เสียหาย~
+tow:1028797976,~s~Dispatch has received a call from a stranded pedestrian with a disabled vehicle. The vehicle and pedestrian need to be taken to a mechanic shop.,~s~หน่วยขนส่งได้รับสายจากคนเดินเท้าที่ติดค้างพร้อมกับพาหนะที่ใช้การไม่ได้ พาหนะและคนเดินเท้าต้องถูกนำไปที่ร้านซ่อม
+tow:1065732509,~s~Release the vehicle in the ~y~drop-off zone.~s~,~s~ปล่อยพาหนะในจุด ~y~วางรถ~s~
+tow:1089492738,~s~Tonya was spooked.~s~,~s~ทอนย่าตกใจ~s~
+tow:1093351774,LOWER / RAISE,ต่ำลง / สูงขึ้น
+tow:1114705265,~s~The attached vehicle should be dropped off in the designated drop-off zone.~s~,~s~พาหนะที่ถูกลากจูงควรนำไปวางลงในจุดวางรถที่กำหนดไว้~s~
+tow:1125512841,Vehicle,พาหนะ
+tow:1134413027,~s~Extra damage to the towed vehicle has resulted in a ~r~$~1~ penalty.~s~ Causing more damage will cause you to fail.~s~,~s~ความเสียหายพิเศษต่อพาหนะที่ถูกลากส่งผลให้เกิดค่าปรับ ~r~$~1~~s~หากความเสียหายมากขึ้นจะทำให้คุณล้มเหลว~s~
+tow:1170448614,~s~Dispatch has received a call about an abandoned car. The car needs to be towed to the local impound.,~s~หน่วยขนส่งได้รับสายเกี่ยวกับรถที่ถูกละทิ้ง รถจะต้องถูกลากไปยังลานยึดรถของท้องถื่น
+tow:1200510890,~s~Franklin threatened a pedestrian.~s~,~s~แฟรงคลินข่มขู่คนเดินเท้า~s~
+tow:1383044680,Total Time,เวลารวมทั้งหมด
+tow:1428908030,~s~Causing more damage to the vehicle will fail the towing job.~s~,~s~หากเกิดความเสียหายมากขึ้นกับพาหนะ จะทำให้งานลากจูงล้มเหลว~s~
+tow:1462113252,~s~Franklin fired a weapon near a pedestrian.~s~,~s~แฟรงคลินยิงอาวุธใกล้กับคนเดินเท้า~s~
+tow:1508587846,~s~Lose the Cops.~s~,~s~หนีตำรวจ~s~
+tow:1554968677,DISCONNECT,หยุดเชื่อมต่อ
+tow:1646598901,~s~Use ~INPUT_VEH_MOVE_UD~ to lower and raise the crane.~s~,~s~ใช้ ~INPUT_VEH_MOVE_UD~ เพื่อเครนขึ้นและลง~s~
+tow:1701847435,~s~Align the tow truck so its back is lined up directly with the target vehicle.~s~,~s~จัดตำแหน่งรถลาก เพื่อทำให้ตำแหน่งเรียงกันกับพาหนะเป้าหมาย~s~
+tow:1738626226,~s~Clear the ~b~stalled car~s~ before the train hits it.,~s~เคลียร์ ~b~รถติดขัด ~s~ก่อนที่รถไฟจะชนมัน
+tow:1754979104,"~s~If a vehicle is attached, the crane can only be raised and lowered while the tow truck is stationary.~s~",~s~หากจับยึดพาหนะได้แล้ว เครนสามารถยกขึ้นและลงได้ในขณะที่รถลากอยู่กับที่~s~
+tow:1829063561,~s~Go to the ~b~abandoned car.~s~,~s~ไปยัง ~b~รถที่ถูกละทิ้ง~s~
+tow:1841865670,~s~The vehicle owner was attacked.~s~,~s~เจ้าของพาหนะถูกโจมตี~s~
+tow:1871223468,~s~Tow the car to the ~y~impound.~s~,~s~ลากรถไปที่ ~y~ลานยึดรถ~s~
+tow:1872376921,~s~Tow truck abandoned.~s~,~s~รถลากถูกละทิ้ง~s~
+tow:1901502548,~s~Damage to the towed vehicle has resulted in a ~r~$~1~ penalty.~s~,~s~ความเสียหายต่อพาหนะที่ถูกลากส่งผลให้เกิดการปรับ ~r~$~1~ ~s~
+tow:1940347063,Job Complete,งานเสร็จสมบูรณ์
+tow:2068853278,TIME,เวลา
+tow:2072202673,~s~Cars can be hooked at the front or back end.~s~,~s~รถยนต์สามารถเกี่ยวยึดได้ทั้งด้านหน้าและหลัง~s~
+tow:2074438286,~s~The attached vehicle should be dropped off soon.~s~,~s~พาหนะที่ลากจูงมาควรจะส่งเร็วๆ นี้~s~
+tow:2110076677,~s~Hook the tow truck arm to the ~b~broken down car.~s~,~s~ใช้ขอเกี่ยวรถลากเกี่ยวกับ ~b~รถที่เสียหาย~s~
+tow:2126264595,~s~Tow the ~b~remaining car.~s~,~s~ลาก ~b~รถที่เหลืออยู่~s~
+tow:2178862066,~s~The job was abandoned.~s~,~s~งานถูกละทิ้ง~s~
+tow:2261895458,~s~Dispatch has received a call about a single car accident. The car needs to be towed to a mechanic shop.,~s~หน่วยขนส่งได้รับสายเกี่ยวกับอุบัติเหตุทางรถยนต์หนึ่งคัน รถต้องถูกลากไปที่ร้านซ่อม
+tow:2269640243,~s~The passenger died.~s~,~s~ผู้โดยสารตายแล้ว~s~
+tow:2321250534,~s~Hook the tow truck arm to the ~b~car.~s~,~s~ใช้ขอเกี่ยวรถลากเกี่ยวกับ ~b~ด้านหลังของรถที่เสียหาย~s~
+tow:2418057031,~s~Go to the ~b~stalled car.~s~,~s~ไปยัง ~b~รถที่ติดขัด~s~
+tow:2478731185,~s~Towed vehicle damaged.~s~,~s~รถลากได้รับความเสียหาย~s~
+tow:2487036243,~s~Hook the tow truck arm back onto the ~b~car.~s~,~s~ใช้ขอเกี่ยวรถลากเกี่ยวกับ ~b~รถ~s~
+tow:2495565209,~s~Time to clear vehicle: ~1~:~1~:0~1~,~s~เวลาในการเคลียร์พาหนะ : ~1~:~1~:0~1~
+tow:2522677730,~s~Tonya was attacked.~s~,~s~ทอนย่าถูกโจมตี~s~
+tow:2537744888,~s~Dispatch has received a call about a car accident. The cars must be taken to a mechanic shop.,~s~หน่วยขนส่งได้รับสายเกี่ยวกับอุบัติเหตุทางรถยนต์ รถยนต์จะต้องถูกนำไปที่ร้านซ่อม
+tow:2562816259,~s~Hook the tow truck arm to one of the ~b~broken down cars.~s~,~s~ใช้ขอเกี่ยวของรถลากเกี่ยวกับหนึ่งใน ~b~รถที่เสียหาย~s~
+tow:2584306646,~s~Return to the ~b~car owner.~s~,~s~กลับไปหา ~b~เจ้าของรถ~s~
+tow:2643982100,~s~Tonya was injured.~s~,~s~ทอนย่าได้รับบาดเจ็บ~s~
+tow:2693936003,"~s~Bring the tow truck to a stop, so the driver can enter.~s~",~s~หยุดรถลาก เพื่อให้คนขับสามารถเข้าได้~s~
+tow:2722332673,~s~Go to the ~b~broken down car.~s~,~s~ไปยัง ~b~รถที่เสียหาย~s~
+tow:2785964087,~s~Time to clear vehicle: ~1~:~1~:~1~,~s~เวลาในการเคลียร์พาหนะ: ~1~:~1~:~1~
+tow:2815040104,~y~Passed~s~,~y~ผ่าน~s~
+tow:2828248655,~s~Tonya was abandoned.~s~,~s~ทอนย่าถูกละทิ้ง~s~
+tow:3036816766,~s~Allow the ~b~car owner~s~ to enter the tow truck.~s~,~s~ให้ ~b~เจ้าของรถ~s~ ขึ้นมาบนรถลาก~s~
+tow:3215196518,~s~Return to ~b~Tonya.~s~,~s~กลับไปหา ~b~ทอนย่า~s~
+tow:3253459199,~s~The Tow truck owner was attacked.~s~,~s~เจ้าของรถลากถูกโจมตี~s~
+tow:3357415903,~s~The driver was not allowed to enter the tow truck.~s~,~s~คนขับไม่ได้รับอนุญาตให้ขึ้นรถลาก~s~
+tow:3374630239,~s~Drive Tonya to the ~y~impound lot.~s~,~s~ขับรถไปส่งทอนย่าที่ ~y~ลานยึดรถ~s~
+tow:3558178130,~s~The tow truck is undriveable.~s~,~s~รถลากไม่สามารถขับได้~s~
+tow:3631475809,~s~Tow the car to the ~y~auto repair shop.~s~,~s~ลากรถไปที่ ~y~ร้านซ่อมรถยนต์~s~
+tow:3732637590,"~s~When a vehicle is attached to the tow truck, hold ~INPUT_VEH_HEADLIGHT~ to unhook the vehicle.~s~",~s~เมื่อพาหนะยึดกับรถลาก ให้กดค้าง ~INPUT_VEH_HEADLIGHT~ เพื่อปลดพาหนะ~s~
+tow:3757475960,~s~Franklin broke the law.~s~,~s~แฟรงคลินทำผิดกฎหมาย~s~
+tow:3771607041,~s~Go to the ~b~crashed car.~s~,~s~ไปยัง ~b~รถที่ถูกชน~s~
+tow:3965077674,~s~Hold ~INPUT_VEH_HEADLIGHT~ to drop off the vehicle.~s~,~s~กดค้าง ~INPUT_VEH_HEADLIGHT~ เพื่อทำการวางพาหนะ~s~
+tow:4060884131,~s~The driver died.~s~,~s~คนขับตายแล้ว~s~
+tow:4208020169,~s~Franklin died.~s~,~s~แฟรงคลินตายแล้ว~s~
+tow:4212696638,~s~Press ~INPUT_VEH_CIN_CAM~ to get an alternate view of the car.,~s~กด ~INPUT_VEH_CIN_CAM~ เพื่อดูมุมมองต่างๆ ของรถ

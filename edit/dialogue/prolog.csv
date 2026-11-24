@@ -1,0 +1,105 @@
+﻿id,en,th
+prolog:31518926,~s~The car was destroyed.~s~,~s~รถถูกทำลาย~s~
+prolog:35827968,~s~The route was abandoned.~s~,~s~คุณออกนอกเส้นทาง~s~
+prolog:61205831,~s~Stay in the ~y~lobby~s~ and watch over the hostages.~s~,~s~อยู่ที่~y~ล็อบบี้~s~ และเฝ้าตัวประกัน~s~
+prolog:265895007,~s~Hold ~INPUT_SPRINT~ to sprint when outside.~s~,~s~กดค้าง ~INPUT_SPRINT~ เพื่อวิ่งเร็วตอนอยู่นอกอาคาร~s~
+prolog:293165493,~s~Take out the ~r~guard.~s~,~s~จัดการ~r~ยาม~s~~s~
+prolog:320887628,~s~You can SWITCH between playable characters.~s~,~s~สลับตัวละครที่เล่นได้~s~
+prolog:338662883,"~s~While aiming, use ~INPUTGROUP_LOOK~ to target the hostages.~s~",~s~ตอนเล็ง ใช้ ~INPUTGROUP_LOOK~ เล็งไปที่ตัวประกัน~s~
+prolog:514388848,Cash,เงินสด
+prolog:573634925,"~s~While holding ~INPUT_CHARACTER_WHEEL~ use ~INPUTGROUP_WHEEL~ to select a character, then release ~INPUT_CHARACTER_WHEEL~ to SWITCH.~s~",~s~กดค้าง ~INPUT_CHARACTER_WHEEL~ แล้วใช้ ~INPUTGROUP_WHEEL~ เลือกตัว จากนั้นปล่อย ~INPUT_CHARACTER_WHEEL~ เพื่อสลับ~s~
+prolog:640201495,~s~Escape the ~r~Cops.~s~,~s~หนี~r~ตำรวจ~s~~s~
+prolog:659625572,~s~Press ~INPUT_CELLPHONE_SELECT~ to access the menu.~s~,~s~กด ~INPUT_CELLPHONE_SELECT~ เพื่อเปิดเมนู~s~
+prolog:704714915,~s~Press ~INPUT_ATTACK~ to shoot.~s~,~s~กด ~INPUT_ATTACK~ เพื่อยิง~s~
+prolog:765554021,~s~Mission Passed~s~,~s~ภารกิจสำเร็จ~s~
+prolog:868167204,~s~Hold ~INPUT_ATTACK~ and guide the gunfire with ~INPUTGROUP_LOOK~~s~,~s~กดค้าง ~INPUT_ATTACK~ แล้วใช้ ~INPUTGROUP_LOOK~ บังคับทิศทางกระสุน~s~
+prolog:896852007,~s~Follow ~b~Trevor.~s~,~s~ตาม~b~เทรเวอร์~s~~s~
+prolog:927544283,~s~Aim using ~INPUT_AIM~~s~,~s~เล็งด้วย ~INPUT_AIM~~s~
+prolog:984300824,~s~Press ~INPUT_CELLPHONE_SELECT~ to view the contact list.~s~,~s~กด ~INPUT_CELLPHONE_SELECT~ เพื่อดูรายชื่อผู้ติดต่อ~s~
+prolog:1007018486,~s~Your ~y~destination~s~ is marked with a ~HUD_COLOUR_YELLOW~~BLIP_OBJECTIVE~~s~ on the Radar.~s~,~s~~y~จุดหมาย~s~ถูกทำเครื่องหมายด้วย ~HUD_COLOUR_YELLOW~~BLIP_OBJECTIVE~~s~ บนเรดาร์~s~
+prolog:1063369495,~s~Hold off the ~r~Cops.~s~,~s~ต้าน~r~ตำรวจ~s~ไว้~s~
+prolog:1071301718,~s~Use ~INPUTGROUP_LOOK~ to aim at the target and take him out with one headshot.~s~,~s~ใช้ ~INPUTGROUP_LOOK~ เล็งเป้า แล้วยิงหัวทีเดียวให้จบ~s~
+prolog:1115779718,"~s~While locked on, use ~INPUTGROUP_LOOK~ to switch between targets.~s~",~s~ตอนล็อกเป้า ใช้ ~INPUTGROUP_LOOK~ สลับเป้าหมาย~s~
+prolog:1132602917,~s~While locked on you can flick between targets with ~INPUTGROUP_LOOK~~s~,~s~ตอนล็อกเป้า สลับเป้าได้ด้วย ~INPUTGROUP_LOOK~~s~
+prolog:1133629638,~s~Press ~INPUT_ATTACK~ without aiming to run and gun.~s~,~s~กด ~INPUT_ATTACK~ โดยไม่เล็ง เพื่อยิงไปพร้อมวิ่ง~s~
+prolog:1143845449,~s~Hold ~INPUT_VEH_ACCELERATE~ to accelerate.~s~,~s~กดค้าง ~INPUT_VEH_ACCELERATE~ เพื่อเร่ง~s~
+prolog:1200329910,"Aarrgh! Open the door, or they'll get worse than hurt!",อ้าา! เปิดประตูมา ไม่งั้นเจ็บกว่านี้!
+prolog:1202099547,~s~Aim at the ~r~hostages~s~ to make them move.~s~,~s~เล็งไปที่~r~ตัวประกัน~s~ เพื่อให้พวกเขาย้าย~s~
+prolog:1203041247,~s~Return to the ~b~crew.~s~,~s~กลับไปหา~b~ทีม~s~~s~
+prolog:1257463208,~s~Press ~INPUT_PHONE~ to bring up the phone.~s~,~s~กด ~INPUT_PHONE~ เพื่อหยิบโทรศัพท์~s~
+prolog:1298646735,~s~Wait for ~b~Trevor~s~ to get to the car.~s~,~s~รอ~b~เทรเวอร์~s~ ขึ้นรถ~s~
+prolog:1307540845,~s~Go to the ~y~exit.~s~,~s~ไปที่~y~ทางออก~s~~s~
+prolog:1318755379,~s~Wait for the ~b~crew~s~ to get in the car.~s~,~s~รอ~b~ทีม~s~ ขึ้นรถ~s~
+prolog:1321213866,"~s~Ludendorff, North Yankton, nine years ago.~s~",~s~ลูเดนดอร์ฟ นอร์ธแยงก์ตัน เก้าปีก่อน~s~
+prolog:1326600156,~s~Grab the ~b~woman.~s~,~s~จับตัว~b~ผู้หญิง~s~~s~
+prolog:1350292839,~s~Get back in the ~b~car.~s~,~s~กลับขึ้น~b~รถ~s~~s~
+prolog:1362405384,"Hey, hey, ah! Come on!",เฮ้ เฮ้ อา! เร็วเข้า!
+prolog:1374145981,~s~Press ~INPUT_ENTER~ to get in a vehicle.~s~,~s~กด ~INPUT_ENTER~ เพื่อขึ้นยานพาหนะ~s~
+prolog:1416367524,~s~Brad died.~s~,~s~แบรดตายแล้ว~s~
+prolog:1528954373,~s~Use ~INPUTGROUP_CELLPHONE_NAVIGATE~ to navigate the phone menu.~s~,~s~ใช้ ~INPUTGROUP_CELLPHONE_NAVIGATE~ เลื่อนเมนูโทรศัพท์~s~
+prolog:1531706168,~s~Use ~INPUT_ACCURATE_AIM~ to zoom in while aiming.~s~,~s~ใช้ ~INPUT_ACCURATE_AIM~ ซูมเข้าตอนเล็ง~s~
+prolog:1574203416,~s~Get to the ~b~car.~s~,~s~ไปที่~b~รถ~s~~s~
+prolog:1672279234,~s~Go to the ~y~security~s~ room.~s~,~s~ไปห้อง~y~รปภ.~s~~s~
+prolog:1752376893,~s~Tap ~INPUT_SPRINT~ to sprint when outside.~s~,~s~แตะ ~INPUT_SPRINT~ เพื่อวิ่งเร็วตอนอยู่นอกอาคาร~s~
+prolog:1758660272,~s~Quick SWITCH to the most relevant character by tapping ~INPUT_CHARACTER_WHEEL~~s~,~s~แตะ ~INPUT_CHARACTER_WHEEL~ เพื่อสลับไปตัวที่เหมาะที่สุดทันที~s~
+prolog:1766727421,~s~The hostage got away.~s~,~s~ตัวประกันหนีไปแล้ว~s~
+prolog:1873026960,~s~Get to ~y~cover.~s~,~s~ไปหลบ~y~กำบัง~s~~s~
+prolog:1960946428,~s~Open the ~g~shutter door.~s~,~s~เปิด~g~ประตูม้วน~s~~s~
+prolog:1968938506,~s~Collect the ~g~cash.~s~,~s~เก็บ~g~เงิน~s~~s~
+prolog:1970264386,~s~The car was stuck in the snow.~s~,~s~รถติดในหิมะ~s~
+prolog:1971810477,"Alright, everybody pays attention, no one gets hurt.",เอาล่ะ ทุกคนตั้งใจฟัง ไม่มีใครเจ็บตัว
+prolog:1994953068,~s~SWITCH to Michael to drive.~s~,~s~สลับไปไมเคิลเพื่อขับรถ~s~
+prolog:2048587462,~s~Out of ammo.~s~,~s~กระสุนหมด~s~
+prolog:2049059150,~s~Press ~INPUT_CHARACTER_WHEEL~ to freely SWITCH between Michael and Trevor.~s~,~s~กด ~INPUT_CHARACTER_WHEEL~ เพื่อสลับไมเคิลกับเทรเวอร์ได้อิสระ~s~
+prolog:2068067651,~s~Wait for ~b~Brad~s~ to get in the car.~s~,~s~รอ~b~แบรด~s~ ขึ้นรถ~s~
+prolog:2085861615,~s~Take ~y~cover~s~ by the Cop cars.~s~,~s~หลบ~y~กำบัง~s~ ข้างรถตำรวจ~s~
+prolog:2221330574,"~s~With ""Detonate"" highlighted press ~INPUT_CELLPHONE_SELECT~ to call.~s~","~s~ตอนไฮไลต์ที่ ""Detonate"" กด ~INPUT_CELLPHONE_SELECT~ เพื่อโทร~s~"
+prolog:2246791502,~s~Aim at the guard using ~INPUT_AIM~~s~,~s~เล็งยามด้วย ~INPUT_AIM~~s~
+prolog:2362051123,~s~Return to the ~b~crew.~s~,~s~กลับไปหา~b~ทีม~s~~s~
+prolog:2418446195,~s~Use ~INPUT_AIM~ to aim and lock-on.~s~,~s~ใช้ ~INPUT_AIM~ เพื่อเล็งและล็อกเป้า~s~
+prolog:2429452897,~s~Wait for the ~b~crew.~s~,~s~รอ~b~ทีม~s~~s~
+prolog:2494712999,~s~Go to the ~r~guard.~s~,~s~ไปหา~r~ยาม~s~~s~
+prolog:2519299091,~s~Press ~INPUT_CELLPHONE_CANCEL~ to exit the phone menu and put away the phone.~s~,~s~กด ~INPUT_CELLPHONE_CANCEL~ เพื่อปิดเมนูแล้วเก็บโทรศัพท์~s~
+prolog:2610724016,~s~Free aim by half pressing ~INPUT_AIM~~s~,~s~เล็งอิสระโดยกด ~INPUT_AIM~ ครึ่งหนึ่ง~s~
+prolog:2620197598,~s~Shoot the ~r~monitors.~s~,~s~ยิง~r~จอ~s~~s~
+prolog:2627079161,~s~The crew were left behind.~s~,~s~ทิ้งทีมไว้ข้างหลัง~s~
+prolog:2657168360,~s~Use ~INPUT_AIM~ to aim at a target.~s~,~s~ใช้ ~INPUT_AIM~ เล็งเป้า~s~
+prolog:2679726999,~s~Mission Failed~s~,~s~ภารกิจล้มเหลว~s~
+prolog:2701194346,~s~Use the phone to trigger the explosive charge.~s~,~s~ใช้โทรศัพท์จุดระเบิด~s~
+prolog:2712393551,~s~Hold ~INPUT_SPRINT~ to run.~s~,~s~กดค้าง ~INPUT_SPRINT~ เพื่อวิ่ง~s~
+prolog:2725962454,~s~Press ~INPUT_COVER~ again to leave cover. You can also move away from cover using ~INPUTGROUP_MOVE~.~s~,~s~กด ~INPUT_COVER~ อีกครั้งเพื่อออกจากกำบัง หรือขยับออกด้วย ~INPUTGROUP_MOVE~~s~
+prolog:2759596412,~s~A hostage died.~s~,~s~ตัวประกันตาย~s~
+prolog:2766196575,"Let's go, shut up! Shut the fuck up! Come on, in the back. Come on. Come on.",ไป! หุบปาก! หุบปากซะ! เร็ว ไปด้านหลัง เร็ว เร็ว!
+prolog:2817265060,~s~Targeting Mode can be altered in the Gamepad section of the Settings Menu.~s~,~s~โหมดเล็งเป้าเปลี่ยนได้ในส่วน Gamepad ของเมนูตั้งค่า~s~
+prolog:2839757228,~s~Use ~INPUT_AIM~ to aim.~s~,~s~ใช้ ~INPUT_AIM~ เพื่อเล็ง~s~
+prolog:2840514738,~s~Press ~INPUT_RELOAD~ to reload a weapon.~s~,~s~กด ~INPUT_RELOAD~ เพื่อบรรจุกระสุน~s~
+prolog:3025986200,~s~The car was abandoned.~s~,~s~ทิ้งรถไว้~s~
+prolog:3048183107,~s~Use ~INPUT_VEH_MOVE_LR~ to steer a vehicle.~s~,~s~ใช้ ~INPUT_VEH_MOVE_LR~ เพื่อเลี้ยว~s~
+prolog:3060020903,~s~The driver died.~s~,~s~คนขับตาย~s~
+prolog:3097104156,"~s~Use ~INPUT_AIM~ to aim at enemies while in cover, then shoot with ~INPUT_ATTACK~~s~",~s~ใช้ ~INPUT_AIM~ เล็งศัตรูตอนหลบกำบัง แล้วยิงด้วย ~INPUT_ATTACK~~s~
+prolog:3121062450,~s~Hold ~INPUT_MOVE_UP_ONLY~ to run.,~s~กดค้าง ~INPUT_MOVE_UP_ONLY~ เพื่อวิ่ง
+prolog:3144404937,~s~Hold ~INPUT_MOVE_UP_ONLY~ to run and ~INPUT_SPRINT~ to sprint when outside.~s~,~s~กดค้าง ~INPUT_MOVE_UP_ONLY~ เพื่อวิ่ง และ ~INPUT_SPRINT~ เพื่อวิ่งเร็วตอนอยู่นอกอาคาร~s~
+prolog:3177716294,~b~Friends~s~ are marked with a ~HUD_COLOUR_BLUE~~BLIP_OBJECTIVE~~s~ on the Radar.~n~~r~Enemies~s~ are marked with a ~HUD_COLOUR_RED~~BLIP_OBJECTIVE~~s~ on the Radar.~s~,~b~เพื่อน~s~ ถูกทำเครื่องหมายด้วย ~HUD_COLOUR_BLUE~~BLIP_OBJECTIVE~~s~ บนเรดาร์~n~~r~ศัตรู~s~ ถูกทำเครื่องหมายด้วย ~HUD_COLOUR_RED~~BLIP_OBJECTIVE~~s~ บนเรดาร์~s~
+prolog:3181189812,~r~Enemies~s~ are marked with a ~HUD_COLOUR_RED~~BLIP_OBJECTIVE~~s~ on the Radar.~s~,~r~ศัตรู~s~ ถูกทำเครื่องหมายด้วย ~HUD_COLOUR_RED~~BLIP_OBJECTIVE~~s~ บนเรดาร์~s~
+prolog:3187192058,~s~To SWITCH hold ~INPUT_CHARACTER_WHEEL~ to show the available characters.~s~,~s~กดค้าง ~INPUT_CHARACTER_WHEEL~ เพื่อดูตัวละครที่สลับได้~s~
+prolog:3276547200,~s~Press ~INPUT_COVER~ to take cover.~s~,~s~กด ~INPUT_COVER~ เพื่อหลบกำบัง~s~
+prolog:3281574175,~s~The Radar shows your position within the world.~s~,~s~เรดาร์แสดงตำแหน่งของคุณในโลก~s~
+prolog:3285070208,~s~Hold ~INPUT_VEH_BRAKE~ to brake or reverse if the vehicle is stopped.~s~,~s~กดค้าง ~INPUT_VEH_BRAKE~ เพื่อเบรก หรือถอยหลังถ้ารถหยุดอยู่~s~
+prolog:3328937925,~s~Drive to the ~y~helicopter pick up point.~s~,~s~ขับไปจุดรับ~y~เฮลิคอปเตอร์~s~~s~
+prolog:3345950998,~s~As a passenger press ~INPUT_VEH_PASSENGER_AIM~ to aim and ~INPUT_VEH_PASSENGER_ATTACK~ to shoot from a vehicle.~s~,~s~ตอนเป็นผู้โดยสาร กด ~INPUT_VEH_PASSENGER_AIM~ เพื่อเล็ง และ ~INPUT_VEH_PASSENGER_ATTACK~ เพื่อยิงจากรถ~s~
+prolog:3415036564,~s~Go to the ~y~vault.~s~,~s~ไปที่~y~ห้องมั่นคง~s~~s~
+prolog:3482238615,~y~Locations~s~ are marked with a ~HUD_COLOUR_YELLOW~~BLIP_OBJECTIVE~~s~ on the Radar.~s~,~y~สถานที่~s~ ถูกทำเครื่องหมายด้วย ~HUD_COLOUR_YELLOW~~BLIP_OBJECTIVE~~s~ บนเรดาร์~s~
+prolog:3482959529,~g~Objects~s~ are marked with a ~HUD_COLOUR_GREEN~~BLIP_OBJECTIVE~~s~ on the Radar.~s~,~g~วัตถุ~s~ ถูกทำเครื่องหมายด้วย ~HUD_COLOUR_GREEN~~BLIP_OBJECTIVE~~s~ บนเรดาร์~s~
+prolog:3508362495,~s~Use SWITCH to gain control of ~b~Trevor.~s~,~s~ใช้การสลับตัวเพื่อควบคุม~b~เทรเวอร์~s~~s~
+prolog:3521907156,~s~Stay in the ~y~lobby~s~ to safely detonate the explosives.~s~,~s~อยู่ที่~y~ล็อบบี้~s~ เพื่อจุดระเบิดอย่างปลอดภัย~s~
+prolog:3579138537,~s~The chopper lift zone was abandoned.~s~,~s~ออกจากโซนยกเฮลิคอปเตอร์~s~
+prolog:3638874368,~s~Use ~INPUTGROUP_MOVE~ to walk.~s~,~s~ใช้ ~INPUTGROUP_MOVE~ เพื่อเดิน~s~
+prolog:3681722069,~s~T. died.,~s~ที. ตายแล้ว
+prolog:3750536255,~s~Use SWITCH to gain control of your crew member.~s~,~s~ใช้การสลับตัวเพื่อควบคุมสมาชิกทีม~s~
+prolog:3914611860,~s~GPS indicates the shortest legal route to a destination with a yellow line.~s~,~s~GPS แสดงเส้นทางถูกกฎหมายที่สั้นที่สุดไปจุดหมายด้วยเส้นสีเหลือง~s~
+prolog:3992389332,~s~Press ~INPUT_SPRINT~ to toggle run/walk.~s~,~s~กด ~INPUT_SPRINT~ เพื่อสลับวิ่ง/เดิน~s~
+prolog:4088732790,~s~The flashing face icon shows who to SWITCH to.~s~,~s~ไอคอนใบหน้ากะพริบบอกว่าควรสลับไปใคร~s~
+prolog:4118524318,"~s~While not aiming, press ~INPUT_ATTACK~ to shoot at enemies or targets and guide the gunfire with ~INPUTGROUP_LOOK~~s~",~s~ตอนไม่ได้เล็ง กด ~INPUT_ATTACK~ เพื่อยิง แล้วใช้ ~INPUTGROUP_LOOK~ บังคับทิศทางกระสุน~s~
+prolog:4151117593,~s~Use ~INPUT_CONTEXT~ to hurry the hostages.~s~,~s~ใช้ ~INPUT_CONTEXT~ เร่งตัวประกัน~s~
+prolog:4161980902,~s~M. died.,~s~เอ็ม. ตายแล้ว
+prolog:4226055525,Get down there!,ลงไปข้างล่าง!

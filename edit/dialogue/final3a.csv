@@ -1,0 +1,79 @@
+﻿id,en,th
+final3a:1421431,~s~The car is stuck.~s~,~s~รถติดขัด~s~
+final3a:66972732,Manager,ผู้จัดการ
+final3a:76500302,~s~The security workers died.~s~,~s~คนงาน ร.ป.ภ. ตายแล้ว~s~
+final3a:158267964,~s~Return to the ~b~crew members~s~.,~s~กลับไปที่ ~b~สมาชิกทีม~s~
+final3a:168549173,~s~One of the crew members died.~s~,~s~หนึ่งในสมาชิกทีมตายแล้ว~s~
+final3a:234969162,~s~The bank employees were alerted by suspicious behavior.~s~,~s~พนักงานธนาคารได้รับการแจ้งจากพฤติกรรมที่น่าสงสัย~s~
+final3a:278884030,~s~Destination,~s~จุดหมาย
+final3a:313937627,~s~The cops spotted the transfer.~s~,~s~ตำรวจเห็นการถ่ายโอน~s~
+final3a:395026794,~s~Get to the ~y~tunnel entrance ~s~before 8:00am.,~s~ไปที่ ~y~ทางเข้าอุโมงค์~s~ก่อนเวลา 8:00 น.
+final3a:595185999,~s~Go to ~y~Michael's house.~s~,~s~ไปที่ ~y~บ้านของไมเคิล~s~
+final3a:639202318,~s~Follow ~b~Trevor.~s~,~s~ติดตาม ~b~เทรเวอร์~s~
+final3a:721644896,~s~Crew members were abandoned.~s~,~s~สมาชิกทีมถูกละทิ้ง~s~
+final3a:769169217,~s~Some of the cars were destroyed.~s~,~s~รถบางคันถูกทำลาย~s~
+final3a:817037032,~s~Get back into the ~b~van.~s~,~s~กลับเข้าไปใน ~b~รถตู้~s~
+final3a:920295565,~s~The car wasn't loaded onto the truck in time.~s~,~s~รถไม่ได้ขึ้นบนรถบรรทุกทันเวลา~s~
+final3a:979197297,~s~One of the security workers died.~s~,~s~หนึ่งใน ร.ป.ภ. ตายแล้ว~s~
+final3a:1044024048,~s~The tunnel was not reached in time.~s~,~s~ไปถึงอุโมงค์ไม่ทันเวลา~s~
+final3a:1071343747,~s~Franklin lost Michael and Trevor.~s~,~s~แฟรงคลินตามไมเคิลและเทรเวอร์ไม่ทัน~s~
+final3a:1152084702,~s~Return to ~b~Trevor~s~.,~s~กลับไปที่ ~b~เทรเวอร์~s~
+final3a:1222609548,~s~The security workers were alerted by suspicious behavior.~s~,~s~เจ้าหน้าที่ ร.ป.ภ. ได้รับการแจ้งจากพฤติกรรมที่น่าสงสัย~s~
+final3a:1379376084,"~s~The security guard was hurt, alerting the depository.~s~",~s~เจ้าหน้าที่ ร.ป.ภ. บาดเจ็บ มีการแจ้งเตือนไปที่คลัง~s~
+final3a:1401531793,~s~Drive the car onto the ~b~truck.~s~,~s~ขับรถขึ้นไปบน ~b~รถบรรทุก~s~
+final3a:1461415880,~s~Defend the crew from ~r~Merryweather.~s~,~s~คุ้มกันทีมจาก ~r~เมอรี่เวเธอร์~s~
+final3a:1491377953,~s~The cops have been alerted.~s~,~s~ตำรวจได้รับการแจ้งเตือน~s~
+final3a:1512564177,"~s~Avoid Merryweather by switching intersections to red to stop them, and to green to let them through.~n~",~s~หลีกเลี่ยงพวกเมอรี่เวเธอร์ โดยการเปลี่ยนไฟจราจรทางแยกเป็นสีแดงเพื่อหยุดพวกเขา และสีเขียวเพื่อให้พวกเขาผ่านไป~n~
+final3a:1520153930,~s~One of the security vans was destroyed.~s~,~s~หนึ่งในรถตู้รักษาความปลอดภัยถูกทำลาย~s~
+final3a:1562251329,~s~The vans missed the stinger.~s~,~s~รถตู้พลาดจากหนามแทงล้อ~s~
+final3a:1624300078,~s~Use ~INPUTGROUP_FRONTEND_GENERIC_ALL~ to select another intersection.,~s~ใช้ ~INPUTGROUP_FRONTEND_GENERIC_ALL~ เพื่อเลือกสี่แยกอันอื่น
+final3a:1665276483,~s~The cars were destroyed.~s~,~s~รถถูกทำลาย~s~
+final3a:1729099728,~s~Michael died.~s~,~s~ไมเคิลตายแล้ว~s~
+final3a:1846520609,~s~Get into the ~b~car.~s~,~s~เข้าไปใน ~b~รถ~s~
+final3a:1876696629,~s~The crew car was destroyed.~s~,~s~รถทีมถูกทำลาย~s~
+final3a:1937997715,~s~Use ~INPUTGROUP_MOVE~ to move the intersection camera.,~s~ใช้ ~INPUTGROUP_MOVE~ เพื่อเลื่อนมุมกล้องสี่แยก
+final3a:2111171284,~s~Merryweather found the vans.~s~,~s~เมอรี่เวเธอร์ พบรถตู้แล้ว~s~
+final3a:2144831370,~s~SWITCH to Franklin.~s~,~s~เปลี่ยนเป็น แฟรงคลิน~s~
+final3a:2231700319,~s~Follow the rest of the ~b~crew.~s~,~s~ติดตามคนที่เหลือของ ~b~ทีม~s~
+final3a:2310738520,~s~Return to the ~b~crew member~s~.,~s~กลับไปที่ ~b~ทีม~s~
+final3a:2561624558,~s~Press ~INPUT_SPRINT~ to swap the lights at an intersection.,~s~กด ~INPUT_SPRINT~ เพื่อเปลี่ยนไฟจราจรที่สี่แยก
+final3a:2591420880,~s~Use ~INPUTGROUP_CURSOR~ to select another intersection.,~s~ใช้ ~INPUTGROUP_CURSOR~ เพื่อเลือกสี่แยกอันอื่น
+final3a:2707328962,~s~The arrows show Michael and Trevor. Help them reach the destination by switching lights to green.,~s~ลูกศรจะแสดงตำแหน่งไมเคิลและเทรเวอร์ ช่วยให้พวกเขาไปถึงปลายทางโดยการสลับไฟจราจรเป็นสีเขียว
+final3a:2757319343,~s~The car was abandoned.~s~,~s~รถถูกละทิ้ง~s~
+final3a:2780711436,~s~Hold ~INPUT_CURSOR_CANCEL~ to view a close-up of the intersection.,~s~กดค้าง ~INPUT_CURSOR_CANCEL~ เพื่อดูภาพระยะใกล้ของสี่แยก
+final3a:2859593075,~s~Hold ~INPUT_VEH_CIN_CAM~ to view a close-up of the intersection.,~s~กดค้าง ~INPUT_VEH_CIN_CAM~ เพื่อดูภาพระยะใกล้ของสี่แยก
+final3a:2880398857,~s~Trevor's van is too damaged to pass security.~s~,~s~รถตู้ของ เทรเวอร์ เสียหายเกินกว่าจะผ่านเจ้าหน้าที่ ร.ป.ภ. ไปได้
+final3a:2889261961,~s~Use ~INPUTGROUP_LOOK~ to move the intersection camera.,~s~ใช้ ~INPUTGROUP_LOOK~ เพื่อเลื่อนมุมกล้องสี่แยก
+final3a:2947419133,~s~Lose the cop cars before reaching the transfer point.~s~,~s~จัดการรถตำรวจก่อนถึงจุดถ่ายโอน~s~
+final3a:3010800395,~s~Some of the security workers died.~s~,~s~มีคนงาน ร.ป.ภ. บางคนตายแล้ว~s~
+final3a:3037762413,~s~TIME~s~,~s~เวลา~s~
+final3a:3050466742,~s~Follow the ~b~manager.~s~,~s~ติดตาม ~b~ผู้จัดการ~s~
+final3a:3061334328,~s~Lester died.~s~,~s~เลสเตอร์ตายแล้ว~s~
+final3a:3085854532,~s~Michael's actions alerted the depository.~s~,~s~การกระทำของไมเคิลถูกแจ้งเตือนได้ที่คลัง~s~
+final3a:3089811891,~s~The truck driver died.~s~,~s~คนขับรถบรรทุกตายแล้ว~s~
+final3a:3152648612,~s~Trevor died.~s~,~s~เทรเวอร์ตายแล้ว~s~
+final3a:3194673315,~s~The van is stuck.~s~,~s~รถตู้ติดขัด~s~
+final3a:3222613235,~s~The bank employee died.~s~,~s~พนักงานธนาคารตายแล้ว~s~
+final3a:3264294843,~s~Return to the ~b~hostage~s~.,~s~กลับไปที่ ~b~ตัวประกัน~s~
+final3a:3287031740,~s~Get back into the ~b~car.~s~,~s~กลับเข้าไปใน ~b~รถ~s~
+final3a:3311656895,~s~The crew was abandoned.~s~,~s~ทีมถูกละทิ้ง~s~
+final3a:3383610679,~s~The stinger was not deployed in time.~s~,~s~หนามแทงล้อไม่ได้ถูกวางในเวลาที่กำหนด~s~
+final3a:3533151638,~s~Get into the ~b~van.~s~,~s~เข้าไปใน ~b~รถตู้~s~
+final3a:3545679963,~s~Go to the ~y~depository.~s~,~s~ไปที่ ~y~คลัง~s~
+final3a:3567999525,~s~One of the cars was destroyed.~s~,~s~หนึ่งในรถยนต์ถูกทำลาย~s~
+final3a:3714614278,~s~The security vans were destroyed.~s~,~s~รถตู้รักษาความปลอดภัยถูกทำลาย~s~
+final3a:3773326455,~s~Click ~INPUT_CURSOR_ACCEPT~ to swap the lights on the currently selected junction.,~s~คลิก ~INPUT_CURSOR_ACCEPT~ เพื่อสลับไฟจราจรบนสี่งแยกที่เลือกอยู่
+final3a:3796289053,~s~Keep the roads clear for the vans.~s~,~s~คอยเคลียร์ถนนไว้สำหรับรถตู้~s~
+final3a:3802119334,~s~The van didn't make it to the depository on time.~s~,~s~รถตู้ไม่ได้ไปที่คลังตามเวลาที่กำหนด~s~
+final3a:3872479151,~s~Move away from the stinger and wait for the ~r~vans~s~ to arrive.~s~,~s~ขับออกไปจาก หนามแทงล้อ และรอ ~r~รถตู้~s~ มาถึง~s~
+final3a:3873731242,~s~The crew members died.~s~,~s~สมาชิกทีมตายแล้ว~s~
+final3a:3878887389,~s~Drop the stinger in the ~y~tunnel~s~ before the vans leave.,~s~วาง หนามแทงล้อ ในอุโมงค์ ~y~s~ก่อนจะขับรถตู้ออกไป
+final3a:3955902247,~s~Return to the ~b~crew.~s~,~s~กลับไปที่ ~b~ทีม~s~
+final3a:3957878489,~s~Trevor was abandoned.~s~,~s~เทรเวอร์ถูกละทิ้ง~s~
+final3a:3960287994,~s~Press ~INPUT_SCRIPT_PAD_RIGHT~ to release the stinger.,~s~กด ~INPUT_SCRIPT_PAD_RIGHT~ เพื่อปล่อย หนามแทงล้อ
+final3a:3992089447,~s~The crew was abandoned.~s~,~s~ทีมถูกละทิ้ง~s~
+final3a:4028427995,~s~Michael's van is too damaged to pass security.~s~,~s~รถตู้ของ ไมเคิล เสียหายเกินกว่าจะผ่านเจ้าหน้าที่ ร.ป.ภ. ไปได้~s~
+final3a:4171133921,~s~Franklin died.~s~,~s~แฟรงคลินตายแล้ว~s~
+final3a:4203824246,~s~Force the security guards out of the vans.,~s~บังคับเจ้าหน้าที่รักษาความปลอดภัยออกจากรถตู้
+final3a:4266193260,~s~Michael was abandoned.~s~,~s~ไมเคิลถูกละทิ้ง~s~
+final3a:4278553494,~s~Return to ~b~Casey~s~.,~s~กลับไปที่ ~b~เคซี่ย์~s~

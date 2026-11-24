@@ -1,0 +1,26 @@
+﻿id,en,th
+ext2:21331302,~s~Dom's ATV was damaged.,~s~ATV ของดอมได้รับความเสียหาย
+ext2:39354256,~s~Franklin abandoned Dom.,~s~แฟรงคลินละทิ้งดอม
+ext2:139761549,~s~Dom was spooked.,~s~ดอมตกใจกลัว
+ext2:470790910,~s~Dom died.,~s~ดอมตายแล้ว
+ext2:572602441,Get back on the ~b~ATV.,กลับไปที่ ~b~ATV
+ext2:1083639825,~s~Franklin landed too far outside the target zone.,~s~แฟรงคลินลงจอดไกลจากเป้าหมายมากเกินไป
+ext2:1191379472,Wait for ~b~Dom.,รอ ~b~ดอม
+ext2:1331499712,Perform tricks by using ~INPUTGROUP_VEH_MOVE_ALL~ to roll your ATV.,แสดงท่าโดยใช้ ~INPUTGROUP_VEH_MOVE_ALL~ เพื่อหมุน ATV ของคุณ
+ext2:1392815340,~s~Skydive failed.,~s~การโดดร่มล้มเหลว
+ext2:1497999005,Ride your ATV out of the plane.,ขี่ ATV ของคุณขึ้นเครื่องบิน
+ext2:1629730381,Press ~INPUT_PARACHUTE_DEPLOY~ to deploy the parachute.,กด~INPUT_PARACHUTE_DEPLOY~ เพื่อกางร่มชูชีพ
+ext2:1968233927,Press ~INPUT_VEH_EXIT~ to jump off your ATV.,กด~INPUT_VEH_EXIT~ เพื่อกระโดดออกจาก ATV
+ext2:1980953352,~s~Franklin didn't ride the ATV onto the plane.,~s~แฟรงคลินไม่ได้ขี่ ATV ขึ้นบนเครื่องบินขนส่ง
+ext2:2199615836,Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the landing zone.,กด~INPUT_VEH_CIN_CAM~ เพื่อสลับไปโฟกัสที่จุดลงจอด
+ext2:2328989824,~s~Dom was injured.,~s~ดอมได้รับบาดเจ็บ
+ext2:2484608053,Wait for ~b~Dom.,รอ ~b~ดอม
+ext2:2886093617,Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the cargo plane.,กด~INPUT_VEH_CIN_CAM~ เพื่อสลับไปโฟกัสที่เครื่องบินขนส่ง
+ext2:3012909871,Go to the ~y~landing zone.,ไปที่ ~y~จุดลงจอด
+ext2:3259955362,Get to ~b~Dom.,ไปที่ ~b~ดอม
+ext2:3289514756,~s~Franklin didn't follow Dom.,~s~แฟรงคลินไม่ตามดอมไป
+ext2:3570705545,~s~Franklin didn't attempt the skydive.,~s~แฟรงคลินไม่พยายามจะกระโดดร่ม
+ext2:3871326599,Follow Dom onto the ~b~cargo plane.,ตามดอมไปที่ ~b~เครื่องบินขนส่ง
+ext2:4018657771,~s~The security guard was injured.,~s~การ์ดรักษาความปลอดภัยได้รับบาดเจ็บ
+ext2:4020165149,~s~Franklin's ATV was destroyed.,~s~ATV ของแฟรงคลินถูกทำลายแล้ว
+ext2:4282937784,Skydive to the ~y~landing zone.,กระโดดร่มไปที่ ~y~จุดลงจอด

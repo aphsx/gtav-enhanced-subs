@@ -1,0 +1,85 @@
+﻿id,en,th
+dockh2b:131117717,~s~Get in the ~b~Cargobob.,~s~เข้าไปใน ~b~Cargobob
+dockh2b:151145462,~s~Don't leave ~b~Franklin ~s~behind.,~s~อย่าทิ้ง ~b~แฟรงคลิน~s~ไว้เบื้องหลัง
+dockh2b:155500696,Press ~INPUT_VEH_GRAPPLING_HOOK~ to detach an object from the grappling hook.~s~,กด ~INPUT_VEH_GRAPPLING_HOOK~ เพื่อแยกวัตถุออกจากตะขอเกี่ยว~s~
+dockh2b:161929943,~s~The crew members were abandoned.~s~,~s~สมาชิกทีมถูกละทิ้ง~s~
+dockh2b:193746043,Get lower to the ~y~airstrip.~s~,ลงไปที่ ~y~ลานบิน~s~
+dockh2b:203853855,While in the submersible use ~INPUT_VEH_SUB_ASCEND~ to ascend and ~INPUT_VEH_SUB_DESCEND~ to descend.,ในขณะที่ใช้งานเรือดำน้ำ ใช้ ~INPUT_VEH_SUB_ASCEND~ เพื่อดำขึ้น และ ~INPUT_VEH_SUB_DESCEND~ เพื่อดำลง
+dockh2b:285359970,~s~Drive the submersible into the device to pick it up.~s~,~s~ขับเรือดำน้ำไปยังอุปกรณ์เพื่อรับมัน~s~
+dockh2b:332081725,Use the Trackify app to locate the device.,ใช้แอพ trackify เพื่อค้นหาอุปกรณ์
+dockh2b:346504880,~s~Floyd died.~s~,~s~ฟลอยด์ตายแล้ว~s~
+dockh2b:441213908,Trackify allows you to locate a target in the world. Use the information it provides to track down the device.,Trackify จะช่วยให้มึงสามารถค้นหาเป้าหมายได้ทั่วโลก ใช้ข้อมูลที่ได้เพื่อติดตามอุปกรณ์
+dockh2b:472924655,~s~The Cargobob was abandoned.~s~,~s~Cargobob ถูกละทิ้ง~s~
+dockh2b:629516970,~s~Merryweather weren't dealt with quickly enough.~s~,~s~จัดการพวกเมอร์รี่เวเธอร์ได้ไม่เร็วพอ~s~
+dockh2b:902422692,Weapon,อาวุธ
+dockh2b:943149314,Pick up the ~b~submersible.~s~,รับ ~b~เรือดำน้ำ~s~
+dockh2b:983770649,~s~Franklin's car was destroyed.~s~,~s~รถของแฟรงคลินถูกทำลาย~s~
+dockh2b:1071442492,Ascend to the surface level.,ขึ้นสู่ระดับพื้นผิว
+dockh2b:1219966546,Press ~INPUT_VEH_GRAPPLING_HOOK~ to deploy grappling hook.~s~,กด ~INPUT_VEH_GRAPPLING_HOOK~ เพื่อปล่อยตะขอเกี่ยว
+dockh2b:1263408832,Go to the ~y~device.~s~,ไปที่ ~y~อุปกรณ์~s~
+dockh2b:1269692507,~s~The submersible was abandoned.~s~,~s~เรือดำน้ำถูกละทิ้ง~s~
+dockh2b:1271361492,~s~The heist was abandoned.~s~,~s~การปล้นถูกละทิ้ง~s~
+dockh2b:1298973537,Fly to the ~y~test site.~s~,บินไป ~y~เขตทำการทดสอบ~s~
+dockh2b:1389016551,~s~Michael was left behind.~s~,~s~ไมเคิลถูกทิ้งไว้ข้างหลัง~s~
+dockh2b:1435746207,~s~Assist Franklin target Merryweather by flying close to them and keeping level with the targets.~s~,~s~ช่วยแฟรงคลินระบุเป้าหมายเมอรี่เวเธอร์ โดยการบินใกล้กับพวกเขาและรักษาระดับตามพวกเป้าหมาย~s~
+dockh2b:1474063378,Mission Passed.,ภารกิจสำเร็จ
+dockh2b:1492852793,~s~The crew was abandoned.~s~,~s~ทีมถูกละทิ้ง~s~
+dockh2b:1518809448,Drive to the ~y~airstrip.~s~,ขับรถไปที่ ~y~ลานบิน~s~
+dockh2b:1538948660,Get back in the ~b~sub.~s~,กลับไปที่ ~b~เรือดำน้ำ~s~
+dockh2b:1669189019,Get in the ~b~sub.~s~,เข้าไปใน ~b~เรือดำน้ำ~s~
+dockh2b:1686209929,~s~Michael died.~s~,~s~ไมเคิลตายแล้ว~s~
+dockh2b:1721783872,SWITCH to Michael.,เปลี่ยนเป็น ไมเคิล
+dockh2b:1735651810,~s~Get back in the ~b~Cargobob.,~s~กลับเข้าไปใน ~b~Cargobob
+dockh2b:1791265712,~s~Get back into the ~b~vehicle.~s~,~s~กลับเข้าไปใน ~b~พาหนะ~s~
+dockh2b:1829559178,Press ~INPUT_CONTEXT~ to swap Franklin's side of the helicopter.~s~,กด ~INPUT_CONTEXT~ เพื่อสลับด้านของแฟรงคลินในเฮลิคอปเตอร์~s~
+dockh2b:1831844341,~s~Don't leave ~b~Trevor ~s~behind.,~s~อย่าทิ้ง ~b~เทรเวอร์~s~ไว้เบื้องหลัง
+dockh2b:1923653162,~s~The Cargobob is stuck.~s~,~s~Cargobob ติดขัด~s~
+dockh2b:1951736688,~s~The Cargobob was abandoned.~s~,~s~Cargobob ถูกละทิ้ง~s~
+dockh2b:2018405379,Fly to the ~y~airstrip.~s~,บินไปที่ ~y~ลานบิน~s~
+dockh2b:2075668146,~s~Merryweather were alerted to your presence.~s~,~s~เมอรี่เวเธอร์ได้รับการแจ้งเตือนถึงการปรากฏตัวของคุณ~s~
+dockh2b:2081107060,SWITCH to Trevor.,เปลี่ยนเป็น เทรเวอร์
+dockh2b:2232064641,"~s~To pick up the submersible, position the Cargobob to allow the grappling hook to make contact with the top of sub.",~s~ในการรับเรือดำน้ำ จัดตำแหน่งของ Cargobob เพื่อให้ตะขอเกี่ยวสามารถยึดคิดกับด้านบนของเรือดำน้ำได้
+dockh2b:2294830008,~s~The car is stuck.~s~,~s~รถติดขัด~s~
+dockh2b:2297006882,Press ~INPUT_CONTEXT~ to swap sides of the helicopter.~s~,กด ~INPUT_CONTEXT~ เพื่อสลับด้านของเฮลิคอปเตอร์~s~
+dockh2b:2358291592,~s~Franklin died.~s~,~s~แฟรงคลินตายแล้ว~s~
+dockh2b:2385754620,~s~Wade died.~s~,~s~เว้ดตายแล้ว~s~
+dockh2b:2401866021,~s~Don't leave the ~b~crew members ~s~behind.,~s~อย่าปล่อย ~b~สมาชิกทีม~s~ไว้ข้างหลัง
+dockh2b:2501451637,~s~Attach the ~b~submersible.~s~,~s~จับ ~b~เรือดำน้ำ~s~
+dockh2b:2547668119,Press ~INPUT_VEH_GRAPPLING_HOOK~ to release the submersible.~s~,กด ~INPUT_VEH_GRAPPLING_HOOK~ เพื่อปล่อยเรือดำน้ำ~s~
+dockh2b:2608415377,SWITCH to Franklin.,เปลี่ยนเป็น แฟรงคลิน
+dockh2b:2644536281,~s~The car was destroyed.~s~,~s~รถถูกทำลาย~s~
+dockh2b:2659169295,Pick up the ~b~submersible.,รับ ~b~เรือดำน้ำ
+dockh2b:2814455613,~s~The crew members died.~s~,~s~สมาชิกทีมตายแล้ว~s~
+dockh2b:2913274147,~s~Find a four-seater vehicle.~s~,~s~หารถสี่ที่นั่ง~s~
+dockh2b:2929446923,"~w~Having stolen some military technology from Merryweather,they arrive back at the airstrip where they unload the weapon~n~Lester turns up and tells them that the item is way too hot, and they have to return it to the government.Trevor says he's sticking around until they find him a score he won't have to give back.",~w~เมื่อขโมยเทคโนโลยีทางทหารจากเมอรี่เวเธอร์แล้ว พวกเขากลับไปที่ลานบินที่พวกเขาขนอาวุธ ~n~เลสเตอร์โผล่มาและบอกพวกเขาว่าของชิ้นนั้นอันตรายเกินไปและพวกเขาต้องคืนมันให้กับรัฐบาล เทรเวอร์บอกว่าเขาจะติดตามไปจนกว่าพวกเขาจะหางานที่ไม่ต้องเอาไปคืนอีกให้ได้
+dockh2b:2950154345,~s~Trevor was left behind.~s~,~s~เทรเวอร์ถูกทิ้งไว้ข้างหลัง~s~
+dockh2b:2972847584,Press ~INPUT_FRONTEND_ACCEPT~ to release submersible.,กด ~INPUT_FRONTEND_ACCEPT~ เพื่อปล่อยเรือดำน้ำ
+dockh2b:2992755331,~s~The crew member was abandoned.~s~,~s~สมาชิกทีมถูกละทิ้ง~s~
+dockh2b:3073918022,Return to the ~y~ drop-off area.~s~,กลับไปที่ the ~y~ จุดส่งของ~s~
+dockh2b:3135034951,Descend closer to the ~y~drop-off point.~s~,ลงไปใกล้กับ ~y~จุดส่งของ~s~
+dockh2b:3137159640,Return to the ~y~device.~s~,กลับไปที่ ~y~อุปกรณ์ ~s~
+dockh2b:3186317351,~s~Return to ~b~Trevor ~s~and ~b~Franklin.~s~,~s~กลับไปที่ ~b~เทรเวอร์~s~และ ~b~แฟรงคลิน~s~
+dockh2b:3194361190,~s~The crew was abandoned.~s~,~s~ทีมถูกละทิ้ง~s~
+dockh2b:3207114767,~s~Use the grappling hook to pick up the ~b~submersible.~s~,~s~ใช้ตะขอเกี่ยวจับเพื่อรับ ~b~เรือดำน้ำ~s~
+dockh2b:3243065262,~s~Trevor's truck was destroyed.~s~,~s~รถบรรทุกของเทรเวอร์ถูกทำลาย~s~
+dockh2b:3245523859,Fly to the ~y~drop-off point.~s~,บินไปที่ ~y~จุดส่ง~s~
+dockh2b:3298225071,~s~Wait for Trevor to get in the submersible.~s~,~s~รอให้เทรเวอร์เข้าไปในเรือดำน้ำ~s~
+dockh2b:3317656710,Submersible,เรือดำน้ำ
+dockh2b:3318768403,~s~The Cargobob was destroyed.~s~,~s~Cargobob ถูกทำลาย~s~
+dockh2b:3483609165,~s~Return to the ~b~crew.~s~,~s~กลับไปที่ ~b~ทีม~s~
+dockh2b:3529001038,Fly to the ~y~airstrip.~s~,บินไปที่ ~y~ลานบิน~s~
+dockh2b:3557670582,Launch the Trackify app.,เปิดแอพ trackify
+dockh2b:3818236408,Position the Cargobob to allow Franklin to take out ~r~Merryweather.~s~,วางตำแหน่ง Cargobob เพื่อให้แฟรงคลินจัดการ ~r~เมอรี่เวเธอร์~s~
+dockh2b:3829924243,~s~One of the crew members died.~s~,~s~หนึ่งในสมาชิกทีมตายแล้ว~s~
+dockh2b:3882315311,Defend against the oncoming attack from ~r~Merryweather.~s~,ป้องกันการโจมตีที่กำลังจะมาจาก ~r~เมอรี่เวเธอร์~s~
+dockh2b:4017268639,~s~Don't leave the ~b~crew member ~s~behind.,~s~อย่าปล่อย ~b~สมาชิกทีม~s~ไว้ข้างหลัง
+dockh2b:4034307523,~s~The forklift is stuck.~s~,~s~รถยกติดขัด~s~
+dockh2b:4037548950,Release the submersible near to the ~y~test site.~s~,ปล่อยเรือดำน้ำใกล้กับ ~y~เขตทำการทดสอบ~s~
+dockh2b:4079436672,~s~Trevor died.~s~,~s~เทรเวอร์ตายแล้ว~s~
+dockh2b:4175318167,~s~Franklin was left behind.~s~,~s~แฟรงคลินถูกทิ้งไว้ข้างหลัง~s~
+dockh2b:4204014150,~s~Fly low over the ~y~airstrip~s~ and release the submersible.~s~,~s~บินต่ำเหนือ ~y~ลานบิน~s~และปล่อยเรือดำน้ำ~s~
+dockh2b:4216575022,Change your position to the rear of the Cargobob.,เปลี่ยนตำแหน่งของคุณไปทางด้านหลังของ Cargobob
+dockh2b:4236980023,~s~Get in your ~b~car.,~s~ขึ้น ~b~รถของคุณ
+dockh2b:4245419319,Get back into a four-seater vehicle.,กลับเข้าไปในรถสี่ที่นั่ง
+dockh2b:4265137850,~s~The submersible was destroyed.~s~,~s~เรือดำน้ำถูกทำลาย~s~
+dockh2b:4278511743,~s~Michael's car was destroyed.~s~,~s~รถของไมเคิลถูกทำลาย~s~

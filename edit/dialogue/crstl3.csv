@@ -1,0 +1,35 @@
+﻿id,en,th
+crstl3:223329007,~s~Stop at the roadside behind the ~b~cars.~s~,~s~หยุดรถริมถนนด้านหลัง ~b~รถ~s~
+crstl3:251066173,~s~Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to activate Franklin's special ability.~s~,~s~กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ ร่วมกันเพื่อเปิดใช้งานความสามารถพิเศษของ แฟรงคลิน~s~
+crstl3:381939074,~s~Hold ~INPUT_VEH_CIN_CAM~ for chase camera.~s~,~s~กดค้าง ~INPUT_VEH_CIN_CAM~ สำหรับมุมกล้องไล่ล่า~s~
+crstl3:460090531,~s~Trevor was injured.,~s~เทรเวอร์ได้รับบาดเจ็บ
+crstl3:485510415,~s~Mission Passed~s~,~s~ภารกิจสำเร็จ~s~
+crstl3:898481229,"Franklin, Michael, and Trevor arrive at Los Santos Customs.~n~Devin and his lawyer tell them about the cars they need to steal, two cars owned by some trust fund kids.~n~Franklin has to challenge them to a street race in the back country.~n~Michael and Trevor leave to dress up as highway patrol and stop them speeding on the motorway.~n~Franklin goes off in the car Devin's provided.~s~","แฟรงคลิน, ไมเคิล, และเทรเวอร์ มาถึง ลอสซานโตสคัสตอม~n~เดวินและทนายของเขาบอกพวกนั้นเกี่ยวกับรถที่ต้องขโมย เป็นรถสองคันที่เป็นของลูกคุณหนูบ้านรวย.~n~แฟรงคลินต้องท้าให้พวกนั้นแข่งรถบนถนนในเขตชนบท~n~ไมเคิลและเทรเวอร์ก็แต่งตัวเป็นตำรวจทางหลวง เพื่อสกัดจับตอนที่พวกนั้นขับรถเร็วบนทางด่วน.~n~แฟรงคลินไป"
+crstl3:1132333380,~s~Use SWITCH to pick who to race back as.~s~,~s~ใช้ SWITCH เพื่อเลือกว่าจะแข่งกลับด้วยตัวละครไหน~s~
+crstl3:1158847387,~s~Get on the ~b~bike.~s~,~s~ขึ้นไปบน ~b~มอเตอร์โซค์~s~
+crstl3:1355028525,~s~Devin's car was destroyed.,~s~รถของเดวินถูกทำลาย
+crstl3:1532707620,~s~The racers left the gas station.,~s~นักแข่งรถออกจากปั๊มน้ำมัน
+crstl3:1597642197,~s~Drive to the ~y~garage.~s~,~s~ขับรถไปที่ ~y~โรงรถ~s~
+crstl3:1666756537,~s~The racers got away.~s~,~s~นักแข่งรถหนีไป~s~
+crstl3:1679023662,Vehicle,พาหนะ
+crstl3:1787805008,~s~Trevor's bike was destroyed.,~s~มอเตอร์ไซค์ของ เทรเวอร์ ถูกทำลาย
+crstl3:1803729143,~s~Race the ~b~cars.~s~,~s~แข่ง~b~รถ~s~
+crstl3:2060238366,~s~Pull over and take the ~b~cars.~s~,~s~หยุดและนำ ~b~รถ~s~ ไป
+crstl3:2207515017,~s~The car got stuck.,~s~รถติดขัด
+crstl3:2379326794,~s~The racers were spooked.,~s~นักแข่งรถตื่นตกใจ
+crstl3:2576307969,~s~Go to the ~y~gas station.~s~,~s~ไปที่ ~y~ปั๊มน้ำมัน~s~
+crstl3:2603021898,~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the racers.~s~,~s~กด ~INPUT_VEH_CIN_CAM~ เพื่อสลับโฟกัสไปที่นักแข่งรถ~s~
+crstl3:2612207174,~s~The racer was injured.,~s~นักแข่งรถได้รับบาดเจ็บ
+crstl3:2731364919,~s~The bike was abandoned.~s~,~s~มอเตอร์ไซค์ถูกละทิ้ง~s~
+crstl3:2788489612,~s~You crashed the racer out.,~s~คุณชนนักแข่งรถ
+crstl3:3409851758,~s~A racer died.~s~,~s~นักแข่งรถตายแล้ว~s~
+crstl3:3773061716,~s~Devin was injured.,~s~เดวินได้รับบาดเจ็บ
+crstl3:3788537960,~s~Mission Failed~s~,~s~ภารกิจล้มเหลว~s~
+crstl3:3818134664,~s~Press ~INPUT_SPECIAL_ABILITY_PC~ to activate Franklin's special ability.~s~,~s~กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อเปิดใช้งานความสามารถพิเศษของ แฟรงคลิน~s~
+crstl3:3903670329,~s~The bike was destroyed.,~s~มอเตอร์ไซค์ถูกทำลาย
+crstl3:3991506547,~s~Trevor's bike was damaged.,~s~มอเตอร์ไซค์ของ เทรเวอร์ ได้รับความเสียหาย
+crstl3:4031069283,"Devin and his lawyer are at the garage.~n~The next car is owned by a music producer who's off the grid.~n~Look for him using the chip in his driver's license.~n~Devin's police contact has chopper for chip signature scanning,~n~but someone needs to run the ground operation.~n~Trev takes chopper, Franklin ground.~n~Devin tells them no pay until all car steal missions are complete.~s~","เดวิน and his lawyer are at the garage.~n~The next car is owned by a music producer who's off the grid.~n~Look for him using the chip in his drivers licence.~n~เดวิน's police contact has chopper for chip signature scanning,~n~but someone needs to run the ground operation.~n~Trev takes chopper, แฟรงคลิน ground.~n~เดวิน tells them no pay until all car"
+crstl3:4049491324,~s~The car was damaged.,~s~รถเสียหาย
+crstl3:4072544172,~s~Devin died.,~s~เดวินตายแล้ว
+crstl3:4171355391,~s~The car was abandoned.~s~,~s~รถถูกละทิ้ง~s~
+crstl3:4195826360,~s~Devin's car was damaged.,~s~รถของเดวินได้รับความเสียหาย

@@ -1,0 +1,27 @@
+﻿id,en,th
+dockp1:74635825,~s~Go to the ~y~extraction point.~s~,~s~ไปที่ ~y~จุดสกัด~s~
+dockp1:321994120,~s~Return to ~b~Floyd.~s~,~s~กลับไปที่ ~b~ฟลอยด์~s~
+dockp1:622389970,~w~The sub was lost.~s~,~w~เรือดำน้ำหายไป~s~
+dockp1:897343945,~s~Shoot the ropes or press the ~g~button~s~ to release the sub.,~s~ยิงเชือกหรือกด ~g~ปุ่ม~s~ เพื่อปล่อยเรือดำน้ำ
+dockp1:916482326,Hold ~INPUT_VEH_SUB_TURN_HARD_LEFT~/~INPUT_VEH_SUB_TURN_HARD_RIGHT~ to turn on the spot.,กดค้าง ~INPUT_VEH_SUB_TURN_HARD_LEFT~/~INPUT_VEH_SUB_TURN_HARD_RIGHT~ to turn on the spot.
+dockp1:1019117761,~w~Floyd died.~s~,~w~ฟลอยด์ตายแล้ว~s~
+dockp1:1027497081,Sub Release,ปล่อยเรือดำน้ำ
+dockp1:1104502669,While in the submersible use ~INPUT_VEH_SUB_ASCEND~ to ascend and ~INPUT_VEH_SUB_DESCEND~ to descend.,ในขณะอยู่ใต้น้ำ ใช้ ~INPUT_VEH_SUB_ASCEND~ เพื่อขึ้นบน และ ~INPUT_VEH_SUB_DESCEND~ เพื่อลงล่าง
+dockp1:1578937095,~s~Get back in the ~b~truck.~s~,~s~กลับไปที่ ~b~รถบรรทุก~s~
+dockp1:1885137960,~s~Get back in the ~b~sub.~s~,~s~กลับเข้าไปใน ~b~เรือดำน้ำ~s~
+dockp1:1894117185,~w~The sub was wrecked.~s~,~w~ส่วนเรือดำน้ำถูกทำลาย~s~
+dockp1:2015650790,~s~Climb onto the sub to enter it.,~s~ปีนขึ้นเรือดำน้ำเพื่อเข้าไป
+dockp1:2084113538,~s~Press ~INPUT_CONTEXT~ to release the sub.,~s~กด ~INPUT_CONTEXT~ เพื่อปล่อยเรือดำน้ำ
+dockp1:2209413214,~w~The sub is stuck.~s~,~w~เรือดำน้ำติดขัด~s~
+dockp1:2445939860,~w~The truck is stuck.~s~,~w~รถบรรทุกติดขัด~s~
+dockp1:2978487927,~s~Get out of the truck.,~s~ออกจากรถบรรทุก
+dockp1:3313083182,~w~Trevor left the mission area.~s~,~w~เทรเวอร์ออกจากพื้นที่ภารกิจ~s~
+dockp1:3461457287,Hold ~INPUT_VEH_SUB_DESCEND~ to dive or hold ~INPUT_VEH_SUB_ASCEND~ to surface.,กดค้าง ~INPUT_VEH_SUB_DESCEND~ เพื่อดำน้ำหรือกดค้าง ~INPUT_VEH_SUB_ASCEND~ เพื่อขึ้นผิวน้ำ
+dockp1:3794980411,~s~Don't leave the sub behind.~s~,~s~อย่าทิ้งเรือดำน้ำไว้ข้างหลัง~s~
+dockp1:3900866972,~w~Floyd's pickup was wrecked.~s~,~w~รถกระบะของ ฟลอยด์ ถูกทำลาย~s~
+dockp1:3914820329,~w~Floyd was abandoned.~s~,~w~ฟลอยด์ถูกละทิ้ง~s~
+dockp1:3973834539,~w~The truck was wrecked.~s~,~w~รถบรรทุกถูกทำลาย~s~
+dockp1:3975049743,~w~The sub was abandoned.~s~,~w~ส่วนเรือดำน้ำถูกละทิ้ง~s~
+dockp1:4145758082,~s~Drop the sub off at the ~y~warehouse.~s~,~s~วางเรือดำน้ำลงที่ ~y~โกดัง~s~
+dockp1:4226826994,~s~Get in the ~b~truck.~s~,~s~เข้าไปใน ~b~รถบรรทุก~s~
+dockp1:4264542160,~s~Retrieve the ~b~sub.~s~,~s~กู้คืน~b~เรือดำน้ำ~s~

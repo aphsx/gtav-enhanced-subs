@@ -1,0 +1,38 @@
+﻿id,en,th
+ext1:2701661,Get on a ~b~bike.,ขึ้น ~b~จักรยาน
+ext1:9845871,Follow the ~b~dog.,ตาม ~b~สุนัข
+ext1:34824627,~s~Franklin didn't follow the dog.,~s~แฟรงคลินไม่ตามสุนัขไป
+ext1:118670928,Get back on the ~b~bike.,กลับไปขึ้น ~b~จักรยาน
+ext1:303947078,Go to ~b~Dom.,ไปหา ~b~ดอม
+ext1:469734787,~s~The dog died.,~s~สุนัขตายแล้ว
+ext1:490668006,Use ~INPUT_PARACHUTE_TURN_LR~ to change direction.~n~Hold ~INPUT_PARACHUTE_BRAKE_LEFT~ or ~INPUT_PARACHUTE_BRAKE_RIGHT~ for sharp turns.~n~Hold ~INPUT_PARACHUTE_PRECISION_LANDING~ for precision landing.~n~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the landing zone.~n~Press ~INPUT_PARACHUTE_DETACH~ to ditch parachute.~n~,ใช้~INPUT_PARACHUTE_TURN_LR~ เพื่อเปลี่ยนทิศทาง~n~กดค้างที่ ~INPUT_PARACHUTE_BRAKE_LEFT~ หรือ ~INPUT_PARACHUTE_BRAKE_RIGHT~ เพื่อเลี้ยวแบบหักศอก~n~กดค้างที่~INPUT_PARACHUTE_PRECISION_LANDING~ เพื่อการลงจอดที่แม่นยำ~n~กด~INPUT_VEH_CIN_CAM~ เพื่อสลับไปโฟกัสที่จุดลงจอด~n~กด~INPUT_PARACHUTE_DETACH~ เพื่อปลดร่มชูชีพ~n~
+ext1:1079032011,Wait for ~b~Dom.,รอ ~b~ดอม
+ext1:1179600820,Get in the ~b~helicopter.,เข้าไปใน ~b~เฮลิคอปเตอร์
+ext1:1253143270,~s~Dom died.,~s~ดอมตายแล้ว
+ext1:1263456735,Press ~INPUT_PARACHUTE_DEPLOY~ to deploy the parachute.,กด~INPUT_PARACHUTE_DEPLOY~ เพื่อกางร่มชูชีพ
+ext1:1272189831,~s~Dom was spooked.,~s~ดอมตกใจกลัว
+ext1:1351965012,Press ~INPUT_SKIP_CUTSCENE~ to skip the journey.,กด~INPUT_SKIP_CUTSCENE~ เพื่อข้ามการเดินทาง
+ext1:1560376644,Skydive to the ~y~landing zone.,กระโดดร่มไปที่ ~y~จุดลงจอด
+ext1:1570617114,~s~The dog was spooked.,~s~สุนัขตกใจกลัว
+ext1:1618574344,Use ~INPUT_PARACHUTE_TURN_LR~ to change direction.~n~Hold ~INPUT_PARACHUTE_BRAKE_LEFT~ or ~INPUT_PARACHUTE_BRAKE_RIGHT~ for sharp turns.~n~Hold ~INPUT_PARACHUTE_BRAKE_LEFT~ + ~INPUT_PARACHUTE_BRAKE_RIGHT~ for precision landing.~n~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the landing zone.~n~Press ~INPUT_PARACHUTE_DETACH~ to ditch parachute.~n~,ใช้~INPUT_PARACHUTE_TURN_LR~ เพื่อเปลี่ยนทิศทาง~n~กดค้างที่ ~INPUT_PARACHUTE_BRAKE_LEFT~ หรือ ~INPUT_PARACHUTE_BRAKE_RIGHT~ เพื่อเลี้ยวแบบหักศอก~n~กดค้างที่ ~INPUT_PARACHUTE_BRAKE_LEFT~ + ~INPUT_PARACHUTE_BRAKE_RIGHT~ เพื่อการลงจอดที่แม่นยำ~n~กด ~INPUT_VEH_CIN_CAM~ เพื่อสลับไปโฟกัสที่จุดลงจอด~n~กด ~INPUT_PARACHUTE_DETACH~ เพื่อปลดร่มชูชีพ~n~
+ext1:1885887659,~s~Franklin didn't get into the helicopter.,~s~แฟรงคลินไม่ได้ขึ้นเฮลิคอปเตอร์
+ext1:1970980996,~s~The dog was injured.,~s~สุนัขได้รับบาดเจ็บ
+ext1:2269473817,~s~Dom was injured.,~s~ดอมได้รับบาดเจ็บ
+ext1:2306919210,Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the man.,กด~INPUT_VEH_CIN_CAM~ เพื่อสลับไปที่คน
+ext1:2426019090,~s~Franklin abandoned the race.,~s~แฟรงคลินละทิ้งการแข่งขัน
+ext1:2613014439,Get on the ~b~bike.,ขึ้น ~b~จักรยาน
+ext1:2872259572,~s~The pilot was injured.,~s~นักบินได้รับบาดเจ็บ
+ext1:2937149952,~s~Franklin left the area.,~s~แฟรงคลินออกจากพื้นที่
+ext1:3028731547,~s~Franklin landed too far outside the target zone.,~s~แฟรงคลินลงพื้นไกลจากจุดลงจอดมากเกินไป
+ext1:3139907942,Franklin is leaving the mission area. Skydive to the ~y~landing zone.,แฟรงคลินกำลังออกจากพื้นที่ภารกิจ โดดร่มไปยัง ~y~จุดลงจอด
+ext1:3154096171,Race ~b~Dom.,แข่งกับ~b~ดอม
+ext1:3243769485,~s~The pilot was spooked.,~s~นักบินตกใจกลัว
+ext1:3323315563,Press ~INPUT_VEH_CIN_CAM~ to toggle focus on Dom.,กด~INPUT_VEH_CIN_CAM~ เพื่อสลับไปโฟกัสที่ดอม
+ext1:3554444614,~s~Franklin didn't help Dom.,~s~แฟรงคลินไม่ได้ช่วยดอม
+ext1:3617237782,~s~Franklin failed the sky dive.,~s~แฟรงคลินล้มเหลวในการกระโดดร่ม
+ext1:3796935214,~s~The helicopter was destroyed.,~s~เฮลิคอปเตอร์ถูกทำลายแล้ว
+ext1:3797532816,~s~Franklin lost his bike.,~s~แฟรงคลินทำจักรยานหายไป
+ext1:4003895440,Follow ~b~Dom.,ตาม ~b~ดอม
+ext1:4077755890,Use ~INPUTGROUP_LOOK~ to look and press ~INPUT_SCRIPT_RLEFT~ to jump.,ใช้~INPUTGROUP_LOOK~ เพื่อดูและกด ~INPUT_SCRIPT_RLEFT~ เพื่อกระโดด
+ext1:4098843771,~s~One of the bikes was destroyed.,~s~หนึ่งในจักรยานถูกทำลาย
+ext1:4156205708,Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the dog.,กด~INPUT_VEH_CIN_CAM~ เพื่อสลับไปโฟกัสที่สุนัข

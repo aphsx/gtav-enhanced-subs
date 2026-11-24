@@ -1,0 +1,61 @@
+﻿id,en,th
+h5heist:16788322,Get back in the ~b~sub.~s~,กลับไปที่ ~b~เรือดำน้ำ~s~
+h5heist:73274309,Pilot the submersible to the ~g~device.~s~,ขับเรือดำน้ำไปที่ ~g~อุปกรณ์~s~
+h5heist:97712347,Plant the third bomb at the ~y~second mast.~s~,วางระเบิดลูกที่สามที่ ~y~เสากระโดงต้นที่สอง~s~
+h5heist:112357361,~s~SWITCH to Michael.,~s~เปลี่ยนเป็น ไมเคิล
+h5heist:125158539,~s~SWITCH between Michael and Franklin while planting bombs.,~s~สลับระหว่างไมเคิลและแฟรงคลินในขณะที่วางระเบิด
+h5heist:165696969,Hold ~INPUT_VEH_SUB_DESCEND~ to dive or hold ~INPUT_VEH_SUB_ASCEND~ to surface.,กดค้าง ~INPUT_VEH_SUB_DESCEND~ เพื่อดำน้ำ หรือกดค้าง ~INPUT_VEH_SUB_ASCEND~ เพื่อขึ้นพื้นผิว
+h5heist:178539197,~s~Detonate the bombs.,~s~จุดระเบิด
+h5heist:312768794,~s~Drive the submersible into the device to pick it up.~s~,~s~ขับเรือดำน้ำไปยังอุปกรณ์เพื่อเก็บมัน~s~
+h5heist:427234426,~s~SWITCH to Trevor.,~s~เปลี่ยนเป็น เทรเวอร์
+h5heist:601440285,Protect ~b~Michael~s~ while he escapes from the ship.,ปกป้อง ~b~ไมเคิล~s~ในขณะที่เขาหนีออกจากเรือ
+h5heist:687626304,Go to the ~g~device.~s~,ไปที่ ~g~อุปกรณ์~s~
+h5heist:690181168,~s~Go to the ~y~bow~s~ of the ship.,~s~ไปที่ ~y~ส่วนหัว~s~ของเรือ
+h5heist:707818247,~s~Get back in the ~b~dinghy.~s~,~s~กลับขึ้น ~b~เรือเล็ก~s~
+h5heist:846330351,~w~Franklin left the area.~s~,~w~แฟรงคลินออกจากพื้นที่~s~
+h5heist:887384054,~s~Snipe the ~r~guards.~s~,~s~ซุ่มยิง ~r~พวกการ์ด~s~
+h5heist:954483813,Head back into position.,มุ่งหน้ากลับเข้าสู่ตำแหน่ง
+h5heist:1024943278,~s~Protect Michael as he plants the bombs.,~s~ปกป้องไมเคิลในขณะที่เขาวางระเบิด
+h5heist:1043851684,Plant the first bomb at the ~y~bow pillar.~s~,วางระเบิดลูกแรกที่~y~ต้นเสา~s~
+h5heist:1220915945,~w~The bombs exploded too early.~s~,~w~ระเบิดเกิดการระเบิดเร็วเกินไป~s~
+h5heist:1274004035,~s~Return to ~b~Franklin.~s~,~s~กลับไปที่ ~b~แฟรงคลิน~s~
+h5heist:1353873184,~s~Pick up your ~b~buddies.~s~,~s~รับ ~b~เพื่อนของคุณ~s~
+h5heist:1378986202,Return to the docks.,กลับไปที่ท่าเรือ
+h5heist:1754932683,~w~The dinghy was grounded.~s~,~w~เรือบดเกยพื้น~s~
+h5heist:1809042277,~s~Plant a bomb on the ~y~pillar.~s~,~s~วางระเบิดที่ ~y~เสา
+h5heist:1870355482,~w~Michael abandoned the heist.~s~,~w~ไมเคิลละทิ้งการปล้น~s~
+h5heist:1985235922,Return the device to the ~y~safe area.~s~,นำอุปกรณ์กลับไปยัง ~y~พื้นที่ปลอดภัย~s~
+h5heist:2004935341,Press ~input_veh_exit~ to dive into the sea.,กด ~input_veh_exit~ เพื่อดำลงในทะเล
+h5heist:2089020118,~s~Take out the ~r~guards.~s~,~s~จัดการ ~r~พวกการ์ด~s~
+h5heist:2152198630,Don't leave ~b~Michael~s~ behind.,อย่าทิ้ง ~b~ไมเคิล~s~ไว้ข้างหลัง
+h5heist:2300001453,~s~Don't leave ~b~Michael~s~ behind.~s~,~s~อย่าทิ้ง ~b~ไมเคิล~s~ ไว้ข้างหลัง~s~
+h5heist:2343125731,Locate the ~g~device~s~ among the wreckage.,ค้นหา ~g~อุปกรณ์~s~ ท่ามกลางซากเสียหาย
+h5heist:2425803667,~w~The dinghy was destroyed.~s~,~w~เรือบดถูกทำลาย~s~
+h5heist:2453329259,~s~Press ~INPUT_ATTACK~ to plant the bomb.,~s~กด ~INPUT_ATTACK~ เพื่อวางระเบิด
+h5heist:2505847386,~s~Return to the wreckage.,~s~กลับไปที่ซากเสียหาย
+h5heist:2526748915,~s~Plant a bomb on the ~y~mast.~s~,~s~วางระเบิดที่ ~y~เสากระโดง~s~
+h5heist:2845872022,Hold ~INPUT_SPRINT~ to swim.~n~Tap ~INPUT_SPRINT~ to swim faster.~n~Press ~INPUT_DIVE~ to dive when on the surface.~n~Use ~INPUTGROUP_MOVE~ to change direction. ~s~~n~Scuba gear allows breathing underwater.,กดค้าง ~INPUT_SPRINT~ เพื่อว่าย ~n~ แตะ ~INPUT_SPRINT~ เพื่อว่ายน้ำเร็วขึ้น ~n~ กด ~INPUT_DIVE~ เพื่อดำน้ำลงเมื่ออยู่บนพื้นผิว ~n~ ใช้ ~INPUTGROUP_MOVE~ เพื่อเปลี่ยนทิศทาง~s~~n~อุปกรณ์ดำน้ำจะทำให้หายใจใต้น้ำได้
+h5heist:2896053879,Go to the ship's stern ~y~entrance.~s~,ไปที่ ~y~ทางเข้า~s~ ของส่วนท้ายเรือ
+h5heist:2908995514,While in the submersible use ~INPUT_VEH_SUB_ASCEND~ to ascend and ~INPUT_VEH_SUB_DESCEND~ to descend.,ในขณะใช้งานเรือดำน้ำ ~INPUT_VEH_SUB_ASCEND~ เพื่อดำขึ้น ~INPUT_VEH_SUB_DESCEND~ เพื่อดำลง
+h5heist:2956103644,Return to the ~y~vantage point.~s~,กลับไปที่ ~y~จุดสังเกตการณ์~s~
+h5heist:2986628973,Open the contacts list and select 'Detonate.',เปิดรายชื่อผู้ติดต่อและเลือก 'ระเบิด'
+h5heist:3063253209,~w~Michael was abandoned.~s~,~w~ไมเคิลถูกละทิ้ง~s~
+h5heist:3076998590,~s~Take out the guard before the alarm is raised.,~s~จัดการการ์ดก่อนจะมีการเตือนภัย
+h5heist:3126768226,Use the sonar locator to find the device in the ship's wreckage.,ใช้ตัวระบุตำแหน่งโซนาร์เพื่อค้นหาอุปกรณ์ในซากเสียหายของเรือ
+h5heist:3170241657,~s~Get back in a suitable vehicle.,~s~กลับเข้าไปในพาหนะที่เหมาะสม
+h5heist:3207300117,~w~The submersible was destroyed.~s~,~w~เรือดำน้ำถูกทำลาย~s~
+h5heist:3225030053,~w~Michael left the area.~s~,~w~ไมเคิลออกจากพื้นที่~s~
+h5heist:3276252529,~w~Franklin ran out of sniper ammo.~s~,~w~กระสุนซุ่มยิงของแฟรงคลินหมดแล้ว~s~
+h5heist:3308000760,Return to the ship.,กลับไปที่เรือ
+h5heist:3320678472,~s~Drive to the ~y~bridge.~s~,~s~ขับรถไปที่ ~y~สะพาน~s~
+h5heist:3385485785,~w~The submersible was grounded.~s~,~w~เรือดำน้ำเกยพื้น~s~
+h5heist:3402740224,~w~Mission Failed~s~,~w~ภารกิจล้มเหลว~s~
+h5heist:3410302337,~s~Get in a vehicle.,~s~เข้าไปในพาหนะ
+h5heist:3465602804,~s~Plant a bomb ~y~here.~s~,~s~วางระเบิด ~y~ที่นี่~s~
+h5heist:3606677887,~s~SWITCH to Franklin.,~s~เปลี่ยนเป็น แฟรงคลิน
+h5heist:3666386499,~w~Trevor abandoned the heist.~s~,~w~เทรเวอร์ละทิ้งการปล้น~s~
+h5heist:3672515330,Plant the second bomb at the ~y~first mast.~s~,วางระเบิดลูกที่สองที่ ~y~เสากระโดงต้นแรก~s~
+h5heist:3787051387,~w~The police were alerted during the heist.~s~,~w~ตำรวจได้รับการแจ้งเตือนระหว่างการปล้น~s~
+h5heist:4100259105,~w~Merryweather alerted with Michael out of position.,~w~เมอรี่เวเธอร์ได้รับแจ้งเตือนกับไมเคิลออกจากตำแหน่ง
+h5heist:4121120567,~s~Go to the ~y~vantage point.~s~,~s~ไปที่ ~y~จุดสังเกตการณ์~s~
+h5heist:4179375290,~w~Michael ran out of sticky bombs.~s~,~w~ระเบิดสติ๊กกี้บอมบ์ของหมดแล้ว~s~

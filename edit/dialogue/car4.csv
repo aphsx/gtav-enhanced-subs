@@ -1,0 +1,20 @@
+﻿id,en,th
+car4:13834308,~s~Devin died.,~s~เดวินตายแล้ว
+car4:161059168,You can knock out the actor to get his clothes.~s~,คุณสามารถน็อกนักแสดงเพื่อเอาเสื้อผ้าของเขาได้~s~
+car4:542342830,Locate the car.,ค้นหารถ
+car4:645860396,Press ~INPUT_SCRIPT_LS~ to drop spikes.,กด ~INPUT_SCRIPT_LS~ เพื่อปล่อยหนามแทงล้อ
+car4:974824999,Find the ~r~actor.~s~,ค้นหา~r~นักแสดง ~s~
+car4:1163273942,~s~Devin was attacked.,~s~เดวินถูกโจมตี
+car4:1310476108,~s~The Cops learned the location of the garage.,~s~ตำรวจรู้ที่ตั้งของโรงรถ
+car4:1644946940,Get inside.,เข้าไปข้างใน
+car4:1811732910,~s~The actress learned the location of the garage.,~s~นักแสดงรู้ที่ตั้งของโรงรถ
+car4:2001952338,~s~The job was blown.,~s~งานถูกเปิดเผย
+car4:2542597631,Studio security was alerted.~s~,การรักษาความปลอดภัยในสตูดิโอได้รับการแจ้งเตือน~s~
+car4:2584664934,~s~The security learned the location of the garage.,~s~ฝ่ายรักษาความปลอดภัยรู้ที่ตั้งของโรงรถ
+car4:2735845196,Lose the ~r~security.,จัดการ ~r~ฝ่ายรักษาความปลอดภัย
+car4:2879952525,Press ~INPUT_SCRIPT_RLEFT~ to see what the red button does.~s~,กด ~INPUT_SCRIPT_RLEFT~ เพื่อดูว่าปุ่มสีแดงมีไว้ทำอะไร~s~
+car4:3818149354,~s~Mission Failed,~s~ภารกิจล้มเหลว
+car4:3900286909,Deliver the car to the ~y~garage.,ส่งรถไปยัง ~y~โรงรถ
+car4:4005164658,Get rid of the actress.,กำจัดนักแสดงหญิง
+car4:4029869013,~s~The car got stuck.,~s~รถติดขัด
+car4:4248973993,~s~The car was abandoned.,~s~รถถูกละทิ้ง

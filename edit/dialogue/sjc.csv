@@ -1,0 +1,84 @@
+﻿id,en,th
+sjc:125062861,Get a Sniper Rifle with an advanced scope and suppressor at ~y~Ammu-Nation.~s~,รับปืนไรเฟิลซุ่มยิงพร้อมกล้องส่องขั้นสูงและที่เก็บเสียง ที่ ~y~ร้านขายอาวุธ~s~
+sjc:163667680,The cargo wasn't secured in time.,สินค้าปลอดภัยไม่ทันเวลา
+sjc:213578098,Ron was abandoned.,รอนถูกละทิ้ง
+sjc:224845974,Get onto the ~b~ATV.,ขึ้น ~b~รถ ATV
+sjc:314334923,Get an advanced scope and suppressor for the Sniper Rifle.,รับกล้องส่องขั้นสูงและที่เก็บเสียงสำหรับปืนไรเฟิล
+sjc:338766016,The bikers were alerted.,ไบค์เกอร์ได้รับการแจ้งเตือน
+sjc:440651663,"Business properties available to buy are located at ~BLIP_BUSINESS_FOR_SALE~~n~Once purchased, businesses are shown in the owner's color ~HUD_COLOUR_MICHAEL~~BLIP_BUSINESS~ ~HUD_COLOUR_TREVOR~~BLIP_BUSINESS~ ~HUD_COLOUR_FRANKLIN~~BLIP_BUSINESS~",ทรัพย์สินธุรกิจที่เปิดให้ซื้อได้จะแสดงที่ ~BLIP_BUSINESS_FOR_SALE~~n~เมื่อทำการซื้อแล้ว ธุรกิจจะแสดงเป็นสีประจำตัวของตัวละคร ~HUD_COLOUR_MICHAEL~~BLIP_BUSINESS~ ~HUD_COLOUR_TREVOR~~BLIP_BUSINESS~ ~HUD_COLOUR_FRANKLIN~BLIP_BUSINESS~
+sjc:502387054,Help ~b~Ron~s~ secure the airstrip.,ช่วย ~b~รอน~s~ เคลียร์ความปลอดภัยที่ลานบิน
+sjc:512589232,Steer the plane using ~INPUTGROUP_FLY~ ~n~Adjust the rudder using ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~,คุมเครื่องบินโดยใช้ ~INPUTGROUP_FLY~ ~n~ปรับหางเสือโดยใช้ ~INPUT_VEH_FLY_YAW_LEFT~ หรือ~INPUT_VEH_FLY_YAW_RIGHT~
+sjc:532456096,The vantage point was abandoned.,จุดสังเกตการณ์ถูกละทิ้ง
+sjc:550142502,"~s~Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to accelerate, ~INPUT_VEH_FLY_THROTTLE_DOWN~ to slow down.",~s~กดค้าง ~INPUT_VEH_FLY_THROTTLE_UP~ เพื่อเร่งความเร็ว ~INPUT_VEH_FLY_THROTTLE_DOWN~ เพื่อชะลอความเร็ว
+sjc:602425589,~s~Detonate the explosives using ~INPUT_DETONATE~,~s~จุดระเบิดโดยใช้ ~INPUT_DETONATE~
+sjc:621277099,The plane was abandoned.,เครื่องบินถูกละทิ้ง
+sjc:673082180,Owned business properties will pay you a weekly income.~n~Many businesses will require you to complete management missions to increase the income gained.,ทรัพย์สินธุรกิจที่คุณเป็นเจ้าของจะจ่ายรายได้ประจำสัปดาห์ให้คุณ ~n~ธุรกิจหลายอันจะกำหนดให้คุณต้องทำภารกิจการจัดการให้เสร็จสมบูรณ์เพื่อเพิ่มยอดรายได้
+sjc:686985850,~s~Once up to speed hold ~INPUT_VEH_FLY_PITCH_DOWN_ONLY~ to take off.,~s~เมื่อความเร็วคงที่ กดค้าง ~INPUT_VEH_FLY_PITCH_DOWN_ONLY~ เพื่อบินขึ้น
+sjc:727447102,While aiming press ~INPUT_JUMP~ and a direction to perform a combat roll. Increase your shooting stat to roll quicker.,ในขณะที่เล็ง กด ~INPUT_JUMP~ และกำหนดทิศทางในการต่อสู่โดยม้วนหน้า เพิ่มสถิติการยิงของคุณให้เร็วขึ้น
+sjc:728637833,Piloting can be improved through increasing the Flying Skill.,การขับเครื่องบินสามารถปรับปรุงได้ด้วยการเพิ่มทักษะการบิน
+sjc:830683491,~s~Focus the sniper scope on ~b~Ron.,~s~โฟกัสกล้องส่องของปืนไรเฟิลซุ่มยิงไปที่ ~b~รอน
+sjc:892495000,The bikers were alerted.,ไบค์เกอร์ได้รับการแจ้งเตือน
+sjc:896720002,~s~Equip the suppressor to the Sniper Rifle before continuing.,~s~เลือกที่เก็บเสียงให้กับปืนไรเฟิลซุ่มยิงก่อนที่จะดำเนินการต่อ
+sjc:973681831,~s~Once in the air press ~INPUT_VEH_FLY_UNDERCARRIAGE~ to retract the landing gear.,~s~เมื่ออยู่บนอากาศ กด ~INPUT_VEH_FLY_UNDERCARRIAGE~ เพื่อกางล้อลงจอด
+sjc:995467530,Mission Passed,ภารกิจสำเร็จ
+sjc:1174755267,~s~Shoot out the lights around the watch tower.~s~,~s~ยิงหลอดไฟรอบๆ หอสังเกตการณ์~s~
+sjc:1222558032,~s~Take out the ~r~pilot.,~s~จัดการ ~r~นับบิน
+sjc:1239834233,Each character has their own Flying Skill level. Trevor has a higher Flying Skill than Michael or Franklin.,ตัวละครแต่ละตัวมีระดับทักษะการบินของตัวเอง เทรเวอร์มีทักษะการบินสูงกว่าไมเคิลหรือแฟรงคลิน
+sjc:1311061961,You can now purchase various properties throughout San Andreas.,ตอนนี้คุณสามารถซื้อทรัพย์สินต่าง ๆ ได้ทั่วซานแอนเดรียสแล้ว
+sjc:1393707914,Go to the top of the ~y~water tower.~s~,ไปที่ด้านบนของ~y~หอเก็บน้ำ~s~
+sjc:1413048583,Trevor has taken ownership of the Lost's Sandy Shores Airfield. This location contains storage for planes at ~HUD_COLOUR_TREVOR~~BLIP_HANGAR~~s~ and helicopters at ~HUD_COLOUR_TREVOR~~BLIP_HELIPAD~,เทรเวอร์เป็นเจ้าของสนามบินแซนดี้ชอร์ของเดอะลอสต์แล้ว สาถนที่นี้มีที่เก็บเครื่องบินที่ ~HUD_COLOUR_TREVOR~~BLIP_HANGAR~~s~ และเฮลิคอปเตอร์ที่ ~HUD_COLOUR_TREVOR~~BLIP_HELIPAD~
+sjc:1433427678,Go to ~b~Ron.~s~,ไปที่ ~b~รอน~s~
+sjc:1474089876,Climb to the top of the ~y~water tower.~s~,ปีนขึ้นไปด้านบนของหอคอยน้ำ ~y~~s~
+sjc:1525107792,~s~Take out the ~r~biker.,~s~จัดการ ~r~ไบค์เกอร์
+sjc:1526774036,Press ~INPUT_VEH_CIN_CAM~ to focus on the landing strip. Reduce your speed and try to land smoothly at the airstrip.,กด ~INPUT_VEH_CIN_CAM~ เพื่อโฟกัสไปรันเวย์ลงจอด ลดความเร็วของคุณและพยายามลงจอดอย่างราบรื่นที่ลานบิน
+sjc:1528867022,While on the ground turn the plane using ~INPUT_VEH_FLY_YAW_LEFT~ and ~INPUT_VEH_FLY_YAW_RIGHT~,ในขณะที่อยู่บนพื้นดิน หมุนเครื่องบินโดยใช้ ~INPUT_VEH_FLY_YAW_LEFT~ และ ~INPUT_VEH_FLY_YAW_RIGHT~
+sjc:1585561863,"Look down the sights with ~INPUT_AIM~, zoom the scope using ~INPUTGROUP_SNIPER_ZOOM_SECONDARY~",มองดูสถานที่ด้วย ~INPUT_AIM~ ซูมกล้องส่องโดยใช้ ~INPUTGROUP_SNIPER_ZOOM_SECONDARY~
+sjc:1640572435,~s~Follow the ~b~plane.,~s~ติดตาม ~b~เครื่องบิน
+sjc:1667177224,Press ~INPUT_VEH_FLY_ATTACK~ to drop the cargo in the dropzone.,กด ~INPUT_VEH_FLY_ATTACK~ เพื่อหย่อนสินค้าในจุดวางสินค้า
+sjc:1691451026,~s~Trevor's ATV got stuck.~s~,~s~รถ ATV ของเทรเวอร์ติดขัด~s~
+sjc:1737224084,Get back on the ~b~ATV.,กลับไปขึ้น ~b~รถ ATV
+sjc:1784743941,Ron was abandoned.,รอนถูกละทิ้ง
+sjc:1787555292,The trafficking crew died.,ทีมขนของเถื่อนตายแล้ว
+sjc:1820274941,Ron was spooked.,รอนตื่นตกใจ
+sjc:1829647732,The plane was badly damaged.,เครื่องบินได้รับความเสียหายอย่างรุนแรง
+sjc:1876577545,While other properties such as car garages can be purchased and used to store a vast amount of vehicles.~n~~BLIP_GARAGE_FOR_SALE~ ~BLIP_DOCK_FOR_SALE~ ~BLIP_HANGAR_FOR_SALE~ ~BLIP_HELIPAD_FOR_SALE~,ในขณะที่คุณสมบัติอื่นๆ เช่นโรงเก็บรถ สามารถซื้อและใช้เก็บพาหนะจำนวนมากได้~n~~BLIP_GARAGE_FOR_SALE~ ~BLIP_DOCK_FOR_SALE~ ~BLIP_HANGAR_FOR_SALE~ ~BLIP_HELIPAD_FOR_SALE~
+sjc:1909090200,"Look down the sights with ~INPUT_AIM~, zoom the scope using ~INPUT_SNIPER_ZOOM~",มองดูสถานที่ด้วย ~INPUT_AIM~ ซูมกล้องส่องโดยใช้ ~INPUT_SNIPER_ZOOM~
+sjc:1921658439,Go to ~y~Ammu-Nation.~s~,ไปที่ ~y~ร้านขายอาวุธ~s~
+sjc:1932004536,~s~Ron's ATV is stuck.~s~,~s~ATV ของรอนติดขัด~s~
+sjc:1949743703,Drop the cargo near the ~b~boats.,หย่อนสินค้าบริเวณ ~b~เรือ
+sjc:1999825558,~s~Shoot out the ~g~lights~s~ around the watch tower.~s~,~s~ยิง ~g~หลอดไฟ~s~รอบหอสังเกตการณ์~s~
+sjc:2040364685,"Increasing your shooting stat will help steady your aim when using sniper rifles as well as improving all weapon accuracy, reload speed and maximizing ammo capacity.",การเพิ่มสถิติการยิงของคุณจะช่วยให้การเล็งเป้าคุณมั่นคงเมื่อใช้ปืนไรเฟิลซุ่มยิงเช่นเดียวกับอาวุธทั้งหมด ความเร็วการบรรจุกระสุน และความจุสูงสุดของกระสุน
+sjc:2090955949,Return to the ~y~water tower.,กลับไปที่หอเก็บน้ำ ~y~
+sjc:2108786834,~s~Get to the ~b~plane.,~s~ไปที่ ~b~เครื่องบิน
+sjc:2165625875,Return to the ~b~drop zone.~s~,กลับไปที่ ~b~จุดวางสินค้า~s~
+sjc:2175862870,Go back to the ~y~shop~s~ and get the suppressor for the Sniper Rifle.,กลับไปที่ ~y~ร้าน~s~ และรับที่เก็บเสียงสำหรับปืนไรเฟิลซุ่มยิง
+sjc:2267229475,Get a suppressor attachment for the Sniper Rifle.,รับที่เก็บเสียงสำหรับปืนไรเฟิลซุ่มยิง
+sjc:2308436941,The plane's landing gear was badly damaged.,อุปกรณ์ลงจอดของเครื่องบินได้รับความเสียหายอย่างรุนแรง
+sjc:2415930671,~s~Get into the ~b~plane.,~s~เข้าไปใน ~b~เครื่องบิน
+sjc:2479162996,Race Ron to the ~y~airstrip.,แข่งกับ รอน ไปที่ ~y~ลานบิน
+sjc:2700793241,~s~Too far away from the ~b~plane.,~s~ไกลเกินกว่าเครื่องบิน ~b~
+sjc:2745930661,~s~Trevor was barred from Ammu-Nation.~s~,~s~เทรเวอร์ถูกกันออกจากร้านขายอาวุธ~s~
+sjc:2752382914,Get an advanced scope for the Sniper Rifle.,รับกล้องส่องขั้นสูงสำหรับปืนไรเฟิล
+sjc:2984952465,Fly as low as possible to avoid detection by the military base.,บินต่ำที่สุดเท่าที่จะทำได้เพื่อหลีกเลี่ยงการตรวจจับโดยฐานทัพ
+sjc:3055703926,~s~Shoot through vehicle windows.,~s~ยิงผ่านหน้าต่างพาหนะ
+sjc:3131536823,The trafficking boats were badly damaged.,เรือขนของเถื่อนได้รับความเสียหายอย่างรุนแรง
+sjc:3145611356,Return to ~b~Ron.,กลับไปที่ ~b~รอน
+sjc:3343990081,Light,หลอดไฟ
+sjc:3364269070,Purchasing this hangar will allow you to undertake trafficking missions for Oscar.,การซื้อโรงเก็บเครื่องบินนี้จะช่วยให้คุณทำภารกิจขนของเถื่อนให้ออสการ์ได้
+sjc:3436224422,~s~Ron's ATV was destroyed.~s~,~s~ATV ของรอนถูกทำลาย~s~
+sjc:3554192552,Go back to the ~y~shop~s~ and get the advanced scope for the Sniper Rifle.,กลับไปที่ ~y~ร้าน~s~ และกล้องส่องขั้นสูงสำหรับปืนไรเฟิลซุ่มยิง
+sjc:3577247422,~s~Trevor didn't get the necessary items from Ammu-Nation.~s~,~s~เทรเวอร์ไม่ได้รับของที่จำเป็นต้องใช้จากร้านขายอาวุธ~s~
+sjc:3607975690,Go back to the ~y~shop~s~ and get the advanced scope and suppressor for the Sniper Rifle.,กลับไปที่ ~y~ร้าน~s~ และรับกล้องส่องขั้นสูง กับที่เก็บเสียงสำหรับปืนไรเฟิลซุ่มยิง
+sjc:3662387914,The military base is a no-fly zone. Don't enter its airspace.,ฐานทัพทหารเป็นเขตห้ามบิน ห้ามเข้าสู่บริเวณน่านฟ้า
+sjc:3686888533,Equip the Sniper Rifle.,เลือกปืนไรเฟิลซุ่มยิง
+sjc:3722268508,~s~Taxi the plane into the ~y~hangar.~s~,~s~จอดเครื่องบินข้างใน ~y~โรงเก็บเครื่องบิน~s~
+sjc:3792359719,~s~Get back into the ~b~plane.,~s~กลับเข้าไปใน ~b~เครื่องบิน
+sjc:3802105329,~s~Try using Trevor's special ability in combat. Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to activate Trevor's ability.,~s~ลองใช้ความสามารถพิเศษของเทรเวอร์ในการต่อสู้ กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ ร่วมกัน เพื่อเปิดใช้งานความสามารถของเทรเวอร์
+sjc:3868177622,~s~Trevor's ATV was destroyed.~s~,~s~รถ ATV ของเทรเวอร์ถูกทำลาย~s~
+sjc:3912661999,~s~Shoot from the plane wing using ~INPUT_ATTACK~ and aim using ~INPUTGROUP_LOOK~,~s~ยิงจากปีกเครื่องบินโดยใช้ ~INPUT_ATTACK~ และเล็งโดยใช้ ~INPUTGROUP_LOOK~
+sjc:3938906254,Some properties may only be purchased by certain characters.,ทรัพย์สินบางอย่างสามารถซื้อได้โดยตัวละครบางตัวเนายั้น
+sjc:3940283635,Mission Failed,ภารกิจล้มเหลว
+sjc:4072062302,Ron was abandoned.,รอนถูกละทิ้ง
+sjc:4202089706,Ron died.,รอนตายแล้ว
+sjc:4264996633,"Go back to the ~y~shop~s~ and get the Sniper Rifle, advanced scope and suppressor.",กลับไปที่ ~y~ร้าน~s~ และรับปืนไรเฟิลซุ่มยิง กล้องส่องขั้นสูง และที่เก็บเสียง
+sjc:4268732114,~s~Upon approaching landing strip press ~INPUT_VEH_FLY_UNDERCARRIAGE~ to deploy the landing gear.,~s~เมื่อเข้าใกล้แถบลงจอด กด ~INPUT_VEH_FLY_UNDERCARRIAGE~ เพื่อใช้อุปกรณ์การลงจอด

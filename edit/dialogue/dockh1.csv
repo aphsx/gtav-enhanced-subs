@@ -1,0 +1,102 @@
+﻿id,en,th
+dockh1:37643796,Trevor is leaving Pier 400.~s~,เทรเวอร์ออกจาก Pier 400~s~
+dockh1:97681694,Get in the ~b~handler.~s~,เข้าไปใน ~b~ตัวยึดจับ~s~
+dockh1:111354474,Find a guard on board and take a photograph.,ค้นหาการ์ดบนเรือและถ่ายรูป
+dockh1:159496354,Reconnect the ~b~trailer~s~ before continuing.,เชื่อมต่อ ~b~เทรเลอร์~s~ก่อนดำเนินการต่อ
+dockh1:204867727,Floyd and Wade died.~s~,ฟลอยด์และเว้ดตายแล้ว~s~
+dockh1:205253220,Get back in the ~b~truck.~s~,กลับไปที่ ~b~รถบรรทุก~s~
+dockh1:238500360,Use ~INPUT_VEH_MOVE_UP_ONLY~ to control the forks.,ใช้ ~INPUT_VEH_MOVE_UP_ONLY~ เพื่อควบคุม the forks
+dockh1:246499303,Container,คอนเทนเนอร์
+dockh1:385372422,~s~Follow ~b~Floyd.~s~,~s~ติดตาม ~b~ฟลอยด์~s~
+dockh1:451378427,Photograph this structure.,ถ่ายภาพลักษณะของเรือ
+dockh1:489705356,~BLIP_CAMERA~ Take a photo of a guard on board the ship.,~BLIP_CAMERA~ ถ่ายรูปการ์ดบนเรือ
+dockh1:491691144,Scout the docks area with Floyd.~s~,ดูลาดเลาพื้นที่ท่าเรือกับ ฟลอยด์~s~
+dockh1:550662604,~s~Pick up your ~b~buddies.~s~,~s~รับ ~b~เพื่อนของคุณ~s~
+dockh1:551213653,Take a photo of the front of the ship.,ถ่ายรูปด้านหน้าของเรือ
+dockh1:553340979,Move the marked ~g~containers~s~ to the loading area.,ย้าย ~g~ตู้ที่ทำเครื่องหมายไว้~s~ไปยังพื้นที่ขนย้าย
+dockh1:595234185,I MISS YOU TREV.RON,ผมคิดถึงคุณเทรฟ.รอน
+dockh1:634970197,Floyd was abandoned.~s~,ฟลอยด์ถูกละทิ้ง~s~
+dockh1:639174849,Trevor ran over a dock worker.~s~,เทรเวอร์ขับเหยียบคนงานท่าเรือ~s~
+dockh1:665303903,Wade died.~s~,เว้ดตายแล้ว~s~
+dockh1:676829546,~s~Return to ~b~Wade.~s~,~s~กลับไปที่ ~b~เว้ด~s~
+dockh1:724819686,Get back in the ~b~handler.~s~,กลับไปที่ ~b~ตัวยึดจับ~s~
+dockh1:768818002,Get in the ~b~forklift.~s~,เข้าไปใน ~b~รถยก~s~
+dockh1:829499766,"JUST 1 MORE,ZOOM IN GUD ON A GUARD.RON",อีกแค่ 1 รูป ซูมในไปที่การ์ด.รอน
+dockh1:881134676,The forklift was destroyed.~s~,รถยกถูกทำลาย~s~
+dockh1:902516566,Once the handler frame is lowered press ~INPUT_CONTEXT~ to release the container.,เมื่อลดระดับโครงรถยกลงแล้ว กด ~INPUT_CONTEXT~ เพื่อปล่อยตู้คอนเทนเนอร์
+dockh1:934455478,Leave the restricted area.~s~,ออกจากพื้นที่เขตหวงห้าม~s~
+dockh1:936905014,Use the camera phone to take photos of the boat.,ใช้กล้องโทรศัพท์เพื่อถ่ายรูปของเรือ
+dockh1:959712229,Get back in the ~b~truck.~s~,กลับไปที่ ~b~รถบรรทุก~s~
+dockh1:965940349,The handler is stuck.~s~,ตัวยึดจับติดขัด~s~
+dockh1:1010777728,Set the crate down in this area.,วางตู้คอนเทนเนอร์ลงในบริเวณนี้
+dockh1:1084638596,Use ~INPUT_SCRIPT_RIGHT_AXIS_X~ to move cabin.~n~Use ~INPUT_SCRIPT_RIGHT_AXIS_Y~ to move crane.~n~Use ~INPUT_SCRIPT_LEFT_AXIS_Y~ to move spreader.~n~Press ~INPUT_SCRIPT_PAD_RIGHT~ to pick up and release containers.~n~Press ~INPUT_SCRIPT_SELECT~ to change view.~s~,ใช้ ~INPUT_SCRIPT_RIGHT_AXIS_X~ เพื่อเคลื่อนย้ายห้องควบคุม~n~ใช้ ~INPUT_SCRIPT_RIGHT_AXIS_Y~ เพื่อเคลื่อนที่เครน ~n~ใช้ ~INPUT_SCRIPT_LEFT_AXIS_Y~ เพื่อเคลื่อนย้ายที่คีบตู้คอนเทนเนอร์~n~กด ~INPUT_SCRIPT_PAD_RIGHT~ เพื่อจับและปล่อยตู้คอนเทนเนอร์~n~กด ~INPUT_SCRIPT_SELECT~ เพื่อเปลี่ยนมุมมอง~s~
+dockh1:1141763035,Use ~INPUT_VEH_MOVE_UD~ to move the handler frame.,ใช้ ~INPUT_VEH_MOVE_UD~ เพื่อย้ายตัวยึดจับเฟรม
+dockh1:1156249637,Mission Failed.,ภารกิจล้มเหลว
+dockh1:1177844344,Trevor's cover was blown.~s~,การพรางตัวของเทรเวอร์ถูกเปิดเผย~s~
+dockh1:1230382223,Floyd died.~s~,ฟลอยด์ตายแล้ว~s~
+dockh1:1232722165,Drive to the ~g~crates.~s~,ขับรถไปที่ ~g~ตู้คอนเทนเนอร์~s~
+dockh1:1262792244,Trevor abandoned Pier 400.~s~,เทรเวอร์ละทิ้ง Pier 400~s~
+dockh1:1416931240,~s~Climb the ~y~crane~s~ to reach the cabin.,~s~ปีนขึ้นไป ~y~เครน~s~เพื่อเข้าห้องโดยสาร
+dockh1:1479273461,Move the ~g~crates~s~ to the loading area before Floyd.,ย้าย ~g~ตู้คอนเทนเนอร์~s~ไปยังพื้นที่โหลดก่อนฟลอยด์
+dockh1:1539997593,The cargo was ditched.~s~,สินค้าถูกทิ้ง~s~
+dockh1:1618558975,~s~Go to the ~y~crane.~s~,~s~ไปที่ ~y~เครน~s~
+dockh1:1620779748,Return to Pier 400.~s~,กลับไปที่ Pier 400~s~
+dockh1:1626573181,Press ~INPUT_SCRIPT_PAD_RIGHT~ to release a container.~s~,กด ~INPUT_SCRIPT_PAD_RIGHT~ เพื่อปล่อยตู้คอนเทนเนอร์~s~
+dockh1:1629373001,Use ~INPUT_SCRIPT_RIGHT_AXIS_X~ to move crane.~n~Use ~INPUT_SCRIPT_RIGHT_AXIS_Y~ to move cabin.~n~Use ~INPUT_SCRIPT_LEFT_AXIS_Y~ to move spreader.~s~,ใช้ ~INPUT_SCRIPT_RIGHT_AXIS_X~ เพื่อเคลื่อนที่เครน~n~ใช้ ~INPUT_SCRIPT_RIGHT_AXIS_Y~ เพื่อเคลื่อนย้ายห้องควบคุม~n~ใช้ ~INPUT_SCRIPT_LEFT_AXIS_Y~ เพื่อเคลื่อนย้ายที่คีบตู้คอนเทนเนอร์~s~
+dockh1:1794132604,Take the container to the ~y~loading area.~s~,นำตู้คอนเทนเนอร์ไปที่ ~y~พื้นที่ขนย้าย
+dockh1:1853557643,The truck is stuck.~s~,รถบรรทุกติดขัด~s~
+dockh1:1870578360,Position the container handler over a container using ~INPUT_VEH_MOVE_UD~,ใช้ ~INPUT_VEH_MOVE_UD~ เพื่อจัดตำแหน่งรถยกตู้คอนเทนเนอร์ให้อยู่เหนือตู้คอนเทนเนอร์
+dockh1:1922674161,~s~Return to ~b~Floyd.~s~,~s~กลับไปที่ ~b~ฟลอยด์~s~
+dockh1:1945561082,Use ~INPUT_SCRIPT_RIGHT_AXIS_Y~ to move crane.~n~Use ~INPUT_SCRIPT_RIGHT_AXIS_X~ to move cabin.~n~Use ~INPUT_SCRIPT_LEFT_AXIS_Y~ to move spreader.~s~,ใช้ ~INPUT_SCRIPT_RIGHT_AXIS_Y~ เพื่อเคลื่อนที่เครน~n~ใช้ ~INPUT_SCRIPT_RIGHT_AXIS_X~ เพื่อเคลื่อนย้ายห้องควบคุม~n~ใช้ ~INPUT_SCRIPT_LEFT_AXIS_Y~ เพื่อเคลื่อนย้ายที่คีบตู้คอนเทนเนอร์~s~
+dockh1:1968984551,Load the ~g~containers~s~ onto the trucks.,ย้าย ~g~คอนเทนเนอร์~s~ลงบนรถบรรทุก
+dockh1:1976817594,Wade was abandoned.~s~,เว้ดถูกละทิ้ง~s~
+dockh1:2043781784,The truck was destroyed.~s~,รถบรรทุกถูกทำลาย~s~
+dockh1:2154529241,~s~Wait for ~b~Floyd.~s~,~s~รอ ~b~ฟลอยด์~s~
+dockh1:2159873680,Take a shot of the back of the ship.,ถ่ายรูปด้านหลังของเรือ
+dockh1:2200486876,Use ~INPUT_SCRIPT_RIGHT_AXIS_X~ to move cabin.~n~Press ~INPUT_SCRIPT_SELECT~ to change view.~s~,ใช้ ~INPUT_SCRIPT_RIGHT_AXIS_X~ เพื่อเคลื่อนย้ายห้องควบคุม ~n~กด ~INPUT_SCRIPT_SELECT~ เพื่อเปลี่ยนมุมมอง~s~
+dockh1:2219987273,~s~Go inside the ~y~crane cabin.~s~,~s~เข้าไปใน ~y~ห้องโดยสารรถเครน~s~
+dockh1:2333986616,Check for new text messages to see the response from Ron.,ตรวจสอบข้อความใหม่เพื่อดูการตอบกลับจาก รอน
+dockh1:2339840332,~s~Go to ~y~Pier 400.~s~,~s~ไปที่ ~y~Pier 400~s~
+dockh1:2391270160,Take the crate to the ~y~loading area.~s~,นำตู้คอนเทนเนอร์ไปที่พื้นที่ขนย้าย ~y~
+dockh1:2416684333,~BLIP_CAMERA~ Take a long shot of the back of the ship.,~BLIP_CAMERA~ ถ่ายรูปมุมกว้างด้านหลังของเรือ
+dockh1:2560911941,Use ~INPUT_CELLPHONE_EXTRA_OPTION~ to send the images to Ron.,ใช้ ~INPUT_CELLPHONE_EXTRA_OPTION~ เพื่อส่งภาพไปยังรอน
+dockh1:2630358022,~s~Park next to ~y~dispatch.~s~,~s~จอดรถข้างๆ ~y~จุดส่งสินค้า~s~
+dockh1:2635094237,Drive to the ~y~docking area.~s~,ขับไปที่ ~y~พื้นที่ท่าเรือ~s~
+dockh1:2645181410,Get in your ~b~truck.~s~,เข้าไปใน ~b~รถบรรทุก~s~
+dockh1:2796435249,Get in the ~b~truck.~s~,เข้าไปใน ~b~รถบรรทุก~s~
+dockh1:2809731456,Get in the ~b~forklift.~s~,ขึ้นไปบน ~b~รถยก~s~
+dockh1:2848364471,Use ~INPUT_SCRIPT_RIGHT_AXIS_Y~ to move cabin.~n~Use ~INPUT_SCRIPT_RIGHT_AXIS_X~ to move crane.~n~Use ~INPUT_SCRIPT_LEFT_AXIS_Y~ to move spreader.~n~Press ~INPUT_SCRIPT_PAD_RIGHT~ to pick up and release containers.~n~Press ~INPUT_SCRIPT_SELECT~ to change view.~s~,ใช้ ~INPUT_SCRIPT_RIGHT_AXIS_Y~ เพื่อเคลื่อนย้ายห้องควบคุม~n~ใช้ ~INPUT_SCRIPT_RIGHT_AXIS_X~ เพื่อเคลื่อนที่เครน~n~ใช้ ~INPUT_SCRIPT_LEFT_AXIS_Y~ เพื่อเคลื่อนย้ายที่คีบตู้คอนเทนเนอร์~n~กด ~INPUT_SCRIPT_PAD_RIGHT~ เพื่อจับและปล่อยตู้คอนเทนเนอร์~n~กด ~INPUT_SCRIPT_SELECT~ เพื่อเปลี่ยนมุมมอง~s~
+dockh1:2889366017,Return to ~b~Floyd.~s~,กลับไปที่ ~b~ฟลอยด์~s~
+dockh1:2943227820,Frame the shot then take the picture with ~INPUT_CELLPHONE_SELECT~. Use ~INPUT_CELLPHONE_OPTION~ to send the image to Lester.,วางกรอบจากนั้นถ่ายภาพด้วย ~INPUT_CELLPHONE_SELECT~ ใช้ ~INPUT_CELLPHONE_OPTION~ เพื่อส่งภาพไปยังเลสเตอร์
+dockh1:2976295263,"THAT SHOULD GIV US AN IDEA OF WHT WE R DEALNG WTH,TAKE A FEW OF THE LYOUT.RON",นั่นน่าจะให้ไอเดียเรื่องที่เรากำลังได้ ถ่ายสักสองสามภาพ.รอน
+dockh1:2990528829,Use ~INPUT_SCRIPT_LEFT_AXIS_Y~ to move spreader.~s~,ใช้ ~INPUT_SCRIPT_LEFT_AXIS_Y~ เพื่อเคลื่อนย้ายที่คีบตู้คอนเทนเนอร์~s~
+dockh1:2997183116,Get in the ~b~vehicle.~s~,เข้าไปใน ~b~พาหนะ~s~
+dockh1:3061709724,~s~Place the container on the ~b~ship.~s~,~s~วางคอนเทนเนอร์บน ~b~เรือ~s~
+dockh1:3080390183,The container was badly damaged.~s~,ตู้คอนเทนเนอร์ได้รับความเสียหายอย่างหนัก~s~
+dockh1:3174085425,Select the camera from the phone with ~INPUTGROUP_CELLPHONE_NAVIGATE~,เลือกกล้องจากโทรศัพท์ด้วย ~INPUTGROUP_CELLPHONE_NAVIGATE~
+dockh1:3209532816,The crates were badly damaged.~s~,ตู้คอนเทนเนอร์ได้รับความเสียหายอย่างรุนแรง~s~
+dockh1:3246307843,Set the container in the ~y~loading area.~s~,วางคอนเทนเนอร์ใน ~y~พื้นที่ขนย้าย
+dockh1:3247273651,Send the photos to Ron.,ส่งรูปถ่ายไปที่รอน
+dockh1:3392095939,~s~Go to ~y~Floyd's apartment.~s~,~s~ไปที่ ~y~อพาร์ทเมนต์ของฟลอยด์~s~
+dockh1:3419365684,The handler container was damaged.~s~,ตัวยึดจับคอนเทนเนอร์ได้รับความเสียหาย~s~
+dockh1:3449566161,~BLIP_CAMERA~ Photograph the front of the ship.,~BLIP_CAMERA~ ถ่ายรูปด้านหน้าของเรือ
+dockh1:3472993110,Descend the crane to the ~y~docks floor.~s~,ลงรถเครนไปที่ ~y~พื้นท่าเรือ~s~
+dockh1:3655396497,Access the phone using ~INPUT_PHONE~,เข้าถึงโทรศัพท์โดยใช้ ~INPUT_PHONE~
+dockh1:3699075786,Press ~INPUT_CONTEXT~ to pick up the container.,กด ~INPUT_CONTEXT~ เพื่อจับคอนเทนเนอร์
+dockh1:3719361629,Access the camera phone and use ~INPUT_CELLPHONE_EXTRA_OPTION~ to send the images to Ron.,เข้าถึงกล้องโทรศัพท์และใช้ ~INPUT_CELLPHONE_EXTRA_OPTION~ เพื่อส่งภาพไปยังรอน
+dockh1:3755878275,Use ~INPUT_SCRIPT_RIGHT_AXIS_Y~ to move cabin.~n~Use ~INPUT_SCRIPT_LEFT_AXIS_Y~ to move spreader.~s~,ใช้ ~INPUT_SCRIPT_RIGHT_AXIS_Y~ เพื่อเคลื่อนย้ายห้องควบคุม~n~ใช้ ~INPUT_SCRIPT_LEFT_AXIS_Y~ เพื่อเคลื่อนย้ายที่คีบตู้คอนเทนเนอร์~s~
+dockh1:3776955988,Mission Passed.,ภารกิจสำเร็จ
+dockh1:3805210362,The handler was destroyed.~s~,ตัวยึดจับถูกทำลาย~s~
+dockh1:3823033021,Press ~INPUT_SCRIPT_PAD_RIGHT~ to pick up a container.~s~,กด ~INPUT_SCRIPT_PAD_RIGHT~ เพื่อจับตู้คอนเทนเนอร์~s~
+dockh1:3823850285,Enter the ~y~military docking area.~s~,เข้าไปที่ ~y~เขตท่าเรือของทหาร~s~
+dockh1:3869541853,~s~Pick up a ~g~container.~s~,~s~จับ ~g~ตู้คอนเทนเนอร์~s~
+dockh1:3905817446,Floyd's forklift was destroyed.~s~,รถยกของฟลอยด์ถูกทำลาย~s~
+dockh1:3948967312,The truck was destroyed.~s~,รถบรรทุกถูกทำลาย~s~
+dockh1:4053814023,Use ~INPUT_SCRIPT_RIGHT_AXIS_X~ to move cabin.~n~Use ~INPUT_SCRIPT_LEFT_AXIS_Y~ to move spreader.~s~,ใช้ ~INPUT_SCRIPT_RIGHT_AXIS_X~ เพื่อเคลื่อนย้ายห้องควบคุม~n~ใช้ ~INPUT_SCRIPT_LEFT_AXIS_Y~ เพื่อเคลื่อนย้ายที่คีบตู้คอนเทนเนอร์~s~
+dockh1:4111239396,The truck is stuck.~s~,รถบรรทุกติดขัด~s~
+dockh1:4120661204,Return to ~b~Wade.~s~,กลับไปที่ ~b~เว้ด~s~
+dockh1:4130270732,Get back in your ~b~truck.~s~,กลับไปที่ ~b~รถบรรทุก~s~
+dockh1:4210765510,Return to Pier 400.~s~,กลับไปที่ Pier 400~s~
+dockh1:4263199587,Photograph this guard.,ถ่ายรูปการ์ดคนนี้
+dockh1:4277493093,~s~Go to the ~y~vantage point~s~ at the end of the catwalk.,~s~ไปที่ ~y~จุดสังเกตการณ์~s~ที่ส่วนท้ายของแคทวอล์ค
+dockh1:4282432522,Use ~INPUT_SCRIPT_RIGHT_AXIS_Y~ to move cabin.~n~Press ~INPUT_SCRIPT_SELECT~ to change view.~s~,ใช้ ~INPUT_SCRIPT_RIGHT_AXIS_Y~ เพื่อเคลื่อนย้ายห้องควบคุม ~n~กด ~INPUT_SCRIPT_SELECT~ เพื่อเปลี่ยนมุมมอง~s~

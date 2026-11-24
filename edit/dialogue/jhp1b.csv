@@ -1,0 +1,14 @@
+﻿id,en,th
+jhp1b:47189129,~w~The truck got stuck.~s~,~w~รถบรรทุกติดขัด~s~
+jhp1b:861465237,~s~The yellow bar indicates Michael's special ability level. Press ~INPUT_SPECIAL_ABILITY_PC~ to slow down time.~s~,~s~แถบสีเหลืองหมายถึงระดับความสามารถพิเศษของไมเคิล กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อชะลอเวลาลง~s~
+jhp1b:989370617,~w~The truck reached the station.,~w~รถบรรทุกมาถึงสถานีแล้ว
+jhp1b:1079311320,~s~Don't let the ~b~truck~s~ escape.,~s~อย่าปล่อยให้ ~b~รถบรรทุก~s~หลบหนี
+jhp1b:1290210246,Michael failed to retrieve the truck.,ไมเคิลล้มเหลวในการกู้รถบรรทุก
+jhp1b:1805999007,~s~Don't leave the ~b~truck~s~ behind.,~s~อย่าทิ้งรถบรรทุก ~b~s~ไว้ข้างหลัง
+jhp1b:1863470649,~s~Go to the ~y~garment factory.~s~,~s~ไปที่ ~y~โรงงานเย็บผ้า~s~
+jhp1b:2466619991,~w~The truck was destroyed.~s~,~w~รถบรรทุกถูกทำลาย~s~
+jhp1b:2586543020,~s~Get out of the truck.~s~,~s~ออกจากรถบรรทุก~s~
+jhp1b:2596809687,~s~Get back in the ~b~truck.~s~,~s~กลับไปที่ ~b~รถบรรทุก~s~
+jhp1b:2635960599,~s~Steal the ~b~LSPD tactical team truck.~s~,~s~ขโมย ~b~รถบบรทุกทีมยุทธวิธีของ LSPD~s~
+jhp1b:3452384156,~s~The yellow bar indicates Michael's special ability level. Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to slow down time.~s~,~s~แถบสีเหลืองหมายถึงระดับความสามารถพิเศษของไมเคิล กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ ร่วมกันเพื่อชะลอเวลาลง~s~
+jhp1b:3748583147,~s~Michael's special ability bar will fill when Michael performs lethal moves such as headshots and stealth takedowns.,~s~แถบความสามารถพิเศษของ ไมเคิล จะเพิ่มขึ้นเมื่อไมเคิลทำการเคลื่อนไหวที่ร้ายแรงเช่น ยิง headshots และ จู่โจมแบบลอบเร้น

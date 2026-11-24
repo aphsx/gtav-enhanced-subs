@@ -1,0 +1,47 @@
+﻿id,en,th
+arm3:3127788,~s~Press ~INPUT_MELEE_ATTACK_LIGHT~ to punch.~n~~s~Press ~INPUT_MELEE_ATTACK_HEAVY~ to kick.~n~~s~Hold ~INPUT_MELEE_BLOCK~ to dodge.~s~,~s~กด ~INPUT_MELEE_ATTACK_LIGHT~ เพื่อชก~n~~s~กด ~INPUT_MELEE_ATTACK_HEAVY~ เพื่อเตะ~n~~s~กดค้าง ~INPUT_MELEE_BLOCK~ เพื่อหลบหลีก~s~
+arm3:101609079,~s~Blue sound blips on the Radar indicate how much sound you are generating.~s~,~s~เสียงสีฟ้ากระเพื่อมบนเรดาร์ บ่งบอกว่าคุณกำลังสร้างเสียงได้มากแค่ไหน~s~
+arm3:135188803,~s~Beat up ~r~Simeon.~s~,~s~จัดการชก ~r~ซิเมียน~s~
+arm3:169149913,~s~Michael fled the fight.~s~,~s~ไมเคิลหนีการต่อสู้~s~
+arm3:219841688,~s~Press ~INPUT_ATTACK~ or ~INPUT_MELEE_ATTACK_LIGHT~ to punch.~n~~s~Press ~INPUT_MELEE_ATTACK_HEAVY~ to kick.~n~~s~Hold ~INPUT_MELEE_BLOCK~ to dodge.~s~,~s~กด ~INPUT_ATTACK~ หรือ ~INPUT_MELEE_ATTACK_LIGHT~ เพื่อต่อย~n~~s~กด ~INPUT_MELEE_ATTACK_HEAVY~ เพื่อเตะ~n~~s~กดค้าง ~INPUT_MELEE_BLOCK~ เพื่อหลบหลีก~s~
+arm3:261107257,~s~Pressing ~INPUT_NEXT_CAMERA~ while on foot will allow you to cycle through different camera views of the player.~s~,~s~กดปุ่ม ~INPUT_NEXT_CAMERA~ ขณะเดินเท้า คุณจะสามารถหมุนมุมกล้องไปรอบตัวได้~s~
+arm3:290193083,~s~Take out the ~r~gardener.~s~,~s~กำจัด ~r~คนทำสวน~s~
+arm3:331880411,~s~The family was alerted. Try stealth mode.~s~,~s~คนในครอบครัวรู้ตัวแล้ว ลองใช้โหมดลอบเร้น~s~
+arm3:418877248,~s~Take Michael to the ~y~dealership.~s~,~s~พาไมเคิลไปที่ ~y~ร้านตัวแทนจำหน่ายรถ~s~
+arm3:456784790,~s~Return to the ~y~dealership~s~ before the Cops are alerted.~s~,~s~ย้อนกลับไปที่ ~y~ร้านตัวแทนจำหน่ายรถ~s~ ก่อนที่ตำรวจจะตรวจพบ~s~
+arm3:459496823,~s~Retrieve the ~b~car.~s~,~s~ไปเอา ~b~รถ~s~
+arm3:570733652,~s~The family was alerted as you went in the living room.~s~,~s~คนในครอบครัวรู้ตัวแล้วขณะที่คุณเข้าไปในห้องรับแขก~s~
+arm3:754861508,~s~Avoid alerting the residents.~s~,~s~หลีกเลี่ยงการให้ผู้อาศัยแตกตื่น~s~
+arm3:895291938,~s~Mission Failed~s~,~s~ภารกิจล้มเหลว~s~
+arm3:1623240005,~s~Climb up the vines and go through the ~y~open window.~s~,~s~ปีนขึ้นบนเถาวัลย์แล้วเดินไป ~y~เปิดหน้าต่าง~s~
+arm3:1908867126,~s~Press ~INPUT_ATTACK~ or ~INPUT_MELEE_ATTACK_LIGHT~ to counter while dodging.~s~,~s~กด ~INPUT_ATTACK~ หรือ ~INPUT_MELEE_ATTACK_LIGHT~ เพื่อสวนกลับขณะหลบหลีก ~s~
+arm3:2095997311,~s~The family was alerted.~s~,~s~คนในครอบครัวรู้ตัวแล้ว~s~
+arm3:2222035341,~s~Simeon's deal was disrupted.~s~,~s~ดีลของซิเมียนถูกยกเลิก~s~
+arm3:2242770068,~s~Mission Passed~s~,~s~ภารกิจสำเร็จ~s~
+arm3:2254913863,~s~Sneak through the house to the ~y~garage~s~ without alerting the family.,~s~แอบย่องเข้าบ้านแล้วเดินไปที่ ~y~โรงจอดรถ~s~ โดยอย่าให้ใครจับได้
+arm3:2419291301,~s~The job was blown.~s~,~s~ภารกิจล้มเหลว~s~
+arm3:2502901751,~s~Hold ~INPUT_AIM~ to lock on to a target.~n~,~s~กดค้าง ~INPUT_AIM~ เพื่อล็อคเป้าหมาย~n~
+arm3:2607525871,~s~Get in the ~b~car.~s~,~s~กลับไปขึ้น ~b~รถ~s~
+arm3:2733749044,"~s~Using stealth mode and performing takedowns will increase the Stealth Stat, which allows for quicker and quieter movement.",~s~ใช้โหมดลอบเร้นและจัดการศัตรูจะช่วยเพิ่มค่าความสามารถการรอบเร้น ซึ่งจะช่วยให้เคลื่อนไหวได้เร็วและเงียบขึ้น
+arm3:2735480080,"~s~Increasing the strength stat will allow more damage to be inflicted when performing a melee attack, ladders to be climbed faster, more damage to be taken, and better sports performance.~s~",~s~การเพิ่มค่าความแข็งแกร่งจะช่วยให้สร้างความเสียหายได้มากขึ้นเมื่อทำการโจมตีระยะประชิด ประสิทธิภาพการเล่นกีฬาที่ดีขึ้น และ จะขึ้นบันไดได้เร็วขึ้น~s~
+arm3:2833522784,~s~Leave the ~y~dealership.~s~,~s~ออกจาก ~y~ร้านตัวแทนจำหน่ายรถ~s~
+arm3:2861027716,~s~Simeon died.~s~,~s~ซอเมียนตายแล้ว~s~
+arm3:2891532832,~s~Ram through the ~y~dealership~s~ window.~s~,~s~พุ่งชน ~y~กระจก~s~ ร้านตัวแทนจำหน่ายรถ~s~
+arm3:3010242054,~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus of the window.~s~,~s~กดปุ่ม ~INPUT_VEH_CIN_CAM~ เพื่อโฟกัสกระจก~s~
+arm3:3053397651,~s~The strength stat can be increased by engaging in melee combat and playing sports.~s~,~s~สถานะความแข็งแกร่งสามารถเพิ่มโดยการร่วมต่อสู้หรือเล่นกีฬา~s~
+arm3:3243874812,~s~Go to the ~y~house.~s~,~s~เดินทางไปที่ ~y~บ้าน~s~
+arm3:3306257387,"~s~When in stealth mode, moving around will generate less noise.~s~","~s~ขณะอยู่โหมดลอบเร้น, การเคลื่อนที่จะส่งเสียงเบาลง~s~"
+arm3:3332065390,~s~You can adjust the camera view of the vehicle by pressing ~INPUT_NEXT_CAMERA~ when driving. You can also adjust the vehicle camera height in the settings menu in the frontend.~s~,~s~คุณสามารถปรับมุมมองของรถได้โดยการกดปุ่ม ~INPUT_NEXT_CAMERA~ เมื่อขับรถ ซึ่งคุณยังสามารถปรับความสูงของมุมมองรถได้ในเมนูตั้งค่า~s~
+arm3:3338839702,~s~The dealership was trashed.~s~,~s~ตัวแทนจำหน่ายถูกทำให้เสียหาย~s~
+arm3:3472347561,~s~Press ~INPUT_DUCK~ to enter stealth mode.~s~,~s~กดปุ่ม ~INPUT_DUCK~ เพื่อเข้าโหมดลอบเร้น~s~
+arm3:3542194096,~s~Drive the car through the window of the ~y~dealership.~s~,~s~ขับรถพุ่งเข้ากระจกของ ~y~ร้านตัวแทนจำหน่ายรถ.~s~
+arm3:3611126048,~s~Press ~INPUT_MELEE_ATTACK_LIGHT~ to counter while dodging.~s~,~s~กด ~INPUT_MELEE_ATTACK_LIGHT~ เพื่อสวนกลับขณะหลบหลีก~s~
+arm3:3632226829,~s~Michael's instructions were ignored.~s~,~s~คำสั่งของไมเคิลถูกละเลย~s~
+arm3:3635450825,Enemy,ศัตรู
+arm3:3641526841,~s~Take the car to the ~y~dealership.~s~,~s~เอารถไปส่งที่ ~y~ร้านตัวแทนจำหน่ายรถ~s~
+arm3:3698092844,~s~The Cops were alerted.~s~,~s~ตำรวจได้รับการแจ้งเตือน~s~
+arm3:3704209675,~s~Find a way into the house.~s~,~s~หาทางแอบเข้าบ้าน~s~
+arm3:3737357958,~s~Press ~INPUT_VEH_CIN_CAM~ to toggle the hood camera.~s~,~s~กด ~INPUT_VEH_CIN_CAM~ เพื่อสลับเป็นมุมมองในรถ~s~
+arm3:3768268957,"~s~The player's blip will turn red if visible to an enemy, and gray when hidden.",~s~ตำแหน่งจะกระพริบเป็นสีแดงเมื่อถูกระบุว่าเป็นศัตรู และเป็นสีเทายังซ่อนตัวได้อยู่
+arm3:3833283085,~s~Get back in the ~b~car.~s~,~s~กลับไปขึ้น ~b~รถ~s~
+arm3:4244606243,"~s~To reach the open window, climb onto the car and then onto the roof by pressing ~INPUT_JUMP~~s~",~s~เมื่อต้องการไปที่หน้าต่างที่เปิดอยู่ให้ปีนขึ้นไปบนรถแล้วขึ้นไปบนหลังคาโดยกด ~INPUT_JUMP~~s~

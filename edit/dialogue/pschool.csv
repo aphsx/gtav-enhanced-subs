@@ -1,0 +1,156 @@
+﻿id,en,th
+pschool:37648640,Knife Checkpoint,จุดเช็คพอยต์แบบบินตะแคงข้าง
+pschool:82940428,Highest Medal,เหรียญรางวัลสูงสุด
+pschool:99338375,~s~Roll the plane upside down.,~s~หงายท้องเครื่องบิน
+pschool:112482410,~s~Press ~INPUT_VEH_FLY_UNDERCARRIAGE~ to retract landing gear.,~s~กด ~INPUT_VEH_FLY_UNDERCARRIAGE~ เพื่อเก็บฐานล้อ
+pschool:158919156,Collided with truck.,ชนกับรถบรรทุก
+pschool:184628929,Out of bounds.,ออกนอกขอบเขต
+pschool:194470737,Use ~INPUT_PARACHUTE_TURN_LR~ to change direction.~n~Hold ~INPUT_PARACHUTE_BRAKE_LEFT~ or ~INPUT_PARACHUTE_BRAKE_RIGHT~ for sharp turns.~n~Press ~INPUT_PARACHUTE_DETACH~ to ditch parachute.~n~,ใช้ ~INPUT_PARACHUTE_TURN_LR~ เพื่อเปลี่ยนทิศทาง ~n~ กด ~INPUT_PARACHUTE_BRAKE_LEFT~ หรือ ~INPUT_PARACHUTE_BRAKE_RIGHT~ ค้างไว้เพื่อเลี้ยวโค้งหักศอก ~n~ กด ~INPUT_PARACHUTE_DETACH~ เพื่อตัดร่มทิ้ง ~n~
+pschool:200630338,Moving Target,เป้าหมายเคลื่อนที่
+pschool:233964971,Bronze,ทองแดง
+pschool:301450217,Checkpoint,จุดเช็คพอยต์
+pschool:308766636,"~s~Fly through a course in the city, performing stunts.",~s~บินตามเส้นทางในเมืองและแสดงท่าผาดโผน
+pschool:332640474,Flight School Helicopter Speed Run,การบินเฮลิคอปเตอร์ทำเวลา - โรงเรียนการบิน
+pschool:335706399,~HUD_COLOUR_BRONZE~BRONZE,~HUD_COLOUR_BRONZE~ทองแดง
+pschool:343877840,~s~Perform a roll-off-the-top.,~s~ทำท่าโรลออฟเดอะท็อป
+pschool:352482566,~s~Use ~INPUT_VEH_FLY_PITCH_UD~ to control pitch.,~s~ใช้ ~INPUT_VEH_FLY_PITCH_UD~ เพื่อควบคุมการเชิดหัวขึ้น
+pschool:353912124,TIME: 0~1~.~1~,เวลา: 0~1~.~1~
+pschool:398289962,~s~Perform three barrel rolls in a row.,~s~ทำการหมุนแบบบาร์เรลโรลติดต่อกันสามครั้ง
+pschool:461818563,Checkpoints,จุดเช็คพอยต์
+pschool:539625917,~s~Learn how to do an inside loop.,~s~เรียนรู้วิธีทำท่าอินไซด์ลูป
+pschool:592699827,TIME: 0~1~.~1~0,เวลา: 0~1~.~1~0
+pschool:628190113,Formation broken.,การบินเกาะกลุ่มหลุด
+pschool:628190413,Quit (~1~),ออก (~1~)
+pschool:631657599,Flight School Helicopter Course,เส้นทางเฮลิคอปเตอร์ - โรงเรียนการบิน
+pschool:672266044,~s~HALF ROLL~s~,~s~ ม้วนตัวครึ่งรอบ ~s~
+pschool:678369372,TIME: ~1~.~1~0,เวลา: ~1~.~1~0
+pschool:731878382,~s~Use ~INPUTGROUP_FLY~ to level out.,~s~ใช้ ~INPUTGROUP_FLY~ เพื่อปรับระดับให้ตรง
+pschool:735030426,~s~Parachute onto the ~y~truck.~s~,~s~กระโดดร่มลงบน ~y~รถบรรทุก ~s~
+pschool:807054871,First checkpoint missed.,พลาดจุดเช็คพอยต์แรก
+pschool:829554734,~s~None~s~,~s~ไม่มี ~s~
+pschool:849524676,None,ไม่มี
+pschool:896559794,~s~Head for the first ~y~checkpoint.~s~,~s~มุ่งหน้าไปยัง ~y~จุดเช็คพอยต์ ~s~ แรก
+pschool:912848388,Flight School Loop the Loop,การบินตีลังกา - โรงเรียนการบิน
+pschool:945684482,~s~Level out the plane.,~s~ปรับระดับเครื่องบินให้ตรง
+pschool:1009369041,TIME: ~1~.~1~,เวลา: ~1~.~1~
+pschool:1015671278,Flight School,โรงเรียนการบิน
+pschool:1026440505,~s~Skydive from a high altitude and try to land on a stationary target.,~s~กระโดดร่มจากระดับความสูงมากและพยายามลงจอดบนเป้าหมายที่อยู่กับที่
+pschool:1039093056,~HUD_COLOUR_SILVER~SILVER,~HUD_COLOUR_SILVER~เงิน
+pschool:1080570353,Distance,ระยะทาง
+pschool:1110369518,~s~Press ~INPUT_VEH_FLY_UNDERCARRIAGE~ to deploy landing gear.,~s~กด ~INPUT_VEH_FLY_UNDERCARRIAGE~ เพื่อกางฐานล้อ
+pschool:1130953546,~s~Missing a checkpoint will result in a time penalty.,~s~การพลาดจุดเช็คพอยต์จะส่งผลให้ถูกปรับเวลา
+pschool:1178624323,"Failed lesson ""~a~"". ~a~","บทเรียนล้มเหลว ""~a~"" ~a~"
+pschool:1181439551,~s~Land the plane on a countryside bridge.,~s~ลงจอดเครื่องบินบนสะพานแถบชนบท
+pschool:1193479703,~s~Perform an inside loop.,~s~ทำท่าอินไซด์ลูป
+pschool:1196698035,TIME: 0~1~.~1~00,เวลา: 0~1~.~1~00
+pschool:1235035324,~s~FORMATION~s~,~s~ การบินเกาะกลุ่ม ~s~
+pschool:1269495595,RESULTS,ผลลัพธ์
+pschool:1271124128,Quit,ออก
+pschool:1327586033,~s~Use ~INPUT_VEH_FLY_ROLL_LR~ to roll the plane.,~s~ใช้ ~INPUT_VEH_FLY_ROLL_LR~ เพื่อหมุนเครื่องบิน
+pschool:1333654654,Best Distance,ระยะทางที่ดีที่สุด
+pschool:1381039023,Wanted level earned.,ถูกประกาศจับ
+pschool:1420554944,"~s~Fly through a course around the city, keeping a low altitude.",~s~บินตามเส้นทางรอบเมืองโดยรักษาเพดานบินต่ำ
+pschool:1491808679,~s~Hold ~INPUT_VEH_FLY_PITCH_DOWN_ONLY~ to perform an inside loop.,~s~กด ~INPUT_VEH_FLY_PITCH_DOWN_ONLY~ ค้างไว้เพื่อทำท่าอินไซด์ลูป
+pschool:1544378584,Failed the lesson.,บทเรียนล้มเหลว
+pschool:1545541846,~s~Use ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to turn the plane left or right while grounded.,~s~ใช้ ~INPUT_VEH_FLY_YAW_LEFT~ หรือ ~INPUT_VEH_FLY_YAW_RIGHT~ เพื่อเลี้ยวเครื่องบินไปทางซ้ายหรือขวาขณะอยู่บนพื้น
+pschool:1595803560,~s~Learn how to fly upside down.,~s~เรียนรู้วิธีบินแบบหงายท้อง
+pschool:1604687448,Landed in the water.,ลงจอดในน้ำ
+pschool:1611699359,~s~LOOPING~s~,~s~ ตีลังกา ~s~
+pschool:1622295708,~s~Head for the first ~y~checkpoint.~s~,~s~มุ่งหน้าไปยัง ~y~จุดเช็คพอยต์ ~s~ แรก
+pschool:1635188636,~s~Perform a barrel roll.,~s~ทำการหมุนแบบบาร์เรลโรล
+pschool:1648430718,Recent Distance,ระยะทางล่าสุด
+pschool:1650786680,~s~Use ~INPUT_VEH_FLY_PITCH_UD~ to control pitch.,~s~ใช้ ~INPUT_VEH_FLY_PITCH_UD~ เพื่อควบคุมการเชิดหัวหรือปักหัว
+pschool:1677222072,~s~KNIFING~s~,~s~ บินตะแคงข้าง ~s~
+pschool:1764034693,~HUD_COLOUR_SILVER~BEST TIME~s~,~HUD_COLOUR_SILVER~เวลาที่ดีที่สุด ~s~
+pschool:1775403495,LESSONS,บทเรียน
+pschool:1809699641,Silver,เงิน
+pschool:1824516599,Crashed on landing.,ตกขณะลงจอด
+pschool:1834787877,~s~Learn how to safely land on the runway.,~s~เรียนรู้วิธีลงจอดบนรันเวย์อย่างปลอดภัย
+pschool:1842986059,~s~Bring the plane to a complete stop at the final checkpoint.,~s~นำเครื่องบินมาหยุดนิ่งที่จุดเช็คพอยต์สุดท้าย
+pschool:1843199095,Missed the goal time.,ทำเวลาไม่ทันตามเป้าหมาย
+pschool:1843737303,Runway abandoned.,ออกจากรันเวย์
+pschool:1879919286,~s~INVERTED~s~,~s~ บินหงายท้อง ~s~
+pschool:1907992055,~HUD_COLOUR_GREEN~ ~BLIP_OBJECTIVE~~s~ Knife flight checkpoint.~n~~HUD_COLOUR_BLUE~ ~BLIP_OBJECTIVE~~s~ Inverted flight checkpoint.,~HUD_COLOUR_GREEN~ ~BLIP_OBJECTIVE~~s~ จุดเช็คพอยต์แบบบินตะแคงข้าง ~n~~HUD_COLOUR_BLUE~ ~BLIP_OBJECTIVE~~s~ จุดเช็คพอยต์แบบบินหงายท้อง
+pschool:1930666709,~s~Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to accelerate.,~s~กด ~INPUT_VEH_FLY_THROTTLE_UP~ ค้างไว้เพื่อเร่งความเร็ว
+pschool:1937649261,TIME: ~1~.~1~00,เวลา: ~1~.~1~00
+pschool:1992225541,Time,เวลา
+pschool:2032539420,Inverted Checkpoint,จุดเช็คพอยต์แบบบินหงายท้อง
+pschool:2073247890,~s~Learn how to takeoff from the runway.,~s~เรียนรู้วิธีนำเครื่องขึ้นจากรันเวย์
+pschool:2078468617,~s~None~s~,~s~ไม่มี ~s~
+pschool:2099184554,~s~Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decelerate and descend. ~n~~s~Land closer to the target for a better score.,~s~กด ~INPUT_VEH_FLY_THROTTLE_DOWN~ ค้างไว้เพื่อชะลอความเร็วและลดระดับลง ~n~~s~ ลงจอดให้ใกล้เป้าหมายมากขึ้นเพื่อให้ได้คะแนนดีขึ้น
+pschool:2125744541,~s~Parachute onto the ~y~target.~s~,~s~กระโดดร่มลงบน ~y~เป้าหมาย ~s~
+pschool:2137149829,Failed,ล้มเหลว
+pschool:2159627451,Landing gear was not deployed.,ไม่ได้กางฐานล้อ
+pschool:2250295535,~s~Head for the first ~y~checkpoint.~s~,~s~มุ่งหน้าไปยัง ~y~จุดเช็คพอยต์ ~s~ แรก
+pschool:2272466931,Flight School Knife Flight,การบินตะแคงข้าง - โรงเรียนการบิน
+pschool:2279563615,The helicopter was abandoned.,เฮลิคอปเตอร์ถูกทิ้ง
+pschool:2310790632,Passed,ผ่าน
+pschool:2325792038,Fire vehicle weapons with ~INPUT_VEH_FLY_ATTACK~,ยิงอาวุธของยานพาหนะด้วย ~INPUT_VEH_FLY_ATTACK~
+pschool:2354519335,Flight School Drop Zone,จุดลงจอดพัสดุ - โรงเรียนการบิน
+pschool:2444586198,~s~Fly a helicopter through a course around the city and land it at the airport.,~s~ขับเฮลิคอปเตอร์ตามเส้นทางรอบเมืองและลงจอดที่สนามบิน
+pschool:2457905208,Perform a knife edge.,ทำท่าไนฟ์เอจ
+pschool:2469670868,~s~Bring the plane down onto the landing target.,~s~นำเครื่องบินลงจอดที่เป้าหมาย
+pschool:2523006421,Retry,ลองใหม่
+pschool:2530215076,The plane went too high.,เครื่องบินบินสูงเกินไป
+pschool:2533727824,~s~TIME LIMIT,~s~ จำกัดเวลา
+pschool:2541369345,Flight School Inverted Flight,การบินหงายท้อง - โรงเรียนการบิน
+pschool:2595600868,Flight School Skydiving,การดิ่งพสุธา - โรงเรียนการบิน
+pschool:2613524726,Gold,ทอง
+pschool:2623538127,~s~Hold ~INPUT_VEH_FLY_THROTTLE_UP~ to accelerate.,~s~กด ~INPUT_VEH_FLY_THROTTLE_UP~ ค้างไว้เพื่อเร่งความเร็ว
+pschool:2634166228,~s~Use ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to rotate left or right.,~s~ใช้ ~INPUT_VEH_FLY_YAW_LEFT~ หรือ ~INPUT_VEH_FLY_YAW_RIGHT~ เพื่อหมุนไปทางซ้ายหรือขวา
+pschool:2636688372,~s~Five second time penalty for skipping a checkpoint.,~s~โทษปรับเวลาห้าวินาทีหากข้ามจุดเช็คพอยต์
+pschool:2652693671,Best Time,เวลาที่ดีที่สุด
+pschool:2755682424,Continue,ดำเนินการต่อ
+pschool:2767823095,The vehicle got stuck.,ยานพาหนะติดหล่ม
+pschool:2768800133,~s~Use the meter on the right to track progress for each stunt.,~s~ใช้มาตรวัดทางด้านขวาเพื่อติดตามความคืบหน้าของท่าผาดโผนแต่ละท่า
+pschool:2807033688,Early landing.,ลงจอดก่อนกำหนด
+pschool:2851559205,~s~Use ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to control your rudders.,~s~ใช้ ~INPUT_VEH_FLY_YAW_LEFT~ หรือ ~INPUT_VEH_FLY_YAW_RIGHT~ เพื่อควบคุมแพนหางดิ่ง
+pschool:2874400692,Flight School Runway Landing,การลงจอดบนรันเวย์ - โรงเรียนการบิน
+pschool:2889212280,Flight School Take Off,การนำเครื่องขึ้น - โรงเรียนการบิน
+pschool:2910768968,~s~The altitude indicator on the radar tracks height above sea level.,~s~มาตรวัดเพดานบินบนเรดาร์จะติดตามความสูงเหนือระดับน้ำทะเล
+pschool:2974352210,The vehicle was destroyed.,ยานพาหนะถูกทำลาย
+pschool:3091264440,~s~Knife and hold the plane steady until the meter fills.,~s~ทำท่าไนฟ์เอจและประคองเครื่องให้มั่นคงจนกว่าแถบจะเต็ม
+pschool:3149136415,~s~The center line represents the plane.~n~Keep it below the upper altitude line.,~s~เส้นตรงกลางแทนตัวเครื่องบิน ~n~ รักษาตำแหน่งให้อยู่ใต้เส้นระดับความสูงด้านบน
+pschool:3167486570,TIME,เวลา
+pschool:3191959922,Best Formation Score,คะแนนการบินเกาะกลุ่มที่ดีที่สุด
+pschool:3206130447,Are you sure you want to quit Flight School?,นายแน่ใจนะว่าต้องการออกจากโรงเรียนการบิน?
+pschool:3238317613,Use ~INPUTGROUP_MOVE~ to direct your freefall.~n~Press ~INPUT_PARACHUTE_DEPLOY~ to deploy parachute.~n~,ใช้ ~INPUTGROUP_MOVE~ เพื่อบังคับทิศทางขณะดิ่งพสุธา ~n~ กด ~INPUT_PARACHUTE_DEPLOY~ เพื่อกางร่ม ~n~
+pschool:3244459837,Flight School Earn Your Wings,ฝึกฝนเพื่อเป็นนักบิน - โรงเรียนการบิน
+pschool:3257902367,Too many checkpoints missed.,พลาดจุดเช็คพอยต์มากเกินไป
+pschool:3263970122,~HUD_COLOUR_BRONZE~BEST TIME~s~,~HUD_COLOUR_BRONZE~เวลาที่ดีที่สุด ~s~
+pschool:3268269595,Didn't stay in formation.,รักษาการบินเกาะกลุ่มไม่ได้
+pschool:3283150844,~s~Use ~INPUT_VEH_FLY_PITCH_UD~ to control pitch and descend.,~s~ใช้ ~INPUT_VEH_FLY_PITCH_UD~ เพื่อควบคุมการปักหัวลงเพื่อลดระดับ
+pschool:3296518141,Ditched too early.,สละเครื่องเร็วเกินไป
+pschool:3301883647,Won,ชนะ
+pschool:3388311986,~s~Use ~INPUT_VEH_FLY_THROTTLE_UP~ to ascend and ~INPUT_VEH_FLY_THROTTLE_DOWN~ to descend.,~s~ใช้ ~INPUT_VEH_FLY_THROTTLE_UP~ เพื่อบินขึ้นและ ~INPUT_VEH_FLY_THROTTLE_DOWN~ เพื่อลง
+pschool:3393068464,Flight School Flat Hatting,การบินระดับต่ำ - โรงเรียนการบิน
+pschool:3525278530,Water landing.,ลงจอดบนผิวน้ำ
+pschool:3568306387,Retry from the beginning?,ลองใหม่ตั้งแต่ต้นใช่ไหม?
+pschool:3592586928,~s~HALF LOOP~s~,~s~ ตีลังกาครึ่งวงรอบ ~s~
+pschool:3593183774,~s~Use ~INPUTGROUP_FLY~ to control the nose of your vehicle.,~s~ใช้ ~INPUTGROUP_FLY~ เพื่อควบคุมส่วนหัวของยานพาหนะ
+pschool:3636394728,~s~Learn how to fly sideways.,~s~เรียนรู้วิธีบินแบบตะแคงข้าง
+pschool:3681499668,~s~Perform a knife edge on the other side.,~s~ทำท่าไนฟ์เอจอีกด้านหนึ่ง
+pschool:3706657400,~s~Hold ~INPUT_VEH_FLY_THROTTLE_DOWN~ to decelerate.,~s~กด ~INPUT_VEH_FLY_THROTTLE_DOWN~ ค้างไว้เพื่อชะลอความเร็ว
+pschool:3721365442,Hold ~INPUT_PARACHUTE_BRAKE_LEFT~ or ~INPUT_PARACHUTE_BRAKE_RIGHT~ for sharp turns.~n~Hold ~INPUT_PARACHUTE_BRAKE_LEFT~ + ~INPUT_PARACHUTE_BRAKE_RIGHT~ for precision landing.~n~,กด ~INPUT_PARACHUTE_BRAKE_LEFT~ หรือ ~INPUT_PARACHUTE_BRAKE_RIGHT~ ค้างไว้เพื่อเลี้ยวโค้งหักศอก ~n~ กด ~INPUT_PARACHUTE_BRAKE_LEFT~ + ~INPUT_PARACHUTE_BRAKE_RIGHT~ ค้างไว้เพื่อการลงจอดที่แม่นยำ ~n~
+pschool:3735762209,~s~ROLL~s~,~s~ ม้วนตัว ~s~
+pschool:3738546725,"~s~In order to make sharp turns, use ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ for control over the rudder.",~s~เพื่อให้เลี้ยวได้อย่างรวดเร็ว ให้ใช้ ~INPUT_VEH_FLY_YAW_LEFT~ หรือ ~INPUT_VEH_FLY_YAW_RIGHT~ เพื่อควบคุมแพนหางดิ่ง
+pschool:3750041101,Player idle.,ผู้เล่นไม่มีการตอบสนอง
+pschool:3757707535,~HUD_COLOUR_GOLD~GOLD,~HUD_COLOUR_GOLD~ทอง
+pschool:3785883648,~s~Roll the plane right side up.,~s~พลิกเครื่องบินให้กลับมาอยู่ในแนวปกติ
+pschool:3809303181,Formation Score,คะแนนการบินเกาะกลุ่ม
+pschool:3819606459,Finish,เส้นชัย
+pschool:3828222778,~s~Join the ranks and fly in formation with the other flight school graduates.,~s~เข้าร่วมกลุ่มและบินเกาะกลุ่มกับผู้สำเร็จการศึกษาจากโรงเรียนการบินคนอื่นๆ
+pschool:3901223375,Landed too far away from the target.,ลงจอดห่างจากเป้าหมายเกินไป
+pschool:3919338659,~s~Land closer to the target for a better score.,~s~ลงจอดให้ใกล้เป้าหมายมากขึ้นเพื่อให้ได้คะแนนดีขึ้น
+pschool:3994199056,Hold ~INPUT_PARACHUTE_BRAKE_LEFT~ or ~INPUT_PARACHUTE_BRAKE_RIGHT~ for sharp turns.~n~Hold ~INPUT_PARACHUTE_PRECISION_LANDING~ for precision landing.~n~,กด ~INPUT_PARACHUTE_BRAKE_LEFT~ หรือ ~INPUT_PARACHUTE_BRAKE_RIGHT~ ค้างไว้เพื่อเลี้ยวโค้งหักศอก ~n~ กด ~INPUT_PARACHUTE_PRECISION_LANDING~ ค้างไว้เพื่อการลงจอดที่แม่นยำ ~n~
+pschool:4011043402,Use ~INPUTGROUP_LOOK~ to look around.~n~Press ~INPUT_JUMP~ to jump.,ใช้ ~INPUTGROUP_LOOK~ เพื่อมองไปรอบๆ ~n~ กด ~INPUT_JUMP~ เพื่อกระโดด
+pschool:4045188007,~s~Fly a helicopter through the city as fast as possible.,~s~ขับเฮลิคอปเตอร์ผ่านเมืองให้เร็วที่สุดเท่าที่จะทำได้
+pschool:4111168294,Flight School Touch Down,การลงจอดบนเป้าหมาย - โรงเรียนการบิน
+pschool:4117145469,~s~Hold the plane upside down until the meter fills.,~s~ประคองเครื่องบินในท่าหงายท้องจนกว่าแถบจะเต็ม
+pschool:4120243155,Recent Time,เวลาล่าสุด
+pschool:4182649037,~HUD_COLOUR_GOLD~BEST TIME~s~,~HUD_COLOUR_GOLD~เวลาที่ดีที่สุด ~s~
+pschool:4194106716,~s~Head for the nearest ~y~checkpoint.~s~,~s~มุ่งหน้าไปยัง ~y~จุดเช็คพอยต์ ~s~ ที่ใกล้ที่สุด
+pschool:4200502652,The plane was abandoned.,เครื่องบินถูกทิ้ง
+pschool:4215557515,Landing gear in wrong position.,ฐานล้อยู่อยู่ในตำแหน่งที่ผิด
+pschool:4279175829,INFORMATION,ข้อมูล
+pschool:4294034113,~s~Skydive from a high altitude and try to land on a moving target.,~s~กระโดดร่มจากระดับความสูงมากและพยายามลงจอดบนเป้าหมายที่เคลื่อนที่

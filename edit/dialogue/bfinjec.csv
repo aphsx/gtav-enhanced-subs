@@ -1,0 +1,36 @@
+﻿id,en,th
+bfinjec:2489681,Press ~INPUT_PHONE~ to bring up the phone.,กด ~INPUT_PHONE~ เพื่อเรียกโทรศัพท์
+bfinjec:181049649,~s~Silence ~r~Javier.,~s~จัดการ ~r~ฮาเวียร์
+bfinjec:204312538,~s~Move the rifle with ~INPUTGROUP_LOOK~,~s~เลื่อนปืนไรเฟิลด้วย ~INPUTGROUP_LOOK~
+bfinjec:237368484,~s~Get back in the ~b~van.,~s~กลับเข้าไปใน ~b~รถแวน
+bfinjec:360751744,~s~The plane will need multiple shots to be taken down.,~s~เครื่องบินจะต้องถูกยิงหลายครั้งถึงจะตก
+bfinjec:453971578,Access the Sniper app.,เข้าแอป Sniper
+bfinjec:467680092,~s~Go inside the ~b~plane.,~s~เข้าไปใน ~b~เครื่องบิน
+bfinjec:583507439,The remote sniper was not activated in time and the plane got away.,สไนเปอร์ระยะไกลไม่ทำงานทันเวลาและเครื่องบินหนีไปได้
+bfinjec:623971304,~s~Michael abandoned the van.,~s~ไมเคิลละทิ้งรถตู้
+bfinjec:679957674,~s~Destroy the ~r~van.,~s~ทำลาย ~r~รถแวน
+bfinjec:797062058,Shoot the ~r~plane's engine.,ยิงเครื่องยนต์ของ ~r~เครื่องบิน
+bfinjec:855719522,Take the plane out before it's too late.,จัดการเครื่องบินก่อนที่จะสายเกินไป
+bfinjec:922136435,~s~Trevor died.,~s~เทรเวอร์ตายแล้ว
+bfinjec:928379463,~s~Lose the Cops.,~s~หนีตำรวจ
+bfinjec:983029499,Targets need distance compensation to hit. Zoom in on the target to calculate distance compensation.,เป้าหมายต้องชดเชยระยะทางเพื่อยิงให้โดน ซูมเข้าที่เป้าหมายเพื่อคำนวณการชดเชยระยะทาง
+bfinjec:1001438798,Follow the plane and get the package.,ตามเครื่องบินและเอาพัสดุ
+bfinjec:1091533213,~s~Zoom in and out with ~INPUT_SNIPER_ZOOM~,~s~ซูมเข้าและออกด้วย ~INPUT_SNIPER_ZOOM~
+bfinjec:1095424757,~s~Go to ~y~Martin's house.,~s~ไปที่บ้านของ ~y~มาร์ติน
+bfinjec:1159402715,Take out the ~r~target.~s~,กำจัด ~r~เป้าหมาย~s~
+bfinjec:1162956203,Trevor lost the plane.,เทรเวอร์ ตามเครื่องบินไม่ทัน
+bfinjec:1331556462,Go to the ~y~observatory.,ไปที่ ~y~หอดูดาว
+bfinjec:1380148748,~s~The remote sniper was destroyed.,~s~สไนเปอร์ระยะไกลถูกทำลาย
+bfinjec:1394321874,~s~Leave the area.,~s~ออกจากพื้นที่
+bfinjec:1963772900,Aim for the red target calculated to compensate for the distance.,เล็งไปที่เป้าหมายสีแดงที่คำนวณไว้เพื่อชดเชยระยะทาง
+bfinjec:2022388379,~s~Michael destroyed the van too close to the observatory.,~s~ไมเคิลทำลายรถตู้ใกล้กับหอดูดาวเกินไป
+bfinjec:2276474935,Go to the ~y~viewpoint.~s~,ไปที่ ~y~จุดสังเกตการณ์~s~
+bfinjec:2386213249,Call Franklin.,โทรหา แฟงคลิน
+bfinjec:2425520879,Press ~INPUT_VEH_CIN_CAM~ to toggle focus onto the plane.,กด ~INPUT_VEH_CIN_CAM~ เพื่อสลับโฟกัสไปที่เครื่องบิน
+bfinjec:2581493057,~s~Michael died.,~s~ไมเคิลตายแล้ว
+bfinjec:2591247079,Get a vehicle or get back on the ~b~bike.,หายานพาหนะหรือกลับไปขี่ ~b~มอเตอร์ไซค์
+bfinjec:2749401413,~s~Trevor's car was destroyed.,~s~รถของเทรเวอร์ถูกทำลาย
+bfinjec:3612804871,~s~Take the sniper to the ~y~locker.,~s~เอาสไนเปอร์ไปที่ ~y~ล็อกเกอร์
+bfinjec:3834774795,The plane got too close to the airport.,เครื่องบินเข้าใกล้สนามบินมากเกินไป
+bfinjec:3954323389,~s~Meet Trevor at the ~y~cement works.,~s~พบกับเทรเวอร์ที่ ~y~โรงงานซีเมนต์
+bfinjec:4159686712,~s~Get in the ~b~van.,~s~เข้าไปใน ~b~รถแวน

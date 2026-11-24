@@ -1,0 +1,32 @@
+﻿id,en,th
+mch2:38035004,~s~Press ~PAD_B~ to throw him off.~s~,~s~กด ~PAD_B~ เพื่อโยนเขาออกไป~s~
+mch2:225554163,~s~Protect Michael from the ~r~kidnappers.~s~,~s~ปกป้องไมเคิลจาก ~r~พวกลักพาตัว~s~
+mch2:251236791,~s~TIME~s~,~s~เวลา~s~
+mch2:345066062,~s~Go to ~y~Michael's house.~s~,~s~ไปที่ ~y~บ้านของไมเคิล~s~
+mch2:462165792,~s~The car was destroyed.~s~,~s~รถถูกทำลาย~s~
+mch2:549393726,~s~Michael died.~s~,~s~ไมเคิลตายแล้ว~s~
+mch2:640666325,~s~Go inside ~y~Michael's house.~s~,~s~เข้าไปข้างใน ~y~บ้านของไมเคิล~s~
+mch2:770408589,~s~Michael has been kidnapped.~s~,~s~ไมเคิลถูกลักพาตัวไป~s~
+mch2:948332139,~s~Press ~INPUT_CONTEXT~ to free Michael from the hook.~s~,~s~กด ~INPUT_CONTEXT~ เพื่อปลด ไมเคิล จากขอเกี่ยว~s~
+mch2:1068311568,~s~SWITCH to Franklin.~s~,~s~เปลี่ยนเป็น แฟรงคลิน~s~
+mch2:1336020583,~s~Use SWITCH when outside the slaughterhouse to find a way to reach Michael.~s~,~s~ใช้ การเปลี่ยนตัวละคร เมื่ออยู่นอกโรงฆ่าสัตว์เพื่อหาทางไปถึงไมเคิล~s~
+mch2:1517988004,~s~SWITCH to Michael to view his location.~s~,~s~เปลี่ยนเป็น ไมเคิล เพื่อดูตำแหน่งของเขา~s~
+mch2:1561264093,~s~Find a way into the slaughterhouse.~s~,~s~หาทางเข้าไปในโรงฆ่าสัตว์~s~
+mch2:1594031642,~s~SWITCH to Franklin to scout ahead.~s~,~s~เปลี่ยนเป็น แฟรงคลิน เพื่อสอดแนมไปข้างหน้า~s~
+mch2:1779717403,~s~Franklin died.~s~,~s~แฟรงคลินตายแล้ว~s~
+mch2:1885248868,~s~Find a ~g~weapon.~s~,~s~ค้นหา ~g~อาวุธ~s~
+mch2:2007215690,~y~Escape~s~ from the slaughterhouse.~s~,~y~หลบหนี~s~ จากโรงฆ่าสัตว์~s~
+mch2:2119583260,~s~Hold ~INPUT_AIM~ to aim. Press ~INPUT_ATTACK~ to fire a weapon.~s~,~s~กดค้าง ~INPUT_AIM~ เพื่อเล็ง กด ~INPUT_ATTACK~ เพื่อยิงอาวุธ~s~
+mch2:2459782271,~s~Press ~INPUT_CONTEXT~ to throw Michael a gun.~s~,~s~กด ~INPUT_CONTEXT~ เพื่อโยนปืนให้ไมเคิล~s~
+mch2:2533587462,Vehicle,พาหนะ
+mch2:2606226276,~s~Find Michael's location.~s~,~s~ค้นหาตำแหน่งของไมเคิล~s~
+mch2:2749905868,~s~Shoot above ~b~Michael's ~s~feet to free him from the rail.~s~,~s~ยิงเหนือเท้าด้านบนของ ~b~ไมเคิล~s~ เพื่อปลดปล่อยเขาจากขอเกี่ยว~s~
+mch2:2832733645,~s~Rapidly tap ~INPUT_SPRINT~ to stand faster.~s~,~s~แตะอย่างรวดเร็ว ~INPUT_SPRINT~ เพื่อให้ยืนเร็วขึ้น~s~
+mch2:2976765581,~s~Michael's location is marked as a red blip on the Trackify app.~s~,~s~ตำแหน่งของไมเคิลถูกทำเครื่องหมายเป็นสีแดงกระพริบ บนแอพ trackify~s~
+mch2:3201007059,~s~Get closer to ~b~Michael ~s~and throw him a weapon.~s~,~s~เข้าไปใกล้ ~b~ไมเคิล~s~ และโยนอาวุธให้เขา~s~
+mch2:3208278566,~s~Launch Trackify from the bottom right of the phone app menu.~s~,~s~เปิดแอพ Trackify จากด้านล่างขวาของเมนูแอพในโทรศัพท์~s~
+mch2:3284499556,~s~Collect Michael's stashed weapons that were taken when he was captured.~s~,~s~เก็บอาวุธที่ถูกซ่อนเอาไว้ของไมเคิลเมื่อตอนที่เขาถูกจับ~s~
+mch2:3322213998,~s~Rescue ~b~Michael.~s~,~s~ช่วยเหลือ ~b~ไมเคิล~s~
+mch2:3477156248,~s~Out of ammo.~s~,~s~กระสุนหมด~s~
+mch2:3830477612,~s~Trackify app received.~s~,~s~คุณได้รับแอป trackify~s~
+mch2:3917115612,~s~SWITCH available between Michael and Franklin.~s~,~s~การเปลี่ยนตััวละคร ระหว่าง ไมเคิล และ แฟรงคลิน สามารถใช้ได้~s~

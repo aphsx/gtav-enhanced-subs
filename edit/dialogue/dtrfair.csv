@@ -1,0 +1,50 @@
+﻿id,en,th
+dtrfair:34705556,~s~To raise the landing gear press ~INPUT_VEH_FLY_UNDERCARRIAGE~ ~s~,~s~กด ~INPUT_VEH_FLY_UNDERCARRIAGE~ เพื่อเก็บฐานล้อ ~s~
+dtrfair:45446861,~s~Use ~INPUTGROUP_SCRIPT_LSTICK_ALL~ to adjust the bomb's horizontal trajectory.~s~,~s~ใช้ ~INPUTGROUP_SCRIPT_LSTICK_ALL~ เพื่อปรับวิถีแนวราบของระเบิด ~s~
+dtrfair:66797479,Accurate Drop Bonus,โบนัสความแม่นยำในการส่ง
+dtrfair:288494538,~s~You must destroy every vehicle in each grouping.  Vehicles in this grouping have survived and you must make another bombing pass to eliminate them.~s~,~s~นายต้องทำลายยานพาหนะทุกคันในแต่ละกลุ่ม มียานพาหนะในกลุ่มนี้รอดชีวิตและนายต้องทำการบินทิ้งระเบิดอีกรอบเพื่อกำจัดพวกมัน ~s~
+dtrfair:298783857,~s~Deliver an arms package to the next ~y~drop.~s~,~s~ส่งพัสดุอาวุธไปยัง ~y~จุดส่ง ~s~ ถัดไป
+dtrfair:628152146,~s~Targets are marked with a flare.~s~,~s~เป้าหมายจะถูกทำเครื่องหมายด้วยพลุไฟ ~s~
+dtrfair:719981210,Mission Failed,ภารกิจล้มเหลว
+dtrfair:751627534,~s~The plane was abandoned.~s~,~s~เครื่องบินถูกทิ้ง ~s~
+dtrfair:868250609,~s~To lower the landing gear press ~INPUT_VEH_FLY_UNDERCARRIAGE~ ~s~,~s~กด ~INPUT_VEH_FLY_UNDERCARRIAGE~ เพื่อกางฐานล้อ ~s~
+dtrfair:983197936,~s~The plane was destroyed.~s~,~s~เครื่องบินถูกทำลาย ~s~
+dtrfair:1121768292,~s~Rival arms runners are using trains and boats to transport weapons. Destroy these targets to deal a major blow to the organization.,~s~นักค้าอาวุธคู่แข่งกำลังใช้รถไฟและเรือในการขนส่งอาวุธ ทำลายเป้าหมายเหล่านี้เพื่อสร้างความเสียหายหนักให้กับองค์กร
+dtrfair:1212121572,~s~Rival arms runners are expecting arms drops. Destroy the competition by bombing drop sites.~s~,~s~นักค้าอาวุธคู่แข่งกำลังรอรับการส่งอาวุธ ทำลายคู่แข่งด้วยการทิ้งระเบิดใส่จุดส่งของซะ ~s~
+dtrfair:1221969545,Passed,ผ่าน
+dtrfair:1243219195,DELIVERED,ส่งแล้ว
+dtrfair:1327551989,All Targets Hit Bonus,โบนัสโจมตีโดนเป้าหมายทั้งหมด
+dtrfair:1409808393,~s~Fly to the competing ~y~arms runners' base.~s~,~s~บินไปยังฐานของ ~y~นักค้าอาวุธ ~s~ คู่แข่ง
+dtrfair:1473749110,DESTROYED,ถูกทำลาย
+dtrfair:1556771144,Time Bonus,โบนัสเวลา
+dtrfair:1568255064,~s~Rival arms runners are now mobile to avoid the bombs. Seek them out and destroy them to eliminate the competition.~s~,~s~เหล่านักค้าอาวุธคู่แข่งกำลังเคลื่อนที่เพื่อหลบระเบิดตามหาและทำลายพวกมันเพื่อกำจัดคู่แข่งให้หมดไป ~s~
+dtrfair:1764573985,PACKAGES,พัสดุ
+dtrfair:1802455107,"~s~When approaching a drop location, the Radar will indicate the drop zone range. Drop a package within this area for a successful delivery.~s~",~s~เมื่อเข้าใกล้ตำแหน่งส่งของ เรดาร์จะแสดงระยะของโซนส่งของ ให้ปล่อยพัสดุภายในพื้นที่นี้เพื่อให้การส่งของสำเร็จ ~s~
+dtrfair:1806874709,~s~To release cargo press ~INPUT_VEH_FLY_ATTACK~~s~,~s~กด ~INPUT_VEH_FLY_ATTACK~ เพื่อปล่อยสินค้า ~s~
+dtrfair:1866738101,~s~Kill competing ~r~arms runners.~s~,~s~สังหาร ~r~นักค้าอาวุธ ~s~ คู่แข่ง
+dtrfair:1905499849,~s~Destroy the next ~r~target.~s~,~s~ทำลาย ~r~เป้าหมาย ~s~ ถัดไป
+dtrfair:2022168193,"~s~With the newly upgraded bombing equipment, hitting ~INPUT_SCRIPT_RDOWN~ will release a long drop of several bombs. Make sure to take a good line on the target cluster before releasing the payload.",~s~ด้วยอุปกรณ์ทิ้งระเบิดที่ได้รับการอัปเกรดใหม่ การกด ~INPUT_SCRIPT_RDOWN~ จะเป็นการปล่อยระเบิดชุดยาวหลายลูก ตรวจสอบให้แน่ใจว่าได้ตั้งลำในแนวที่ดีต่อกลุ่มเป้าหมายก่อนที่จะปล่อยระเบิด
+dtrfair:2100147688,Taxi the plane into the ~y~hangar.~s~,นำเครื่องบินเข้าจอดใน ~y~โรงเก็บเครื่องบิน ~s~
+dtrfair:2134653466,~s~Destroy the next set of ~r~targets.~s~,~s~ทำลายชุด ~r~เป้าหมาย ~s~ ถัดไป
+dtrfair:2217545291,~s~The plane must be a certain height above sea level to release the pay load.~s~,~s~เครื่องบินต้องอยู่ที่ระดับความสูงเหนือระดับน้ำทะเลที่กำหนดเพื่อปล่อยสินค้า ~s~
+dtrfair:2264170159,BOMBS,ระเบิด
+dtrfair:2425648765,~s~Deliver arms packages to the ~y~drop-off locations~s~ in the allotted time.,~s~ส่งพัสดุอาวุธไปยัง ~y~ตำแหน่งส่งของ ~s~ ภายในเวลาที่กำหนด
+dtrfair:2609720966,Bomb Target,เป้าหมายระเบิด
+dtrfair:2688480264,Drop Site,จุดส่งของ
+dtrfair:2733061942,"~s~The arms purchaser died, this location cannot be completed successfully.~s~",~s~ผู้ซื้ออาวุธเสียชีวิต ไม่สามารถดำเนินการในตำแหน่งนี้ให้สำเร็จได้ ~s~
+dtrfair:2820675926,Use ~INPUT_VEH_FLY_YAW_LEFT~ or ~INPUT_VEH_FLY_YAW_RIGHT~ to turn the plane left or right.,ใช้ ~INPUT_VEH_FLY_YAW_LEFT~ หรือ ~INPUT_VEH_FLY_YAW_RIGHT~ เพื่อเลี้ยวเครื่องบินไปทางซ้ายหรือขวา
+dtrfair:2896587975,~s~The packages were not delivered in time.~s~,~s~พัสดุไม่ได้ถูกส่งตามเวลาที่กำหนด ~s~
+dtrfair:2949753543,~s~Destroy the ~r~enemy targets.~s~,~s~ทำลาย ~r~เป้าหมายศัตรู ~s~
+dtrfair:2985669831,~s~Destroy all groups of enemy ~r~vehicles.~s~,~s~ทำลายกลุ่มยานพาหนะของ ~r~ศัตรู ~s~ ทั้งหมด
+dtrfair:3065361487,Total Time,เวลารวม
+dtrfair:3124997349,Law enforcement is using radar in this area to detect arms trafficking. Stay well below the hash mark on the Radar to avoid detection.,เจ้าหน้าที่บังคับใช้กฎหมายกำลังใช้เรดาร์ในพื้นที่นี้เพื่อตรวจจับการค้าอาวุธ พยายามอยู่ให้ต่ำกว่าขีดที่ทำเครื่องหมายไว้บนเรดาร์เพื่อหลีกเลี่ยงการถูกตรวจพบ
+dtrfair:3156897685,~s~Land the plane at the ~y~airfield.~s~,~s~ลงจอดเครื่องบินที่ ~y~สนามบิน ~s~
+dtrfair:3425427259,Air Arms Trafficking,การค้าอาวุธทางอากาศ
+dtrfair:3479526348,~s~Unable to release packages at this extreme altitude. Fly closer to the ground to release packages.,~s~ไม่สามารถปล่อยพัสดุที่ระดับความสูงมากขนาดนี้ได้ บินให้ใกล้พื้นดินมากขึ้นเพื่อปล่อยพัสดุ
+dtrfair:3581672915,Bomb Site,จุดทิ้งระเบิด
+dtrfair:3813766843,~s~Deliver arms packages to the ~y~drop-off locations.~s~,~s~ส่งพัสดุอาวุธไปยัง ~y~ตำแหน่งส่งของ ~s~
+dtrfair:4021200448,Total Earned,รายได้ทั้งหมด
+dtrfair:4064582714,Low Altitude Bonus,โบนัสเพดานบินต่ำ
+dtrfair:4136861852,~s~The plane has been detected by radar.~s~,~s~เครื่องบินถูกตรวจพบโดยเรดาร์ ~s~
+dtrfair:4179354526,~s~To release bombs press ~INPUT_VEH_FLY_ATTACK~~s~,~s~กด ~INPUT_VEH_FLY_ATTACK~ เพื่อปล่อยระเบิด ~s~
+dtrfair:4238587464,~s~Unable to release bombs at this extreme altitude. Fly closer to the ground to release bombs.,~s~ไม่สามารถปล่อยระเบิดที่ระดับความสูงมากขนาดนี้ได้ บินให้ใกล้พื้นดินมากขึ้นเพื่อปล่อยระเบิด
