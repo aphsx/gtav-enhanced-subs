@@ -1,6 +1,12 @@
 # NOTICE
 
 - **Rockstar / Take-Two** own GTA V Enhanced and original English strings.
-- This repo ships **fan Thai text + build scripts only**. Do not commit `update.rpf` / `update2.rpf` / game dumps.
-- Optional font atlas `font_lib_efigs_pc.gfx` (if you add it under `patch/`) may come from rebuild from your own stock game files + OFL glyphs before redistributing.
-- Loaders such as OpenRPF belong to their authors; link or vendor with their terms.
+- This repo ships **fan Thai text + build scripts**. Do not commit full `update.rpf` / `update2.rpf` game dumps.
+
+## Font
+- `assets/font_lib_efigs_pc.gfx` is rebuilt from **stock** Scaleform + **Noto Sans Thai Looped** glyphs.
+- Noto Sans Thai Looped © Google — **SIL Open Font License 1.1** (`assets/OFL-NotoSansThaiLooped.txt`).
+
+
+## Loaders
+- `OpenRPF.asi` / `xinput1_4.dll` belong to their authors; keep credit / their terms.
