@@ -3,13 +3,15 @@ __pycache__/
 *.pyc
 .keys/
 .rpfpeek/
-*.rpf
-!patch/.gitkeep
 ready_mods/
 build/
-dist/
 .DS_Store
 Thumbs.db
 *.zip
 .env
 keys/
+# built game archives (never commit)
+dist/*.rpf
+patch/*.rpf
+!dist/.gitkeep
+work/

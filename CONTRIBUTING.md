@@ -30,4 +30,11 @@
 - [ ] โทนไม่แรงกว่า EN
 - [ ] ไม่แนบไฟล์ `.rpf` เกม
 
-Maintainer จะ build เป็นแพ็กมอดจาก CSV เหล่านี้ — ผู้แปลไม่ต้องแตะ RPF
+Maintainer / คนที่อยากติดเกมเอง รัน:
+
+```powershell
+python -m pip install -r requirements.txt
+python tools/build.py --game "PATH\Grand Theft Auto V Enhanced" --install
+```
+
+ผู้แปลไม่ต้องแตะ RPF — แค่ CSV
