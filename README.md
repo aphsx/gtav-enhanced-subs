@@ -96,6 +96,7 @@ PRs welcome — text, UI dumps, tools, fonts, docs.
 
 - How: [`CONTRIBUTING.md`](CONTRIBUTING.md)
 - Ideas: [`ROADMAP.md`](ROADMAP.md)
+- Resume / paused work: [`docs/CONTINUE.md`](docs/CONTINUE.md)
 - Repo vs legacy packs: [`docs/STRUCTURE.md`](docs/STRUCTURE.md)
 
 ## 📄 License

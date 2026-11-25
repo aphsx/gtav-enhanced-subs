@@ -2,11 +2,16 @@
 
 Ship what helps players and contributors. PRs appreciated.
 
+**Paused handoff / where we left off:** [`docs/CONTINUE.md`](docs/CONTINUE.md)
+
 ## Text
-- [ ] Fill / polish tips & emails still awkward in Thai
+- [x] Bulk SP dialogue + tips Thai present (~99.5% rows) — tip `b5638ab`
+- [ ] Stiff calque pass (~70 lines: ฉันหมายถึง / พวกเขาก็ / …)
+- [ ] Hand-pass large stems still thin (`fb3aud`, `fam6aud`, `armsaud`, `rbh2aud`, …)
 - [ ] Seed + translate UI menus (`edit/ui/` via `dump_from_game.py`)
 - [ ] Coverage gaps: `python tools/status.py --by-file`
 - [ ] Optional: more languages later (same CSV layout, new column or `edit/<lang>/`)
+
 
 ## Font / rendering
 - [ ] Tone-mark / stacking edge cases on Scaleform
