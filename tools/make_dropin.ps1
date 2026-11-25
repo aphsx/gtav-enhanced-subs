@@ -32,11 +32,20 @@ Copy-Item -Force (Join-Path $GameRoot "mods\update\update.rpf") $modsOut
 Copy-Item -Force (Join-Path $GameRoot "mods\update\update2.rpf") $modsOut
 Copy-Item -Force (Join-Path $Root "PLAYERS.md") (Join-Path $out "README_ติดตั้ง.txt")
 
+# Compress-Archive cannot handle >2GiB update.rpf — prefer 7-Zip, else leave folder.
 $zip = Join-Path $Root "release\GTA_V_Thai_Subs_DROP_IN.zip"
-if (Test-Path $zip) { Remove-Item $zip -Force }
-Compress-Archive -Path (Join-Path $out "*") -DestinationPath $zip -CompressionLevel Optimal
+$seven = @(
+  "${env:ProgramFiles}\7-Zip\7z.exe",
+  "${env:ProgramFiles(x86)}\7-Zip\7z.exe"
+) | Where-Object { Test-Path $_ } | Select-Object -First 1
+if ($seven) {
+  if (Test-Path $zip) { Remove-Item $zip -Force }
+  & $seven a -tzip -mx=1 $zip "$out\*" | Out-Host
+  Write-Host "ZIP: $zip"
+} else {
+  Write-Host "No 7-Zip — share the folder as-is (or install 7-Zip and re-run):"
+}
 
 Write-Host "DROP-IN ready:"
 Write-Host "  $out"
-Write-Host "  $zip"
-Write-Host "Players: unzip into Grand Theft Auto V Enhanced folder (merge)."
+Write-Host "Players: copy folder contents into Grand Theft Auto V Enhanced (merge)."
