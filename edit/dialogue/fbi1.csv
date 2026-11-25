@@ -1,27 +1,27 @@
 ﻿id,en,th
-fbi1:69219789,~s~Michael died.~s~,~s~ Michael ตายแล้ว~s~
+fbi1:69219789,~s~Michael died.~s~,~s~ Michael ตาย~s~
 fbi1:129181945,Mission Failed,ภารกิจล้มเหลว
-fbi1:624231399,~s~Take down the ~r~IAA officers.~s~,~s~กำจัด ~r~เจ้าหน้าที่IAA~s~
-fbi1:873898410,~s~Search the morgue for the ~g~body.~s~,~s~ค้นห้องเก็บศพเพื่อหา ~g~ร่าง~s~
-fbi1:1191287044,~s~Press ~INPUT_SKIP_CUTSCENE~ to wake up.~s~,~s~กด ~INPUT_SKIP_CUTSCENE~ เพื่อตื่นขึ้นมา~s~
+fbi1:624231399,~s~Take down the ~r~IAA officers.~s~,~s~จัดการ ~r~เจ้าหน้าที่ IAA~s~
+fbi1:873898410,~s~Search the morgue for the ~g~body.~s~,~s~ค้นห้องเก็บศพหา ~g~ศพ~s~
+fbi1:1191287044,~s~Press ~INPUT_SKIP_CUTSCENE~ to wake up.~s~,~s~กด ~INPUT_SKIP_CUTSCENE~ เพื่อตื่น~s~
 fbi1:1333800145,Mission Passed,ภารกิจสำเร็จ
-fbi1:1432139194,~s~The elevator is out of service.~s~,~s~ลิฟต์งดให้บริการ~s~
+fbi1:1432139194,~s~The elevator is out of service.~s~,~s~ลิฟต์งดใช้งาน~s~
 fbi1:1551778813,~s~Press ~input_jump~ to jump.~s~,~s~กด ~input_jump~ เพื่อกระโดด~s~
-fbi1:1609747178,~s~Michael's special ability bar will fill when Michael performs lethal moves such as headshots and stealth takedowns.,~s~แถบความสามารถพิเศษของ Michael จะเติมเต็มเมื่อ Michael ทำการเคลื่อนไหวที่รุนแรง เช่น ยิง Headshots และการจู่โจมแบบลอบเร้น
-fbi1:1846011668,~s~Press ~input_jump~ to climb out the window.~s~,~s~กด ~input_jump~ เพื่อปีนออกไปนอกหน้าต่าง~s~
-fbi1:2024963173,~s~The yellow bar indicates Michael's special ability level. Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to slow down time.,~s~แถบสีเหลืองหมายถึงระดับความสามารถพิเศษของ Michael กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ ร่วมกันเพื่อชะลอเวลาลง~s~
-fbi1:2128623420,~s~Jump into the ~y~laundry truck.~s~,~s~กระโดดเข้าไปใน ~y~รถบรรทุกซักรีด~s~
-fbi1:2366100363,~s~Escape through the ~y~window.~s~,~s~หลบหนีผ่าน ~y~หน้าต่าง~s~
-fbi1:2379337016,~s~Get the ~r~agent's~s~ weapon.~s~,~s~รับ ~r~agent~s~อาวุธ~s~
-fbi1:2527356612,~s~Get to the ~y~top floor.~s~,~s~ไปที่ ~y~ชั้นบนสุด~s~
-fbi1:2539577426,~s~Collect your possessions from the ~y~bag.~s~,~s~รวบรวมทรัพย์สินของคุณจาก ~y~bag.~s~
-fbi1:2759164518,~s~Leave the vehicle.~s~,~s~ออกจากพาหนะ~s~
+fbi1:1609747178,~s~Michael's special ability bar will fill when Michael performs lethal moves such as headshots and stealth takedowns.,~s~แถบทักษะพิเศษของ Michael เติมเมื่อ Michael ฆ่าแบบยิงหัวหรือแอบจู่โจม
+fbi1:1846011668,~s~Press ~input_jump~ to climb out the window.~s~,~s~กด ~input_jump~ เพื่อปีนออกหน้าต่าง~s~
+fbi1:2024963173,~s~The yellow bar indicates Michael's special ability level. Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to slow down time.,~s~แถบเหลืองคือระดับทักษะพิเศษของ Michael กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ เพื่อชะลอเวลา~s~
+fbi1:2128623420,~s~Jump into the ~y~laundry truck.~s~,~s~กระโดดเข้า ~y~รถซักรีด~s~
+fbi1:2366100363,~s~Escape through the ~y~window.~s~,~s~หลบหนีทาง ~y~หน้าต่าง~s~
+fbi1:2379337016,~s~Get the ~r~agent's~s~ weapon.~s~,~s~เอาอาวุธจาก ~r~เอเจนต์~s~
+fbi1:2527356612,~s~Get to the ~y~top floor.~s~,~s~ไป ~y~ชั้นบนสุด~s~
+fbi1:2539577426,~s~Collect your possessions from the ~y~bag.~s~,~s~เก็บของจาก ~y~กระเป๋า~s~
+fbi1:2759164518,~s~Leave the vehicle.~s~,~s~ลงจากรถ~s~
 fbi1:2839381011,Dead Body,ศพ
-fbi1:3023512041,~s~Escape from the ~y~building.~s~,~s~หลบหนีจาก ~y~อาคาร~s~
-fbi1:3385937181,~s~Escape from the ~y~building.~s~,~s~หลบหนีจาก ~y~อาคาร~s~
-fbi1:3462318667,~s~Michael's cover was blown.~s~,~s~การพรางตัวของ Michael ถูกเปิดเผย~s~
-fbi1:3466185405,~s~Franklin died.~s~,~s~ Franklin ตายแล้ว~s~
-fbi1:3605913459,~s~Shoot out the ~y~window~s~ and escape.~s~,~s~ยิง ~y~หน้าต่าง~s~ และหลบหนี~s~
-fbi1:3619285230,~s~Go to the ~y~oil derricks.~s~,~s~ไปที่ ~y~ปั้นจั่นน้ำมัน~s~
-fbi1:3914076995,~s~The yellow bar indicates Michael's special ability level. Press ~INPUT_SPECIAL_ABILITY_PC~ to slow down time.~s~,~s~แถบสีเหลืองหมายถึงระดับความสามารถพิเศษของ Michael กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อชะลอเวลาลง~s~
-fbi1:4066416216,Climb out of the ~y~window.~s~,ปีนออกจาก ~y~หน้าต่าง ~s~
+fbi1:3023512041,~s~Escape from the ~y~building.~s~,~s~หนีออกจาก ~y~ตึก~s~
+fbi1:3385937181,~s~Escape from the ~y~building.~s~,~s~หนีออกจาก ~y~ตึก~s~
+fbi1:3462318667,~s~Michael's cover was blown.~s~,~s~ Michael โดนเปิดโปง~s~
+fbi1:3466185405,~s~Franklin died.~s~,~s~ Franklin ตาย~s~
+fbi1:3605913459,~s~Shoot out the ~y~window~s~ and escape.~s~,~s~ยิงทะลุ ~y~หน้าต่าง~s~ แล้วหนี~s~
+fbi1:3619285230,~s~Go to the ~y~oil derricks.~s~,~s~ไปที่ ~y~ปั๊มน้ำมัน~s~
+fbi1:3914076995,~s~The yellow bar indicates Michael's special ability level. Press ~INPUT_SPECIAL_ABILITY_PC~ to slow down time.~s~,~s~แถบเหลืองคือระดับทักษะพิเศษของ Michael กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อชะลอเวลา~s~
+fbi1:4066416216,Climb out of the ~y~window.~s~,ปีนออกจาก ~y~หน้าต่าง~s~
