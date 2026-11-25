@@ -5,9 +5,14 @@ Own a legal copy of the game. Not affiliated with Rockstar.
 
 ## Download & play (like a normal mod)
 
-1. Open this repo on GitHub → **Releases**
-2. Download **`GTA_V_Thai_Subs_DROP_IN.zip`**
-3. Close the game
+1. Open this repo on GitHub → **Releases** → tag **0.0.1**
+2. Download **`GTA_V_Thai_Subs_DROP_IN.zip.001`** + **`.002`** (split; GitHub 2 GB limit)
+3. Join, then close the game
+   ```powershell
+   Get-Content .\GTA_V_Thai_Subs_DROP_IN.zip.* -Encoding Byte -ReadCount 0 |
+     Set-Content .\GTA_V_Thai_Subs_DROP_IN.zip -Encoding Byte
+   ```
+   Or open `.001` in 7-Zip and extract.
 4. Extract / merge into `Grand Theft Auto V Enhanced`
 5. Set language **American / English** → play SP
 
@@ -38,7 +43,7 @@ Edit only column **`th`** in [`edit/`](edit/) → Pull Request
 # game closed; Sarabun gfx present at assets\font_lib_efigs_pc.gfx (local)
 python tools/build.py --game "PATH\Grand Theft Auto V Enhanced" --install
 .\tools\make_dropin.ps1 -GameRoot "PATH\Grand Theft Auto V Enhanced"
-# upload release\GTA_V_Thai_Subs_DROP_IN.zip to GitHub Releases
+# split under 2GB then upload .001/.002 to GitHub Releases tag 0.0.1
 ```
 
 ## License
