@@ -2,7 +2,7 @@
 cntry1:4012889,Out of sticky bombs.~s~,ระเบิดสติ๊กกี้บอมบ์หมดแล้ว~s~
 cntry1:133116544,~s~The cover was blown.~s~,~s~การพรางตัวถูกเปิดเผย~s~
 cntry1:241923210,MOCAP Cutscene: Michael Meets up with Devin.,Mocap Cutscene: ไมเคิล พบกับ เดวิน
-cntry1:272062513,Try using Michael's special ability to help you during combat.  Press ~INPUT_SPECIAL_ABILITY~ and ~INPUT_SPECIAL_ABILITY_SECONDARY~ simultaneously when the special ability bar has some charge.~s~,ลองใช้ความสามารถพิเศษของไมเคิลเพื่อช่วยคุณในระหว่างการต่อสู้ กด ~INPUT_SPECIAL_ABILITY~ และ ~INPUT_SPECIAL_ABILITY_SECONDARY~ พร้อมกันเมื่อแถบความสามารถพิเศษมีค่าเพิ่มขึ้น
+cntry1:272062513,Try using Michael's special ability to help you during combat.  Press ~INPUT_SPECIAL_ABILITY~ and ~INPUT_SPECIAL_ABILITY_SECONDARY~ simultaneously when the special ability bar has some charge.~s~,ลองใช้ความสามารถพิเศษของ Michael ช่วยในการต่อสู้ กด ~INPUT_SPECIAL_ABILITY~ และ ~INPUT_SPECIAL_ABILITY_SECONDARY~ พร้อมกันเมื่อแถบความสามารถพิเศษมีพลัง~s~
 cntry1:309911252,Go to ~y~Cypress Flats.~s~,ไปที่ ~y~ไซเปรส แฟลตส์~s~
 cntry1:327010717,The garbage truck was destroyed in public.,รถบรรทุกขยะถูกทำลายในที่สาธารณะ
 cntry1:438294517,Devin died.~s~,เดวินตายแล้ว~s~
@@ -12,7 +12,7 @@ cntry1:667120444,Steve died.~s~,สตีฟตายแล้ว~s~
 cntry1:690883898,Destroy the ~r~garbage truck.~s~,ทำลาย ~r~รถบรรทุกขยะ~s~
 cntry1:746781871,The meeting was disrupted.~s~,การประชุมหยุดชะงัก~s~
 cntry1:791020033,Michael and Trevor were abandoned.~s~,ไมเคิลและเทรเวอร์ถูกละทิ้ง~s~
-cntry1:1008449047,Try using Michael's special ability to help you during combat. Press ~INPUT_SPECIAL_ABILITY_PC~ when the special ability bar has some charge.~s~,ลองใช้ความสามารถพิเศษของไมเคิลเพื่อช่วยคุณในระหว่างการต่อสู้ กด ~INPUT_SPECIAL_ABILITY_PC~ เมื่อแถบความสามารถพิเศษมีการเพิ่มขึ้น~s~
+cntry1:1008449047,Try using Michael's special ability to help you during combat. Press ~INPUT_SPECIAL_ABILITY_PC~ when the special ability bar has some charge.~s~,ลองใช้ความสามารถพิเศษของ Michael ช่วยในการต่อสู้ กด ~INPUT_SPECIAL_ABILITY_PC~ เมื่อแถบความสามารถพิเศษมีพลัง~s~
 cntry1:1100692807,The tow truck was destroyed.~s~,รถลากถูกทำลาย~s~
 cntry1:1129196113,Devin's car was destroyed.~s~,รถของเดวินถูกทำลาย~s~
 cntry1:1155468749,Press ~INPUT_DETONATE~ to detonate sticky bombs.,กด ~INPUT_DETONATE~ เพื่อระเบิดระเบิดสติ๊กกี้บอมบ์
@@ -47,7 +47,7 @@ cntry1:2685067360,Block the ~y~road.~s~,ขวาง~y~ถนน~s~
 cntry1:2809301441,Leave the garbage truck.,ออกจากรถบรรทุกขยะ
 cntry1:2830404484,Michael and Franklin were abandoned.~s~,ไมเคิลและแฟรงคลินถูกละทิ้ง~s~
 cntry1:2835417510,Take out the ~r~NOOSE~s~ reinforcements coming from the rear alley.,จัดการ ~r~NOOSE~s~ กำลังเสริมที่มาจากซอยด้านหลัง
-cntry1:2842384100,SWITCH available between all three characters. Hold ~INPUT_CHARACTER_WHEEL~ and use ~INPUTGROUP_LOOK~ to select a character.,การสับเปลี่ยนระหว่างทั้งสามตัวละครเปิดให้ใช้แล้ว กดค้าง ~INPUT_CHARACTER_WHEEL~ และใช้ ~INPUTGROUP_LOOK~ เพื่อเลือกตัวละคร
+cntry1:2842384100,SWITCH available between all three characters. Hold ~INPUT_CHARACTER_WHEEL~ and use ~INPUTGROUP_LOOK~ to select a character.,สลับตัวละครได้ทั้งสามคน กดค้าง ~INPUT_CHARACTER_WHEEL~ แล้วใช้ ~INPUTGROUP_LOOK~ เลือกตัวละคร
 cntry1:2936103444,~s~SWITCH to Trevor.~s~,~s~เปลี่ยนเป็น เทรเวอร์~s~
 cntry1:2969829970,Ram the ~r~security truck.~s~,พุ่งชน ~r~รถบรรทุกรักษาความปลอดภัย~s~
 cntry1:3052722122,~s~Return to ~b~Michael~s~ and ~b~Trevor.~s~,~s~กลับไปที่ ~b~ไมเคิล~s~และ ~b~เทรเวอร์~s~
@@ -67,7 +67,7 @@ cntry1:3779421749,Trevor's truck was destroyed.~s~,รถบรรทุกข�
 cntry1:3908144117,The delivery driver died.~s~,คนขับรถส่งของตายแล้ว~s~
 cntry1:4008876228,security truck,รถบรรทุกรักษาความปลอดภัย
 cntry1:4129007177,The delivery worker died.~s~,คนงานจัดส่งตายแล้ว~s~
-cntry1:4171843846,"MOCAP Cutscene: FBI 4 part 2 start sceneThe prep work is done, and the crew are ready to take the armored car. Trevor is told to go to a vantage point and call in updates. Michael will block the road with a garbage truck, and Franklin will ram the car with a tow truck. It's likely they will be a serious armed response, so they have to be prepared.","MOCAP Cutscene: FBI 4 part 2 start sceneThe prep work is done, and the crew are ready to take the armored car. เทรเวอร์is told to go to a vantage point and call in updates. ไมเคิล will block the road with a garbage truck, and แฟรงคลิน will ram the car with a tow truck. It's likely they will be a serious armed response, so they have to be prepared."
+cntry1:4171843846,"MOCAP Cutscene: FBI 4 part 2 start sceneThe prep work is done, and the crew are ready to take the armored car. Trevor is told to go to a vantage point and call in updates. Michael will block the road with a garbage truck, and Franklin will ram the car with a tow truck. It's likely they will be a serious armed response, so they have to be prepared.",MOCAP Cutscene: ภารกิจ FBI ภาค 2 เริ่ม — เตรียมการเสร็จแล้ว พร้อมปล้นรถเกราะ~n~Trevor ไปจุดสังเกตและรายงาน~n~Michael ใช้รถขยะขวางถนน~n~Franklin พุ่งชนรถด้วยรถลาก~n~คาดว่าจะมีการตอบโต้อย่างรุนแรง ต้องเตรียมตัวให้พร้อม~s~
 cntry1:4186320139,Return to ~b~Trevor~s~ and ~b~Franklin.~s~,กลับไปที่ ~b~เทรเวอร์~s~และ ~b~แฟรงคลิน~s~
 cntry1:4189427213,The garbage truck is stuck.~s~,รถบรรทุกขยะติดขัด~s~
 cntry1:4204206296,Andreas died.~s~,แอนเดรียสตายแล้ว~s~
