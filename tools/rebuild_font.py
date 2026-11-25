@@ -13,7 +13,7 @@ import tempfile
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
-TTF = ROOT / "assets" / "fonts" / "NotoSansThaiLooped-Regular.ttf"
+TTF = ROOT / "assets" / "fonts" / "Sarabun-Regular-GTA.ttf"
 OUT = ROOT / "assets" / "font_lib_efigs_pc.gfx"
 # $Font2, Arial, timer, Pricedown, Cologne — common readable faces
 FONT_IDS = (9, 7, 1, 3, 5)

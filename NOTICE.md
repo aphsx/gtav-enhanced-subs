@@ -4,8 +4,9 @@
 - This repo ships **fan Thai text + build scripts**. Do not commit full `update.rpf` / `update2.rpf` game dumps.
 
 ## Font
-- `assets/font_lib_efigs_pc.gfx` is rebuilt from **stock** Scaleform + **Noto Sans Thai Looped** glyphs.
-- Noto Sans Thai Looped © Google — **SIL Open Font License 1.1** (`assets/OFL-NotoSansThaiLooped.txt`).
+- `assets/font_lib_efigs_pc.gfx` is rebuilt from **stock** Scaleform + **Sarabun** glyphs
+  (tone marks vertically adjusted for Scaleform — see `assets/FONTS.md`).
+- Sarabun © Cadson Demak — **SIL Open Font License 1.1** (`assets/OFL-Sarabun.txt`).
 
 
 ## Loaders

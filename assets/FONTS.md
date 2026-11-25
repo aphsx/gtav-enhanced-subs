@@ -1,25 +1,23 @@
-# Font asset (license-clear)
+# Font asset (license-clear, Thai stacking fixed)
 
 ## Runtime file
 `font_lib_efigs_pc.gfx` — Scaleform font library for GTA V Enhanced.
 
 Built from:
-1. **Stock** `font_lib_efigs_pc.gfx` extracted from the user’s / builder’s game `update.rpf`
-2. Glyphs replaced via JPEXS FFDec from **Noto Sans Thai Looped Regular**
+1. **Stock** `font_lib_efigs_pc.gfx` from the game
+2. Glyphs from **Sarabun Regular** (SIL OFL 1.1), with tone-mark outlines shifted up so พิ่ / พิ้ / ดิ้ do not overlap under Scaleform (which does not apply OpenType GPOS)
 
-## Source font
-- Family: Noto Sans Thai Looped  
-- File: `fonts/NotoSansThaiLooped-Regular.ttf`  
-- License: **SIL Open Font License 1.1** — see `OFL-NotoSansThaiLooped.txt`  
-- Upstream: https://github.com/notofonts/thai  
+## Source
+- `fonts/Sarabun-Regular-GTA.ttf` — Sarabun + baked mark metrics for GTA  
+- Upstream Sarabun: https://github.com/google/fonts/tree/main/ofl/sarabun  
+- License: `OFL-Sarabun.txt`
 
-Covers Thai (no tofu □) + basic Latin.
+## Why not plain Noto/Sarabun?
+Scaleform draws combining marks without Thai GPOS. Stock OFL fonts put sara-i and tone marks in the same Y band → they stack on top of each other. GTA-tuned file raises mai ek/tho/tri/chattawa/thanthakhat above upper vowels (same approach community Thai efigs used).
 
 ## Rebuild
 ```powershell
-# needs FFDec CLI 26+ and stock efigs extracted once
-ffdec-cli -replace stock_efigs.gfx out.gfx 9 NotoSansThaiLooped-Regular.ttf 7 NotoSansThaiLooped-Regular.ttf 1 NotoSansThaiLooped-Regular.ttf 3 NotoSansThaiLooped-Regular.ttf 5 NotoSansThaiLooped-Regular.ttf
+python tools/tune_thai_marks.py   # Sarabun → Sarabun-Regular-GTA.ttf
+python tools/rebuild_font.py --game "..." --ffdec-cli "path\to\ffdec-cli.exe"
+python tools/build.py --game "..." --install
 ```
-Character ids: `$Font2`(9), Arial(7), timer(1), Pricedown(3), Cologne(5).
-
-
