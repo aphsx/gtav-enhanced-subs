@@ -1,44 +1,52 @@
-# GTA V Enhanced — Thai Subtitles (community source)
+# GTA V Enhanced — Thai Subtitles
 
-Unofficial **fan Thai subtitles** for GTA V Enhanced (Single Player).  
-**Own a legal copy of the game.** This repo is translation + tools — not a pirate pack.
+Unofficial fan Thai subtitles for **GTA V Enhanced** (Single Player).  
+Own a legal copy of the game. Not affiliated with Rockstar.
 
-Read **[`LEGAL.md`](LEGAL.md)** before publishing or downloading.
+## Download & play (like a normal mod)
 
-## For players (recommended compliant path)
+1. Open this repo on GitHub → **Releases**
+2. Download **`GTA_V_Thai_Subs_DROP_IN.zip`**
+3. Close the game
+4. Extract / merge into `Grand Theft Auto V Enhanced`
+5. Set language **American / English** → play SP
 
-1. Buy / own **GTA V Enhanced**
-2. Clone or download **this source**
-3. Install a mods loader yourself (links in [`THIRD_PARTY.md`](THIRD_PARTY.md)) — we do **not** redistribute ASI binaries
-4. Build against **your** game files:
+Files inside the zip:
 
-```powershell
-pip install -r requirements.txt
-# optional: rebuild Thai font into YOUR stock efigs
-# python tools/rebuild_font.py --game "..." --ffdec-cli "...\ffdec-cli.exe"
-python tools/build.py --game "PATH\Grand Theft Auto V Enhanced" --install
+```
+OpenRPF.asi
+xinput1_4.dll
+args.txt
+mods\update\update.rpf
+mods\update\update2.rpf
+README.txt
 ```
 
-5. In-game language: **American / English** · SP only
+Details: [`PLAYERS.md`](PLAYERS.md)
 
-> We **do not** attach full `update.rpf` packs to public Releases (Rockstar assets).  
-> Personal/offline use of a pack you built from your own game is on you — do not re-upload those RPFs to this repo.
+> This Release redistributes modified game archives for convenience (common for GTA mods).  
+> Higher copyright risk than source-only — see [`LEGAL.md`](LEGAL.md).
 
-## For translators (no game unpacking required)
+## Help translate
 
-1. Edit only column **`th`** in [`edit/`](edit/) CSV files  
-2. Open a Pull Request  
-
+Edit only column **`th`** in [`edit/`](edit/) → Pull Request  
 → [`CONTRIBUTING.md`](CONTRIBUTING.md) · [`RULES.md`](RULES.md)
 
-English column `en` is Rockstar’s text for reference only (not licensed by us).
+## Maintainer — rebuild DROP_IN
 
-## License map
+```powershell
+# game closed; Sarabun gfx present at assets\font_lib_efigs_pc.gfx (local)
+python tools/build.py --game "PATH\Grand Theft Auto V Enhanced" --install
+.\tools\make_dropin.ps1 -GameRoot "PATH\Grand Theft Auto V Enhanced"
+# upload release\GTA_V_Thai_Subs_DROP_IN.zip to GitHub Releases
+```
+
+## License
 | Part | License |
 |------|---------|
-| Scripts / docs | MIT (`LICENSE`) |
+| Scripts | MIT |
 | Thai `th` text | CC BY-SA 4.0 |
-| Sarabun GTA font | SIL OFL 1.1 |
-| Rockstar EN / game files | **Not licensed here** |
+| Sarabun font source | OFL |
+| Game EN / RPF in Releases | © Rockstar — not licensed by this project |
 
-Also: [`NOTICE.md`](NOTICE.md) · [`THIRD_PARTY.md`](THIRD_PARTY.md) · [`LEGAL.md`](LEGAL.md)
+[`NOTICE.md`](NOTICE.md) · [`THIRD_PARTY.md`](THIRD_PARTY.md) · [`LEGAL.md`](LEGAL.md)

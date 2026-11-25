@@ -1,18 +1,10 @@
-# Playing the mod (from source)
+# Players — install like a normal mod
 
-This project’s **public GitHub tree does not ship** a ready `update.rpf` (that would redistribute Rockstar files).
-
-## Steps
-1. Own GTA V Enhanced  
-2. Install a mods folder loader from upstream ([`THIRD_PARTY.md`](THIRD_PARTY.md)) into the game folder  
-3. From this repo (with Python + `rpfpeek` + your game keys for your own copy):
-
-```powershell
-pip install -r requirements.txt
-python tools/build.py --game "PATH\Grand Theft Auto V Enhanced" --install
-```
-
-4. Language **American / English** · Single Player  
+1. GitHub repo → **Releases** → `GTA_V_Thai_Subs_DROP_IN.zip`
+2. Close GTA
+3. Extract into `Grand Theft Auto V Enhanced` (merge / overwrite)
+4. Language = **American / English**
+5. Play Single Player
 
 ## Uninstall
-Delete `mods\update` and any loader files you added yourself.
+Delete `mods\update` and `OpenRPF.asi` / `xinput1_4.dll` / `args.txt` if unused elsewhere.

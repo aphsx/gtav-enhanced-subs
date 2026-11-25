@@ -30,8 +30,9 @@ Do not reuse `en` outside personal/fan-translation context.
 
 - You must **own a legitimate copy** of GTA V Enhanced to build or play with this mod.
 - Fan translation mods are a **grey area**: tolerated by many communities, but Rockstar can still send takedowns.
-- Redistributing packed game RPFs (even “modded”) is the highest-risk action — **do not** attach them to public Releases if you want maximum compliance.
-- Preferred public release: **source repo only** (CSV + scripts + OFL font). Each user builds against **their own** game files.
+- Redistributing packed game RPFs (even “modded”) is the highest-risk action.
+- This project may still publish a **DROP_IN Release zip** for normal-mod UX (player convenience). That zip contains modified Rockstar archives + third-party loaders — **highest DMCA/ToS risk**. Source git stays free of those binaries.
+- Lower-risk alternative: source-only; each user builds against **their own** game files.
 
 ## No warranty
 
