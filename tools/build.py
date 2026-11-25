@@ -22,10 +22,19 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 from gxt2_io import read_gxt2, write_gxt2  # noqa: E402
 from load_csv import has_thai, load_translations  # noqa: E402
 
+# Stems skipped only for "still missing" coverage noise — not blocked from packing.
+# Menu/UI (*_mnu) are welcome via edit/ui/; online/meta noise stays out of status.
 SKIP_STEMS = {
-    "clo_mnu", "mod_mnu", "snk_mnu", "tat_mnu", "gun_mnu", "har_mnu", "dir_mnu",
-    "credit", "trackid", "pubc", "report", "mishsta", "fmmc", "mpawd", "mp_rng",
-    "animlau", "ng_install",
+    "credit",
+    "trackid",
+    "pubc",
+    "report",
+    "mishsta",
+    "fmmc",
+    "mpawd",
+    "mp_rng",
+    "animlau",
+    "ng_install",
 }
 
 
