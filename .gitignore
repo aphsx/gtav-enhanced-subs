@@ -10,11 +10,18 @@ Thumbs.db
 *.zip
 .env
 keys/
-# built game archives (never commit)
-dist/*.rpf
-patch/*.rpf
+
+# Rockstar / proprietary binaries — never commit
+*.rpf
+*.asi
+*.dll
+*.gfx
 !dist/.gitkeep
-work/
-release/**/*.rpf
-release/**/*.zip
 !release/.gitkeep
+
+work/
+release/
+!release/.gitkeep
+
+# local personal packs
+PERSONAL_DROP_IN_DO_NOT_UPLOAD/

@@ -1,40 +1,33 @@
-# ช่วยแปล / แก้ข้อความ (ไม่ต้อง reverse)
+# Contributing translations
 
-## แก้อะไร
-แก้ไฟล์ใน `edit/` เท่านั้น
+You only edit CSV text. You do **not** need game archives, keys, or unpack tools.
 
-| ไฟล์ | เนื้อหา |
+## What to edit
+| File | Content |
 |------|---------|
-| `edit/00_global_tips_emails.csv` | ทิป / เมล / ข้อความช่วยเหลือ |
-| `edit/dialogue/*.csv` | บทพูดมิชชัน / คัทซีน |
+| `edit/00_global_tips_emails.csv` | Tips / emails / help |
+| `edit/dialogue/*.csv` | Mission / cutscene lines |
 
-ดูรายการไฟล์ทั้งหมด: [`edit/INDEX.md`](edit/INDEX.md)
+Index: [`edit/INDEX.md`](edit/INDEX.md)
 
-## วิธีแก้บน GitHub (ง่ายสุด)
-1. เปิดไฟล์ CSV → ปุ่ม **Edit** (ดินสอ)
-2. แก้เฉพาะคอลัมน์ **`th`**
-3. **Commit changes** → เปิด **Pull Request**
+## How (GitHub)
+1. Open a CSV → **Edit**
+2. Change only column **`th`**
+3. Commit → Pull Request
 
-หรือ Fork ทั้ง repo แล้วแก้ใน Excel / Google Sheets (เปิด CSV เป็น UTF-8) แล้ว PR
+Or fork, edit in Excel/Google Sheets (UTF-8), then PR.
 
-## คอลัมน์
-| คอลัมน์ | ทำอะไร |
-|---------|--------|
-| `id` | อย่าแก้ (รหัสภายในเกม) |
-| `en` | อ้างอิงอังกฤษ — อย่าแก้ |
-| `th` | **แก้ตรงนี้** |
+## Columns
+| Column | Rule |
+|--------|------|
+| `id` | Do not change |
+| `en` | Rockstar English — reference only; do not “re-license” |
+| `th` | **Edit here** (your contribution under CC BY-SA 4.0) |
 
-## Checklist ก่อนส่ง
-- [ ] ยังมี `~z~` / `~n~` ครบเหมือน `en`
-- [ ] ชื่อคน/สถานที่/แบรนด์เป็นภาษาอังกฤษตาม RULES
-- [ ] โทนไม่แรงกว่า EN
-- [ ] ไม่แนบไฟล์ `.rpf` เกม
+## Checklist
+- [ ] Keep `~z~` / `~n~` / other `~TOKEN~` markup matching `en`
+- [ ] Keep character/place/brand names in Latin per [`RULES.md`](RULES.md)
+- [ ] Tone no harsher than English
+- [ ] Do not commit `.rpf`, keys, ASI loaders, or game dumps
 
-Maintainer / คนที่อยากติดเกมเอง รัน:
-
-```powershell
-python -m pip install -r requirements.txt
-python tools/build.py --game "PATH\Grand Theft Auto V Enhanced" --install
-```
-
-ผู้แปลไม่ต้องแตะ RPF — แค่ CSV
+Maintainers build packs from CSV using each user’s own game copy (`tools/build.py`).

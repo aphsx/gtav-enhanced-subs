@@ -1,40 +1,44 @@
-# GTA V Enhanced — Thai Subtitles
+# GTA V Enhanced — Thai Subtitles (community source)
 
-แฟนมอดคำบรรยายไทย **Single Player**
+Unofficial **fan Thai subtitles** for GTA V Enhanced (Single Player).  
+**Own a legal copy of the game.** This repo is translation + tools — not a pirate pack.
 
-## ดาวน์โหลดไปเล่น (จาก repo นี้)
+Read **[`LEGAL.md`](LEGAL.md)** before publishing or downloading.
 
-คนเล่นไม่ต้อง clone / ไม่ต้อง Python
+## For players (recommended compliant path)
 
-1. เปิดหน้า GitHub ของโปรเจกต์นี้ → แท็บ **Releases**
-2. ดาวน์โหลด **`GTA_V_Thai_Subs_DROP_IN.zip`**
-3. ปิดเกม → แตกซิป **ทับ** โฟลเดอร์ `Grand Theft Auto V Enhanced`
-4. ตั้งภาษา **American / English** → เล่น SP
+1. Buy / own **GTA V Enhanced**
+2. Clone or download **this source**
+3. Install a mods loader yourself (links in [`THIRD_PARTY.md`](THIRD_PARTY.md)) — we do **not** redistribute ASI binaries
+4. Build against **your** game files:
 
-ได้ไฟล์: `OpenRPF.asi`, `xinput1_4.dll`, `args.txt`, `mods\update\update.rpf`, `mods\update\update2.rpf`
+```powershell
+pip install -r requirements.txt
+# optional: rebuild Thai font into YOUR stock efigs
+# python tools/rebuild_font.py --game "..." --ffdec-cli "...\ffdec-cli.exe"
+python tools/build.py --game "PATH\Grand Theft Auto V Enhanced" --install
+```
 
-รายละเอียดสั้นๆ: [`PLAYERS.md`](PLAYERS.md)
+5. In-game language: **American / English** · SP only
 
-> ทำไมไม่ใส่ซิปใน git? เพราะ `update.rpf` ~3GB — GitHub รับใน **Releases** ของ repo เดียวกัน (ยังถือว่าโหลดจากที่นี่)
+> We **do not** attach full `update.rpf` packs to public Releases (Rockstar assets).  
+> Personal/offline use of a pack you built from your own game is on you — do not re-upload those RPFs to this repo.
 
-## มาช่วยแปล
+## For translators (no game unpacking required)
 
-1. แก้เฉพาะคอลัมน์ `th` ใน [`edit/`](edit/) (CSV)
-2. ส่ง Pull Request  
+1. Edit only column **`th`** in [`edit/`](edit/) CSV files  
+2. Open a Pull Request  
 
 → [`CONTRIBUTING.md`](CONTRIBUTING.md) · [`RULES.md`](RULES.md)
 
-## Maintainer — อัป Release ให้คนโหลด
+English column `en` is Rockstar’s text for reference only (not licensed by us).
 
-ปิดเกม แล้ว:
+## License map
+| Part | License |
+|------|---------|
+| Scripts / docs | MIT (`LICENSE`) |
+| Thai `th` text | CC BY-SA 4.0 |
+| Sarabun GTA font | SIL OFL 1.1 |
+| Rockstar EN / game files | **Not licensed here** |
 
-```powershell
-.\tools\make_dropin.ps1 -GameRoot "D:\SteamLibrary\steamapps\common\Grand Theft Auto V Enhanced"
-```
-
-จะได้ `release\GTA_V_Thai_Subs_DROP_IN.zip`  
-จากนั้นบน GitHub: **Releases → Create release → แนบซิปนี้**
-
-## License
-MIT (tools) · CC BY-SA 4.0 (ข้อความใน `edit/`) · OFL (Sarabun)  
-GTA © Rockstar — [`NOTICE.md`](NOTICE.md)
+Also: [`NOTICE.md`](NOTICE.md) · [`THIRD_PARTY.md`](THIRD_PARTY.md) · [`LEGAL.md`](LEGAL.md)

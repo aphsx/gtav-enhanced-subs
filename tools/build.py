@@ -1,10 +1,11 @@
 # -*- coding: utf-8 -*-
 """
-Build Thai american_rel.rpf from edit/**/*.csv using YOUR game files.
-No reverse-engineering required for contributors — only maintainers/builders run this.
+Build Thai american_rel.rpf from edit/**/*.csv using YOUR legally owned game files.
+
+Contributors only edit CSV; builders run this against a local game install.
 
 Usage:
-  python tools/build.py --game "D:\\...\\Grand Theft Auto V Enhanced"
+  python tools/build.py --game "PATH\\Grand Theft Auto V Enhanced"
   python tools/build.py --game "..." --install
 """
 from __future__ import annotations
@@ -44,7 +45,6 @@ def find_game(explicit: str | None) -> Path:
             raise SystemExit(f"Not an Enhanced game folder: {p}")
         return p
     cands = [
-        Path(r"D:\SteamLibrary\steamapps\common\Grand Theft Auto V Enhanced"),
         Path(r"C:\Program Files (x86)\Steam\steamapps\common\Grand Theft Auto V Enhanced"),
         Path(r"C:\Program Files\Epic Games\GTAVEnhanced"),
     ]
@@ -220,12 +220,12 @@ def build(game: Path, keys: Path, do_install: bool) -> Path:
         )
         shutil.copy2(work / "update2.rpf", mods / "update2.rpf")
 
-        loaders = ROOT / "assets" / "loaders"
-        for name in ("OpenRPF.asi", "xinput1_4.dll", "args.txt"):
-            src = loaders / name
-            if src.exists():
-                shutil.copy2(src, game / name)
+        # Do not redistribute proprietary ASI loaders from this repo.
+        args_txt = ROOT / "assets" / "loaders" / "args.txt"
+        if args_txt.exists():
+            shutil.copy2(args_txt, game / "args.txt")
         print(f"installed into {mods}")
+        print("Install a mods-folder loader yourself (see THIRD_PARTY.md).")
         print("Set language = American/English. SP only.")
         return am_out
 

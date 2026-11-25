@@ -1,2 +1,2 @@
-Place built american_rel.rpf here after tools/build.py
-Optional: copy font from assets/
+Local build outputs may appear here (american_rel.rpf, font gfx).
+Do not commit Rockstar-derived archives. See LEGAL.md.

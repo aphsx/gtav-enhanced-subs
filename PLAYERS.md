@@ -1,15 +1,18 @@
-# ดาวน์โหลดจาก repo นี้แล้วเล่น
+# Playing the mod (from source)
 
-## ที่โหลด
-หน้าโปรเจกต์บน GitHub → **Releases** → ไฟล์ **`GTA_V_Thai_Subs_DROP_IN.zip`**
+This project’s **public GitHub tree does not ship** a ready `update.rpf` (that would redistribute Rockstar files).
 
-(ไม่ใช่ปุ่ม Code → Download ZIP — นั่นเป็นซอร์สสำหรับแปล ไม่มีมอดสำเร็จรูป)
+## Steps
+1. Own GTA V Enhanced  
+2. Install a mods folder loader from upstream ([`THIRD_PARTY.md`](THIRD_PARTY.md)) into the game folder  
+3. From this repo (with Python + `rpfpeek` + your game keys for your own copy):
 
-## ลงยังไง
-1. ปิดเกม
-2. แตกซิปทับโฟลเดอร์เกม `Grand Theft Auto V Enhanced\`
-3. ภาษา **American / English**
-4. เล่น Single Player
+```powershell
+pip install -r requirements.txt
+python tools/build.py --game "PATH\Grand Theft Auto V Enhanced" --install
+```
 
-## ถอดมอด
-ลบ `mods\update` และ `OpenRPF.asi` / `xinput1_4.dll` / `args.txt` ถ้าไม่ใช้มอดอื่น
+4. Language **American / English** · Single Player  
+
+## Uninstall
+Delete `mods\update` and any loader files you added yourself.
