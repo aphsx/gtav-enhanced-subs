@@ -1,23 +1,23 @@
 ﻿id,en,th
-sol1:55070871,"~s~Increasing the strength stat will allow more damage to be inflicted when performing a melee attack, ladders to be climbed faster, more damage to be taken, and better sports performance.","Increasing the strength stat will allow more damage to be inflicted when performing a melee attack, ladders to be climbed faster, more damage to be taken, and better sports performance."
-sol1:160810633,~w~Milton died.~s~,Milton died.
-sol1:275198911,"~s~Scare Milton and Anton by flying at high speeds, under bridges or dangerously close to buildings.~s~","Scare Milton and Anton by flying at high speeds, under bridges or dangerously close to buildings."
-sol1:827966360,~w~Solomon died.~s~,Solomon died.
-sol1:859240936,Take out the alerted workers before Rocco is warned.,จัดการคนงานที่ได้รับแจ้งเตือนก่อนที่ Rocco จะรู้ตัว
-sol1:1026696273,~s~Change Milton and Anton's minds by flying erratically.~s~,Change Milton and Anton's minds by flying erratically.
-sol1:1045211421,~w~The helicopter was destroyed.~s~,The helicopter was destroyed.
-sol1:1436471300,~w~Michael left the mission area.~s~,Michael left the mission area.
-sol1:1480841777,~s~Return to the mission area.~s~,Return to the mission area.
-sol1:1826048408,~w~Rocco died.~s~,Rocco died.
-sol1:1986275838,Beat up ~r~Rocco.~s~,ตีซ้อม
-sol1:2034734578,~w~Milton and Anton were abandoned.~s~,Milton and Anton were abandoned.
-sol1:2398227115,Go to ~y~East Los Santos.~s~,ไปที่ {0}
-sol1:2624645572,~w~Anton died.~s~,Anton died.
-sol1:2680011134,~s~Return to ~b~Milton.~s~,Return to Milton.
-sol1:2797875832,~s~Return to fight ~r~Rocco.~s~,Return to fight Rocco.
-sol1:3018589084,Go back to the ~y~studio.~s~,กลับไปที่ studio.
-sol1:3074544596,~w~Milton and Anton were spooked.~s~,Milton and Anton were spooked.
-sol1:3156886108,~s~The strength stat can be increased by engaging in melee combat and playing sports.,The strength stat can be increased by engaging in melee combat and playing sports.
-sol1:3161947026,~w~Rocco was alerted.~s~,Rocco was alerted.
-sol1:4057106968,~s~Return to ~b~Anton.~s~,Return to Anton.
-sol1:4185311138,Reach the ~y~helipad~s~ without alerting Rocco.,ไปให้ถึง helipad โดยไม่ทำให้ Rocco รู้ตัว
+sol1:55070871,"~s~Increasing the strength stat will allow more damage to be inflicted when performing a melee attack, ladders to be climbed faster, more damage to be taken, and better sports performance.",~s~เพิ่มสถิติพลังจะยิงต่อยแรงขึ้น ปีนบันไดไวขึ้น ทนแรงได้มากขึ้น และเล่นกีฬาได้ดีขึ้น~s~
+sol1:160810633,~w~Milton died.~s~,~w~Milton ตายแล้ว~s~
+sol1:275198911,"~s~Scare Milton and Anton by flying at high speeds, under bridges or dangerously close to buildings.~s~",~s~ขู่ Milton กับ Anton ด้วยการบินเร็ว ร่อนใต้สะพาน หรือเฉียดอาคารให้หวาดเสียว~s~
+sol1:827966360,~w~Solomon died.~s~,~w~Solomon ตายแล้ว~s~
+sol1:859240936,Take out the alerted workers before Rocco is warned.,จัดการคนงานที่ยังไม่แจ้ง Rocco ก่อนที่เขาจะรู้
+sol1:1026696273,~s~Change Milton and Anton's minds by flying erratically.~s~,~s~พลิกใจ Milton กับ Anton ด้วยการบินโชว์สุดเสี่ยว~s~
+sol1:1045211421,~w~The helicopter was destroyed.~s~,~w~เฮลิคอปเตอร์ถูกทำลาย~s~
+sol1:1436471300,~w~Michael left the mission area.~s~,~w~Michael ออกจากพื้นที่ภารกิจ~s~
+sol1:1480841777,~s~Return to the mission area.~s~,~s~กลับเข้าพื้นที่ภารกิจ~s~
+sol1:1826048408,~w~Rocco died.~s~,~w~Rocco ตายแล้ว~s~
+sol1:1986275838,Beat up ~r~Rocco.~s~,~s~ต่อย ~r~Rocco~s~ ให้เข็ด
+sol1:2034734578,~w~Milton and Anton were abandoned.~s~,~w~ทิ้ง Milton กับ Anton ไว้~s~
+sol1:2398227115,Go to ~y~East Los Santos.~s~,~s~ไป ~y~East Los Santos~s~
+sol1:2624645572,~w~Anton died.~s~,~w~Anton ตายแล้ว~s~
+sol1:2680011134,~s~Return to ~b~Milton.~s~,~s~กลับไปหา ~b~Milton~s~
+sol1:2797875832,~s~Return to fight ~r~Rocco.~s~,~s~กลับไปต่อย ~r~Rocco~s~
+sol1:3018589084,Go back to the ~y~studio.~s~,~s~กลับไปที่ ~y~สตูดิโอ~s~
+sol1:3074544596,~w~Milton and Anton were spooked.~s~,~w~Milton กับ Anton ตกใจกลัว~s~
+sol1:3156886108,~s~The strength stat can be increased by engaging in melee combat and playing sports.,~s~เพิ่มสถิติพลังด้วยการต่อยและเล่นกีฬา~s~
+sol1:3161947026,~w~Rocco was alerted.~s~,~w~Rocco รู้ตัวแล้ว~s~
+sol1:4057106968,~s~Return to ~b~Anton.~s~,~s~กลับไปหา ~b~Anton~s~
+sol1:4185311138,Reach the ~y~helipad~s~ without alerting Rocco.,~s~ไปถึง ~y~ลานจอดเฮลิคอปเตอร์~s~ โดยไม่ให้ Rocco รู้~s~
