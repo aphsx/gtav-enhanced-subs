@@ -1,72 +1,72 @@
 ﻿id,en,th
-arm2:68883152,Once your health goes below 50% it will regenerate back to 50% if you remain undamaged for a short while.,ถ้าหากหลอดเลือดเหลือน้อยกว่า 50% หลอดเลือดจะฟื้นฟูโดยอัตโนมัติหากคุณไม่ได้รับความเสียหายใดๆ ในเวลาอันสั้น
-arm2:145490950,Go to ~y~Vespucci Beach.,ไปที่ ~y~เวสปุชชี่ บีช
-arm2:240280053,~s~The yellow bar indicates Franklin's special ability level. Press ~INPUT_SPECIAL_ABILITY_PC~ to enhance Franklin's driving.,~s~หลอดพลังสีเหลืองแสดงถึงพลังสกิลพิเศษของแฟรงคลิน กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อใช้งานสกิลพิเศษของแฟรงคลิน
-arm2:393126283,Get in ~b~Lamar's car.,ขึ้นรถของ ~b~ลามาร์
-arm2:419642012,Press ~INPUT_DUCK~ to crouch.,กด ~INPUT_DUCK~ เพื่อย่อ
-arm2:509920323,Shooting a gas trail will ignite it.,คุณสามารถยิงไปที่ถังแก๊ส เพื่อทำให้มันระเบิดได้
-arm2:510511201,~s~You can adjust the camera view of the vehicle by pressing ~INPUT_NEXT_CAMERA~ when driving. You can also adjust the vehicle camera height in the Settings menu.~s~,~s~คุณสามารถปรับมุมมองขณะขับขี่ยานพาหนะได้ โดยกด ~INPUT_NEXT_CAMERA~ และ สามารถปรับมุมมองความสูงของรถได้ที่เมนูตั้งค่า~s~
-arm2:552592298,Get ~b~Lamar.,ไปรับ ~b~ลามาร์
-arm2:604010800,Smashing the gate alerted the neighborhood.,การสร้างความเสียหายให้รั้ว จะทำให้ชาวบ้านในละแวกตกใจกลัว
-arm2:720494201,Run over a dropped weapon to pick it up.,คุณสามารถหยิบอาวุธที่ตกพื้นอยู่มาใช้งานได้
-arm2:799343470,~s~Use ~INPUTGROUP_LOOK~ while holding ~INPUT_VEH_AIM~ to aim while driving. Hold ~INPUT_VEH_ATTACK~ to shoot.,~s~กด ~INPUTGROUP_LOOK~ ขณะที่กดค้าง ~INPUT_VEH_AIM~ เพื่อเล็งปืนขณะขับรถ และ กด ~INPUT_VEH_ATTACK~ ค้างไว้ เพื่อยิง
-arm2:897119111,Hold ~INPUT_SELECT_WEAPON~ to bring up the weapon wheel.,กดปุ่ม ~INPUT_SELECT_WEAPON~ ค้าง เพื่อให้วงล้อเลือกอาวุธโผล่ขึ้นมา
+arm2:68883152,Once your health goes below 50% it will regenerate back to 50% if you remain undamaged for a short while.,HP ต่ำกว่า 50% จะค่อยๆ ฟื้นถึง 50% ถ้าไม่โดนตีสักพัก
+arm2:145490950,Go to ~y~Vespucci Beach.,ไปที่ ~y~Vespucci Beach
+arm2:240280053,~s~The yellow bar indicates Franklin's special ability level. Press ~INPUT_SPECIAL_ABILITY_PC~ to enhance Franklin's driving.,~s~แถบเหลืองแสดงสกิลของ Franklin กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อใช้สกิลขณะขับ~s~
+arm2:393126283,Get in ~b~Lamar's car.,ขึ้นรถของ ~b~Lamar
+arm2:419642012,Press ~INPUT_DUCK~ to crouch.,กด ~INPUT_DUCK~ เพื่อหมอบ
+arm2:509920323,Shooting a gas trail will ignite it.,ยิงรอยน้ำมันหรือถังแก๊สจะทำให้ไฟลุก
+arm2:510511201,~s~You can adjust the camera view of the vehicle by pressing ~INPUT_NEXT_CAMERA~ when driving. You can also adjust the vehicle camera height in the Settings menu.~s~,~s~กด ~INPUT_NEXT_CAMERA~ ขณะขับเพื่อเปลี่ยนมุมกล้อง ปรับความสูงกล้องรถได้ในเมนูตั้งค่า~s~
+arm2:552592298,Get ~b~Lamar.,ไปหา ~b~Lamar
+arm2:604010800,Smashing the gate alerted the neighborhood.,ทุบประตูทำให้ชาวละแวกตื่นตัว
+arm2:720494201,Run over a dropped weapon to pick it up.,เหยียบอาวุธที่ตกพื้นเพื่อหยิบ
+arm2:799343470,~s~Use ~INPUTGROUP_LOOK~ while holding ~INPUT_VEH_AIM~ to aim while driving. Hold ~INPUT_VEH_ATTACK~ to shoot.,~s~กด ~INPUTGROUP_LOOK~ พร้อมกดค้าง ~INPUT_VEH_AIM~ เพื่อเล็งขณะขับ กด ~INPUT_VEH_ATTACK~ เพื่อยิง~s~
+arm2:897119111,Hold ~INPUT_SELECT_WEAPON~ to bring up the weapon wheel.,กดค้าง ~INPUT_SELECT_WEAPON~ เพื่อเปิดวงล้ออาวุธ
 arm2:908254963,Pick up a ~g~weapon.,หยิบ ~g~อาวุธ
-arm2:909319573,~s~Simeon died.~s~,~s~ซิเมียนตายแล้ว~s~
-arm2:983852778,Take cover ~y~behind the wall ~s~and hold off the attacking ~r~Vagos.,หลบ ~y~ด้านหลังที่กำบัง ~s~และหาโอกาสโจมตี ~r~พวกวาโกส
-arm2:1051591885,Press ~INPUT_COVER~ when next to a vehicle to use it for cover.,กด ~INPUT_COVER~ เมื่ออยู่ข้างรถ เพื่อใช้เป็นที่กำบัง
-arm2:1053591834,~s~Press ~INPUT_VEH_CIN_CAM~ to toggle the focus camera on the biker.~s~,~s~กด ~INPUT_VEH_CIN_CAM~ เพื่อเปลี่ยนมุมมองขณะขี่รถจักรยานยนต์~s~
+arm2:909319573,~s~Simeon died.~s~,~s~Simeon ตายแล้ว~s~
+arm2:983852778,Take cover ~y~behind the wall ~s~and hold off the attacking ~r~Vagos.,หลบ ~y~หลังกำแพง ~s~แล้วสกัด ~r~Vagos
+arm2:1051591885,Press ~INPUT_COVER~ when next to a vehicle to use it for cover.,กด ~INPUT_COVER~ ข้างรถเพื่อใช้รถเป็นที่กำบัง
+arm2:1053591834,~s~Press ~INPUT_VEH_CIN_CAM~ to toggle the focus camera on the biker.~s~,~s~กด ~INPUT_VEH_CIN_CAM~ เพื่อสลับโฟกัสไปที่ไบค์เกอร์~s~
 arm2:1135639054,Open the ~y~garage door.,เปิดประตู ~y~โรงจอดรถ
-arm2:1183838399,~s~Placeholder: New cutscene pending here. Franklin and Lamar enter empty garage. Vagos peds arrive threateningly. Lamar guns them. Remaining peds flee.,~s~Placeholder: เหตุการณ์ที่เกิดขึ้นคือแฟรงคลินและลามาร์เข้าไปที่โรงจอดรถร้าง แล้วพวกลูกน้องแก๊งวาโกสดักซุ่มอยู่ได้โผล่เข้ามา ลามาร์จึงกราดยิงพวกเขาตายไป แต่ก็มีบางส่วนหลบหนีไปได้
-arm2:1284186539,Press ~INPUT_ENTER~ to enter and exit a vehicle.,กดปุ่ม ~INPUT_ENTER~ เพื่อเข้าแล้วออกจากยานพาหนะ
-arm2:1297103978,Get a vehicle with more seats.,ไปหารถที่มีที่นั่งมากกว่านี้
-arm2:1384486840,Wait for ~b~Lamar.,รอ ~b~ลามาร์
-arm2:1413168876,Select a weapon while in a vehicle by using ~INPUT_VEH_SELECT_NEXT_WEAPON~.,เลือกอาวุธที่สามารถใช้งานได้ในขณะขับรถ ~INPUT_VEH_SELECT_NEXT_WEAPON~
-arm2:1425192294,~s~The yellow bar indicates Franklin's special ability level. Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to enhance Franklin's driving.,~s~หลอดพลังสีเหลืองแสดงถึงพลังสกิลพิเศษของแฟรงคลิน กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ พร้อมกันเพื่อใช้งานสกิลพิเศษของแฟรงคลิน
-arm2:1509505891,Hold ~INPUT_ATTACK~ when in cover to blind fire a weapon without coming out of cover.,กด ~INPUT_ATTACK~ ค้างไว้ ขณะที่หลบอยู่หลังที่กำบัง เพื่อสาดกระสุนโดยไม่เคลื่อนที่ออกจากที่กำบัง
-arm2:1581040910,Destinations are shown on the Radar by a yellow circle.,จุดหมายที่เราจะต้องไปจะแสดงบนเรดาร์เป็นจุดวงกลมสีเหลือง
+arm2:1183838399,~s~Placeholder: New cutscene pending here. Franklin and Lamar enter empty garage. Vagos peds arrive threateningly. Lamar guns them. Remaining peds flee.,~s~Franklin กับ Lamar เข้าโรงจอดร้าง Vagos บุกมา Lamar ยิง ที่เหลือหนี~s~
+arm2:1284186539,Press ~INPUT_ENTER~ to enter and exit a vehicle.,กด ~INPUT_ENTER~ เพื่อขึ้น/ลงรถ
+arm2:1297103978,Get a vehicle with more seats.,หารถที่นั่งเยอะกว่า
+arm2:1384486840,Wait for ~b~Lamar.,รอ ~b~Lamar
+arm2:1413168876,Select a weapon while in a vehicle by using ~INPUT_VEH_SELECT_NEXT_WEAPON~.,เลือกอาวุธในรถด้วย ~INPUT_VEH_SELECT_NEXT_WEAPON~
+arm2:1425192294,~s~The yellow bar indicates Franklin's special ability level. Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to enhance Franklin's driving.,~s~แถบเหลืองแสดงสกิล Franklin กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ เพื่อใช้ขณะขับ~s~
+arm2:1509505891,Hold ~INPUT_ATTACK~ when in cover to blind fire a weapon without coming out of cover.,กดค้าง ~INPUT_ATTACK~ ในที่กำบังเพื่อยิงมั่วโดยไม่ออกจากที่ซ่อน
+arm2:1581040910,Destinations are shown on the Radar by a yellow circle.,จุดหมายโชว์เป็นวงกลมเหลืองบนเรดาร์
 arm2:1600696366,~s~Go to the ~y~car wash.~s~,~s~ไปที่ ~y~ร้านล้างรถ~s~
-arm2:1614557989,Press ~INPUT_JUMP~ to climb.,กดปุ่ม ~INPUT_JUMP~ เพื่อปีน
-arm2:1657421416,Mission Failed~s~,ภารกิจล้มเหลว ~s~
-arm2:1677458030,Franklin's car is undriveable.~s~,รถของแฟรงคลินไม่สามารถใช้งานได้~s~
-arm2:1728872579,The biker escaped.~s~,ไบค์เกอร์หลบหนีไปได้~s~
-arm2:1775498609,Get back to ~b~Lamar.,กลับไปหา ~b~ลามาร์
-arm2:1836240270,Take out the ~r~Vagos.,จัดการ ~r~แก็งวาโกส
+arm2:1614557989,Press ~INPUT_JUMP~ to climb.,กด ~INPUT_JUMP~ เพื่อปีน
+arm2:1657421416,Mission Failed~s~,ภารกิจล้มเหลว~s~
+arm2:1677458030,Franklin's car is undriveable.~s~,รถของ Franklin ขับไม่ได้แล้ว~s~
+arm2:1728872579,The biker escaped.~s~,ไบค์เกอร์หนีไปได้~s~
+arm2:1775498609,Get back to ~b~Lamar.,กลับไปหา ~b~Lamar
+arm2:1836240270,Take out the ~r~Vagos.,จัดการ ~r~Vagos
 arm2:1957828779,~s~Mission Passed,~s~ภารกิจสำเร็จ
-arm2:1962793816,Get on the ~b~bike.,ไปเอา ~b~มอเตอร์ไซค์
-arm2:2031024818,Sat nav indicates the shortest route to a destination with a yellow line.,Sat nav แสดงให้เห็นเส้นทางที่ใกล้ที่สุดตามเส้นสีเหลืองที่ปรากฏบนแผนที่
-arm2:2043684362,The bike was abandoned.~s~,ไบค์เกอร์ถูกละทิ้ง~s~
-arm2:2165672347,~s~Press ~INPUT_VEH_LOOK_BEHIND~ to zoom in while aiming.~s~,~s~กด ~INPUT_VEH_LOOK_BEHIND~ เพื่อซูมเข้าขณะเล็ง~s~
-arm2:2169719366,Search the ~y~garages.~s~,ตรวจสอบ ~y~โรงรถ~s~
-arm2:2213181745,Take cover behind the ~y~red truck.,ไปหลบที่ด้านหลัง ~y~รถกระบะสีแดง
+arm2:1962793816,Get on the ~b~bike.,ไปขึ้น ~b~มอเตอร์ไซค์
+arm2:2031024818,Sat nav indicates the shortest route to a destination with a yellow line.,เส้นสีเหลืองบนแผนที่คือเส้นทางสั้นสุดไปจุดหมาย
+arm2:2043684362,The bike was abandoned.~s~,ทิ้งมอเตอร์ไซค์~s~
+arm2:2165672347,~s~Press ~INPUT_VEH_LOOK_BEHIND~ to zoom in while aiming.~s~,~s~กด ~INPUT_VEH_LOOK_BEHIND~ เพื่อซูมขณะเล็ง~s~
+arm2:2169719366,Search the ~y~garages.~s~,ค้น ~y~โรงจอดรถ~s~
+arm2:2213181745,Take cover behind the ~y~red truck.,หลบหลัง ~y~กระบะแดง
 arm2:2308474001,Get the ~b~bike.,ไปขับ ~b~มอเตอร์ไซค์
-arm2:2340768116,The Cops were alerted.~s~,หน่วยงานตำรวจรู้ตัวและกำลังมาที่เกิดเหตุในเร็วๆ นี้~s~
-arm2:2380506955,"~s~The driving stat can be increased by reaching top speeds, near misses, pulling wheelies, doing jumps and landing on four wheels.~s~",~s~สกิลทักษะการขับขี่สามารถเพิ่มขึ้่นได้โดย ขับรถด้วยความเร็วสูง ขับเฉี่ยวไปมา ขี่รถยกล้อ ขับรถเหินอากาศแล้วลงมาแบบปลอดภัย~s~
-arm2:2455448614,"In a vehicle, hold ~INPUT_VEH_AIM~ to fire a weapon and aim with ~INPUTGROUP_LOOK~.",ในขณะที่อยู่ในยานพาหนะ กดค้าง ~INPUT_VEH_AIM~ เพื่อยิงและเล็งไปที่ ~INPUTGROUP_LOOK~
-arm2:2553291200,Take out the ~r~biker.~s~,ออกจาก ~r~ไบค์เกอร์~s~
-arm2:2638605557,There was a disturbance at the showroom.,เกิดการขัดขวางขึ้นที่โชว์รูม
-arm2:2724940870,Press ~INPUT_RELOAD~ to reload a weapon.,กดปุ่ม ~INPUT_RELOAD~ เพื่อรีโหลดกระสุน
-arm2:2755122163,~s~You can also auto-climb by running up to an obstacle while continuing to hold ~INPUTGROUP_MOVE~.,~s~คุณสามารถปืนป่ายได้ทันทีในขณะวิ่งอยู่ โดย กด ~INPUTGROUP_MOVE~ ค้างไว้
+arm2:2340768116,The Cops were alerted.~s~,ตำรวจถูกแจ้งเตือนแล้ว~s~
+arm2:2380506955,"~s~The driving stat can be increased by reaching top speeds, near misses, pulling wheelies, doing jumps and landing on four wheels.~s~",~s~ขึ้น Driving ด้วยความเร็วสูง หลบชนฉิบ ยกล้อและโดดแล้วลงจอดสี่ล้อ~s~
+arm2:2455448614,"In a vehicle, hold ~INPUT_VEH_AIM~ to fire a weapon and aim with ~INPUTGROUP_LOOK~.",ในรถ กดค้าง ~INPUT_VEH_AIM~ ยิงและเล็งด้วย ~INPUTGROUP_LOOK~
+arm2:2553291200,Take out the ~r~biker.~s~,จัดการ ~r~ไบค์เกอร์~s~
+arm2:2638605557,There was a disturbance at the showroom.,เกิดเหตุการณ์ที่โชว์รูม
+arm2:2724940870,Press ~INPUT_RELOAD~ to reload a weapon.,กด ~INPUT_RELOAD~ เพื่อบรรจุกระสุน
+arm2:2755122163,~s~You can also auto-climb by running up to an obstacle while continuing to hold ~INPUTGROUP_MOVE~.,~s~วิ่งไปชนสิ่งกีดขวางพร้อมกด ~INPUTGROUP_MOVE~ ค้างจะปีนขึ้นไปได้~s~
 arm2:2904383914,Shoot the gas canister.,ยิงถังแก๊ส
-arm2:2918403398,Return to ~b~Lamar.,กลับไปหา ~b~ลามาร์
-arm2:2987005565,Lamar died.~s~,ลามาร์ตายแล้ว~s~
-arm2:3096640681,~s~Hold ~INPUT_FRONTEND_CANCEL~ to focus the camera on the police helicopter.~s~,~s~กด ~INPUT_FRONTEND_CANCEL~ ค้างไว้ เพื่อจ้องมองไปที่เฮลิคอปเตอร์ตำรวจ ~s~
-arm2:3171150695,Get in the ~b~car.,ขึ้นไปบน ~b~รถ
-arm2:3241414123,Press ~INPUT_HUD_SPECIAL~ to zoom out the Radar.,คุณสามารถกดปุ่ม ~INPUT_HUD_SPECIAL~ เพื่อให้เรดาร์ซูมออกได้
-arm2:3251222012,Lamar was abandoned.~s~,ลามาร์ถูกละทิ้ง~s~
-arm2:3292012227,"Use ~INPUTGROUP_WHEEL~ to select a weapon, and release ~INPUT_SELECT_WEAPON~ to equip it.","ใช้ ~INPUTGROUP_WHEEL~ เพื่อเลือกอาวุธ, และ ปล่อย ~INPUT_SELECT_WEAPON~ เพื่อใช้งาน"
-arm2:3342833426,Press ~INPUT_COVER~ to take cover.,กดปุ่ม ~INPUT_COVER~ เพื่อหลบ
-arm2:3420954442,Blind fire when in cover by holding ~INPUT_ATTACK~.,กราดยิงในขณะที่หลบอยู่หลังที่กำบังได้ โดย กด ~INPUT_ATTACK~ ค้างไว้
-arm2:3501829366,Tap ~INPUT_SELECT_WEAPON~ to quickly select the best inventory weapon.,กด ~INPUT_SELECT_WEAPON~ เพื่อเลือกหยิบอาวุธแบบรวดเร็ว
-arm2:3579163174,Select the shotgun by pressing ~INPUT_FRONTEND_RIGHT~,เลือกอาวุธปืนชนิดลูกซองโดยกดปุ่ม ~INPUT_FRONTEND_RIGHT~
-arm2:3605247578,Press ~INPUT_AIM~ when in cover to aim a weapon.,กด ~INPUT_AIM~ เมื่ออยู่ในที่กำบังเพื่อเล็งอาวุธ
-arm2:3618025232,Knock the ~r~Vagos biker~s~ off the bike.,ทำให้ ~r~ไบค์เกอร์วาโกส~s~ ตกจากรถให้ได้.
-arm2:3694445548,~s~Increasing the driving stat will give you more control of the vehicle in the air and let you pull longer wheelies.~s~,~s~การเพิ่มทักษะการขับขี่ให้สูงขึ้น จะทำให้คุณสามารถควบคุมการขับขี่บนอากาศได้ดีขึ้น และ ช่วยให้คุณขับแบบยกล้อได้นานขึ้น~s~
-arm2:3762877178,The bike was destroyed.~s~,รถมอเตอร์ไซค์ถูกทำลาย~s~
-arm2:3800446571,~b~Lamar~s~ was abandoned.,~b~ลามาร์~s~ ถูกทิ้ง
-arm2:3896836854,The neighborhood was alerted.~s~,ผู้คนในละแวกตกใจกลัว~s~
+arm2:2918403398,Return to ~b~Lamar.,กลับไปหา ~b~Lamar
+arm2:2987005565,Lamar died.~s~,Lamar ตาย~s~
+arm2:3096640681,~s~Hold ~INPUT_FRONTEND_CANCEL~ to focus the camera on the police helicopter.~s~,~s~กดค้าง ~INPUT_FRONTEND_CANCEL~ เพื่อโฟกัสเฮลิคอปเตอร์ตำรวจ~s~
+arm2:3171150695,Get in the ~b~car.,ขึ้น ~b~รถ
+arm2:3241414123,Press ~INPUT_HUD_SPECIAL~ to zoom out the Radar.,กด ~INPUT_HUD_SPECIAL~ เพื่อซูมเรดาร์ออก
+arm2:3251222012,Lamar was abandoned.~s~,ทิ้ง Lamar~s~
+arm2:3292012227,"Use ~INPUTGROUP_WHEEL~ to select a weapon, and release ~INPUT_SELECT_WEAPON~ to equip it.",ใช้ ~INPUTGROUP_WHEEL~ เลือกอาวุธ ปล่อย ~INPUT_SELECT_WEAPON~ เพื่อถือ
+arm2:3342833426,Press ~INPUT_COVER~ to take cover.,กด ~INPUT_COVER~ เพื่อหลบ
+arm2:3420954442,Blind fire when in cover by holding ~INPUT_ATTACK~.,กดค้าง ~INPUT_ATTACK~ เพื่อยิงมั่วในที่กำบัง
+arm2:3501829366,Tap ~INPUT_SELECT_WEAPON~ to quickly select the best inventory weapon.,กด ~INPUT_SELECT_WEAPON~ เลือกอาวุธที่เหมาะสมเร็วๆ
+arm2:3579163174,Select the shotgun by pressing ~INPUT_FRONTEND_RIGHT~,กด ~INPUT_FRONTEND_RIGHT~ เลือกลูกซอง
+arm2:3605247578,Press ~INPUT_AIM~ when in cover to aim a weapon.,กด ~INPUT_AIM~ ในที่กำบังเพื่อเล็ง
+arm2:3618025232,Knock the ~r~Vagos biker~s~ off the bike.,ทำให้ ~r~ไบค์เกอร์ Vagos~s~ ตกจากรถ
+arm2:3694445548,~s~Increasing the driving stat will give you more control of the vehicle in the air and let you pull longer wheelies.~s~,~s~ขึ้น Driving ช่วยคุมรถบนอากาศดีขึ้น และยกล้อได้นานขึ้น~s~
+arm2:3762877178,The bike was destroyed.~s~,มอเตอร์ไซค์ถูกทำลาย~s~
+arm2:3800446571,~b~Lamar~s~ was abandoned.,ทิ้ง ~b~Lamar~s~
+arm2:3896836854,The neighborhood was alerted.~s~,ชาวละแวกตื่นตัว~s~
 arm2:3963702061,Climb over the fence.,ปีนข้ามรั้ว
-arm2:4047433216,The Driving Ability will increase each time a wheelie is performed.,สกิลในการขับขี่จะเพิ่มขึ้นทุกครั้งที่มีการยกล้อ
-arm2:4124663053,Wait for ~b~Lamar~s~ to get in the vehicle.,รอ ~b~ลามาร์~s~ ขึ้นมาบนรถ
-arm2:4210747552,Follow ~b~Lamar.,เดินตาม ~b~ลามาร์
+arm2:4047433216,The Driving Ability will increase each time a wheelie is performed.,สกิล Driving เพิ่มทุกครั้งที่ยกล้อ
+arm2:4124663053,Wait for ~b~Lamar~s~ to get in the vehicle.,รอให้ ~b~Lamar~s~ ขึ้นรถ
+arm2:4210747552,Follow ~b~Lamar.,ตาม ~b~Lamar
 arm2:4265018628,Walk up to a garage door to open it.,เดินไปที่ประตูโรงรถเพื่อเปิด

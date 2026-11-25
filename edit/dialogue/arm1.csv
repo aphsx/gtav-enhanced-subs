@@ -1,68 +1,68 @@
 ﻿id,en,th
-arm1:21349761,~s~Park ~y~next to Lamar.~s~,~s~จอดตรงที่ ~y~ลามาร์~s~
-arm1:26679567,~s~Choose one of the ~b~cars.~s~,~s~เลือกรถมา ~b~หนึ่งคัน~s~
-arm1:257700750,~s~The dealership was trashed.~s~,~s~ศูนย์จำหน่ายรถถูกทำลาย~s~
-arm1:317141870,~s~Sit on the couch to watch TV and try other activities.~s~,~s~นั่งบนโซฟาเพื่อดูทีวีและลองทำกิจกรรมอื่นๆ
-arm1:362303160,~s~The Cops were led to the dealership.~s~,~s~พวกตำรวจจะนำทางไปที่ศูนย์จำหน่ายรถ~s
-arm1:465781777,~s~Return to ~b~Lamar.~s~,~s~กลับไปหา ~b~ลามาร์~s~
-arm1:476285812,~s~Press ~INPUT_ENTER~ to get in a vehicle.~s~,~s~กดปุ่ม~INPUT_ENTER~ เพื่อขึ้นรถ~s~
-arm1:526249532,~s~Improve Franklin's special ability by filling up the special ability bar often.,~s~การเพิ่มค่าพลังให้สกิลพิเศษ สามารถทำได้โดยการใช้กดใช้สกิลพิเศษบ่อยๆ
-arm1:628514758,~s~There was a disturbance at the dealership.,~s~มีสถานการณ์ในศูนย์จำหน่ายรถ
-arm1:651028931,~s~The yellow bar below the Radar shows Franklin's special ability level. ~n~Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to activate Franklin's ability.,~s~แถบสีเหลืองใต้แผนที่จะแสดงหลอดสกิลความสามารถพิเศษของแฟรงคลิน ~n~กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ พร้อมกันเพื่อเปิดใช้งานสกิลพิเศษของแฟรงคลิน
-arm1:694148038,"~s~The special ability bar is full, activate by pressing ~INPUT_SPECIAL_ABILITY_PC~",~s~หลอดค่าพลังสกิลพิเศษเต็มแล้ว คุณใช้งานสกิลโดยกด ~INPUT_SPECIAL_ABILITY_PC~
-arm1:814379028,~s~Go inside the ~y~house.~s~,~s~เดินเข้าไปใน ~y~บ้าน~s~
-arm1:856775253,~s~One of the cars was damaged.~s~,~s~มีรถหนึ่งคันได้รับความเสียหาย~s~
-arm1:860146384,~s~Sleeping on the bed will save the game and advance time.~s~,~s~การนอนบนเตียงนั้นสามารถเซฟเกมได้และจะมีการข้ามเวลาด้วย.~s~
-arm1:987439591,"~s~When out of sight of the Cops, the Wanted Stars will flash and cones will appear on the Radar to show the area they are searching.",~s~เมื่อหลบหนีการจับกุมได้ ในแผนที่จะแสดงไอคอนตำรวจพร้อมรูปกรวยหมุนไปมาเพื่อสอดส่องหาผู้ต้องสงสัย
-arm1:990650552,~s~The car was abandoned.~s~,~s~คุณทิ้งรถ~s~
-arm1:1009093341,~s~The yellow line represents the shortest legal route to a destination.,~s~เส้นสีเหลืองนั้นแสดงถึงเส้นทางที่เราสามารถขับรถถูกตามกฏหมายและไปถึงที่จุดหมายได้โดยปลอดภัย
-arm1:1058721220,~s~The car was destroyed.~s~,~s~รถของคุณพัง~s~
-arm1:1308476943,~s~The yellow bar below the Radar shows Franklin's special ability level. ~n~Press ~INPUT_SPECIAL_ABILITY_PC~ to activate Franklin's ability.,~s~แถบสีเหลืองใต้แผนที่จะแสดงหลอดสกิลความสามารถพิเศษของแฟรงคลิน ~n~กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อเปิดใช้งานสกิลพิเศษของแฟรงคลิน
-arm1:1314980650,"~s~Become harder to spot by changing cars when out of sight, or hiding in alleys or bushes.",~s~การพยายามหลบหนีการจับกุมทำได้ง่ายๆ โดยการเปลี่ยนรถคันใหม่หรือเมื่อละสายตาตำรวจหรือหลบซ่อนในถิ่นของคุณไม่ก็หลบซ่อนในหญ้า
-arm1:1317667704,~s~The Radar flashes red and blue when the Cops can see you.,~s~เรดาร์จะมีการกระพริบเป็นสีแดงและสีน้ำเงินในตอนที่ตำรวจมองหาคุณเจอ
-arm1:1355117624,~s~Take the car back to the ~y~dealership.~s~,~s~เอารถไปส่ง~y~ศูนย์จำหน่ายรถ~s~
-arm1:1543762563,~s~To lower/raise the roof of a convertible car hold ~INPUT_VEH_ROOF~ when stationary.,~s~เปิด-ปิด ประทุนรถ โดยการกด ~INPUT_VEH_ROOF~ ค้างไว้ เมื่อตอนยานพาหนะจอดอยู่เฉยๆ
-arm1:1544367648,~s~Lamar's car is too damaged.~s~,~s~รถของลามาร์เสียหายมากเกินไป~s~
-arm1:1608099351,"~s~To lose a Wanted Level, stay out of the cones until the Cops call off the search. Hide in alleys or in the dark to stay out of their sight.",~s~ดาวจะค่อยๆ ลดลงไปเอง ถ้าเราอยู่ให้ห่างจากเขตค้นหาของตำรวจ พยายามหลบซ่อนในถิ่นของพวกเรา หรือ หลบในที่มุมมืด
-arm1:1676671978,~s~Go to ~b~Simeon.~s~,~s~ไปหา ~b~ซิเมียน~s~
-arm1:1752020816,~s~Save vehicles by parking them in the Garage.~s~,~s~เราสามารถเก็บรถที่ชอบได้โดยการจอดจอดรถในโรงจอดรถของเรา~s~
-arm1:1837559778,~s~A vehicle was driven into the dealership.~s~,~s~ขับรถเข้าไปในศูนย์จำหน่ายรถ~s~
-arm1:1842850623,~s~Jimmy died.~s~,~s~จิมมี่ตายแล้ว~s~
-arm1:1873513184,"~s~Franklin's health can be restored by walking over health packs, or eating food from vending machines and shops.~s~",~s~ค่าพลังชีวีตของแฟรงคลินฟื้นฟูได้โดยเก็บไอคอนรูปหัวใจ หรือได้จากกินอาหาร อาหารจะหาได้จากเครื่องขายอัตโนมัติและร้านค้า~s~
-arm1:2030773726,~s~One of the cars was destroyed.~s~,~s~มีรถคันหนึ่งโดนถูกทำลาย~s~
-arm1:2133975036,~s~The character's skills in GTAV will increase over time by performing various actions and completing Hobbies and Pastimes around Los Santos. Increasing these skills will improve the way they perform related tasks.,~s~สกิลของแต่ละตัวละครจะเพิ่มขึ้นโดย การกระทำต่างๆ การทำกิจกรรมที่ชอบรวมไปถึงภารกิจเสริมต่างๆ และ การเพิ่มสกิลจะทำให้แต่ละตัวละครได้มาร่วมงานพบเจอกัน
-arm1:2164212361,~s~Each playable character has their own unique vehicle.~s~,~s~ตัวละครแต่ละตัวจะมียานพาหนะเป็นของตัวเอง~s~
-arm1:2197167195,~s~Press ~INPUT_VEH_HEADLIGHT~ to toggle headlight mode.,~s~กด ~INPUT_VEH_HEADLIGHT~ เพื่อเปิด-ปิด ไฟหน้า
-arm1:2215284086,~s~Follow ~b~Lamar.~s~,~s~ขับตาม ~b~ลามาร์~s~
-arm1:2368898399,~s~Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ to deactivate the special ability while it is active.,~s~กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ เพื่อปิดใช้งานสกิลพิเศษ
-arm1:2377721202,~s~Franklin lost Lamar.~s~,~s~แฟรงคลินหลงทางกับลามาร์~s~
-arm1:2446852391,~s~Hold ~INPUT_VEH_DUCK~ to duck when sitting inside a vehicle.,~s~กด ~INPUT_VEH_DUCK~ ค้างไว้ ขณะนั่งในรถเพื่อก้มตัวต่ำลง
-arm1:2459409261,~s~Press ~INPUT_VEH_CIN_CAM~ to remove focus on Lamar.~s~,~s~กดปุ่ม ~INPUT_VEH_CIN_CAM~ เพื่อหยุดโฟกัสลามาร์~s~
-arm1:2512555648,~s~Hold ~INPUT_CHARACTER_WHEEL~ to view Franklin's skills.,~s~กดปุ่ม~INPUT_CHARACTER_WHEEL~ ค้าง เพื่อดูความสามารถของแฟรงคลิน
-arm1:2539374845,"~s~The special ability bar is full, activate by pressing ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~",~s~หลอดค่าพลังสกิลพิเศษเต็มแล้ว ใช้งานสกิลโดยกด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~
-arm1:2581874399,~s~One of the cars was damaged after dropping it off.~s~,~s~มีรถคันใดคันหนึ่งได้รับความเสียหายในขณะที่รถขับออกไป~s~
-arm1:2589160172,~s~Save progress at any time off-mission using the Quick Save button on the phone.~s~,~s~เราสามารถเซฟเกมได้ตลอดเวลาถ้าเราอยู่นอกภารกิจโดยหยิบมือถือแล้วเข้าที่แอป Quick Save ในโทรศัพท์ของตัวละคร~s~
-arm1:2596371326,~s~Increasing your driving stat will give you more control of a vehicle in the air. Perform jumps in vehicles and achieve perfect landings to increase the stat.,~s~การเพิ่มค่าสถานะการขับขี่จะช่วยให้คุณควบคุมพาหนะบนอากาศได้ง่ายขึ้น การกระโดดออกจากพาหนะหรือลงจอดอย่างนุ่มนวลจะช่วยเพิ่มค่าสถานะนี้
-arm1:2636228544,~s~Lamar died.~s~,~s~ลามาร์ตายแล้ว~s~
-arm1:3007072953,"~s~The flashing ~BLIP_SAFEHOUSE~ on the Radar shows the location of this house, progress can be saved here.",~s~จุดไอคอน ~BLIP_SAFEHOUSE~ บนแผนที่จะแสดงที่อยู่ของบ้านหลังนี้และสามารถบันทึกเกมได้ที่นี่
-arm1:3062255219,"~s~The special ability bar can be filled by driving against traffic, narrowly avoiding collisions and achieving high speeds.",~s~การเพิ่มค่าพลังของหลอดสกิลพิเศษ สามารถทำได้โดย ขับรถผ่าไฟแดง ขับรถเฉี่ยว(ห้ามชน) และขับรถด้วยความเร็วสูง
-arm1:3100414080,~s~The car got stuck.~s~,~s~ไม่สามารถนำรถไปต่อได้~s~
-arm1:3227817120,~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake.,~s~กดปุ่ม ~INPUT_VEH_HANDBRAKE~ เพื่อใช้เบรกมือ
-arm1:3278695740,"~s~Your Wanted Level is shown by the number of stars on screen, one or more stars and the Cops will be alerted.",~s~ระดับความต้องการตัวจะโชว์ขึ้นเป็นรูปดาว ตั้งแต่หนึ่งดาวขึ้นไป ตำรวจจะออกตามล่าจับกุมคุณ
-arm1:3295153624,~s~Press ~INPUT_NEXT_CAMERA~ while driving to adjust the camera view.~s~,~s~กดปุ่ม ~INPUT_NEXT_CAMERA~ เพื่อสลับมุมมองเมื่อขับรถ~s~
-arm1:3311615665,~s~Both cars were destroyed.~s~,~s~รถทั้งสองถูกทำลาย~s~
-arm1:3341394738,~s~One of the showroom cars was broken into.~s~,~s~มีหนึ่งในห้องของโชว์รูมรถ ได้รับความเสียหาย~s~
-arm1:3391928425,~s~Use ~INPUTGROUP_VEH_MOVE_ALL~ to control a vehicle while in the air.,~s~ใช้ ~INPUTGROUP_VEH_MOVE_ALL~ เพื่อควบคุมยานพาหนะขณะลอยอยู่บนอากาศ
-arm1:3490953078,~s~Press ~INPUT_VEH_EXIT~ to exit the vehicle.,~s~กด ~INPUT_VEH_EXIT~ เพื่อออกจากรถ
-arm1:3512903743,~s~Barber shops now available at ~BLIP_BARBER~ Visit a barber to get a new haircut.,~s~ร้านตัดผมเปิดให้บริการแล้ว~BLIP_BARBER~ ไปหาช่างตัดผมเพื่อดูหรือตัดผมใหม่
-arm1:3550728714,~s~Hold ~INPUT_VEH_CIN_CAM~ when far away from Lamar to focus the camera on him.~s~,~s~กด ~INPUT_VEH_CIN_CAM~ ค้างไว้ เมื่อเดินออกห่างจากลามาร์เพื่อมองไปที่เขา~s~
-arm1:3599075246,~s~The car got stuck.~s~,~s~รถไม่สามารไปต่อได้~s~
-arm1:3854020535,~s~Clothes can be changed at your wardrobe.~s~,~s~คุณสามารถเปลี่ยนเสื้อผ้าได้ที่ตู้เสื้อผ้าของคุณ.~s~
-arm1:3867357968,~s~Press ~INPUT_SPECIAL_ABILITY_PC~ to deactivate the special ability while it is active.,~s~กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อปิดใช้งานสกิลพิเศษ
-arm1:3871478752,~s~Go to ~y~Franklin's house.~s~,~s~ไปที่ ~y~บ้านของแฟรงคลิน~s~
-arm1:3886343208,~s~Simeon's deal was disrupted.,~s~การส่งต่อรถกับซิเมียนถูกยกเลิก
-arm1:3941707839,~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on Lamar while driving.~s~,~s~กดปุ่ม~INPUT_VEH_CIN_CAM~เพื่อเน้นโฟกัสไปมอง ลามาร์ ที่กำลังขับรถ .~s~
-arm1:3969554697,"~s~This is Simeon's car dealership, Franklin can come here to pick up missions.",~s~แฟรงคลินสามารถไปที่ศูนย์จำหน่ายรถพื่อรับภารกิจได้
-arm1:4018805844,~s~Lamar was abandoned.~s~,~s~ลามาร์ได้ทิ้งรถ~s~
-arm1:4029379591,~s~Simeon died.~s~,~s~ซิมเมียนตายแล้ว~s~
-arm1:4161135298,~s~The Cops were alerted.~s~,~s~ตำรวจรู้ตัวแล้ว~s~
+arm1:21349761,~s~Park ~y~next to Lamar.~s~,~s~จอด ~y~ข้างๆ Lamar~s~
+arm1:26679567,~s~Choose one of the ~b~cars.~s~,~s~เลือก ~b~รถ~s~ สักคัน
+arm1:257700750,~s~The dealership was trashed.~s~,~s~โชว์รูมถูกทำลาย~s~
+arm1:317141870,~s~Sit on the couch to watch TV and try other activities.~s~,~s~นั่งโซฟาดูทีวีหรือลองกิจกรรมอื่นๆ
+arm1:362303160,~s~The Cops were led to the dealership.~s~,~s~ตำรวจถูกพาตัวไปที่โชว์รูม~s~
+arm1:465781777,~s~Return to ~b~Lamar.~s~,~s~กลับไปหา ~b~Lamar~s~
+arm1:476285812,~s~Press ~INPUT_ENTER~ to get in a vehicle.~s~,~s~กด ~INPUT_ENTER~ เพื่อขึ้นรถ
+arm1:526249532,~s~Improve Franklin's special ability by filling up the special ability bar often.,~s~เติมแถบสกิลพิเศษบ่อยๆ เพื่อพัฒนาความสามารถของ Franklin
+arm1:628514758,~s~There was a disturbance at the dealership.,~s~เกิดเหตุการณ์วุ่นวายที่โชว์รูม
+arm1:651028931,~s~The yellow bar below the Radar shows Franklin's special ability level. ~n~Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to activate Franklin's ability.,~s~แถบสีเหลืองใต้เรดาร์แสดงระดับสกิลของ Franklin ~n~กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ พร้อมกันเพื่อเปิดใช้
+arm1:694148038,"~s~The special ability bar is full, activate by pressing ~INPUT_SPECIAL_ABILITY_PC~",~s~แถบสกิลพิเศษเต็มแล้ว กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อเปิดใช้
+arm1:814379028,~s~Go inside the ~y~house.~s~,~s~เข้าไปใน ~y~บ้าน~s~
+arm1:856775253,~s~One of the cars was damaged.~s~,~s~มีรถคันหนึ่งเสียหาย~s~
+arm1:860146384,~s~Sleeping on the bed will save the game and advance time.~s~,~s~นอนบนเตียงเพื่อเซฟเกมและข้ามเวลา~s~
+arm1:987439591,"~s~When out of sight of the Cops, the Wanted Stars will flash and cones will appear on the Radar to show the area they are searching.",~s~เมื่อหลบหนีจากสายตาตำรวจ ดาว Wanted จะกะพริบและกรวยค้นหาจะโชว์บนเรดาร์
+arm1:990650552,~s~The car was abandoned.~s~,~s~ทิ้งรถ~s~
+arm1:1009093341,~s~The yellow line represents the shortest legal route to a destination.,~s~เส้นสีเหลืองคือเส้นทางถูกกฎหมายที่สั้นที่สุดไปจุดหมาย
+arm1:1058721220,~s~The car was destroyed.~s~,~s~รถถูกทำลาย~s~
+arm1:1308476943,~s~The yellow bar below the Radar shows Franklin's special ability level. ~n~Press ~INPUT_SPECIAL_ABILITY_PC~ to activate Franklin's ability.,~s~แถบสีเหลืองใต้เรดาร์แสดงสกิลของ Franklin ~n~กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อเปิดใช้
+arm1:1314980650,"~s~Become harder to spot by changing cars when out of sight, or hiding in alleys or bushes.",~s~เปลี่ยนรถหรือซ่อนในตรอก/พุ่มไม้เมื่อออกจากสายตา จะช่วยให้หลบจับได้ยากขึ้น
+arm1:1317667704,~s~The Radar flashes red and blue when the Cops can see you.,~s~เรดาร์กระพริบแดง-น้ำเงินเมื่อตำรวจมองเห็นคุณ
+arm1:1355117624,~s~Take the car back to the ~y~dealership.~s~,~s~เอารถกลับไปที่ ~y~โชว์รูม~s~
+arm1:1543762563,~s~To lower/raise the roof of a convertible car hold ~INPUT_VEH_ROOF~ when stationary.,~s~กดค้าง ~INPUT_VEH_ROOF~ ตอนจอดเพื่อเปิด/ปิดหลังคาเปิด
+arm1:1544367648,~s~Lamar's car is too damaged.~s~,~s~รถของ Lamar เสียหายเกินไป~s~
+arm1:1608099351,"~s~To lose a Wanted Level, stay out of the cones until the Cops call off the search. Hide in alleys or in the dark to stay out of their sight.",~s~จะลดระดับดาว Wanted อยู่นอกเขตค้นหา จนกว่าตำรวจจะยกเลิก ซ่อนในตรอกหรือที่มืด
+arm1:1676671978,~s~Go to ~b~Simeon.~s~,~s~ไปหา ~b~Simeon~s~
+arm1:1752020816,~s~Save vehicles by parking them in the Garage.~s~,~s~เก็บรถไว้โดยจอดใน Garage~s~
+arm1:1837559778,~s~A vehicle was driven into the dealership.~s~,~s~มีรถพุ่งเข้าโชว์รูม~s~
+arm1:1842850623,~s~Jimmy died.~s~,~s~Jimmy ตาย~s~
+arm1:1873513184,"~s~Franklin's health can be restored by walking over health packs, or eating food from vending machines and shops.~s~",~s~รีเฟิร์ HP ของ Franklin ได้จากแพ็คเลือด หรือกินของจากตู้ขายของและร้านค้า~s~
+arm1:2030773726,~s~One of the cars was destroyed.~s~,~s~มีรถคันหนึ่งถูกทำลาย~s~
+arm1:2133975036,~s~The character's skills in GTAV will increase over time by performing various actions and completing Hobbies and Pastimes around Los Santos. Increasing these skills will improve the way they perform related tasks.,~s~สกิลตัวละครใน GTAV จะเพิ่มเมื่อทำกิจกรรมต่างๆ และ Hobbies รอบ Los Santos
+arm1:2164212361,~s~Each playable character has their own unique vehicle.~s~,~s~ตัวละครแต่ละคนมีรถประจำตัวของตัวเอง~s~
+arm1:2197167195,~s~Press ~INPUT_VEH_HEADLIGHT~ to toggle headlight mode.,~s~กด ~INPUT_VEH_HEADLIGHT~ เพื่อสลับโหมดไฟหน้า
+arm1:2215284086,~s~Follow ~b~Lamar.~s~,~s~ตาม ~b~Lamar~s~
+arm1:2368898399,~s~Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ to deactivate the special ability while it is active.,~s~กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ เพื่อปิดสกิลพิเศษขณะเปิดอยู่
+arm1:2377721202,~s~Franklin lost Lamar.~s~,~s~Franklin ทิ้ง Lamar ไว้~s~
+arm1:2446852391,~s~Hold ~INPUT_VEH_DUCK~ to duck when sitting inside a vehicle.,~s~กดค้าง ~INPUT_VEH_DUCK~ เพื่อก้มเมื่อนั่งในรถ
+arm1:2459409261,~s~Press ~INPUT_VEH_CIN_CAM~ to remove focus on Lamar.~s~,~s~กด ~INPUT_VEH_CIN_CAM~ เพื่อเลิกโฟกัส Lamar~s~
+arm1:2512555648,~s~Hold ~INPUT_CHARACTER_WHEEL~ to view Franklin's skills.,~s~กดค้าง ~INPUT_CHARACTER_WHEEL~ เพื่อดูสกิลของ Franklin
+arm1:2539374845,"~s~The special ability bar is full, activate by pressing ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~",~s~แถบสกิลเต็ม กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ เพื่อเปิดใช้
+arm1:2581874399,~s~One of the cars was damaged after dropping it off.~s~,~s~มีรถเสียหายหลังส่งรถ~s~
+arm1:2589160172,~s~Save progress at any time off-mission using the Quick Save button on the phone.~s~,~s~เซฟนอกภารกิจได้ทุกเมื่อผ่าน Quick Save บนมือถือ~s~
+arm1:2596371326,~s~Increasing your driving stat will give you more control of a vehicle in the air. Perform jumps in vehicles and achieve perfect landings to increase the stat.,~s~ขึ้นสเตต Driving ช่วยคุมรถบนอากาศดีขึ้น โดดข้ามสิ่งกีดขวางแล้วลงจอดสวยๆ
+arm1:2636228544,~s~Lamar died.~s~,~s~Lamar ตาย~s~
+arm1:3007072953,"~s~The flashing ~BLIP_SAFEHOUSE~ on the Radar shows the location of this house, progress can be saved here.",~s~~BLIP_SAFEHOUSE~ กะพริบบนเรดาร์บอกที่บ้านหลังนี้ และเซฟได้ที่นี่
+arm1:3062255219,"~s~The special ability bar can be filled by driving against traffic, narrowly avoiding collisions and achieving high speeds.",~s~แถบสกิลเติมได้จากขับสวนเลน หลบชนฉิบหาย และความเร็วสูง
+arm1:3100414080,~s~The car got stuck.~s~,~s~รถติด~s~
+arm1:3227817120,~s~Press ~INPUT_VEH_HANDBRAKE~ to use the handbrake.,~s~กด ~INPUT_VEH_HANDBRAKE~ เพื่อใช้เบรกมือ
+arm1:3278695740,"~s~Your Wanted Level is shown by the number of stars on screen, one or more stars and the Cops will be alerted.",~s~ระดับ Wanted แสดงเป็นดาวบนจอ มีดาวขึ้นไปตำรวจจะถูกเรียก
+arm1:3295153624,~s~Press ~INPUT_NEXT_CAMERA~ while driving to adjust the camera view.~s~,~s~กด ~INPUT_NEXT_CAMERA~ ขณะขับเพื่อเปลี่ยนมุมกล้อง~s~
+arm1:3311615665,~s~Both cars were destroyed.~s~,~s~รถทั้งสองคันถูกทำลาย~s~
+arm1:3341394738,~s~One of the showroom cars was broken into.~s~,~s~มีคนงัดรถในห้องโชว์~s~
+arm1:3391928425,~s~Use ~INPUTGROUP_VEH_MOVE_ALL~ to control a vehicle while in the air.,~s~ใช้ ~INPUTGROUP_VEH_MOVE_ALL~ คุมรถขณะลอยกลางอากาศ
+arm1:3490953078,~s~Press ~INPUT_VEH_EXIT~ to exit the vehicle.,~s~กด ~INPUT_VEH_EXIT~ เพื่อลงจากรถ
+arm1:3512903743,~s~Barber shops now available at ~BLIP_BARBER~ Visit a barber to get a new haircut.,~s~ร้านตัดผมเปิดแล้วที่ ~BLIP_BARBER~ ไปตัดทรงใหม่ได้
+arm1:3550728714,~s~Hold ~INPUT_VEH_CIN_CAM~ when far away from Lamar to focus the camera on him.~s~,~s~กดค้าง ~INPUT_VEH_CIN_CAM~ เมื่ออยู่ไกลจาก Lamar เพื่อโฟกัสกล้องไปที่เขา~s~
+arm1:3599075246,~s~The car got stuck.~s~,~s~รถติด~s~
+arm1:3854020535,~s~Clothes can be changed at your wardrobe.~s~,~s~เปลี่ยนเสื้อผ้าได้ที่ตู้เสื้อผ้า~s~
+arm1:3867357968,~s~Press ~INPUT_SPECIAL_ABILITY_PC~ to deactivate the special ability while it is active.,~s~กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อปิดสกิลพิเศษขณะเปิดอยู่
+arm1:3871478752,~s~Go to ~y~Franklin's house.~s~,~s~ไปที่ ~y~บ้านของ Franklin~s~
+arm1:3886343208,~s~Simeon's deal was disrupted.,~s~ดีลของ Simeon ถูกยกเลิก
+arm1:3941707839,~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on Lamar while driving.~s~,~s~กด ~INPUT_VEH_CIN_CAM~ เพื่อสลับโฟกัส Lamar ขณะขับ~s~
+arm1:3969554697,"~s~This is Simeon's car dealership, Franklin can come here to pick up missions.",~s~นี่คือโชว์รูมของ Simeon Franklin มารับภารกิจได้ที่นี่
+arm1:4018805844,~s~Lamar was abandoned.~s~,~s~ทิ้ง Lamar ไว้~s~
+arm1:4029379591,~s~Simeon died.~s~,~s~Simeon ตาย~s~
+arm1:4161135298,~s~The Cops were alerted.~s~,~s~ตำรวจรู้แล้ว~s~

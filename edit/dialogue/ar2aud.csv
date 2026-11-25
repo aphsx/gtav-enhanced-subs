@@ -1,5 +1,5 @@
-id,en,th
-ar2aud:1813271,~z~Big dog.,~z~ฉันเก่งสุด
+﻿id,en,th
+ar2aud:1813271,~z~Big dog.,~z~ตัวโหด.
 ar2aud:12760382,"~z~Look, man.",~z~นี่ฟังนะ
 ar2aud:13979675,"~z~You blocked 'em in, homie - shit goin' kick off with these eses.",~z~มึงไปล้อมพวกมันไว้แล้วเพื่อน เรื่องวุ่นวายกับพวกเม็กซิกันพวกนี้กำลังจะเริ่มขึ้นแล้ว
 ar2aud:19516799,~z~You so trigger happy you would even blast the fucking milk man!,~z~มึงมันพวกบ้าสงครามชัดๆ แม้แต่คนส่งนมมึงก็ยังจะยิง!
@@ -14,7 +14,7 @@ ar2aud:78056912,"~z~Shit, we gotta get the fuck away from this shit.",~z~บ้�
 ar2aud:84972536,"~z~Eh, Employee of the Month, get over here, nigga.",~z~เฮ้ พนักงานดีเด่นประจำเดือน มานี่สิเพื่อน
 ar2aud:85529212,~z~These bitches won't never learn.,~z~พวกนี้มันไม่เคยเรียนรู้อะไรเลยจริงๆ
 ar2aud:94826711,"~z~Nigga, that's that Apache blood in me, homie.",~z~ฟังนะ นั่นมันเลือดอาปาเช่สุดโหดในตัวกูเพื่อน
-ar2aud:99594248,~z~Get that fool on the balcony!,~จัดการไอ้เวรบนระเบียงนั่นซะ!
+ar2aud:99594248,~z~Get that fool on the balcony!,~z~จัดการไอ้เวรบนระเบียงนั่นซะ!
 ar2aud:101893850,"~z~Cold, homie.",~z~เลือดเย็นมากเพื่อน
 ar2aud:106840181,"~z~Yeah, me,",~z~ใช่ ผม...
 ar2aud:106978825,~z~Ahh ahh huh huh!,~z~อ๊าก!
@@ -28,7 +28,7 @@ ar2aud:129596475,"~z~We in the middle of some gangster shit, man. Where you goin
 ar2aud:130476121,"~z~Yeah you thought I was gonna hit yo' bitch-ass, huh? Drunk-ass nigga.",~z~เออ คิดว่ากูจะเตะก้นเหี่ยวๆ ของแกงั้นเหรอ? ไอ้ขี้เมาเอ้ย
 ar2aud:136430472,"~z~Eh, what the fuck we going do without a ride!?",~z~เฮ้ แล้วเราจะทำยังไงวะถ้าไม่มีรถใช้น่ะ!?
 ar2aud:137929109,"~z~Eh, get in cover over there by the truck.",~z~เฮ้ หาที่กำบังตรงข้างรถบรรทุกนั่น
-ar2aud:141746279,"~z~I'll just fill out a form, take it down the dealership. Yetarian bound to be real sympathetic.",~z~ฉันแค่จะกรอกแบบฟอร์มแล้วส่งไปที่ศูนย์รถ เยตาเรียนคงจะเห็นใจน่าดูเลยละ
+ar2aud:141746279,"~z~I'll just fill out a form, take it down the dealership. Yetarian bound to be real sympathetic.",~z~ฉันแค่จะกรอกแบบฟอร์มแล้วส่งไปที่ศูนย์รถ Yetarianคงจะเห็นใจน่าดูเลยละ
 ar2aud:143314251,"~z~You Apache motherfuckers love your bets, huh? You should go work on one of them reservation casinos,",~z~ไอ้อาปาเช่เฮงซวยแกชอบพนันสินะ? อย่างแกน่าจะไปทำงานที่คาสิโนซะ
 ar2aud:146248356,~z~Check that motherfucker on the left.,~z~เช็คไอ้ระยำทางซ้ายนั่นที
 ar2aud:153745583,~z~Motherfuckers on the scaffold is on me. Shoot up that canister!,~z~ไอ้หอกบนนั่งร้านกูจัดการเอง ยิงที่แท๊งค์นั่นซะ!
@@ -44,7 +44,7 @@ ar2aud:223368542,"~z~Get in cover there, dog! By the car!",~z~หาที่ก
 ar2aud:223676592,~z~Get on him.,~z~ตามมันไป
 ar2aud:228048435,~z~Damn!,~z~ให้ตายสิ!
 ar2aud:240628154,~z~Guess we gotta explain things to this fool.,~z~สงสัยเราต้องอธิบายเรื่องต่างๆ ให้ไอ้โง่นี่ฟังหน่อยแล้ว
-ar2aud:253413309,~z~Franklin here has been awarded Employee of the Month.,~z~แฟรงคลินคนนี้เขาเพิ่งได้รับรางวัลพนักงานดีเด่นประจำเดือนนี้
+ar2aud:253413309,~z~Franklin here has been awarded Employee of the Month.,~z~Franklinคนนี้เขาเพิ่งได้รับรางวัลพนักงานดีเด่นประจำเดือนนี้
 ar2aud:261506267,~z~Move over. We ain't trying to rile these fools.,~z~ขยับไปหน่อย เราไม่อยากไปกวนประสาทพวกโง่นี่นะ
 ar2aud:272293374,"~z~Be cool, nigga.",~z~มาดนิ่งไว้เพื่อน
 ar2aud:277130917,~z~Blast them putos!,~z~เป่าไอ้พวกโง่นั่นซะ!
@@ -74,9 +74,9 @@ ar2aud:446927847,"~z~Man, it's gotta be in here, man. Come on.",~z~เพื่�
 ar2aud:451661023,~z~It's in one of these lockups.,~z~ต้องเป็นหนึ่งในโรงเก็บพวกนี้แหละ
 ar2aud:462628140,~z~Time to collect.,~z~ได้เวลาไปเก็บงานแล้ว
 ar2aud:469692226,"~z~Man, fuck you, and come on.",~z~ไปตายซะ ไม่เอาน่า
-ar2aud:487157195,"~z~Lamar,",~z~ลามาร์...
+ar2aud:487157195,"~z~Lamar,",~z~Lamar...
 ar2aud:491785500,"~z~You sure pick the right people to pick a fight with, nigga.",~z~มึงนี่เลือกหาเรื่องคนได้ถูกคนจริงๆ นะเพื่อน
-ar2aud:493773924,"~z~Hello, Lamar! ~c~~n~What's up, Simeon? What's up, homie?",~z~สวัสดีลามาร์! ~c~~n~เป็นไงบ้างซิเมียน? เป็นไงเพื่อน?
+ar2aud:493773924,"~z~Hello, Lamar! ~c~~n~What's up, Simeon? What's up, homie?",~z~สวัสดีLamar! ~c~~n~เป็นไงบ้างSimeon? เป็นไงเพื่อน?
 ar2aud:494084177,"~z~That's right homie. Nothing but love, nigga.",~z~ถูกแล้วเพื่อน รักล้วนๆ เลย
 ar2aud:495763230,~t~Who's fucking with us?,~t~ใครแม่งมาหาเรื่องเราวะ?
 ar2aud:497421005,~z~Too bad 'bout your ride. You got to expense that shit.,~z~เสียดายเรื่องรถของมึงจริงๆ นะ มึงคงต้องควักเงินจ่ายเองแล้วละ
@@ -89,7 +89,7 @@ ar2aud:560809616,"~z~Get out here, man. Shit's about to get real.",~z~ออก�
 ar2aud:561728717,"~z~What? You see something? Get in the car, homie.",~z~อะไรนะ? มึงเห็นอะไรเหรอ? ขึ้นรถสิเพื่อน
 ar2aud:583265831,"~z~you tell me exactly what you want,",~z~นายต้องการอะไรนายบอกฉันได้เลย
 ar2aud:584468101,~z~Am I going to have to get with these crazy tattooed motherfuckers by myself?,~z~นี่กูต้องไปจัดการกับไอ้พวกระยำรอยสักเต็มตัวพวกนี้ด้วยตัวคนเดียวเหรอ?
-ar2aud:630257397,~z~Some kid at Vespucci Beach.,~z~เด็กคนนึงอยู่ที่ เวสปุชชี่ บีช
+ar2aud:630257397,~z~Some kid at Vespucci Beach.,~z~เด็กคนนึงอยู่ที่ Vespucci Beach
 ar2aud:632736494,~z~You driving.,~z~นายเป็นคนขับ
 ar2aud:645449021,~z~Eh. You just goin' stand there lookin' like an idiot?,~z~เฮ้ นายจะยืนเป็นไอ้บื้ออยู่ตรงนั้นเฉยๆ เหรอ?
 ar2aud:653402208,"~z~Flipping bricks is easier work, dog.",~z~งานขายยาเลี่ยงภาษียังง่ายกว่านี้อีกนะเพื่อน
@@ -151,8 +151,8 @@ ar2aud:1042350053,~z~Twenty Gs?,~z~สองหมื่นเหรียญเ
 ar2aud:1047290465,"~z~""big sitting chief asshole!""","~z~""ไอ้หัวหน้าเผ่างี่เง่า!"""
 ar2aud:1057588831,"~z~What the fuck, man! You wanna get this money or what? Come on!",~z~เวรอะไรกันเนี่ยเพื่อน! มึงอยากได้เงินนี่ไหม? มาเถอะ!
 ar2aud:1067760216,~z~Let's get it.,~z~ลุยเลย
-ar2aud:1076833329,"~z~Man, fuck next month, Simeon.",~z~ช่างเดือนหน้าสิ ซิเมียน
-ar2aud:1085369134,~z~Simeon don't want no one drawing attention to the legalities of this bullshit.,~z~ซิเมโอนไม่อยากให้ใครมาสนใจเรื่องความถูกต้องตามกฎหมายของเรื่องไร้สาระนี้หรอก
+ar2aud:1076833329,"~z~Man, fuck next month, Simeon.",~z~ช่างเดือนหน้าสิ Simeon
+ar2aud:1085369134,~z~Simeon don't want no one drawing attention to the legalities of this bullshit.,~z~Simeonไม่อยากให้ใครมาสนใจเรื่องความถูกต้องตามกฎหมายของเรื่องไร้สาระนี้หรอก
 ar2aud:1089875741,"~z~Hey, where is he, nigga?",~z~เฮ้ มันอยู่ไหนวะเพื่อน?
 ar2aud:1092209871,~z~Find your bitch-ass some cover.,~z~ลากก้นแกเข้าที่กำบังด้วย
 ar2aud:1093476270,"~z~And that was exactly what I was thinking, homie, thank you. Now fuck off.",~z~นั่นแหละคือสิ่งที่กูคิดอยู่เลยเพื่อน ขอบใจนะ ทีนี้ก็ไสหัวไปซะ
@@ -167,7 +167,7 @@ ar2aud:1156119862,~z~You gonna shoot that gas trail or what?,~z~นายจะ�
 ar2aud:1169577510,"~z~Man, what's a few more of these motherfuckers?",~z~ให้ตายสิ ยังมีพวกเวรเหลืออยู่อีกเหรอ?
 ar2aud:1178671509,"~z~Shit, homie. These dudes got friends. We got to get out of here!",~z~ให้ตายสิเพื่อน พวกนี้มันมีพวกพ้องนะ เราต้องไปจากที่นี่แล้ว!
 ar2aud:1179990312,"~z~Andale, motherfucker.",~z~เร็วเข้า ไอ้ระยำ
-ar2aud:1184650578,"~z~Hey, what's up, Simeon?",~z~เฮ้ ว่าไงซิเมียน?
+ar2aud:1184650578,"~z~Hey, what's up, Simeon?",~z~เฮ้ ว่าไงSimeon?
 ar2aud:1197359636,"~z~Watch me, fool.",~z~ดูกูนะไอ้โง่
 ar2aud:1199546311,"~z~Get on the bike, fool.",~z~ขึ้นมอเตอร์ไซค์สิไอ้โง่
 ar2aud:1202651846,~z~What you waiting for? Shoot the trail!,~z~นายมัวรออะไรอยู่วะ? ยิงไปที่รอยน้ำมันสิ!
@@ -236,7 +236,7 @@ ar2aud:1701715026,"~z~Man, they gonna smoke my ass if you leave me here.",~z~เ
 ar2aud:1711046580,"~z~Anyway, congratulations!",~z~ยังไงก็ ยินดีอย่างสุดซึ้ง!
 ar2aud:1721828408,"~z~Aw, fuck!",~z~โอ้ ให้ตายสิ!
 ar2aud:1734749547,"~z~Eh, come on, come on, come on.",~z~เฮ้ มาเถอะ มาเถอะ มาเถอะ
-ar2aud:1754422664,"~z~That Simeon a funny dude though, huh? It's gonna be a shame when we get to book his ass and jack him for all his shit.",~z~ไหนจะไอ้ปัญญาอ่อนซิเมียนนั่น? คงรันทดน่าดูตอนที่เราปล้นมันจนหมดตูดแล้วก็หนีมันไป
+ar2aud:1754422664,"~z~That Simeon a funny dude though, huh? It's gonna be a shame when we get to book his ass and jack him for all his shit.",~z~ไหนจะไอ้ปัญญาอ่อนSimeonนั่น? คงรันทดน่าดูตอนที่เราปล้นมันจนหมดตูดแล้วก็หนีมันไป
 ar2aud:1759756296,~z~Get 'em!,~z~จัดการมัน!
 ar2aud:1768106285,"~z~Ain't no motherfucking bike in here, man.",~z~ไม่เห็นมีไอ้รถเฮงซวยนั่นในนี้เลย
 ar2aud:1777923363,"~z~You took the wrong fucking turn, you fucking assholes!",~z~พวกแกเลี้ยวผิดทางแล้ว ไอ้พวกเวร!
@@ -257,7 +257,7 @@ ar2aud:1951813259,"~z~Hey, nigga!",~z~เฮ้เพื่อน!
 ar2aud:1954579375,~z~We almost there.,~z~เราเกือบจะถึงแล้ว
 ar2aud:1981041667,"~z~Behind the shitter. I'ma take the left, you take the right.",~z~หลังห้องน้ำนั่น กูจะไปทางซ้าย ส่วนมึงไปทางขวา
 ar2aud:1990250354,"~z~Man, I think you mean inconspicuous.",~z~เพื่อน ฉันว่านายคงหมายถึงทำตัวไม่ให้เป็นที่สังเกตมากกว่านะ
-ar2aud:1991465228,~z~Should I give the award to Lamar? What are you still doing here?,~z~ฉันควรจะมอบรางวัลให้ลามาร์ดีไหมนะ? แล้วนายยังมัวทำอะไรอยู่ที่นี่อีกล่ะ?
+ar2aud:1991465228,~z~Should I give the award to Lamar? What are you still doing here?,~z~ฉันควรจะมอบรางวัลให้Lamarดีไหมนะ? แล้วนายยังมัวทำอะไรอยู่ที่นี่อีกล่ะ?
 ar2aud:1997531936,"~z~Shit nigga, they want to step up, they can come down and do it.",~z~ให้ตายสิเพื่อน ถ้าพวกมันอยากจะลุย ก็ให้พวกมันลงมานี่เลย
 ar2aud:1998897087,"~z~You leaving me to get merked, fool? Get back in here!",~z~มึงจะทิ้งให้กูโดนฆ่าเหรอไอ้โง่? กลับมานี่เดี๋ยวนี้!
 ar2aud:2015598431,"~z~Get motivated, homie.",~z~ตื่นตัวหน่อยเพื่อน
@@ -281,7 +281,7 @@ ar2aud:2139374755,~z~We got to move!,~z~เราต้องไปแล้ว!
 ar2aud:2142281586,"~z~This a routine lick, dog. Chill.",~z~นี่มันเรื่องปกติเพื่อน เย็นไว้น่า
 ar2aud:2145814675,~z~They made this fool Employee of the Month? Come on.,~z~พวกมันตั้งไอ้โง่นี่เป็นพนักงานดีเด่นประจำเดือนเนี่ยนะ? เอาน่า
 ar2aud:2164002574,~z~They people heard some shit! We got to book!,~z~คนของพวกมันต้องได้ยินอะไรแน่ๆ! เราต้องรีบไปแล้ว!
-ar2aud:2167869202,"~z~Man, I know Simeon don't expect us to come up here and kill motherfuckers and make him an accessory to murder!",~z~เพื่อน กูว่าซิเมโอนคงไม่หวังให้เรามาฆ่าคนแถวนี้แล้วทำให้เขากลายเป็นผู้สมรู้ร่วมคิดในการฆาตกรรมหรอกนะ!
+ar2aud:2167869202,"~z~Man, I know Simeon don't expect us to come up here and kill motherfuckers and make him an accessory to murder!",~z~เพื่อน กูว่าSimeonคงไม่หวังให้เรามาฆ่าคนแถวนี้แล้วทำให้เขากลายเป็นผู้สมรู้ร่วมคิดในการฆาตกรรมหรอกนะ!
 ar2aud:2183916086,"~z~Come here, we got your pink slip!",~z~มานี่ เรามีใบโอนรถของนายอยู่!
 ar2aud:2196176408,"~z~Fuck, man. This dude's creeping me out",~z~ให้ตายสิเพื่อน ไอ้หมอนี่ทำกูขนลุกฉิบหาย
 ar2aud:2205389639,"~z~Man, you done lost your damn mind.",~z~เพื่อน มึงน่ะเสียสติไปแล้วแน่ๆ
@@ -315,7 +315,7 @@ ar2aud:2425548202,~z~This ol' drunk ass fool.,~z~ไอ้แก่ขี้เ�
 ar2aud:2438684022,"~z~Get behind the car, dog!",~z~หลบหลังรถสิเพื่อน!
 ar2aud:2442942095,"~z~Do as I do, nigga.",~z~ทำตามที่กูทำนะเพื่อน
 ar2aud:2443310945,"~z~They wouldn't have heard nothing, if we'd a been cool with these assholes.",~z~พวกมันคงไม่ได้ยินอะไรหรอก ถ้าเราทำตัวนิ่งๆ กับไอ้พวกเวรนี่น่ะ
-ar2aud:2445263760,~z~Do them Vagos look routine? This is Shady Ass Alley!,~z~พวกวาโกสปกติงั้นเหรอ? ซอยนี้ปกติสุดๆ ไปเลย!
+ar2aud:2445263760,~z~Do them Vagos look routine? This is Shady Ass Alley!,~z~พวกVagosปกติงั้นเหรอ? ซอยนี้ปกติสุดๆ ไปเลย!
 ar2aud:2470415410,~z~I'm gonna keep this motherfucker for myself.,~z~กูจะเก็บไอ้ตัวร้ายนี่เอาไว้เอง
 ar2aud:2475014144,~z~You want the pigs to see you boost this ride?,~z~นายอยากให้พวกตำรวจเห็นตอนที่นายขโมยรถคันนี้หรือไง?
 ar2aud:2479674223,~z~Is he in a gang?,~z~เขามีแก๊งไหม?
@@ -329,7 +329,7 @@ ar2aud:2556934426,"~z~Come on, man! Damn!",~z~เอาน่าเพื่อ�
 ar2aud:2558365913,~z~That heat right there!,~z~ปืนอยู่ตรงนั้นไง!
 ar2aud:2559379324,"~z~Oh, we just saw you trying to creep up in here, man.",~z~โอ้ เราก็แค่เห็นแกสองตัวมาทำลับๆ ล่อๆ ในนี้เพื่อน
 ar2aud:2568066139,"~z~I mean, ""fuck you.""","~z~กูหมายถึง ""ไปตายซะ"""
-ar2aud:2570927585,"~z~Hey, wasn't that motherfucker who took the bike that ese - Vagos dude? With the tattoo on his face and shit?",~z~เฮ้ ไอ้เวรที่เอามอเตอร์ไซค์นั่นไป ใช่พวกวาโกสไหม? ที่สักเต็มหน้าเต็มตัวนั่น?
+ar2aud:2570927585,"~z~Hey, wasn't that motherfucker who took the bike that ese - Vagos dude? With the tattoo on his face and shit?",~z~เฮ้ ไอ้เวรที่เอามอเตอร์ไซค์นั่นไป ใช่พวกVagosไหม? ที่สักเต็มหน้าเต็มตัวนั่น?
 ar2aud:2578874576,~z~If that weren't it...,~z~ถ้ามันไม่ใช่แบบนั้น...
 ar2aud:2592725523,"~z~In your case, I ain't so sure about that.",~z~สำหรับแกนะ ฉันไม่ค่อยแน่ใจเท่าไหร่
 ar2aud:2592746420,~z~Huh?,~z~เป็นไงล่ะ?
@@ -338,9 +338,9 @@ ar2aud:2603785402,~z~They got me pinned down! Shoot the gas can!,~z~พวกม
 ar2aud:2640541434,"~z~That's trill, homie.",~z~มันเรื่องจริงนะเพื่อน
 ar2aud:2651157248,~z~Where are you?,~z~นายอยู่ที่ไหนน่ะ?
 ar2aud:2654660087,~z~I'm sitting up here trying to get us...,~z~ฉันมานี่พยายามจะให้เราได้...
-ar2aud:2658139231,"~z~I don't wanna clap my boy Yetarian either, I like homie. This just smacks of the inevitable.",~z~กูไม่อยากทำเยทาเรียนเหมือนกันเพื่อน กูชอบเขานะ แต่ยังไงก็เลี่ยงไม่ได้
+ar2aud:2658139231,"~z~I don't wanna clap my boy Yetarian either, I like homie. This just smacks of the inevitable.",~z~กูไม่อยากทำYetarianเหมือนกันเพื่อน กูชอบเขานะ แต่ยังไงก็เลี่ยงไม่ได้
 ar2aud:2659174598,~z~I'ma look for some transport!,~z~ฉันจะไปหารถใช้ก่อน!
-ar2aud:2684313615,"~z~Shit, we in Vespucci Beach.",~z~ให้ตาย ก็เราอยู่ในเวสปุชชี่บีช
+ar2aud:2684313615,"~z~Shit, we in Vespucci Beach.",~z~ให้ตาย ก็เราอยู่ในVespucci Beach
 ar2aud:2686838627,~z~Catch his tattooed ass!,~z~ตามไอ้คนที่มีรอยสักนั่นไป!
 ar2aud:2690390509,"~z~Nigga, fuck you man. Ain't nobody trippin' off you and that bullshit Zapho shit.",~z~เพื่อน ไปตายซะ ไม่มีใครสนใจมึงกับเรื่องเพ้อเจ้อพวกนั้นหรอก
 ar2aud:2690924040,~z~What you doin' fuckin' with the eye in the sky for?,~z~มึงจะไปยุ่งกับกล้องวงจรปิดข้างบนนั่นทำไมวะ?
@@ -380,8 +380,8 @@ ar2aud:2966399978,"~z~Hey, nigga,",~z~นี่เพื่อน
 ar2aud:2973812099,~z~Just another day at the motherfucking office.,~z~ก็แค่อีกหนึ่งวันที่แสนธรรมดาในออฟฟิศเฮงซวยนี่
 ar2aud:2985642327,"~z~And you love me for it, nigga.",~z~นั่นแหละเหตุผลที่มึงรักกูเพื่อน
 ar2aud:2989040690,~z~You know you the designated...,~z~นายก็รู้ว่านายได้รับมอบหมายให้เป็น...
-ar2aud:2992702682,"~z~We on the wrong side of Vespucci Beach. You should know, a block makes a difference.",~z~เรามาผิดด้านของเวสปุชชี่บีชแล้ว แกรู้นี่ ห่างบล็อกเดียวก็ต่างกันฟ้ากับเหวแล้ว
-ar2aud:2997796498,"~z~Away, away, away from me! Zapho agents!",~z~ไปเลย ไปเลย ไปไกลๆ เลย! ไอ้เอเลี่ยนซาฟโฟ!
+ar2aud:2992702682,"~z~We on the wrong side of Vespucci Beach. You should know, a block makes a difference.",~z~เรามาผิดด้านของVespucci Beachแล้ว แกรู้นี่ ห่างบล็อกเดียวก็ต่างกันฟ้ากับเหวแล้ว
+ar2aud:2997796498,"~z~Away, away, away from me! Zapho agents!",~z~ไปเลย ไปเลย ไปไกลๆ เลย! ไอ้เอเลี่ยนZapho!
 ar2aud:3010662851,"~z~When there's some shit to be won, Goddamnit, I want it.",~z~ถ้าต้องมีใครชนะก็กูก็อยากได้ ให้ตายสิ
 ar2aud:3016736980,"~z~Hey, what's up homie? You alright?",~z~เฮ้เป็นไงเพื่อน มึงโอเคไหม?
 ar2aud:3036108850,~z~You hear about these motherfuckers? Light 'em up!,~z~ได้ยินเรื่องพวกระยำพวกนี้ไหม? จัดการพวกมันเลย!
@@ -413,9 +413,9 @@ ar2aud:3277101034,"~z~That would be cool, homie. Why don't you do that?",~z~ม�
 ar2aud:3300830346,~z~Some more of them niggas!,~z~ยังมีพวกมันอีก!
 ar2aud:3300935935,"~z~Look, dog, this time we legit, homie. This honest work. It's gonna end up with us coming up in the world.",~z~ฟังนะเพื่อน ครั้งนี้มันถูกต้องแล้ว นี่คืองานสุจริต มันจะทำให้เรามีตัวตนจริงๆ
 ar2aud:3304278470,"~z~You, ahh, driving, right?",~z~นาย... อ่า ขับรถอยู่ใช่ไหม?
-ar2aud:3304763111,"~z~Thank you, Zapho!",~z~ขอบใจนะ แซปโฮ!
+ar2aud:3304763111,"~z~Thank you, Zapho!",~z~ขอบใจนะ Zapho!
 ar2aud:3330907874,~z~Bring that bike over here.,~z~เอามอเตอร์ไซค์คันนั้นมานี่
-ar2aud:3335228202,~z~Let's go to Vespucci. Magellan Ave.,~z~ไปที่เวสปุชชี่ ถนนมาเจลแลน
+ar2aud:3335228202,~z~Let's go to Vespucci. Magellan Ave.,~z~ไปที่เวสปุชชี่ ถนนMagellan
 ar2aud:3336471681,"~z~Don't go too far ahead, dog.",~z~อย่าล่วงหน้าไปไกลเกินนะเพื่อน
 ar2aud:3340060016,~z~Employee of the Month.,~z~ไอ้พนักงานดีเด่น
 ar2aud:3350706420,"~z~What's happening, homie?",~z~มีอะไรกันเหรอเพื่อน?
@@ -447,7 +447,7 @@ ar2aud:3558816269,~z~What's the bike doing over there?,~z~มอเตอร์�
 ar2aud:3561809100,"~z~You wanna drop some notes on that shit, I'll give you the odds, homie.",~z~ถ้าอยากจะไปเป่าหูใครแบบนี้ พนันว่าแกทำได้เพื่อน
 ar2aud:3566916278,"~z~You fucking with me, right?",~z~นี่ล้อกูเล่นใช่ไหม?
 ar2aud:3570633896,~z~Just let us walk outta here.,~z~ปล่อยให้เราเดินออกไปจากที่นี่เถอะ
-ar2aud:3579590491,~z~Simeon ain't payin' us enough for these repos.,~z~ซิเมโอนจ่ายเงินเราไม่พอสำหรับงานยึดรถพวกนี้หรอกนะ
+ar2aud:3579590491,~z~Simeon ain't payin' us enough for these repos.,~z~Simeonจ่ายเงินเราไม่พอสำหรับงานยึดรถพวกนี้หรอกนะ
 ar2aud:3583981908,"~z~Even this shit out, homie. Grab the shotgun.",~z~ทำให้มันจบๆ ไปเพื่อน ไปหยิบลูกซองมา
 ar2aud:3594964496,~z~Just what we needed!,~z~นั่นแหละคือสิ่งที่เราต้องการเลย!
 ar2aud:3613594704,~z~You done finally fuckin' lost it!,~z~ในที่สุดแกก็ทำพังจนได้!
@@ -468,7 +468,7 @@ ar2aud:3682655768,~z~Step aside and let a real man drive.,~z~หลีกไป 
 ar2aud:3685014102,~z~How many they got?,~z~พวกมันมีกันเท่าไหร่วะเนี่ย?
 ar2aud:3686146958,"~z~Alright, drive safe.",~z~เอาล่ะ ขับรถดีๆ นะ
 ar2aud:3691843199,"~z~You saw this, motherfucker?",~z~แกเห็นนี่ไหมล่ะไอ้หอกเอ๊ย?
-ar2aud:3692962309,~z~Then Simeon can come up here and pick up the motherfuckin' repo himself.,~z~งั้นซิเมโอนก็ควรจะขึ้นมาที่นี่แล้วมายึดรถด้วยตัวเองซะสิ
+ar2aud:3692962309,~z~Then Simeon can come up here and pick up the motherfuckin' repo himself.,~z~งั้นSimeonก็ควรจะขึ้นมาที่นี่แล้วมายึดรถด้วยตัวเองซะสิ
 ar2aud:3696705960,"~z~I know. I know. Nigga, it's fucked.",~z~กูรู้ กูรู้เพื่อน เรื่องมันพังไปหมดแล้ว
 ar2aud:3697824308,"~z~Get in the ride, homie.",~z~ขึ้นรถสิเพื่อน
 ar2aud:3698066436,"~z~What? Nigga, I don't even like milk.",~z~อะไรนะ? เพื่อน กูไม่ได้ชอบกินนมด้วยซ้ำนะ
@@ -502,7 +502,7 @@ ar2aud:3870068180,~z~These marks don't even know what we here for?,~z~ไอ้�
 ar2aud:3873612837,"~z~Man, lose the heat. We can't take the one time with us.",~z~เพื่อน สลัดตำรวจให้หลุดก่อน เราจะพาตำรวจไปงานยึดรถด้วยไม่ได้นะ
 ar2aud:3878451161,"~z~Man, we both being fucked with, dog.",~z~นี่ เราทั้งคู่กำลังโดนล้อเล่นอยู่เพื่อน
 ar2aud:3881974669,"~z~Eh, fool. We chasing this fool. Get back in here!",~z~เฮ้ไอ้โง่ เรากำลังตามไอ้หมอนั่นอยู่นะ กลับมานี่!
-ar2aud:3886229731,~z~Tell Simeon we couldn't recover it.,~z~บอกซิเมียนด้วยว่าเราตามยึดของไม่ได้
+ar2aud:3886229731,~z~Tell Simeon we couldn't recover it.,~z~บอกSimeonด้วยว่าเราตามยึดของไม่ได้
 ar2aud:3888498218,~z~So good.,~z~ดีจริง
 ar2aud:3890011163,"~z~You fall out, fools get capped, then you start all over again with some other fool.",~z~พอแกชิ่ง ไอ้โง่ถูกหลอก แล้วเราก็ไปเริ่มต้นใหม่กับไอ้โง่ตัวอื่น
 ar2aud:3902911552,~z~We ain't got beef with you.,~z~เราไม่มีเรื่องกับนายนะ
@@ -524,7 +524,7 @@ ar2aud:3985752966,~z~They trying to bail! Get that ride!,~z~พวกมัน�
 ar2aud:3991814460,~z~He comin' out the door to your left!,~z~มันกำลังออกมาจากประตูทางซ้ายของนาย!
 ar2aud:4053855238,~z~The bike ain't in there - let's go.,~z~มอเตอร์ไซค์ไม่ได้อยู่ในนั้น ไปกันเถอะ
 ar2aud:4057571301,"~z~You damn straight that's trill, partner, but it's a shame I don't believe it.",~z~ถูกของแกมันเป็นเรื่องจริง แต่เสียดายกูไม่เชื่อหรอก
-ar2aud:4076689731,"~z~You gotta come and get me personally, Lord Zapho.",~z~นายต้องมาหาฉันด้วยตัวเองนะ มึงแซปโฮ
+ar2aud:4076689731,"~z~You gotta come and get me personally, Lord Zapho.",~z~นายต้องมาหาฉันด้วยตัวเองนะ มึงZapho
 ar2aud:4080830459,~z~Shit! That ain't no police van.,~z~ให้ตายสิ! นั่นไม่ใช่รถตำรวจนี่หว่า
 ar2aud:4084798500,~z~What you waiting for? He going! Ese up the road on the left!,~z~นายมัวรออะไรอยู่วะ? มันหนีไปแล้ว! เพื่อนเม็กซิกันหนีไปบนถนนทางซ้ายแล้ว!
 ar2aud:4087728712,"~z~Why this always happen with you, homie?",~z~ทำไมเรื่องแบบนี้ต้องเกิดขึ้นกับมึงตลอดเลยนะเพื่อน?
@@ -541,7 +541,7 @@ ar2aud:4158102403,~z~Hasn't made a payment at all.,~z~ที่ยังไม�
 ar2aud:4161975746,~z~Only one way out this motherfucker.,~z~มีทางเดียวที่จะออกไปจากนี่ไอ้เวรเอ้ย
 ar2aud:4163247566,"~z~Eh, nigga? I wanted to say to you. You reliable.",~z~เฮ้เพื่อน? กูอยากจะบอกมึงว่า มึงน่ะเพิ่งพาได้จริงๆ
 ar2aud:4181067849,"~z~Yeah, homie. You a real bad motherfucker. Alright.",~z~ใช่เลยเพื่อน มึงนี่มันตัวอันตรายของจริงเลย โอเค
-ar2aud:4184141916,"~z~What we waiting for? Magellan Ave., nigga. Vespucci Beach.",~z~รออะไรอีกล่ะ? แม็กเจลแลนอเวนิวไงเพื่อน เวสปุชชี่บีช
+ar2aud:4184141916,"~z~What we waiting for? Magellan Ave., nigga. Vespucci Beach.",~z~รออะไรอีกล่ะ? Magellanอเวนิวไงเพื่อน Vespucci Beach
 ar2aud:4193733818,~z~You'll not take my... glands... while I'm alive!,~z~แกจะไม่ได้... ต่อม... ของฉันไปหรอกตราบเท่าที่ฉันยังมีชีวิตอยู่!
 ar2aud:4208265304,"~z~You still kicking, bitches?",~z~ยังไม่ตายอีกเหรอพวกแก?
 ar2aud:4224642657,"~z~Where you running off to, man? Stay over here.",~z~นายจะวิ่งไปไหนน่ะเพื่อน? อยู่ที่นี่แหละ
