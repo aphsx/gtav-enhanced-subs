@@ -1,53 +1,40 @@
-# GTA V Enhanced — Thai Subtitles (community)
+# GTA V Enhanced — Thai Subtitles
 
 แฟนมอดคำบรรยายไทย **Single Player**
 
-| คุณคือ | ทำอะไร |
-|--------|--------|
-| **ผู้เล่น** | ลงแบบมอดทั่วไป → [`PLAYERS.md`](PLAYERS.md) |
-| **มาช่วยแปล** | แก้ CSV ใน `edit/` → [`CONTRIBUTING.md`](CONTRIBUTING.md) |
-| **maintainer** | build / ทำซิปปล่อย → ด้านล่าง |
+## ดาวน์โหลดไปเล่น (จาก repo นี้)
 
-## ผู้เล่น (ง่ายสุด — ลงแล้วเล่น)
-1. ดาวน์โหลด **`GTA_V_Thai_Subs_DROP_IN.zip`** จาก GitHub Releases  
-   (หรือให้ maintainer รัน `tools/make_dropin.ps1`)
-2. ปิดเกม → แตกซิปทับโฟลเดอร์ `Grand Theft Auto V Enhanced`
-3. ภาษา **American / English** → เล่น SP
+คนเล่นไม่ต้อง clone / ไม่ต้อง Python
 
-ได้ไฟล์: `OpenRPF.asi`, `xinput1_4.dll`, `args.txt`, `mods\update\*.rpf`
+1. เปิดหน้า GitHub ของโปรเจกต์นี้ → แท็บ **Releases**
+2. ดาวน์โหลด **`GTA_V_Thai_Subs_DROP_IN.zip`**
+3. ปิดเกม → แตกซิป **ทับ** โฟลเดอร์ `Grand Theft Auto V Enhanced`
+4. ตั้งภาษา **American / English** → เล่น SP
 
-## ช่วยแปล (ไม่ต้อง reverse)
-1. เปิด [`edit/00_global_tips_emails.csv`](edit/00_global_tips_emails.csv) หรือ `edit/dialogue/*.csv`
-2. แก้เฉพาะคอลัมน์ **`th`**
-3. Pull Request  
+ได้ไฟล์: `OpenRPF.asi`, `xinput1_4.dll`, `args.txt`, `mods\update\update.rpf`, `mods\update\update2.rpf`
 
-รายละเอียด: [`CONTRIBUTING.md`](CONTRIBUTING.md) · กฎโทน: [`RULES.md`](RULES.md)
+รายละเอียดสั้นๆ: [`PLAYERS.md`](PLAYERS.md)
 
-## Maintainer — สร้างแพ็ก drop-in / ติดตั้งเครื่องนี้
-ความต้องการ: Python 3.10+, `rpfpeek`, คีย์ที่ `%USERPROFILE%\.rpfpeek\keys`, **ปิดเกม**
+> ทำไมไม่ใส่ซิปใน git? เพราะ `update.rpf` ~3GB — GitHub รับใน **Releases** ของ repo เดียวกัน (ยังถือว่าโหลดจากที่นี่)
+
+## มาช่วยแปล
+
+1. แก้เฉพาะคอลัมน์ `th` ใน [`edit/`](edit/) (CSV)
+2. ส่ง Pull Request  
+
+→ [`CONTRIBUTING.md`](CONTRIBUTING.md) · [`RULES.md`](RULES.md)
+
+## Maintainer — อัป Release ให้คนโหลด
+
+ปิดเกม แล้ว:
 
 ```powershell
-pip install -r requirements.txt
-# ลงเข้าเกมเครื่องนี้
-python tools/build.py --game "D:\...\Grand Theft Auto V Enhanced" --install
-# หรือทำซิปให้คนอื่นลากลงเกมได้เลย
-.\tools\make_dropin.ps1 -GameRoot "D:\...\Grand Theft Auto V Enhanced"
+.\tools\make_dropin.ps1 -GameRoot "D:\SteamLibrary\steamapps\common\Grand Theft Auto V Enhanced"
 ```
 
-## โครงสร้าง repo
-| โฟลเดอร์ | ใช้ทำอะไร |
-|----------|-----------|
-| `edit/` | ข้อความให้คนแก้ |
-| `tools/` | build / ฟอนต์ / ทำซิป drop-in |
-| `assets/` | ฟอนต์ OFL + loaders |
-| `release/` | ผลซิปผู้เล่น (gitignore ไฟล์ .rpf ใหญ่ได้) |
-
-## สถานะพร้อมขึ้น GitHub?
-- ช่วยแปลผ่าน CSV: **พร้อม**
-- เอกสาร contribute / license / NOTICE: **พร้อม**
-- ผู้เล่นแบบมอดทั่วไป: **พร้อมเมื่อมีไฟล์ใน Releases** (`make_dropin.ps1`)  
-  อย่า commit `update.rpf` เต็มเข้า git — ใส่ใน Release อย่างเดียว
+จะได้ `release\GTA_V_Thai_Subs_DROP_IN.zip`  
+จากนั้นบน GitHub: **Releases → Create release → แนบซิปนี้**
 
 ## License
-- สคริปต์: MIT · ข้อความใน `edit/`: CC BY-SA 4.0 · ฟอนต์ Sarabun: OFL  
-- เกม © Rockstar — ดู [`NOTICE.md`](NOTICE.md)
+MIT (tools) · CC BY-SA 4.0 (ข้อความใน `edit/`) · OFL (Sarabun)  
+GTA © Rockstar — [`NOTICE.md`](NOTICE.md)
