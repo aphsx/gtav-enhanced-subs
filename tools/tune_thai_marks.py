@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """Raise Thai tone-mark glyphs so they clear upper vowels without OpenType GPOS.
 
-Scaleform/GTA does not position marks via GPOS, so plain Noto/Sarabun stack
+Scaleform/GTA does not position marks via GPOS, so plain Sarabun stacks
 wrong on sequences like พิ้. This bakes vertical separation into outlines.
 """
 from __future__ import annotations

@@ -1,7 +1,7 @@
 # Translation rules (EN → TH)
 
 Source of truth: **vanilla English** in column `en`.  
-Do **not** paste Thai from other fan localization packs.
+Write Thai from `en` only.
 
 ## Do translate
 - Spoken subtitles (`~z~…`)

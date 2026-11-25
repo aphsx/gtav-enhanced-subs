@@ -1,5 +1,5 @@
 # -*- coding: utf-8 -*-
-"""Rebuild assets/font_lib_efigs_pc.gfx from stock game efigs + OFL Noto Thai.
+"""Rebuild assets/font_lib_efigs_pc.gfx from stock game efigs + Sarabun (OFL).
 
 Requires: FFDec CLI (ffdec-cli.exe) 26+, rpfpeek, game keys.
 """
