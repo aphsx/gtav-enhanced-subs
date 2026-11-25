@@ -15,3 +15,6 @@ dist/*.rpf
 patch/*.rpf
 !dist/.gitkeep
 work/
+release/**/*.rpf
+release/**/*.zip
+!release/.gitkeep

@@ -1,51 +1,53 @@
 # GTA V Enhanced — Thai Subtitles (community)
 
-แฟนมอดคำบรรยายไทย **Single Player**  
-แก้ข้อความใน CSV ได้เลย — **ไม่ต้อง reverse**  
-build แพ็กใหม่จากเกมของตัวเองได้ด้วยสคริปต์ใน repo นี้
+แฟนมอดคำบรรยายไทย **Single Player**
 
-## โครงสร้าง
+| คุณคือ | ทำอะไร |
+|--------|--------|
+| **ผู้เล่น** | ลงแบบมอดทั่วไป → [`PLAYERS.md`](PLAYERS.md) |
+| **มาช่วยแปล** | แก้ CSV ใน `edit/` → [`CONTRIBUTING.md`](CONTRIBUTING.md) |
+| **maintainer** | build / ทำซิปปล่อย → ด้านล่าง |
 
-| โฟลเดอร์ | ใช้ทำอะไร |
-|----------|-----------|
-| `edit/` | **แก้ตรงนี้** — tips/เมล + บทพูด (CSV) |
-| `tools/` | แปลง CSV → แพ็ก `american_rel.rpf` + ติดตั้ง |
-| `assets/` | ฟอนต์ไทย + OpenRPF loaders |
-| `dist/` | ผล build (สร้างโดยสคริปต์) |
+## ผู้เล่น (ง่ายสุด — ลงแล้วเล่น)
+1. ดาวน์โหลด **`GTA_V_Thai_Subs_DROP_IN.zip`** จาก GitHub Releases  
+   (หรือให้ maintainer รัน `tools/make_dropin.ps1`)
+2. ปิดเกม → แตกซิปทับโฟลเดอร์ `Grand Theft Auto V Enhanced`
+3. ภาษา **American / English** → เล่น SP
 
-## ช่วยแปล (contributor)
+ได้ไฟล์: `OpenRPF.asi`, `xinput1_4.dll`, `args.txt`, `mods\update\*.rpf`
 
-1. เปิด [`edit/00_global_tips_emails.csv`](edit/00_global_tips_emails.csv) หรือไฟล์ใน `edit/dialogue/`
-2. แก้เฉพาะคอลัมน์ **`th`** (อย่าแตะ `id` / `en`)
-3. ส่ง Pull Request
+## ช่วยแปล (ไม่ต้อง reverse)
+1. เปิด [`edit/00_global_tips_emails.csv`](edit/00_global_tips_emails.csv) หรือ `edit/dialogue/*.csv`
+2. แก้เฉพาะคอลัมน์ **`th`**
+3. Pull Request  
 
 รายละเอียด: [`CONTRIBUTING.md`](CONTRIBUTING.md) · กฎโทน: [`RULES.md`](RULES.md)
 
-## สร้างแพ็กใช้เอง (builder / คุณ)
-
-ความต้องการ
-- GTA V Enhanced ที่ซื้อถูกกฏหมาย
-- Python 3.10+
-- แพ็กเกจ `rpfpeek` + คีย์เกมที่ `%USERPROFILE%\.rpfpeek\keys`
+## Maintainer — สร้างแพ็ก drop-in / ติดตั้งเครื่องนี้
+ความต้องการ: Python 3.10+, `rpfpeek`, คีย์ที่ `%USERPROFILE%\.rpfpeek\keys`, **ปิดเกม**
 
 ```powershell
-cd gtav-enhanced-thai-subs
-python -m pip install -r requirements.txt
-
-# แค่สร้าง dist/american_rel.rpf
-python tools/build.py --game "D:\SteamLibrary\steamapps\common\Grand Theft Auto V Enhanced"
-
-# สร้าง + ติดตั้งเข้า mods\ (ปิดเกมก่อน)
-python tools/build.py --game "..." --install
-# หรือ
-.\install.ps1 -GameRoot "D:\...\Grand Theft Auto V Enhanced"
+pip install -r requirements.txt
+# ลงเข้าเกมเครื่องนี้
+python tools/build.py --game "D:\...\Grand Theft Auto V Enhanced" --install
+# หรือทำซิปให้คนอื่นลากลงเกมได้เลย
+.\tools\make_dropin.ps1 -GameRoot "D:\...\Grand Theft Auto V Enhanced"
 ```
 
-ในเกม: ภาษา **American / English**
+## โครงสร้าง repo
+| โฟลเดอร์ | ใช้ทำอะไร |
+|----------|-----------|
+| `edit/` | ข้อความให้คนแก้ |
+| `tools/` | build / ฟอนต์ / ทำซิป drop-in |
+| `assets/` | ฟอนต์ OFL + loaders |
+| `release/` | ผลซิปผู้เล่น (gitignore ไฟล์ .rpf ใหญ่ได้) |
 
-ถอดมอด: ลบ `mods\update` (+ `OpenRPF.asi` / `xinput1_4.dll` ถ้าไม่ใช้มอดอื่น)
+## สถานะพร้อมขึ้น GitHub?
+- ช่วยแปลผ่าน CSV: **พร้อม**
+- เอกสาร contribute / license / NOTICE: **พร้อม**
+- ผู้เล่นแบบมอดทั่วไป: **พร้อมเมื่อมีไฟล์ใน Releases** (`make_dropin.ps1`)  
+  อย่า commit `update.rpf` เต็มเข้า git — ใส่ใน Release อย่างเดียว
 
 ## License
-- สคริปต์: MIT  
-- ข้อความใน `edit/`: CC BY-SA 4.0  
+- สคริปต์: MIT · ข้อความใน `edit/`: CC BY-SA 4.0 · ฟอนต์ Sarabun: OFL  
 - เกม © Rockstar — ดู [`NOTICE.md`](NOTICE.md)
