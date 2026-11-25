@@ -2,7 +2,7 @@
 tow:127434911,Base: $~1~ Damage Penalty: $~1~ Total: $~1~,ราคาโดยทั่วไป: $~1~ ค่าปรับความเสียหาย : $~1~ รวมเป็น : $~1~
 tow:209418744,~s~Go to the ~b~illegally parked car.~s~,~s~ไปยัง ~b~รถที่จอดผิดกฎจราจร~s~
 tow:222228388,~s~The driver got his car back.~s~,~s~คนขับรถเอารถกลับไป~s~
-tow:284166001,~s~Franklin threatened the driver.~s~,~s~แฟรงคลินข่มขู่คนขับ~s~
+tow:284166001,~s~Franklin threatened the driver.~s~,~s~Franklin ข่มขู่คนขับ~s~
 tow:357703141,~s~Dispatch has received a call about a car stalled on train tracks. The vehicle and pedestrian need to be taken to a mechanic shop.,~s~หน่วยขนส่งได้รับสายเกี่ยวกับรถที่หยุดทำงานบนรางรถไฟ พาหนะและคนเดินเท้าต้องถูกนำไปที่ร้านซ่อม
 tow:401219906,Passed,ผ่าน
 tow:418089091,~s~The wrong car has been hooked. Hold ~INPUT_VEH_HEADLIGHT~ to unhook the car.~s~,~s~รถผิดคันได้ถูกเกี่ยวยึด กดค้าง ~INPUT_VEH_HEADLIGHT~ เพื่อปลดรถออก~s~
@@ -16,7 +16,7 @@ tow:893891357,~s~The vehicle was destroyed.~s~,~s~พาหนะถูกทำ
 tow:910243000,~s~The tow truck was destroyed.~s~,~s~รถลากถูกทำลาย~s~
 tow:925628153,~s~The homeless person was attacked.~s~,~s~คนจรจัดถูกโจมตี~s~
 tow:958631919,~s~Wait for ~b~Tonya.~s~,~s~รอ ~b~ทอนย่า~s~
-tow:1009114232,~s~Hook the tow truck arm back onto the ~b~broken down car.~s~,~s~ใช้ขอเกี่ยวรถลากเกี่ยวกับ ~b~ด้านหลังของรถที่เสียหาย~
+tow:1009114232,~s~Hook the tow truck arm back onto the ~b~broken down car.~s~,~s~ใช้ขอเกี่ยวรถลากเกี่ยวกับ ~b~ด้านหลังของรถที่เสียหาย~~s~
 tow:1028797976,~s~Dispatch has received a call from a stranded pedestrian with a disabled vehicle. The vehicle and pedestrian need to be taken to a mechanic shop.,~s~หน่วยขนส่งได้รับสายจากคนเดินเท้าที่ติดค้างพร้อมกับพาหนะที่ใช้การไม่ได้ พาหนะและคนเดินเท้าต้องถูกนำไปที่ร้านซ่อม
 tow:1065732509,~s~Release the vehicle in the ~y~drop-off zone.~s~,~s~ปล่อยพาหนะในจุด ~y~วางรถ~s~
 tow:1089492738,~s~Tonya was spooked.~s~,~s~ทอนย่าตกใจ~s~
@@ -25,10 +25,10 @@ tow:1114705265,~s~The attached vehicle should be dropped off in the designated d
 tow:1125512841,Vehicle,พาหนะ
 tow:1134413027,~s~Extra damage to the towed vehicle has resulted in a ~r~$~1~ penalty.~s~ Causing more damage will cause you to fail.~s~,~s~ความเสียหายพิเศษต่อพาหนะที่ถูกลากส่งผลให้เกิดค่าปรับ ~r~$~1~~s~หากความเสียหายมากขึ้นจะทำให้คุณล้มเหลว~s~
 tow:1170448614,~s~Dispatch has received a call about an abandoned car. The car needs to be towed to the local impound.,~s~หน่วยขนส่งได้รับสายเกี่ยวกับรถที่ถูกละทิ้ง รถจะต้องถูกลากไปยังลานยึดรถของท้องถื่น
-tow:1200510890,~s~Franklin threatened a pedestrian.~s~,~s~แฟรงคลินข่มขู่คนเดินเท้า~s~
+tow:1200510890,~s~Franklin threatened a pedestrian.~s~,~s~Franklin ข่มขู่คนเดินเท้า~s~
 tow:1383044680,Total Time,เวลารวมทั้งหมด
 tow:1428908030,~s~Causing more damage to the vehicle will fail the towing job.~s~,~s~หากเกิดความเสียหายมากขึ้นกับพาหนะ จะทำให้งานลากจูงล้มเหลว~s~
-tow:1462113252,~s~Franklin fired a weapon near a pedestrian.~s~,~s~แฟรงคลินยิงอาวุธใกล้กับคนเดินเท้า~s~
+tow:1462113252,~s~Franklin fired a weapon near a pedestrian.~s~,~s~Franklin ยิงอาวุธใกล้กับคนเดินเท้า~s~
 tow:1508587846,~s~Lose the Cops.~s~,~s~หนีตำรวจ~s~
 tow:1554968677,DISCONNECT,หยุดเชื่อมต่อ
 tow:1646598901,~s~Use ~INPUT_VEH_MOVE_UD~ to lower and raise the crane.~s~,~s~ใช้ ~INPUT_VEH_MOVE_UD~ เพื่อเครนขึ้นและลง~s~
@@ -72,9 +72,9 @@ tow:3374630239,~s~Drive Tonya to the ~y~impound lot.~s~,~s~ขับรถไป
 tow:3558178130,~s~The tow truck is undriveable.~s~,~s~รถลากไม่สามารถขับได้~s~
 tow:3631475809,~s~Tow the car to the ~y~auto repair shop.~s~,~s~ลากรถไปที่ ~y~ร้านซ่อมรถยนต์~s~
 tow:3732637590,"~s~When a vehicle is attached to the tow truck, hold ~INPUT_VEH_HEADLIGHT~ to unhook the vehicle.~s~",~s~เมื่อพาหนะยึดกับรถลาก ให้กดค้าง ~INPUT_VEH_HEADLIGHT~ เพื่อปลดพาหนะ~s~
-tow:3757475960,~s~Franklin broke the law.~s~,~s~แฟรงคลินทำผิดกฎหมาย~s~
+tow:3757475960,~s~Franklin broke the law.~s~,~s~Franklin ทำผิดกฎหมาย~s~
 tow:3771607041,~s~Go to the ~b~crashed car.~s~,~s~ไปยัง ~b~รถที่ถูกชน~s~
 tow:3965077674,~s~Hold ~INPUT_VEH_HEADLIGHT~ to drop off the vehicle.~s~,~s~กดค้าง ~INPUT_VEH_HEADLIGHT~ เพื่อทำการวางพาหนะ~s~
 tow:4060884131,~s~The driver died.~s~,~s~คนขับตายแล้ว~s~
-tow:4208020169,~s~Franklin died.~s~,~s~แฟรงคลินตายแล้ว~s~
+tow:4208020169,~s~Franklin died.~s~,~s~Franklin ตายแล้ว~s~
 tow:4212696638,~s~Press ~INPUT_VEH_CIN_CAM~ to get an alternate view of the car.,~s~กด ~INPUT_VEH_CIN_CAM~ เพื่อดูมุมมองต่างๆ ของรถ

@@ -27,7 +27,7 @@ dtrfkgr:2966930108,~s~Drive to the old ~y~farm house.~s~,~s~ขับรถไ�
 dtrfkgr:2987089014,The weapons drop plane is in the area. Press ~INPUT_SCRIPT_RRIGHT~ to track the plane.,เครื่องบินส่งอาวุธอยู่ในพื้นที่แล้ว กด ~INPUT_SCRIPT_RRIGHT~ เพื่อติดตามเครื่องบิน
 dtrfkgr:3016726582,~s~Take out the ~r~arms runners.~s~,~s~จัดการ ~r~คนขนอาวุธ~s~
 dtrfkgr:3081903755,~s~Drive to the ~y~plane graveyard.~s~,~s~ขับรถไปยัง ~y~สุสานเครื่องบิน~s~
-dtrfkgr:3214553023,~s~Retrieve the ~g~arms package.~s~,~s~กู้คืน ~g~แพ็กเกจอาวุธ~s~
+dtrfkgr:3214553023,~s~Retrieve the ~g~arms package.~s~,~s~ผม้คืน ~g~แพ็กเกจอาวุธ~s~
 dtrfkgr:3263850017,~s~Drive to the ~y~rail station.~s~,~s~ขับรถไปยัง ~y~สถานีรถไฟ~s~
 dtrfkgr:3309628306,~s~Drive to the ~y~runway.~s~,~s~ขับรถไปยัง ~y~รันเวย์~s~
 dtrfkgr:3315382880,~s~Drive to the ~y~hardware store.~s~,~s~ขับรถไปยัง ~y~ร้านขายอุปกรณ์ช่าง~s~
@@ -36,6 +36,6 @@ dtrfkgr:3640626318,~s~Rival arms runners have obtained the weapons package. Elim
 dtrfkgr:3712706717,~s~Drive to the ~y~plateau.~s~,~s~ขับรถไปยัง ~y~บริเวณที่ราบสูง~s~
 dtrfkgr:3860213052,~s~Drive to the old ~y~dock house.~s~,~s~ขับรถไปยัง ~y~บ้านพักริมน้ำหลังเก่า~s~
 dtrfkgr:4125233620,TIME,เวลา
-dtrfkgr:4137969131,Trevor must use the trafficking vehicle to pick up the weapons.,เทรเวอร์ต้องใช้พาหนะขนส่งสินค้าเพื่อไปรับอาวุธ
+dtrfkgr:4137969131,Trevor must use the trafficking vehicle to pick up the weapons.,Trevor ต้องใช้พาหนะขนส่งสินค้าเพื่อไปรับอาวุธ
 dtrfkgr:4246448473,~s~Drive to the ~y~houses.~s~,~s~ขับรถไปยัง ~y~กลุ่มบ้านพัก~s~
 dtrfkgr:4292963188,~s~Return to the ~g~arms package.~s~,~s~กลับไปที่ ~g~แพ็กเกจอาวุธ~s~

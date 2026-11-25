@@ -1,11 +1,11 @@
-﻿id,en,th
+id,en,th
 rhfaud:474377541,~z~Just meet us there.,~z~แค่ไปเจอพวกเราที่นั่นก็พอ
 rhfaud:563182682,~z~You sure this is the guy?,~z~แน่ใจนะว่าคนนี้?
 rhfaud:570268440,~z~We need the two of you to meet us there. Bugetary crisis.,~z~เราต้องการให้พวกนายสองคนไปเจอพวกเราที่นั่น วิกฤตการณ์ด้านงบประมาณน่ะ
 rhfaud:640340187,~z~I can get you the exact details of the shipment as soon as we're done here.,~z~ฉันให้ข้อมูลการขนส่งนั่นได้ทันทีที่เราเสร็จธุระตรงนี้แล้ว
 rhfaud:787458245,"~z~Keep me in the loop, bud.",~z~ส่งข่าวให้ฉันรู้เรื่อยๆ นะเพื่อน
 rhfaud:868740284,"~z~We're en route to your truck stop slash meth lab, need to discuss something. Be there.",~z~เรากำลังเดินทางไปที่จุดพักรถพ่วงพ่วงโรงงานผลิตยาไอซ์ของนาย มีบางอย่างต้องคุยด้วย อยู่ที่นั่นซะ
-rhfaud:1103291519,"~z~I know that none of this is ideal, but it's the only way I can see of taking the score, and providing for your FIB paymasters.",~z~ฉันรู้ว่ามันไม่เข้านายัก แต่นี่เป็นทางเดียวที่ฉันคิดว่าเราจะทำเรื่องนี้ได้ จะได้หาให้นักบัญชีเอฟไอบีของนาย
+rhfaud:1103291519,"~z~I know that none of this is ideal, but it's the only way I can see of taking the score, and providing for your FIB paymasters.",~z~ฉันรู้ว่ามันไม่เข้ามึงัก แต่นี่เป็นทางเดียวที่ฉันคิดว่าเราจะทำเรื่องนี้ได้ จะได้หาให้นักบัญชีเอฟไอบีของนาย
 rhfaud:1211079956,~z~Mike's having a brain fart!,~z~ไมค์กำลังสมองตื้อน่ะ!
 rhfaud:1232456734,~z~That it? You sure?,~z~แค่นี้เหรอ? นายแน่ใจนะ?
 rhfaud:1235249649,~z~Mike. We're coming to Sandy Shores.,~z~ไมค์ เรากำลังไปที่แซนดี้ชอร์ส
@@ -16,7 +16,7 @@ rhfaud:1762187069,~z~Meeting a couple of g-man scumbags in my meth lab? Of cours
 rhfaud:1966206696,~z~You'll be prepared. Convoys carrying military grade hardware pass near here to get to Fort Zancudo.,~z~จะต้องมีการเตรียมการ ขบวนรถทหารที่มีเครื่องมือระดับกองทัพจะขับผ่านตรงนี้เพื่อไปยังป้อมซานคูโด
 rhfaud:1978480319,"~z~Okay, Trevor the... Trevor, I'll let you know when this score is happening.",~z~โอเค เทรเวอร์จอม... เทรเวอร์ เดี๋ยวฉันจะบอกให้นายรู้เมื่อถึงเวลาลงมือปล้น
 rhfaud:1987626001,~z~Trevor owns a shithole garage out there. Probably used as a meth lab.,~z~เทรเวอร์เป็นเจ้าของอู่รถเฮงซวยแถวนั้น น่าจะใช้เป็นโรงงานผลิตยาไอซ์ด้วย
-rhfaud:2023250164,"~z~Lester the Molester, bro, we got ourselves that military hardware. It's parked out back of my office.",~z~เลสเตอร์จอมล่วงละเมิดน้องชาย เราได้ยุทโธปกรณ์ทางทหารมาแล้วนะ มันจอดอยู่หลังออฟฟิศของผม
+rhfaud:2023250164,"~z~Lester the Molester, bro, we got ourselves that military hardware. It's parked out back of my office.",~z~เลสเตอร์จอมล่วงละเมิดน้องชาย เราได้ยุทโธปกรณ์ทางทหารมาแล้วนะ มันจอดอยู่หลังออฟฟิศของกู
 rhfaud:2033776017,"~z~Daryl, I'm not hearing great things to be honest, but you just might be able to do this with him.",~z~ดาริล บอกตามตรงนะว่าฉันไม่ได้ยินเรื่องดีๆ เท่าไหร่ แต่นายน่าจะทำเรื่องนี้ไปกับเขาได้นะ
 rhfaud:2116944259,~z~The cunt... Agent Haines is driving.,~z~ไอ้เวรนั่น... เจ้าหน้าที่เฮนส์เป็นคนขับ
 rhfaud:2395471496,"~z~Anyway, you won't be outside the bank too long. Paleto Bay is...",~z~ถึงอย่างนั้นพวกนายก็ไม่ควรอยู่นอกธนาคารนานเกินไป อ่าวพาเลโต เบย์ น่ะ...
@@ -31,7 +31,7 @@ rhfaud:2919222675,~z~Dirty cops.,~z~พวกตำรวจเวร
 rhfaud:2956782897,"~z~He takes any longer, I'm going to make this call.",~z~ถ้าเขาใช้เวลานานกว่านี้ ฉันจะโทรสายนี้เอง
 rhfaud:3036184067,"~z~His ""office""? Right. Well, I'll be in touch when it's time to move on the score.","~z~""ออฟฟิศ"" ของเขางั้นเหรอ? ได้เลย เดี๋ยวฉันจะติดต่อไปเมื่อถึงเวลาลงมือปล้น"
 rhfaud:3077890173,~z~...the dirty cops head on.,~z~...เผชิญหน้าพวกตำรวจเวร
-rhfaud:3393624340,"~z~I propose hijacking one, and using the equipment to get an edge on the locals.",~z~ผมอยากให้นายขโมยมาคันนึง และใช้เครื่องมือที่ได้ปะทะกับพวกตำรวจท้องถื่น
+rhfaud:3393624340,"~z~I propose hijacking one, and using the equipment to get an edge on the locals.",~z~กูอยากให้มึงขโมยมาคันนึง และใช้เครื่องมือที่ได้ปะทะกับพวกตำรวจท้องถื่น
 rhfaud:3446223630,"~z~Just a gunman. He'll be taking on the cops with you, so my advice, choose someone good.",~z~แค่มือปืน เขาจะต้องปะทะตำรวจกับพวกนาย ถ้าให้แนะนำควรเลือกคนฝีมือดี
 rhfaud:3727152267,~z~Fine. We need personnel?,~z~ได้ เราต้องใช้คนอื่นไหม?
 rhfaud:3962311052,~z~This really the guy you want?,~z~นี่คือคนที่นายต้องการจริงๆ เหรอ?

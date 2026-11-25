@@ -14,7 +14,7 @@ bs2baud:40369514,~z~Stay on Taliana.,~z~อยู่กับทาเลีย�
 bs2baud:41813604,~z~have we?,~z~ว่าไหม?
 bs2baud:48218446,"~z~We're in a vehicle, on the way to getting clear. You doing alright?",~z~เราอยู่บนรถแล้ว กำลังจะหนีพ้น นายโอเคไหม?
 bs2baud:50671581,~z~Half of it's more gold that you could ever dream of.,~z~ครึ่งหนึ่งของมันน่ะเป็นทองมากกว่าที่เคยฝันถึงเสียอีก
-bs2baud:51723862,~z~Lester baby! ~n~~c~Yeah?,~z~เลสเตอร์ที่รัก! ~n~~c~ว่าไง?
+bs2baud:51723862,~z~Lester baby! ~n~~c~Yeah?,~z~Lester ที่รัก! ~n~~c~ว่าไง?
 bs2baud:51808969,~z~we send in a team of modded cars.,~z~เราก็ส่งทีมรถที่จูนแล้วเข้าไป
 bs2baud:62617386,~z~Oh wow - chopper!,~z~โอ้ ว้าว เฮลิคอปเตอร์!
 bs2baud:62802182,~z~You gonna turn on the drill bit?,~z~นายจะเปิดเครื่องหัวเจาะไหม?
@@ -33,7 +33,7 @@ bs2baud:120327950,"~z~Hey, cops'll be here soon. We gotta blow these cages fast.
 bs2baud:121326553,~z~We can't afford to wait around. Come on.,~z~เรามัวแต่นั่งรอไม่ได้แล้ว มาเถอะ
 bs2baud:121569379,~z~Get that drill going.,~z~เดินเครื่องหัวเจาะนั่นซะ
 bs2baud:128140776,~z~I'm using my toolset!,~z~ฉันกำลังใช้เครื่องมือของฉันอยู่!
-bs2baud:132817884,~z~Come on.,~z~เร็วเข้า 7
+bs2baud:132817884,~z~Come on.,~z~เร็วเข้า
 bs2baud:134077987,~z~Where you going? It's back here.,~z~นายจะไปไหน? มันอยู่ทางนี้
 bs2baud:137941503,~z~You got some bombs to fit.,~z~นายมีระเบิดที่ต้องติดตั้งนะ
 bs2baud:139607900,~z~I will put you down!,~z~ฉันจะจัดการนายเอง!
@@ -92,7 +92,7 @@ bs2baud:309261721,"~z~Shit, there's another cop wagon!",~z~บ้าจริง
 bs2baud:311241142,"~z~Now once you're in there and you've got the score,",~z~พอพวกนายเข้าไปและได้ของแล้ว
 bs2baud:312079142,~z~Beam up to the mothership!,~z~วาร์ปขึ้นไปบนยานแม่เลย!
 bs2baud:313773302,~z~Punch through them!,~z~ฝ่าพวกมันไป!
-bs2baud:315385855,~z~Lester Crest!,~z~เลสเตอร์ เครสต์ โว้ย!
+bs2baud:315385855,~z~Lester Crest!,~z~Lester เครสต์ โว้ย!
 bs2baud:320689739,~z~You gotta turn the drill on.,~z~นายต้องเปิดหัวเจาะ
 bs2baud:322959863,~z~We gotta move.,~z~เราต้องไปแล้ว
 bs2baud:325023758,"~z~Eh, they're everywhere!",~z~เฮ้ พวกมันอยู่ทุกที่เลย!
@@ -105,9 +105,9 @@ bs2baud:342530863,"~z~Hey T, the metal's ready to go. Where the choppers at?",~z
 bs2baud:344850839,~z~Cops on the way! Tunnel behind me!,~z~ตำรวจกำลังมา! อุโมงค์ข้างหลังฉัน!
 bs2baud:358241011,"~z~F, I don't know if we can get through to you.",~z~เอฟ ฉันไม่รู้ว่าเราจะติดต่อได้ไหม
 bs2baud:362013495,"~z~Up these stairs, man! Come on.",~z~ขึ้นบันไดนี่กันเพื่อน! เร็วเข้า
-bs2baud:366830566,"~z~Ah, Franklin! ~n~~c~Huh?",~z~อ้า แฟรงคลิน! ~n~~c~ไงล่ะ?
+bs2baud:366830566,"~z~Ah, Franklin! ~n~~c~Huh?",~z~อ้า Franklin! ~n~~c~ไงล่ะ?
 bs2baud:367363186,"~z~T, L, we in a vehicle. We're getting the fuck out of here, man. You doing alright?",~z~ที แอล เราอยู่บนรถแล้ว เรากำลังจะหนีไปจากที่นี่เพื่อน มึงโอเคไหม?
-bs2baud:367742968,"~z~In all my days with Trevor, it's never got that bad. Let's go!",~z~ตลอดเวลาที่ฉันอยู่กับเทรเวอร์ มันไม่เคยแย่ขนาดนี้มาก่อน ไปกันเถอะ!
+bs2baud:367742968,"~z~In all my days with Trevor, it's never got that bad. Let's go!",~z~ตลอดเวลาที่ฉันอยู่กับTrevor มันไม่เคยแย่ขนาดนี้มาก่อน ไปกันเถอะ!
 bs2baud:371269206,"~z~Eh, we coming through!",~z~เฮ้ เรากำลังจะฝ่าไป!
 bs2baud:373829112,"~z~Well, we've never had a problem convincing people of that,",~z~เราไม่มีปัญหาอยู่แล้วที่ทำให้คนเชื่อเรื่องนั้น
 bs2baud:375320139,~z~Turning on the drill bit might help.,~z~เปิดเครื่องหัวเจาะอาจจะช่วยได้นะ
@@ -117,14 +117,14 @@ bs2baud:386003318,~z~More cops! Other side of the tunnel!,~z~มีพวกต�
 bs2baud:386456777,~z~You wanna get blasted?,~z~แกอยากโดนนักใช่ไหม?
 bs2baud:389755037,"~z~In order to concentrate, I need to not be shot at.",~z~เพื่อให้มีสมาธิ ฉันต้องไม่โดนยิง
 bs2baud:389827701,~z~Look out. I'm backing up.,~z~ระวัง ฉันกำลังถอยหลัง
-bs2baud:391499095,"~z~and your boy Michael,",~z~และไอ้ไมเคิลคนเก่งของนาย
+bs2baud:391499095,"~z~and your boy Michael,",~z~และไอ้Michael คนเก่งของนาย
 bs2baud:391739653,~z~More cops! Other side of the tunnel!,~z~ตำรวจมาเพิ่มอีก! อุโมงค์อีกฝั่ง!
 bs2baud:396873203,~z~'Cause I've squealed like a bitch so far?,~z~เพราะกูกรี๊ดโวยวายเป็นอีตัวงั้นเหรอ?
 bs2baud:399640575,~z~Are we going?,~z~เรารึยัง?
 bs2baud:401129124,"~z~Move, you OPs!",~z~ขยับสิ ไอ้พวกโง่!
 bs2baud:402068306,"~z~Hey, out the way!",~z~เฮ้ ถอยไป!
 bs2baud:412088569,~z~There a way we can speed this up?,~z~มีทางไหนที่เราจะทำให้เร็วขึ้นได้ไหม?
-bs2baud:416175587,"~z~I mean, what kind of vain asshole decides that the best way to rob",~z~กูหมายถึง ไอ้งี่เง่าแบบไหนกันที่ตัดสินใจได้ว่าวิธีไหนดีที่สุดในการปล้น
+bs2baud:416175587,"~z~I mean, what kind of vain asshole decides that the best way to rob",~z~กูหมายถึง ไอ้งี่เง่าแบบไหนกันที่ตัดสินใจได้ว่าวิธีไหนดีที่สุดปล้น
 bs2baud:416249277,~z~They're coming down the tunnel behind - cops!,~z~พวกมันกำลังลงมาตามอุโมงค์ข้างหลัง ตำรวจน่ะ!
 bs2baud:416972266,~z~Move out the way!,~z~ถอยไปให้พ้นทาง!
 bs2baud:417819268,~z~Let's go!,~z~ไปกันเถอะ!
@@ -133,7 +133,7 @@ bs2baud:422413226,~z~They're all over this shit!,~z~พวกมันแห่�
 bs2baud:424371290,"~z~Back up, buddy.",~z~ถอยไปเพื่อน
 bs2baud:424397986,"~z~Now, come on, sugar! ~c~~n~Exactly.",~z~เอาล่ะเร็วเข้าน้องหนู! ~c~~n~ใช่เลย
 bs2baud:425240981,"~z~Hey, here we go!",~z~เฮ้ ลุยกันเลย!
-bs2baud:426453169,"~z~They're not cruise missiles, I gotta be close!",~z~นี่ไม่ใช่จรวดร่อนนำวิถีได้นะโว้ย ฉันต้องเข้าไปใกล้กว่านี้!
+bs2baud:426453169,"~z~They're not cruise missiles, I gotta be close!",~z~นี่ไม่ใช่จรวดร่อนนำวิถีได้นะโว้ย กูต้องเข้าไปใกล้กว่านี้!
 bs2baud:428130780,~z~I'll limit you with my thesis if I have to!,~z~ฉันจะจำกัดนายด้วยวิทยานิพนธ์ของฉันถ้าจำเป็น!
 bs2baud:432756721,"~z~and him personally,",~z~และสำหรับมันโดยเฉพาะเลย
 bs2baud:435347958,"~z~Perfect. Merryweather, too!",~z~เยี่ยมเลย มีพวกเมอรี่เวเธอร์ด้วย!
@@ -163,7 +163,7 @@ bs2baud:519523569,~z~You're being objectionable!,~z~นายกำลังท�
 bs2baud:520741302,~z~What's wrong with you - move!,~z~นายเป็นอะไรไป ขยับสิ!
 bs2baud:521869746,"~z~Man, we clear! Oh shit.",~z~เพื่อน ทางสะดวกแล้ว! โอ้ บ้าจริง
 bs2baud:525666380,~z~Through the hole - the got in the vault door!,~z~ผ่านรูนั่นไป พวกมันหลุดเข้ามาในประตูห้องนิรภัยแล้ว!
-bs2baud:526505367,~z~I don't wanna get shot when I'm pushing this!,~z~ฉันไม่อยากโดนยิงตอนกำลังเข็นไอ้นี่อยู่นะ!
+bs2baud:526505367,~z~I don't wanna get shot when I'm pushing this!,~z~กูไม่อยากโดนยิงตอนกำลังเข็นไอ้นี่อยู่นะ!
 bs2baud:527017428,~z~Are you sure?,~z~แน่ใจนะ?
 bs2baud:531341956,"~z~If I'm not mistaken, we got to blow two cages.",~z~ถ้าฉันเข้าใจไม่ผิด เราต้องระเบิดกรงสองกรงนะ
 bs2baud:534909352,"~z~You mind if I take my chances? I'll cover your run, then try to get out alone!",~z~นายจะรังเกียจไหมถ้าฉันจะขอลองเสี่ยงดวงดู? ฉันจะคอยคุ้มกันตอนนายหนี แล้วค่อยหาทางออกไปคนเดียว!
@@ -202,7 +202,7 @@ bs2baud:628470398,"~z~There's two choppers coming toward my train - I'm guessing
 bs2baud:629849385,~z~We going this way!,~z~เราจะไปทางนี้!
 bs2baud:630680026,~z~few years back there in the mid-west,~z~หลายปีก่อนในมิดเวสต์
 bs2baud:636997771,"~z~You load up, you get out.",~z~ขนของขึ้น แล้วเผ่นออกมา
-bs2baud:638283832,~z~The shit I been in with Trevor's got nothing on that - let's go!,~z~เรื่องบัดซบที่กูเคยเจอตอนอยู่กับเทรเวอร์เทียบไม่ได้เลยกับเรื่องนี้ ไปกันเถอะ!
+bs2baud:638283832,~z~The shit I been in with Trevor's got nothing on that - let's go!,~z~เรื่องบัดซบที่กูเคยเจอตอนอยู่กับTrevor เทียบไม่ได้เลยกับเรื่องนี้ ไปกันเถอะ!
 bs2baud:640958146,~z~Helicopter inbound. See you in a second.,~z~เฮลิคอปเตอร์กำลังเข้าพื้นที่ จะถึงนายในไม่กี่วิ
 bs2baud:645480470,~z~Double time.,~z~เร่งมือเข้า
 bs2baud:647229806,"~z~the largest holding bank on the west coast is for him,",~z~ของธนาคารที่ใหญ่ที่สุดในฝั่งตะวันตกที่ดีสำหรับมัน
@@ -236,12 +236,12 @@ bs2baud:725993945,~z~I think... I think we're clear!,~z~ฉันคิดว่
 bs2baud:726099297,~z~I don't doubt we're getting out of here!,~z~ฉันไม่สงสัยเลยว่าเราจะออกไปจากที่นี่ได้!
 bs2baud:731153888,"~z~I'll drop you, you ass!",~z~ฉันจะเก็บแกซะ ไอ้กระจอก!
 bs2baud:733423657,"~z~Damn , another wagon!",~z~ให้ตายสิ รถส่งของมาอีกคันแล้ว!
-bs2baud:733623808,"~z~I'm taking fire, you dick!",~z~ฉันกำลังโดนยิงนะ ไอ้เวร!
+bs2baud:733623808,"~z~I'm taking fire, you dick!",~z~กูกำลังโดนยิงนะ ไอ้เวร!
 bs2baud:734170739,"~z~Move, come on, homie.",~z~ขยับเร็วเข้าเพื่อน
 bs2baud:734993168,~z~Cops coming from the other way! That side of the tunnel!,~z~ตำรวจมาจากอีกทาง! ฝั่งโน้นของอุโมงค์!
 bs2baud:740327974,"~z~Hey, let's drill a hole in this damn thing.",~z~เฮ้ มาเจาะรูให้มันกันเถอะ
 bs2baud:741520112,~z~What happened to my cover!?,~z~การคุ้มกันฉันหายไปไหนหมด!?
-bs2baud:743954141,~z~I work for Trevor - I'm used to it.,~z~ฉันทำงานให้เทรเวอร์ เรื่องแบบนี้ชินแล้ว
+bs2baud:743954141,~z~I work for Trevor - I'm used to it.,~z~ฉันทำงานให้Trevor เรื่องแบบนี้ชินแล้ว
 bs2baud:745324214,"~z~Back, back, back.",~z~ถอย ถอย ถอย
 bs2baud:752798806,"~z~F, you're on our flank, I'll take anything in front of us!",~z~เอฟ นายคุมปีกข้างนะ ฉันจะจัดการสิ่งที่อยู่ข้างหน้าเราเอง!
 bs2baud:754539601,"~z~The noob tube? You hold us steady, get me an angle, they're gone.",~z~The noob tube น่ะเหรอ? นายบินให้นิ่งไว้ และหามุมยิงให้ฉัน มันเสร็จแน่
@@ -259,21 +259,21 @@ bs2baud:785692754,"~z~You know I'd go to war with you, man.",~z~นายก็�
 bs2baud:786131269,~z~We're inside the vault.,~z~เราเจาะถึงห้องนิรภัยแล้ว
 bs2baud:786710614,~z~Can we do this!?,~z~พวกเราทำได้ไหม!?
 bs2baud:788011970,~z~Now they're in the vault - past the rubble!,~z~ตอนนี้พวกมันอยู่ในห้องนิรภัยแล้ว ผ่านกองซากปรักหักพังมา!
-bs2baud:788692964,"~z~another few hours you'll never have to talk about me again, Trevor.",~z~อีกไม่กี่ชั่วโมงจากนี้ นายจะไม่ได้พูดถึงฉันอีกเลยเทรเวอร์
+bs2baud:788692964,"~z~another few hours you'll never have to talk about me again, Trevor.",~z~อีกไม่กี่ชั่วโมงจากนี้ นายจะไม่ได้พูดถึงฉันอีกเลยTrevor
 bs2baud:794263584,"~z~You know what I'm saying, let's go.",~z~เข้าใจที่ฉันพูดใช่ไหม ไปกันเถอะ
 bs2baud:798733651,~z~Back off! Back off!,~z~ถอยไป! ถอยไป!
-bs2baud:811038718,"~z~Much as I wanna stay with you idiots, I done my job, I'm out.",~z~ถึงฉันจะอยากอยู่กับพวกโง่อย่างพวกนายต่อแค่ไหน แต่ฉันทำงานเสร็จแล้ว ฉันไปล่ะ
+bs2baud:811038718,"~z~Much as I wanna stay with you idiots, I done my job, I'm out.",~z~ถึงกูจะอยากอยู่กับพวกโง่อย่างพวกนายต่อแค่ไหน แต่กูทำงานเสร็จแล้ว กูไปล่ะ
 bs2baud:815986713,"~z~Don't worry about the bricks, just handle the police.",~z~ไม่ต้องห่วงเรื่องทอง แค่จัดการตำรวจก็พอ
 bs2baud:819354846,~z~Flick the switch.,~z~สับสวิตช์
 bs2baud:820773015,~z~Dudes had to get through that door.,~z~พวกนั้นต้องผ่านประตูนั้นมาให้ได้
 bs2baud:823103223,~z~We're the only ones left. Let's catch that train.,~z~เราเหลือกันแค่นี้แล้ว ไปขึ้นรถไฟขบวนนั้นกันเถอะ
 bs2baud:831040691,~z~You miss this - they're in the vault!,~z~ถ้านายพลาดตรงนี้ - พวกมันเข้าไปในห้องนิรภัยแน่!
-bs2baud:837720464,"~z~We gotta drill through this wall, get in the vault, you know what I'm saying?",~z~เราต้องเจาะกำแพงนี้ เข้าไปในห้องนิรภัย เข้าใจที่ฉันพูดใช่ไหม?
+bs2baud:837720464,"~z~We gotta drill through this wall, get in the vault, you know what I'm saying?",~z~เราต้องเจาะกำแพงนี้ เข้าไปในห้องนิรภัย เข้าใจที่กูพูดใช่ไหม?
 bs2baud:842235347,"~z~The chopper's done. I'm done, man.",~z~เฮลิคอปเตอร์พังแล้ว ฉันก็ไม่ไหวแล้วเพื่อน
 bs2baud:847532521,~z~Nothing.,~z~ไม่มีอะไร
 bs2baud:852276579,~z~There's a chopper on us!,~z~มีเฮลิคอปเตอร์ตามเราอยู่!
 bs2baud:867769887,~z~Cloud city - here we come.,~z~นครเมฆา เรากำลังไปแล้ว
-bs2baud:874204863,~z~You know why I wanna get out of this?,~z~รู้ไหมทำไมฉันถึงอยากไปจากเรื่องนี้?
+bs2baud:874204863,~z~You know why I wanna get out of this?,~z~รู้ไหมทำไมกูถึงอยากไปจากเรื่องนี้?
 bs2baud:878064865,"~z~Clear the way, I'm moving bricks!",~z~ถอยไป ฉันกำลังขนทอง!
 bs2baud:878152949,"~z~Oh, you got any better ideas?",~z~โอ้ นายมีแผนดีกว่านี้งั้นเหรอ?
 bs2baud:882443757,~z~You are one serious fuckin' buzzkill.,~z~มึงมันตัวทำปาร์ตี้กร่อยจริงๆ
@@ -287,9 +287,9 @@ bs2baud:900475066,~z~We don't got time for this. Let's go.,~z~เราไม่
 bs2baud:901613485,"~z~Wall's right there, pal.",~z~กำแพงอยู่ตรงนั้น เพื่อน
 bs2baud:901636885,~z~I found F for you!,~z~ฉันหาเอฟเจอแล้ว!
 bs2baud:906797742,~z~More cops in that chopper! Can't let 'em touch down!,~z~มีตำรวจอีกในชอบเปอร์นั่น! อย่าให้มันลงพื้นได้!
-bs2baud:907751945,"~z~If they catch us, Trevor's goin' get your shit.",~z~ถ้าพวกมันจับเราได้ เทรเวอร์จะได้ของไปหมดแน่
+bs2baud:907751945,"~z~If they catch us, Trevor's goin' get your shit.",~z~ถ้าพวกมันจับเราได้ Trevor จะได้ของไปหมดแน่
 bs2baud:915438768,~z~Now the cops are here! Tunnel behind me!,~z~เอาล่ะตำรวจมากันแล้ว! อุโมงค์ข้างหลังฉัน!
-bs2baud:929407577,"~z~Trevor, Lester, come in.",~z~เทรเวอร์ เลสเตอร์ ตอบด้วย
+bs2baud:929407577,"~z~Trevor, Lester, come in.",~z~Trevor Lester ตอบด้วย
 bs2baud:932749971,"~z~Vault wall is there, homie. Go through it.",~z~กำแพงห้องนิรภัยอยู่ตรงนั้นเพื่อน เจาะผ่านมันไป
 bs2baud:935293405,~z~You sure you can handle an RPG?,~z~แน่ใจนะว่านายใช้อาร์พีจีได้?
 bs2baud:938069031,~z~Let's get to the other side!,~z~ไปอีกฝั่งกันเถอะ!
@@ -305,10 +305,10 @@ bs2baud:963698528,"~z~F, come on, stay together!",~z~เอฟ เร็วเ�
 bs2baud:966873377,~z~First lot of metal's in place!,~z~เหล็กชุดแรกเข้าที่แล้ว!
 bs2baud:967297225,"~z~Standby teams, divert to the bank foyer.",~z~ทีมเตรียมพร้อม เปลี่ยนเส้นทางไปที่โถงหน้าธนาคาร
 bs2baud:980630783,"~z~I'm taking fire, bro!",~z~กูกำลังโดนยิงนะเพื่อน!
-bs2baud:981653609,~z~I gotta come through!,~z~ฉันต้องผ่านไป!
+bs2baud:981653609,~z~I gotta come through!,~z~กูต้องผ่านไป!
 bs2baud:1001388422,~z~Use your entire mental toolset to ensure I'm not killed.,~z~ใช้ทักษะสมองทั้งหมดที่มีเพื่อให้แน่ใจว่าฉันจะไม่ตาย
 bs2baud:1001971314,~z~I don't like leaving men behind.,~z~ฉันไม่ชอบทิ้งคนไว้ข้างหลัง
-bs2baud:1002820827,"~z~There ain't goin' be room in the getaway car. I'll cover your run, then I'll try to duck out solo.",~z~ในรถหนีไม่มีที่ว่างพอหรอก ฉันจะคุ้มกันตอนพวกนายหนีเอง แล้วฉันจะหาทางมุดหนีไปคนเดียว
+bs2baud:1002820827,"~z~There ain't goin' be room in the getaway car. I'll cover your run, then I'll try to duck out solo.",~z~ในรถหนีไม่มีที่ว่างพอหรอก กูจะคุ้มกันตอนพวกนายหนีเอง แล้วกูจะหาทางมุดหนีไปคนเดียว
 bs2baud:1007693582,~z~What's the de-lay?,~z~ทำไมมันถึงล่าช้า?
 bs2baud:1010069435,"~z~Some rent-a-hood ain't going to be able to handle logistics, T.",~z~พวกอ่อนหัดชั่วโมงบินน้อยรับมือเรื่องขนส่งไม่ได้หรอก ที
 bs2baud:1011486688,~z~You sure you can handle an RPG?,~z~แน่ใจนะว่านายใช้อาร์พีจีได้?
@@ -320,7 +320,7 @@ bs2baud:1018022420,~z~They're fine. We head for the city limits.,~z~พวกม
 bs2baud:1019580969,"~z~Fit that second cage, dog.",~z~ติดตั้งกรงที่สองนั่นซะเพื่อน
 bs2baud:1020606332,"~z~Look, they got the vault open, they're coming out the bank!",~z~ดูนั่น พวกมันเปิดห้องนิรภัยได้แล้ว พวกมันกำลังออกมาจากธนาคาร!
 bs2baud:1024493815,~z~Don't mess with me - my share's going to a charity slash religion.,~z~อย่ามาล้อเล่นกับฉันนะ ส่วนแบ่งของฉันจะเอาไปบริจาคให้มูลนิธิกึ่งศาสนา
-bs2baud:1029257080,~z~I can't shake 'em! You gotta do something!,~z~ฉันสลัดพวกมันไม่หลุด! ต้องทำอะไรสักอย่างแล้ว!
+bs2baud:1029257080,~z~I can't shake 'em! You gotta do something!,~z~กูสลัดพวกมันไม่หลุด! ต้องทำอะไรสักอย่างแล้ว!
 bs2baud:1030528635,~z~You're in the way!,~z~นายขวางทางอยู่!
 bs2baud:1032256824,"~z~With the right training, we could have done this with our minds.",~z~ถ้าได้รับการฝึกฝนที่ถูกต้อง เราคงใช้แค่พลังจิตทำเรื่องนี้ไปแล้ว
 bs2baud:1032612462,~z~Drop altitude - quick!,~z~ลดระดับลง เร็วเข้า!
@@ -455,10 +455,10 @@ bs2baud:1417901701,"~z~F, we stick together! We won't make it on the roads!",~z~
 bs2baud:1419435560,~z~Be decisive in the now.,~z~ตัดสินใจในตอนนี้ให้เด็ดขาด
 bs2baud:1420411346,~z~Eh! Down here!,~z~เฮ้! ลงมานี่!
 bs2baud:1424033659,~z~I got the other side. Just get the gold ready to go!,~z~ฉันจะจัดการอีกฝั่งนึง ไปเตรียมทองให้พร้อมซะ!
-bs2baud:1424545242,"~z~Trevor's gonna be rich if we make it, man. We all are.",~z~เทรเวอร์จะรวยแน่ถ้าเราทำสำเร็จเพื่อน เราทุกคนด้วย
+bs2baud:1424545242,"~z~Trevor's gonna be rich if we make it, man. We all are.",~z~Trevor จะรวยแน่ถ้าเราทำสำเร็จเพื่อน เราทุกคนด้วย
 bs2baud:1426694129,"~z~If you want 'em downed, get me closer!",~z~ถ้าอยากให้พวกมันร่วง ก็พาฉันเข้าไปใกล้ๆ สิ!
 bs2baud:1433087857,"~z~We hijack their armored cars,",~z~เราขโมยรถหุ้มเกราะพวกนั้น
-bs2baud:1433510543,~z~I told Michael to hire a good driver!,~z~ฉันบอกไมเคิลแล้วให้จ้างคนขับเก่งๆ!
+bs2baud:1433510543,~z~I told Michael to hire a good driver!,~z~ฉันบอกMichael แล้วให้จ้างคนขับเก่งๆ!
 bs2baud:1438362735,~z~I need cover!,~z~ฉันต้องการการคุ้มกัน!
 bs2baud:1441342101,"~z~Let's take a chance, come on.",~z~ลองเสี่ยงดวงกันดูหน่อย มาเถอะ
 bs2baud:1441893753,~z~There it goes!,~z~มันไปแล้ว!
@@ -484,7 +484,7 @@ bs2baud:1515036149,~z~Team of cops coming down the tunnel behind me!,~z~ที�
 bs2baud:1516249777,~z~We've only got access to half the gold. Hit the other cage.,~z~เราเข้าถึงทองได้แค่ครึ่งเดียวเอง ไปจัดการอีกกรงด้วย
 bs2baud:1522404664,"~z~Come to a safe distance, and detonate them.",~z~ถอยออกมาในระยะที่ปลอดภัยแล้วกดระเบิดพวกมันซะ
 bs2baud:1542564342,~z~Stand aside!,~z~ถอยไป!
-bs2baud:1551440767,"~z~You moving in slow motion, come on.",~z~นายขยับตัวอย่างกับสโลโมชั่นเลย มาเถอะ
+bs2baud:1551440767,"~z~You moving in slow motion, come on.",~z~นายขยับตัวอย่างหนังกับสโลโมชั่นเลย มาเถอะ
 bs2baud:1555790233,"~z~Public law enforcement's doing just fine trying to kill us, so tell 'em not to bother.",~z~เจ้าหน้าที่บ้านเมืองพยายามจะฆ่าเราก็แย่พอแล้ว เพราะงั้นบอกพวกมันว่าไม่ต้องมายุ่ง
 bs2baud:1556741718,~z~We just lost half the score.,~z~เราเพิ่งเสียเงินที่ปล้นมาได้ไปครึ่งหนึ่ง
 bs2baud:1561790457,~z~All the gold is ready for pickup.,~z~ทองทั้งหมดพร้อมสำหรับการรับของแล้ว
@@ -503,7 +503,7 @@ bs2baud:1598233163,~z~Activate the drill bit.,~z~เดินเครื่อ�
 bs2baud:1603658609,~z~Fucking glory seeker.,~z~พวกอวดดีอวดเด่น
 bs2baud:1607042789,~z~You gonna move!?,~z~นายจะขยับไหม!?
 bs2baud:1607532204,~z~Metal's there - radio T.,~z~ทองอยู่ที่นั่นแล้ว วิทยุบอกที
-bs2baud:1611390650,~z~And Franklin what?,~z~แล้วแฟรงคลินอะไร?
+bs2baud:1611390650,~z~And Franklin what?,~z~แล้วFranklin อะไร?
 bs2baud:1617081338,~z~Here's F!,~z~นี่ไงเอฟ!
 bs2baud:1623783868,~z~We fucking did it!,~z~เราทำได้โว้ย!
 bs2baud:1626399087,~z~I got point!,~z~ฉันคุมจุดยุทธศาสตร์เอง!
@@ -518,9 +518,9 @@ bs2baud:1651638488,~z~Wait a second. Dropping here could be a problem.,~z~รอ
 bs2baud:1654078220,~z~Get me right up in their shit!,~z~พากูไปคลุกวงในกับพวกมันเลย!
 bs2baud:1654310445,~z~They're about to limit my capabilities!,~z~พวกมันกำลังจะทำให้ขีดความสามารถของฉันถึงขีดจำกัดแล้ว!
 bs2baud:1655409971,"~z~Please, can we go quicker?",~z~ขอร้องล่ะ เราไปให้เร็วกว่านี้ได้ไหม?
-bs2baud:1656816630,"~z~Suck on that Merryweather, Don Perceval, Devin Weston,",~z~ไปบ๊วบซะไอ้พวกเมอรี่เวเธอร์ ดอน เพอร์ซิวัล เดวิน เวสตัน
+bs2baud:1656816630,"~z~Suck on that Merryweather, Don Perceval, Devin Weston,",~z~ไปบ๊วบซะไอ้พวกเมอรี่เวเธอร์ ดอน เพอร์ซิวัล Devin เวสตัน
 bs2baud:1657131325,~z~We're in the vault.,~z~เราอยู่ในห้องนิรภัยแล้ว
-bs2baud:1657533628,"~z~Damn you made it... woo... after doing the walk in the Union Depository, man...",~z~ให้ตายสิคุณทำได้... วู้... จากที่เดินเข้าไปในคลังสหพันธรัฐ...
+bs2baud:1657533628,"~z~Damn you made it... woo... after doing the walk in the Union Depository, man...",~z~ให้ตายสิมึงทำได้... วู้... จากที่เดินเข้าไปในคลังสหพันธรัฐ...
 bs2baud:1668575154,~z~You're slowing me down. Please.,~z~นายกำลังทำให้ฉันช้าลง ได้โปรดเถอะ
 bs2baud:1675673216,~z~Ahhh... let's just go.,~z~อา... ไปกันเถอะ
 bs2baud:1681667420,~z~Try again.,~z~ลองอีกที
@@ -535,7 +535,7 @@ bs2baud:1710712997,~z~You don't even realize the people you've employed are dead
 bs2baud:1713561186,~z~Let's go.,~z~ไปกันเถอะ
 bs2baud:1716985575,"~z~They're coming from the other side, now.",~z~ตอนนี้พวกมันมาจากอีกฝั่งแล้ว
 bs2baud:1721946592,~z~then we infiltrate the depository.,~z~แล้วเราก็แทรกซึมเข้าไปในคลังนั่น
-bs2baud:1722218838,~z~Trevor's gonna be one rich motherfucker if we go down.,~z~เทรเวอร์คงจะได้เป็นมหาเศรษฐีแน่ถ้าเราโดนจับ
+bs2baud:1722218838,~z~Trevor's gonna be one rich motherfucker if we go down.,~z~Trevor คงจะได้เป็นมหาเศรษฐีแน่ถ้าเราโดนจับ
 bs2baud:1723342113,~z~Let's go! Let's go! Put your foot down!,~z~ไป! ไป! เหยียบให้มิดเลย!
 bs2baud:1725908703,~z~Direct hit!,~z~โดนเต็มๆ!
 bs2baud:1730803761,~z~Bully.,~z~ไอ้คนพาล
@@ -557,12 +557,12 @@ bs2baud:1780145076,~z~Ummm - it's over there.,~z~อืม... มันอยู
 bs2baud:1783107720,~z~We can't chance a drop here.,~z~เราเสี่ยงทิ้งของตรงนี้ไม่ได้
 bs2baud:1783407204,~z~Both trolleys are ready for pickup!,~z~รถเข็นทั้งสองคันพร้อมสำหรับการรับของแล้ว!
 bs2baud:1794077607,~z~Hey! They didn't give us the gold!,~z~เฮ้! พวกมันไม่ยอมให้ทองพวกเรา!
-bs2baud:1808256827,"~z~I said to Michael, ""get a good driver""... he went cheap!","~z~ฉันบอกไมเคิลแล้วว่า ""หาคนขับเก่งๆ มาเถอะ""... เขาก็ดันเน้นของถูก!"
+bs2baud:1808256827,"~z~I said to Michael, ""get a good driver""... he went cheap!","~z~ฉันบอกMichael แล้วว่า ""หาคนขับเก่งๆ มาเถอะ""... เขาก็ดันเน้นของถูก!"
 bs2baud:1813515734,"~z~Steady! Steady, I'm firing!",~z~นิ่งๆ! นิ่งๆ ฉันจะยิงแล้ว!
 bs2baud:1819703211,"~z~Hey, the vault's empty already, punks.",~z~เฮ้ ในห้องนิรภัยนั่นว่างเปล่าแล้ว ไอ้พวกกระจอก
-bs2baud:1823701001,~z~And Franklin?,~z~แล้วแฟรงคลินล่ะ?
+bs2baud:1823701001,~z~And Franklin?,~z~แล้วFranklin ล่ะ?
 bs2baud:1829324136,~z~Perfect! A chopper!,~z~เยี่ยมเลย! เฮลิคอปเตอร์!
-bs2baud:1838833719,"~z~I don't care how far underground you gotta go to get it, I ain't leaving the Union Depository without some gold!",~z~ฉันไม่สนว่าจะต้องมุดลงไปใต้ดินลึกแค่ไหนเพื่อเอามันมา แต่ฉันจะไม่ไปจากยูเนียนดีพอสิทอรีโดยไม่มีทองติดมือไปแน่!
+bs2baud:1838833719,"~z~I don't care how far underground you gotta go to get it, I ain't leaving the Union Depository without some gold!",~z~กูไม่สนว่าจะต้องมุดลงไปใต้ดินลึกแค่ไหนเพื่อเอามันมา แต่กูจะไม่ไปจากยูเนียนดีพอสิทอรีโดยไม่มีทองติดมือไปแน่!
 bs2baud:1848941305,"~z~Gold ain't ours yet, but we are this close.",~z~ถึงทองยังไม่เป็นของเรา แต่ก็ใกล้เต็มทีแล้ว
 bs2baud:1849739703,~z~I'm picking up three Merryweather choppers over the hill. Only way to the train is through them.,~z~ฉันจับสัญญาณเฮลิคอปเตอร์ของเมอร์รี่เวเธอร์ได้สามลำเหนือเนินเขานั่น ทางเดียวที่จะไปถึงรถไฟได้คือต้องผ่านพวกมันไป
 bs2baud:1854108823,~z~Steady. Hold it steady.,~z~นิ่งๆ ไว้นิ่งๆ
@@ -588,14 +588,14 @@ bs2baud:1906348649,"~z~It was a whole lot less successful than your lick, but we
 bs2baud:1911302819,~z~Take down that chopper!,~z~สอยเฮลิคอปเตอร์นั่นลงมา!
 bs2baud:1916396693,~z~They gotta be taken down now! It's over if they see us going for the train.,~z~ต้องจัดการพวกมันเดี๋ยวนี้! ถ้าพวกมันเห็นเรามุ่งหน้าไปที่รถไฟ ทุกอย่างก็จบ
 bs2baud:1923485053,~z~Back it up. Back it up.,~z~ถอยรถออกมา ถอยรถออกมา
-bs2baud:1932123561,~z~but why exactly is Lester with me in the chopper?,~z~แต่ทำไมเลสเตอร์ถึงต้องขึ้นชอบเปอร์ไปกับฉันด้วย?
+bs2baud:1932123561,~z~but why exactly is Lester with me in the chopper?,~z~แต่ทำไมLester ถึงต้องขึ้นชอบเปอร์ไปกับฉันด้วย?
 bs2baud:1932860698,~z~Utilizing!,~z~กำลังใช้ทักษะอยู่!
 bs2baud:1934906192,"~z~Keep the cops back, can you do that?",~z~ยันพวกตำรวจไว้หน่อย ทำได้ไหม?
 bs2baud:1935847137,~z~Hey! Deal with these cops!,~z~เฮ้ จัดการพวกตำรวจพวกนี้ที!
 bs2baud:1941178011,~z~We got more heat!,~z~ตำรวจแห่กันมาอีกแล้ว!
 bs2baud:1948820549,~z~Hold on. It's too risky to drop it here.,~z~รอก่อน ปล่อยของตรงนี้มันเสี่ยงเกินไป
 bs2baud:1953679424,"~z~We're getting out together, man!",~z~เราจะออกไปจากที่นี่ด้วยกันเพื่อน!
-bs2baud:1954642719,~z~Come on.,~z~เร็วเข้า 2
+bs2baud:1954642719,~z~Come on.,~z~เร็วเข้า
 bs2baud:1954973615,~z~and I think that he will.,~z~และฉันว่าเขาก็จะทำ
 bs2baud:1956161445,~z~and all the rest of you Illuminati sons of bitches! Suck on my fattie!,~z~ไอ้พวกร่านมารหัวขนเปรตนรกจกแผ่นดิน พวกหอกอิลูมินาติ! มาบ๊วบไอ้จ้อนกูนี่!
 bs2baud:1957952881,~z~Let's do this!,~z~ลุยกันเลย!
@@ -603,14 +603,14 @@ bs2baud:1959731279,~z~We got heat on our right!,~z~เรามีการจ�
 bs2baud:1961394656,~z~We're going back toward the Depository. Let's go round the other way.,~z~เรากำลังมุ่งหน้ากลับไปทางดีพอสิทอรี อ้อมไปอีกทางกันเถอะ
 bs2baud:1967968885,~z~Look out!,~z~ระวังตัว!
 bs2baud:1968376796,~z~Use your cerebral technology and step aside.,~z~ใช้สติปัญญาของนายแล้วหลีกทางไปซะ
-bs2baud:1970254523,~z~Come on.,~z~เร็วเข้า 1
+bs2baud:1970254523,~z~Come on.,~z~เร็วเข้า
 bs2baud:1975933961,~z~This is so screwed up!,~z~นี่มันพังพินาศไปหมดแล้ว!
 bs2baud:1978338492,~z~Enough! Enough!,~z~พอแล้ว! พอแล้ว!
 bs2baud:1985582827,~z~Behind me - in the tunnel - influx of cops!,~z~ข้างหลังฉัน ในอุโมงค์ ตำรวจแห่กันมาแล้ว!
 bs2baud:1985676322,~z~Dammit!,~z~บ้าเอ๊ย!
 bs2baud:1986845225,"~z~Keep them away from me, I'll get this where it needs to be!",~z~กันพวกมันออกไปจากฉัน ฉันจะเอาไอ้นี่ไปส่งที่ที่มันควรจะอยู่เอง!
-bs2baud:1988954240,~z~Dumber than Paleto Bay and working for Trevor? Okay.,~z~โง่ยิ่งกว่าพาเลโตเบย์แล้วยังทำงานให้เทรเวอร์อีกน่ะเหรอ? โอเค
-bs2baud:1994711175,~z~Will the escape - visualisation's key to actualisation!,~z~จงใช้ความมุ่งมั่นในการหนี - การนึกภาพตามคือหัวใจของการทำให้เป็นจริง!
+bs2baud:1988954240,~z~Dumber than Paleto Bay and working for Trevor? Okay.,~z~โง่ยิ่งกว่าพาเลโตเบย์แล้วยังทำงานให้Trevor อีกน่ะเหรอ? โอเค
+bs2baud:1994711175,~z~Will the escape - visualisation's key to actualisation!,~z~จงใช้ความมุ่งมั่นหนี - การนึกภาพตามคือหัวใจของการทำให้เป็นจริง!
 bs2baud:1995488425,~z~Come on. We gotta get across the bridge!,~z~เร็วเข้า เราต้องข้ามสะพานนี่!
 bs2baud:2008652721,"~z~At least with you in the bird,",~z~อย่าน้อยถ้าฉันอยู่กับนายบนเครื่อง
 bs2baud:2009264790,~z~Are we gonna go through the wall and get the gold?,~z~เราจะเจาะกำแพงเข้าไปเอาทองกันใช่ไหม?
@@ -638,7 +638,7 @@ bs2baud:2077785903,~z~If the boss could see you now... where you going?,~z~ถ�
 bs2baud:2086776425,~z~Letting go! Hold it steady!,~z~กำลังปล่อยจรวด! นิ่งๆ เอาไว้!
 bs2baud:2090305854,~z~Where're all the cops going? It's almost like you guys aren't taking this seriously!,~z~ตำรวจพวกนี้จะไปไหนกันหมด? เกือบจะเหมือนพวกนายไม่เห็นเรื่องนี้เป็นเรื่องจริงจังเลยนะ!
 bs2baud:2091071422,"~z~You're unstable, man, you know that?",~z~นายไม่ค่อยจะเต็มบาทนะเพื่อน รู้ตัวไหม?
-bs2baud:2095790182,"~z~Alright, I'm gonna meet my guy at the bank.",~z~เอาล่ะฉันจะไปเจอทีมของฉันที่ธนาคาร
+bs2baud:2095790182,"~z~Alright, I'm gonna meet my guy at the bank.",~z~เอาล่ะกูจะไปเจอทีมของกูที่ธนาคาร
 bs2baud:2097067509,~z~Give it a minute. We can't drop here.,~z~รอแป๊บนึง เราปล่อยของตรงนี้ไม่ได้
 bs2baud:2102330564,~z~The seismic activity detectors've locked down the vault's main door.,~z~เครื่องตรวจจับแรงสั่นสะเทือนทำการล็อคประตูหลักของห้องนิรภัยแล้ว
 bs2baud:2103209222,~z~Clear skies. We did it!,~z~ท้องฟ้าแจ่มใส เราทำสำเร็จแล้ว!
@@ -651,7 +651,7 @@ bs2baud:2120845784,~z~I believe that is the vault wall.,~z~ฉันเชื่
 bs2baud:2126431963,"~z~So, we're going through the vault wall, bringing out the metal, right?",~z~สรุปคือเราจะเจาะกำแพงห้องนิรภัยเข้าไปเอาทองออกมาใช่ไหม?
 bs2baud:2128644367,~z~Mission accomplished!,~z~ภารกิจเสร็จสมบูรณ์!
 bs2baud:2130118131,~z~Make 'em go boom.,~z~ทำให้พวกมันระเบิดเป็นโกโก้ครั้นช์ไปเลย
-bs2baud:2131641385,"~z~Pick up the pace, or I tell Michael.",~z~เร่งมือหน่อย ไม่งั้นฉันฟ้องไมเคิลแน่
+bs2baud:2131641385,"~z~Pick up the pace, or I tell Michael.",~z~เร่งมือหน่อย ไม่งั้นฉันฟ้องMichael แน่
 bs2baud:2137944303,~z~Eh! Don't die today!,~z~เฮ้! ห้ามตายวันนี้!
 bs2baud:2139303379,~z~Lot one is in position!,~z~ชุดแรกเข้าที่แล้ว!
 bs2baud:2141039338,~z~There's a limit to your limitations - come on.,~z~ขีดจำกัดของนายมันมีขอบเขตอยู่นะ มาเถอะ
@@ -707,9 +707,9 @@ bs2baud:2303734938,"~z~No cops, no Merryweather, we're out of town. Yeah, it loo
 bs2baud:2306817852,"~z~Now, come on!",~z~ขอล่ะ!
 bs2baud:2308801029,~z~Don't get in our way!,~z~อย่ามาขวางทางเรา!
 bs2baud:2308923568,~z~F! Stay with me! Keep off the roads!,~z~เอฟ! อยู่กับฉันไว้! อย่าใช้ถนน!
-bs2baud:2313227521,~z~I ain't laying down!,~z~ฉันไม่ยอมแพ้หรอก!
+bs2baud:2313227521,~z~I ain't laying down!,~z~กูไม่ยอมแพ้หรอก!
 bs2baud:2316657183,~z~You're lizards - don't pretend to be human!,~z~พวกนายมันพวกกิ้งก่า - อย่ามาแกล้งทำเป็นมนุษย์หน่อยเลย!
-bs2baud:2324513255,"~z~I ain't doing time, for Trevor.",~z~ฉันจะไม่ไปติดคุกเพื่อเทรเวอร์หรอกนะ
+bs2baud:2324513255,"~z~I ain't doing time, for Trevor.",~z~กูจะไม่ไปติดคุกเพื่อTrevor หรอกนะ
 bs2baud:2328858647,~z~Where are we going?,~z~เรากำลังจะไปไหนกัน?
 bs2baud:2333999484,"~z~Just shoot the right chopper, okay?",~z~แค่ยิงเฮลิคอปเตอร์ให้ถูกลำก็พอ โอเคไหม?
 bs2baud:2334732605,~z~We moving through you!,~z~เรากำลังจะผ่านตัวนายไป!
@@ -837,7 +837,7 @@ bs2baud:2719951877,~z~You get the next one.,~z~นายจัดการอี
 bs2baud:2723399675,~z~Keep it moving! I got this!,~z~เคลื่อนที่ต่อไป! ฉันจัดการเอง!
 bs2baud:2725301291,~z~I got some heat!,~z~ฉันโดนไล่ล่าอยู่!
 bs2baud:2728551978,"~z~we have two options,",~z~เรามีสองทางเลือก
-bs2baud:2728609263,~z~Come on.,~z~เร็วเข้า 3
+bs2baud:2728609263,~z~Come on.,~z~เร็วเข้า
 bs2baud:2730788993,"~z~Yeah, baby!",~z~ใช่แล้วอีหนู!
 bs2baud:2731998944,~z~Look left! Another chopper!,~z~ดูทางซ้าย! เฮลิคอปเตอร์มาอีกแล้ว!
 bs2baud:2735924804,~z~Cover me while I do this!,~z~คุ้มกันฉันตอนทำไอ้นี่หน่อย!
@@ -848,8 +848,8 @@ bs2baud:2744744595,~z~That's the wall we need to go through.,~z~นั่นค�
 bs2baud:2749633531,"~z~You hold me up, dog. Move.",~z~นายขวางทางฉันอยู่เพื่อน ขยับไป
 bs2baud:2749791157,~z~Package one has been dropped.,~z~พัสดุหนึ่งลงไปแล้ว
 bs2baud:2750820937,~z~The boss said both cages - blow the other one.,~z~บอสบอกว่าเอาทั้งสองกรง ระเบิดอีกอันด้วย
-bs2baud:2759390503,~z~I know I ain't gonna get shot at by your buddies!,~z~ฉันก็รู้ว่านายจะไม่ยิงฉันบนนั้นเพื่อน!
-bs2baud:2764358330,~z~I'm gonna need some help getting the metal in storage,~z~ฉันต้องการคนช่วยเอาทองไปเก็บ
+bs2baud:2759390503,~z~I know I ain't gonna get shot at by your buddies!,~z~กูก็รู้ว่านายจะไม่ยิงกูบนนั้นเพื่อน!
+bs2baud:2764358330,~z~I'm gonna need some help getting the metal in storage,~z~กูต้องการคนช่วยเอาทองไปเก็บ
 bs2baud:2766329107,"~z~Whoa, we did it! Yeah!",~z~โว้ว เราทำได้! ใช่แล้ว!
 bs2baud:2766539824,"~z~Take it, you bitch!",~z~กินนี่ไปซะ ยัยตัวแสบ!
 bs2baud:2773155759,"~z~Now, the other.",~z~ทีนี้ อีกอันหนึ่ง
@@ -857,12 +857,12 @@ bs2baud:2783526649,~z~We gotta drop altitude - now!,~z~เราต้องล�
 bs2baud:2786483154,"~z~Timing's tight, is it not?",~z~เวลากระชั้นชิดมากใช่ไหมล่ะ?
 bs2baud:2786499568,~z~Taliana's feeling some heat.,~z~ทาเลียนากำลังโดนกดดันหนัก
 bs2baud:2787089926,"~z~We're nearly outta this, and it's all thanks to the boss.",~z~เราเกือบจะรอดแล้ว และทั้งหมดนี้ต้องขอบคุณบอสเลย
-bs2baud:2788993296,~z~The bombs are in place. I'm gonna set 'em off.,~z~ระเบิดประจำที่แล้ว ฉันจะจุดระเบิดมัน
+bs2baud:2788993296,~z~The bombs are in place. I'm gonna set 'em off.,~z~ระเบิดประจำที่แล้ว กูจะจุดระเบิดมัน
 bs2baud:2789170631,~z~What's the hold up?,~z~ติดขัดอะไรเหรอ?
 bs2baud:2789756593,"~z~Eh, you going the wrong way.",~z~เฮ้ ไปผิดทางแล้ว
 bs2baud:2790469354,"~z~Do the smart thing, asshole!",~z~ทำสิ่งที่ฉลาดหน่อย ไอ้เวร!
 bs2baud:2792329676,"~z~Don't doubt yourself, trigger them.",~z~อย่าสงสัยในตัวเอง กดระเบิดเลย
-bs2baud:2793324724,"~z~Hope you and Michael will be able to uh,",~z~หวังว่านายกับไมเคิลจะสามารถที่ เอ่อ
+bs2baud:2793324724,"~z~Hope you and Michael will be able to uh,",~z~หวังว่านายกับMichael จะสามารถที่ เอ่อ
 bs2baud:2803871955,~z~Let's hurry it up!,~z~รีบหน่อย!
 bs2baud:2805298843,~z~Bring it back a little.,~z~ถอยกลับมานิดนึง
 bs2baud:2814449841,"~z~The plan is to go through the wall, and bring out the bullion, correct?",~z~แผนคือเจาะผ่านกำแพงแล้วเอาทองแท่งออกมา ถูกต้องไหม?
@@ -870,7 +870,7 @@ bs2baud:2817168057,~z~It's down these stairs.,~z~มันลงไปตาม�
 bs2baud:2822572337,~z~We're fine if we stick with the big man!,~z~เราจะปลอดภัยถ้าอยู่กับลูกพี่ใหญ่!
 bs2baud:2826471776,~z~Blow them.,~z~ระเบิดพวกมัน
 bs2baud:2829415236,~z~I don't know. I'll check.,~z~ฉันไม่รู้ จะลองเช็คดู
-bs2baud:2830548668,~z~I don't wanna get shot while I'm moving this!,~z~ฉันไม่อยากโดนยิงตอนกำลังเคลื่อนย้ายไอ้นี่!
+bs2baud:2830548668,~z~I don't wanna get shot while I'm moving this!,~z~กูไม่อยากโดนยิงตอนกำลังเคลื่อนย้ายไอ้นี่!
 bs2baud:2833869142,~z~I don't doubt it's this way!,~z~ฉันไม่สงสัยเลยว่ามันคือทางนี้!
 bs2baud:2839106434,~z~There's a NOOSE team rapelling into the tunnel. I got to pull out.,~z~มี นูสทีม กำลังเล่นงานเราอยู่ที่อุโมงค์ ฉันต้องเอาเครื่องขึ้น
 bs2baud:2842990546,~z~Activate them.,~z~เปิดใช้งานพวกมัน
@@ -934,10 +934,10 @@ bs2baud:3034056575,~z~Where all the NOOSE guys go? Was there another robbery?,~z
 bs2baud:3034846520,~z~You think you can put a hole in that wall?,~z~นายคิดว่านายสามารถเจาะรูบนกำแพงนั่นได้ไหม?
 bs2baud:3034993043,"~z~Hey, I got this one.",~z~เฮ้ ฉันจัดการนี่เอง
 bs2baud:3035249563,"~z~Let's see who else is dumb enough to get in your way, boss!",~z~ดูซิใครมันโง่พอจะขวางทางคุณ บอส!
-bs2baud:3038387152,~z~Come on.,~z~เร็วเข้า 4
+bs2baud:3038387152,~z~Come on.,~z~เร็วเข้า
 bs2baud:3041086949,~z~Come back!,~z~กลับมา!
 bs2baud:3042714479,~z~Come on!,~z~เร็วเข้า!
-bs2baud:3044683244,"~z~Franklin, come get it! ~c~~n~ Wassup, Les?",~z~แฟรงคลินมานี่เลย! ~c~~n~ ไงล่ะเลส?
+bs2baud:3044683244,"~z~Franklin, come get it! ~c~~n~ Wassup, Les?",~z~Franklin มานี่เลย! ~c~~n~ ไงล่ะเลส?
 bs2baud:3046539851,"~z~Get them before they get me, okay?",~z~จัดการพวกมันก่อนที่พวกมันจะจัดการฉัน โอเคไหม?
 bs2baud:3048301706,~z~Parking lot down here! We could use a car right now.,~z~ลานจอดรถอยู่ข้างล่างนี่! ตอนนี้เราน่าจะใช้รถสักคันนะ
 bs2baud:3051949040,~z~Don't let 'em shoot me!,~z~อย่าปล่อยให้พวกมันยิงฉัน!
@@ -981,10 +981,10 @@ bs2baud:3147337335,~z~You really gonna be okay with a rocket launcher?,~z~นา
 bs2baud:3150130471,"~z~Alright, alright, letting go...",~z~เอาล่ะ ปล่อยแล้ว...
 bs2baud:3155311174,~z~Reloading!,~z~บรรจุกระสุน!
 bs2baud:3161555061,"~z~Drop altitude, drop quick!",~z~ลดระดับลง ลดลงเร็วๆ!
-bs2baud:3163956732,~z~Trevor ain't getting my share.,~z~เทรเวอร์ไม่มีทางได้ส่วนแบ่งของฉันไปหรอก
+bs2baud:3163956732,~z~Trevor ain't getting my share.,~z~Trevor ไม่มีทางได้ส่วนแบ่งของกูไปหรอก
 bs2baud:3165297540,"~z~Now's our chance, put it down.",~z~ตอนนี้ล่ะโอกาสของเรา วางมันลง
 bs2baud:3166825786,~z~this is it!,~z~ได้เวลาแล้วสินะ!
-bs2baud:3167220813,~z~You ain't going to be able to retrieve the bricks if I go down!,~z~ถ้านายปล่อยให้ฉันตาย นายก็จะไม่มีวันได้ทองพวกนี้ไปหรอก!
+bs2baud:3167220813,~z~You ain't going to be able to retrieve the bricks if I go down!,~z~ถ้านายปล่อยให้กูตาย นายก็จะไม่มีวันได้ทองพวกนี้ไปหรอก!
 bs2baud:3169796399,~z~Move it! Coming through!,~z~หลีกไป! ขอทางหน่อย!
 bs2baud:3174241612,~z~Get out of the way!,~z~ถอยไปให้พ้น!
 bs2baud:3174294951,~z~Long as you got it pointing the right way!,~z~ตราบใดที่นายหันมันไปถูกทาง!
@@ -1026,7 +1026,7 @@ bs2baud:3289786917,"~z~Yeah, we dropped our gold.",~z~ใช่แล้ว เ�
 bs2baud:3292349311,~z~Now you gotta do that to the other one.,~z~ทีนี้นายต้องทำแบบนั้นกับอีกอันด้วย
 bs2baud:3292391080,"~z~Alright, man, look, downtown's locked up tight, we should get outta here together, dog.",~z~เอาล่ะเพื่อน ดาวน์ทาวน์ตรึงกำลังแน่นเลย เราต้องออกไปจากนี่ด้วยกัน เพื่อน
 bs2baud:3293702145,~z~M! Where you going?,~z~เอ็ม! จะไปไหนน่ะ?
-bs2baud:3294461967,"~z~We need Lester in the air, running coms, and managing the link up with the train.",~z~เราต้องการเลสเตอร์อยู่บนฟ้า ใช้คอม และก็จัดการเชื่อมต่อกับรถไฟ
+bs2baud:3294461967,"~z~We need Lester in the air, running coms, and managing the link up with the train.",~z~เราต้องการLester อยู่บนฟ้า ใช้คอม และก็จัดการเชื่อมต่อกับรถไฟ
 bs2baud:3297705721,~z~They won't follow me through the windmills!,~z~พวกมันไม่มีทางตามฉันผ่านทุ่งกังหันลมไปหรอก!
 bs2baud:3298936782,~z~If you actually get dressed then maybe you will.,~z~ก็ถ้านายใส่ชุดนี่บางทีเราจะได้ลุยกัน
 bs2baud:3302163773,~z~More cops!,~z~ตำรวจมาอีกแล้ว!
@@ -1059,13 +1059,13 @@ bs2baud:3379598410,~z~Always the attention seeker.,~z~เรียกร้อ�
 bs2baud:3383089670,"~z~I'm going through the windmills, they might back off!",~z~ฉันจะผ่านไปทางกังหันลม พวกมันอาจจะถอยไปก็ได้!
 bs2baud:3387318907,"~z~Now, blow the other one.",~z~ทีนี้ ระเบิดอีกอันซะ
 bs2baud:3387503364,~z~Another bunch of cops!,~z~ตำรวจมาอีกโขยงแล้ว!
-bs2baud:3388904813,~z~With the Michael Townley - I'd do anything.,~z~กับคนดังไมเคิล ทาวน์ลีย์ เหรอ - ให้ไปตายยังได้
+bs2baud:3388904813,~z~With the Michael Townley - I'd do anything.,~z~กับคนดังMichael ทาวน์ลีย์ เหรอ - ให้ไปตายยังได้
 bs2baud:3389659772,~z~We're going this way!,~z~เรากำลังไปทางนี้!
 bs2baud:3391384289,~z~Left passage up here. Let's go!,~z~ทางผ่านฝั่งซ้ายตรงข้างหน้า ไปกันเถอะ!
 bs2baud:3392602011,"~z~I thought we were taking on cops, not military hardware!",~z~ฉันนึกว่าเรากำลังสู้กับตำรวจ ไม่ใช่พวกอาวุธยุทโธปกรณ์ทางการทหารแบบนี้!
 bs2baud:3393559268,~z~My heart won't take much more of this!,~z~หัวใจฉันจะรับไม่ไหวแล้วนะ!
 bs2baud:3400492119,"~z~Rentahood, that's just one of the hats I wear.",~z~เรนทาฮูด นั่นก็แค่หนึ่งในบทบาทที่ฉันทำอยู่
-bs2baud:3403151347,~z~You wanna get in my way!?,~z~นายอยากจะขวางทางฉันใช่ไหม!?
+bs2baud:3403151347,~z~You wanna get in my way!?,~z~นายอยากจะขวางทางกูใช่ไหม!?
 bs2baud:3406266132,"~z~Watch your right, homie! More cops!",~z~ดูทางขวาไว้เพื่อน! ตำรวจมาเพิ่มอีก!
 bs2baud:3407003237,~z~Hold on. Some cops are blocking us in.,~z~รอก่อน มีตำรวจขวางทางเราอยู่
 bs2baud:3416497124,~z~manipulate it to aid our escape.,~z~เปลี่ยนมันเพื่อช่วยให้เราหลบหนีได้
@@ -1080,11 +1080,11 @@ bs2baud:3450523494,~z~T? L? What's happening over there?,~z~ที? แอล? �
 bs2baud:3456111824,"~z~You'll get paid when we get the cash,",~z~พวกนายจะได้ค่าจ้างเมื่อเราได้เงินสดแล้ว
 bs2baud:3456187936,"~z~Get in the vault and plant the bombs, yo.",~z~เข้าไปในห้องนิรภัยแล้วติดตั้งระเบิดสิเพื่อน
 bs2baud:3457422427,~z~There's F!,~z~นั่นเอฟนี่!
-bs2baud:3459621456,"~z~You know I'm gonna scan this place for cameras when you're gone,",~z~รู้ไหมฉันจะตรวจหากล้องแอบถ่ายพอนายไปแล้ว
+bs2baud:3459621456,"~z~You know I'm gonna scan this place for cameras when you're gone,",~z~รู้ไหมกูจะตรวจหากล้องแอบถ่ายพอนายไปแล้ว
 bs2baud:3473575572,~z~Don't get in the way!,~z~อย่ามาขวางทาง!
 bs2baud:3476415932,"~z~Out the way, genius!",~z~ถอยไปให้พ้น ไอ้พวกรู้ดี!
 bs2baud:3476702690,"~z~We've got company, looks like Merryweather.",~z~พวกเรามีแขกมาเยี่ยม เหมือนจะเป็นพวกเมอรี่เวเธอร์
-bs2baud:3477695626,~z~You wanna get in my way!?,~z~นายอยากจะขวางทางฉันใช่ไหม!?
+bs2baud:3477695626,~z~You wanna get in my way!?,~z~นายอยากจะขวางทางกูใช่ไหม!?
 bs2baud:3478794451,~z~I knew this'd go to shit!,~z~กูรู้อยู่แล้วว่ามันต้องพังพินาศ!
 bs2baud:3482049090,~z~Down the ramp! Street level! Come on!,~z~ลงไปตามทางลาด! ระดับถนน! เร็วเข้า!
 bs2baud:3482707782,~z~It's getting heavy over here!,~z~ทางนี้ชักจะหนักแล้ว!
@@ -1125,9 +1125,9 @@ bs2baud:3577212674,"~z~Once you step back, all it takes is a spark.",~z~ทั�
 bs2baud:3583466698,~z~That as fast as you go?,~z~นั่นเร็วที่สุดเท่าที่ทำได้แล้วเหรอ?
 bs2baud:3583553930,"~z~C'mon, c'mon!",~z~เร็วเข้า เร็วเข้า!
 bs2baud:3595571197,~z~Let me by!,~z~ขอทางหน่อย!
-bs2baud:3598032166,"~z~Lester, why don't you throw your wheelchair at 'em?",~z~เลสเตอร์ ทำไมไม่เอารถเข็นขว้างใส่พวกมันเลยล่ะ?
+bs2baud:3598032166,"~z~Lester, why don't you throw your wheelchair at 'em?",~z~Lester ทำไมไม่เอารถเข็นขว้างใส่พวกมันเลยล่ะ?
 bs2baud:3601617517,"~z~We're clear, I'll check on the gold.",~z~เราเคลียร์แล้ว ฉันจะถามข่าวเรื่องทอง
-bs2baud:3613083212,"~z~You ain't going to get a shot from up here, I'll have to lower us down to the same level as them.",~z~นายยิงจากบนนี้ไม่ได้หรอก ฉันต้องลดระดับลงไปให้เท่ากับพวกมัน
+bs2baud:3613083212,"~z~You ain't going to get a shot from up here, I'll have to lower us down to the same level as them.",~z~นายยิงจากบนนี้ไม่ได้หรอก กูต้องลดระดับลงไปให้เท่ากับพวกมัน
 bs2baud:3617534119,~z~You're gonna be the distraction.,~z~นายจะเป็นคนสร้างจุดสนใจ
 bs2baud:3618118812,"~z~Put me square to them, and I'll unload.",~z~พาฉันไปตรงหน้าพวกมันเลย แล้วฉันจะสาดกระสุนใส่เอง
 bs2baud:3620292207,"~z~That way there's no confusion,",~z~ไม่มีอะไรให้ต้องสับสน
@@ -1135,7 +1135,7 @@ bs2baud:3625812188,"~z~Okay, now get out the vault, and blow it.",~z~โอเ�
 bs2baud:3640231967,~z~Stay with Karim.,~z~อยู่กับคาริมไว้
 bs2baud:3642833087,"~z~Here, put this on.",~z~เอานี่ ใส่นี่ซะ
 bs2baud:3643920854,~z~Back it up here!,~z~ถอยรถมาตรงนี้!
-bs2baud:3653253833,"~z~You ain't covering me, F!",~z~นายไม่ได้คอยคุ้มกันฉันเลยนะ เอฟ!
+bs2baud:3653253833,"~z~You ain't covering me, F!",~z~นายไม่ได้คอยคุ้มกันกูเลยนะ เอฟ!
 bs2baud:3654285448,~z~You can trigger them now.,~z~นายกดระเบิดได้เลยตอนนี้
 bs2baud:3654929594,~z~There's only so much I can do!,~z~ฉันทำได้แค่นี้แหละ!
 bs2baud:3656879739,~z~I'm feeling some pressure here!,~z~ฉันรู้สึกถึงแรงกดดันตรงนี้!
@@ -1153,13 +1153,13 @@ bs2baud:3699785129,"~z~We'll need to infiltrate the transportation grid,",~z~เ
 bs2baud:3699958133,~z~You're going the wrong way!,~z~นายกำลังไปผิดทาง!
 bs2baud:3709233436,~z~I can't believe we made it!,~z~ฉันไม่อยากเชื่อเลยว่าเราจะรอดมาได้!
 bs2baud:3711290995,~z~Push! Let's get out of here!,~z~เข็นไป! ไปจากที่นี่กันเถอะ!
-bs2baud:3713695353,"~z~I ain't gonna slow the boss down - tell him I cut out, and it was an honor to work with him.",~z~ฉันจะไม่ทำให้บอสช้าลงหรอก ฝากบอกเขาด้วยว่าฉันขอแยกตัว และรู้สึกเป็นเกียรติมากที่ได้ทำงานกับเขา
+bs2baud:3713695353,"~z~I ain't gonna slow the boss down - tell him I cut out, and it was an honor to work with him.",~z~กูจะไม่ทำให้บอสช้าลงหรอก ฝากบอกเขาด้วยว่ากูขอแยกตัว และรู้สึกเป็นเกียรติมากที่ได้ทำงานกับเขา
 bs2baud:3714012584,~z~Animales!,~z~ไอ้พวกสัตว์นรก!
 bs2baud:3715116294,~z~Let's get to the other side of the building.,~z~ไปอีกฝั่งของตึกกันเถอะ
 bs2baud:3716854842,"~z~Hey, look, down here!",~z~เฮ้ ดูนี่ ลงมานี่!
 bs2baud:3719134588,~z~Reload!,~z~รีโหลด!
 bs2baud:3721565185,~z~I don't like this!,~z~ฉันไม่ชอบแบบนี้เลย!
-bs2baud:3727550763,"~z~If they catch us, Trevor planned it, we give him up.",~z~ถ้าพวกมันจับเราได้ ให้บอกว่าเทรเวอร์เป็นคนวางแผน แล้วเราก็ซัดทอดเขาไปเลย
+bs2baud:3727550763,"~z~If they catch us, Trevor planned it, we give him up.",~z~ถ้าพวกมันจับเราได้ ให้บอกว่าTrevor เป็นคนวางแผน แล้วเราก็ซัดทอดเขาไปเลย
 bs2baud:3729715774,"~z~Alright, you pricks! Here it comes!",~z~เอาล่ะไอ้พวกนรก! เอาไปแดกซะ!
 bs2baud:3733594225,~z~Gimme some room to get past!,~z~ขอพื้นที่ให้ผ่านไปหน่อย!
 bs2baud:3735060118,"~z~Rentahood? That's good, M. I know you don't mean it.",~z~ชั่วโมงบินน้อย? ใช้ได้นี่เอ็ม ฉันรู้นายไม่ตั้งใจจะว่าฉันหรอก
@@ -1167,14 +1167,14 @@ bs2baud:3736142690,"~z~ You can do this, M. Lose 'em.",~z~นายทำได�
 bs2baud:3742183065,"~z~Go, you idiots!",~z~ไปสิ ไอ้พวกโง่!
 bs2baud:3742359532,~z~you two.,~z~นายสองคน
 bs2baud:3746637617,"~z~Come on, man. We got to move now!",~z~เร็วเข้า เราต้องไปเดี๋ยวนี้แล้ว!
-bs2baud:3753697650,"~z~Lester's never going to be cool, but he is alive.",~z~เลสเตอร์เลยคำว่าโอเคไปไกลเลย แต่เขาก็ยังอยู่ดี
+bs2baud:3753697650,"~z~Lester's never going to be cool, but he is alive.",~z~Lester เลยคำว่าโอเคไปไกลเลย แต่เขาก็ยังอยู่ดี
 bs2baud:3757984251,~z~There they are. Three of them.,~z~พวกมันอยู่นั่น มากันสามลำ
-bs2baud:3759183426,~z~You don't wanna screw with me!,~z~นายไม่อยากมีเรื่องกับฉันแน่!
+bs2baud:3759183426,~z~You don't wanna screw with me!,~z~นายไม่อยากมีเรื่องกับกูแน่!
 bs2baud:3762714427,~z~Limiting my limitations.,~z~กำลังทลายขีดจำกัดของตัวเอง
 bs2baud:3767215968,~z~Way to fill me with confidence.,~z~พูดได้ทำให้ฉันมั่นใจขึ้นมากเลยนะ
 bs2baud:3771349447,~z~F's over here.,~z~เอฟอยู่ตรงนี้
 bs2baud:3772941356,~z~Domed!,~z~แตกหนึ่ง!
-bs2baud:3773343588,"~z~They on me hard, man! I ain't going to last long!",~z~พวกมันบดขยี้ฉันหนักมากเพื่อน! ฉันคงยันไว้ได้ไม่นาน!
+bs2baud:3773343588,"~z~They on me hard, man! I ain't going to last long!",~z~พวกมันบดขยี้กูหนักมากเพื่อน! กูคงยันไว้ได้ไม่นาน!
 bs2baud:3779427727,~z~Put a bomb on the other one and blow it.,~z~ติดระเบิดที่อีกกรงหนึ่งแล้วเป่ามันซะ
 bs2baud:3787154836,"~z~You need to go in there and plant them bombs, you know what I'm saying?",~z~นายต้องเข้าไปข้างในนั้นแล้วติดตั้งระเบิด เข้าใจที่ฉันพูดใช่ไหม?
 bs2baud:3787253445,~z~Now's the time! Let's get a ride and go!,~z~ถึงเวลาแล้ว! หาที่นั่งแล้วไปกันเลย!
@@ -1191,7 +1191,7 @@ bs2baud:3817273736,~z~Shall we?,~z~เริ่มกันเลยไหม?
 bs2baud:3820284062,"~z~I can't push the trolley through you, not in this dimension.",~z~ฉันเข็นรถผ่านตัวนายไปไม่ได้ ไม่ใช่ในมิตินี้
 bs2baud:3827102691,~z~Can we do this with more urgency?,~z~พวกเราทำให้มันเร่งด่วนกว่านี้ได้ไหม?
 bs2baud:3828106284,~z~G ride's in the parking lot! Let's go!,~z~รถหนีอยู่ในลานจอดรถ! ไปกันเถอะ!
-bs2baud:3833253594,~z~the girls are gonna be videoing me.,~z~สาวๆ ต้องแห่มาถ่ายคลิปฉันต่างหาก
+bs2baud:3833253594,~z~the girls are gonna be videoing me.,~z~สาวๆ ต้องแห่มาถ่ายคลิปกูต่างหาก
 bs2baud:3835060375,~z~Missed!,~z~พลาด!
 bs2baud:3835915039,"~z~Well, don't worry,",~z~ไม่ต้องห่วงหรอก
 bs2baud:3841283095,~z~I know the way!,~z~ฉันรู้ทาง!
@@ -1201,12 +1201,12 @@ bs2baud:3844374597,~z~The gold's in the cages - fit them with bombs.,~z~ทอ�
 bs2baud:3851715003,"~z~Uhh, uhh - chopper!",~z~เอ่อ เออ เฮลิคอปเตอร์!
 bs2baud:3851952303,~z~There are reports of a robbery at the Union Depository. Possible hostage situation.,~z~มีรายงานการปล้นที่ยูเนียนดีพอสิทอรี อาจมีการจับตัวประกัน
 bs2baud:3858950330,~z~Gone!,~z~ไปแล้ว!
-bs2baud:3859562406,~z~You ain't doing your job - the cops are on me!,~z~นายไม่ยอมทำหน้าที่ - ตำรวจล้อมฉันหมดแล้ว!
+bs2baud:3859562406,~z~You ain't doing your job - the cops are on me!,~z~นายไม่ยอมทำหน้าที่ - ตำรวจล้อมกูหมดแล้ว!
 bs2baud:3864181233,~z~Rotate it! Get them in my firing line.,~z~เปลี่ยนทิศทาง! ให้พวกมันอยู่ในวิถียิงฉัน
-bs2baud:3866521187,~z~Come on.,~z~เร็วเข้า 6
+bs2baud:3866521187,~z~Come on.,~z~เร็วเข้า
 bs2baud:3867084736,~z~Gold coming through!,~z~ทองกำลังมา!
 bs2baud:3868052599,~z~I'm bringing the chopper back around.,~z~ฉันจะเอาชอบเปอร์อ้อมไปด้านหลัง
-bs2baud:3874763890,"~z~'Cause if I go down, Trevor's ass gets my share!",~z~เพราะถ้าฉันตายอยู่นี่ ไอ้เทรเวอร์ก็เอาส่วนฉันไปสิ!
+bs2baud:3874763890,"~z~'Cause if I go down, Trevor's ass gets my share!",~z~เพราะถ้าฉันตายอยู่นี่ ไอ้Trevor ก็เอาส่วนฉันไปสิ!
 bs2baud:3881586515,~z~You don't wanna be near there when you trigger.,~z~นายคงไม่อยากอยู่ใกล้แถวนี้ตอนกดระเบิดหรอกนะ
 bs2baud:3886426584,~z~I'm under fire!,~z~ฉันกำลังโดนยิง!
 bs2baud:3891005631,~z~Three choppers on the horizon.,~z~เฮลิคอปเตอร์สามลำที่เส้นขอบฟ้า
@@ -1226,7 +1226,7 @@ bs2baud:3917273051,~z~Let's go.,~z~ไปเร็ว
 bs2baud:3920413634,~z~Let's get this show on the road! Come on!,~z~มาเริ่มการแสดงกันได้แล้ว! เร็วเข้า!
 bs2baud:3927251017,~z~Cops coming out the tunnel behind me!,~z~ตำรวจออกมาจากอุโมงค์ข้างหลังฉัน!
 bs2baud:3927599889,~z~and everybody knows where the gold is.,~z~และทุกคนก็รู้ว่าทองมันอยู่ไหน
-bs2baud:3931357677,"~z~This gold's heavy, you gotta keep 'em off of me!",~z~ทองนี่มันหนักนะ นายต้องกันพวกมันออกไปจากฉัน!
+bs2baud:3931357677,"~z~This gold's heavy, you gotta keep 'em off of me!",~z~ทองนี่มันหนักนะ นายต้องกันพวกมันออกไปจากกู!
 bs2baud:3932650862,"~z~Wrong way, pal. Over here.",~z~ผิดทางแล้วเพื่อน ทางนี้ต่างหาก
 bs2baud:3933292696,~z~it's gonna come.,~z~เวลานั้นจะมาถึง
 bs2baud:3933566045,~z~Reverse it.,~z~ถอยหลังซะ
@@ -1260,7 +1260,7 @@ bs2baud:4012989631,~z~All the gold's ready to go!,~z~ทองทั้งหม
 bs2baud:4013755828,~z~All the metal's there! Let's move it!,~z~เหล็กทั้งหมดอยู่ที่นี่แล้ว! เคลื่อนย้ายมันกันเลย!
 bs2baud:4023875276,~z~I'll help with the cops when this is done!,~z~ฉันจะช่วยเรื่องตำรวจตอนที่งานนี้เสร็จแล้ว!
 bs2baud:4024034384,~z~But option two.,~z~แต่ทางเลือกที่สอง
-bs2baud:4024411391,"~z~Well, this is awkward! 'Cause I ain't leaving here without the gold!",~z~แหม นี่มันน่าอึดอัดชะมัด! เพราะฉันจะไม่ไปจากที่นี่โดยไม่มีทองแน่!
+bs2baud:4024411391,"~z~Well, this is awkward! 'Cause I ain't leaving here without the gold!",~z~แหม นี่มันน่าอึดอัดชะมัด! เพราะกูจะไม่ไปจากที่นี่โดยไม่มีทองแน่!
 bs2baud:4025017782,"~z~Hey, when this thing is done,",~z~เฮ้ พองานนี้จบแล้ว
 bs2baud:4029597046,"~z~Hey, I see your chopper from the train. Drop the cargo, and I'll take it to the warehouse.",~z~เฮ้ ฉันเห็นเฮลิคอปเตอร์จากบนรถไฟ ทิ้งของลงมา แล้วฉันจะเอาไปที่โกดังเอง
 bs2baud:4033934609,~z~I can't shake 'em! I can't shake 'em!,~z~ฉันสลัดพวกมันไม่หลุด! ฉันสลัดพวกมันไม่หลุด!
@@ -1317,7 +1317,7 @@ bs2baud:4229822876,"~z~Y'know, for a guy who's always stepping on his friends to
 bs2baud:4230651036,"~z~Obviously not, otherwise you would have already killed me",~z~ไม่อยู่แล้วล่ะ ไม่งั้นแกก็คงฆ่าฉัน
 bs2baud:4232056850,~z~Keep it level!,~z~ทรงตัวให้ดี!
 bs2baud:4233931389,"~z~Slide it back, alright?",~z~ถอยกลับมาหน่อย โอเคไหม?
-bs2baud:4235499782,~z~The bowl I'm gonna smoke when this is done!,~z~พองานนี้เสร็จ ฉันจะพี้ให้ลืมโลกเลย!
+bs2baud:4235499782,~z~The bowl I'm gonna smoke when this is done!,~z~พองานนี้เสร็จ กูจะพี้ให้ลืมโลกเลย!
 bs2baud:4240482576,~z~Push up. Come on.,~z~พยายามอีก เร็วเข้า
 bs2baud:4248656109,~z~The Merryweather channel's dead. They're not sending anyone else. We're out.,~z~ช่องสื่อสารเมอร์รี่เวเธอร์เงียบไปแล้ว พวกมันคงไม่ส่งใครมาอีก เราหนีรอดแล้ว
 bs2baud:4251053523,"~z~With you, M? I'd do anything.",~z~กับนายเหรอ เอ็ม? ฉันยอมทำทุกอย่างแหละ

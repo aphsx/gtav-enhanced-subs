@@ -1,56 +1,56 @@
 ﻿id,en,th
 trev1:93184093,~s~Get back in the ~b~truck.,~s~กลับไปที่ ~b~รถบรรทุก
-trev1:194048295,"~s~Shit! Fuck it, it's Trevor, let's get out of here.",~s~เวร! บ้าเอ้ย ไอ้เทรเวอร์ ไปจากที่นี่กันเร็ว
+trev1:194048295,"~s~Shit! Fuck it, it's Trevor, let's get out of here.",~s~เวร! บ้าเอ้ย ไอ้Trevor ไปจากที่นี่กันเร็ว
 trev1:294758713,~s~Go to the ~y~trailer park.~s~,~s~ไปที่ ~y~ลานจอดเทรเลอร์~s~
 trev1:463332175,The bikers were spooked.~s~,ไบค์เกอร์ตื่นตกใจ~s~
-trev1:482311453,Trevor left the trailer park.~s~,เทรเวอร์ออกจากลานจอดเทรเลอร์~s~
-trev1:495484965,Trevor's truck was destroyed.~s~,รถบรรทุกของเทรเวอร์ถูกทำลาย~s~
-trev1:615168989,~s~Don't abandon ~b~Ron ~s~and ~b~Wade.~s~,~s~อย่าละทิ้ง ~b~รอน~s~และ ~b~เว้ด~s~
+trev1:482311453,Trevor left the trailer park.~s~,Trevor ออกจากลานจอดเทรเลอร์~s~
+trev1:495484965,Trevor's truck was destroyed.~s~,รถบรรทุกของTrevor ถูกทำลาย~s~
+trev1:615168989,~s~Don't abandon ~b~Ron ~s~and ~b~Wade.~s~,~s~อย่าละทิ้ง ~b~Ron~s~และ ~b~Wade~s~
 trev1:636129525,"All cars have been destroyed, and can no longer be chased.~s~",รถยนต์ทุกคันถูกทำลายและไม่สามารถไล่ล่าได้อีกต่อไป~s~
 trev1:752021480,While near low cover press ~INPUT_JUMP~ and ~INPUT_MOVE_UP_ONLY~ to jump over.,ในขณะที่อยู่ใกล้ปกต่ำกด ~INPUT_JUMP~ และ ~INPUT_MOVE_UP_ONLY~ เพื่อกระโดดข้าม
-trev1:802301112,Trevor's truck was destroyed.~s~,รถบรรทุกของเทรเวอร์ถูกทำลาย~s~
-trev1:854908701,Ron and Wade were abandoned.~s~,รอนและเว้ดถูกละทิ้ง~s~
+trev1:802301112,Trevor's truck was destroyed.~s~,รถบรรทุกของTrevor ถูกทำลาย~s~
+trev1:854908701,Ron and Wade were abandoned.~s~,Ron และWade ถูกละทิ้ง~s~
 trev1:959723400,The bikers escaped.~s~,ไบค์เกอร์หลบหนี~s~
 trev1:1119186009,Get in the ~b~truck.~s~,เข้าไปใน ~b~รถบรรทุก~s~
 trev1:1231528392,~s~Push the trailer into the ~y~river.~s~,~s~ดันรถพ่วงเข้าไปใน ~y~แม่น้ำ~s~
 trev1:1582423896,Use ~INPUT_VEH_SELECT_NEXT_WEAPON~ to select a weapon.,ใช้ ~INPUT_VEH_SELECT_NEXT_WEAPON~ เพื่อเลือกอาวุธ
 trev1:1697288040,Failed!~s~,ล้มเหลว!~s~
-trev1:1776243370,"The special ability bar fills when taking damage, narrowly avoiding collisions and killing targets. Get an extra boost by performing headshots. Increase Trevor's special ability skill by filling up the special ability bar often.",แถบความสามารถพิเศษเติมเต็มเมื่อรับความเสียหายหลีกเลี่ยงการชนและฆ่าเป้าหมายอย่างหวุดหวิด รับการเพิ่มพิเศษโดยการแสดง headshots เพิ่มทักษะความสามารถพิเศษของ เทรเวอร์โดยเติมแถบความสามารถพิเศษบ่อยครั้ง
-trev1:2072803704,Press and hold ~INPUT_VEH_ACCELERATE~ to ram Ortega's trailer.,กดค้าง ~INPUT_VEH_ACCELERATE~ เพื่อพุ่งชน เทรเลอร์ของออร์เทก้า
-trev1:2072835589,Trevor's special ability increases the damage he inflicts on enemies and greatly reduces the damage he takes.,ความสามารถพิเศษของเทรเวอร์เพิ่มความเสียหายที่เขาก่อให้เกิดศัตรูและลดความเสียหายที่เขาใช้อย่างมาก
+trev1:1776243370,"The special ability bar fills when taking damage, narrowly avoiding collisions and killing targets. Get an extra boost by performing headshots. Increase Trevor's special ability skill by filling up the special ability bar often.",แถบความสามารถพิเศษเติมเต็มเมื่อรับความเสียหายหลีกเลี่ยงการชนและฆ่าเป้าหมายอย่างหวุดหวิด รับการเพิ่มพิเศษโดยการแสดง headshots เพิ่มทักษะความสามารถพิเศษของ Trevor โดยเติมแถบความสามารถพิเศษบ่อยครั้ง
+trev1:2072803704,Press and hold ~INPUT_VEH_ACCELERATE~ to ram Ortega's trailer.,กดค้าง ~INPUT_VEH_ACCELERATE~ เพื่อพุ่งชน เทรเลอร์ของOrtega
+trev1:2072835589,Trevor's special ability increases the damage he inflicts on enemies and greatly reduces the damage he takes.,ความสามารถพิเศษของTrevor เพิ่มความเสียหายที่เขาก่อให้เกิดศัตรูและลดความเสียหายที่เขาใช้อย่างมาก
 trev1:2173382342,~s~Go to the ~y~riverside trailer.,~s~ไปที่ ~y~เทรเลอร์ริมแม่น้ำ
-trev1:2178926802,Ron was abandoned.~s~,รอนถูกละทิ้ง~s~
-trev1:2294609629,The yellow bar below the Radar shows Trevor's special ability level. ~n~Press ~INPUT_SPECIAL_ABILITY_PC~ to activate Trevor's ability.,แถบสีเหลืองด้านล่างเรดาร์แสดงระดับความสามารถพิเศษของเทรเวอร์ ~n~กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อเปิดใช้งานความสามารถของ เทรเวอร์
+trev1:2178926802,Ron was abandoned.~s~,Ron ถูกละทิ้ง~s~
+trev1:2294609629,The yellow bar below the Radar shows Trevor's special ability level. ~n~Press ~INPUT_SPECIAL_ABILITY_PC~ to activate Trevor's ability.,แถบสีเหลืองด้านล่างเรดาร์แสดงระดับความสามารถพิเศษของTrevor ~n~กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อเปิดใช้งานความสามารถของ Trevor
 trev1:2316176222,Return to the ~b~truck.~s~,กลับไปที่ ~b~รถบรรทุก~s~
-trev1:2388335521,The yellow bar below the Radar shows Trevor's special ability level. ~n~Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to activate Trevor's ability.,แถบสีเหลืองด้านล่างเรดาร์แสดงระดับความสามารถพิเศษของเทรเวอร์ ~n~กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ ร่วมกันเพื่อเปิดใช้งานความสามารถของ เทรเวอร์
-trev1:2393863393,~s~Trevor left without threatening Ortega.~s~,~s~เทรเวอร์ไปโดยไม่ได้ข่มขู่ ออร์เทก้า~s~
-trev1:2488692159,Ron died.~s~,รอนตายแล้ว~s~
-trev1:2614966937,"Increasing Trevor's special ability Stat will increase the maximum size of the special ability bar. To do this, fill up the bar often.",การเพิ่มสถิติความสามารถพิเศษของเทรเวอร์จะเพิ่มความจุสูงสุดของแถบความสามารถพิเศษได้ ในการทำเช่นนี้ให้ทำการเติมแถบบ่อยๆ
-trev1:2658146479,~s~Return to and threaten ~r~Ortega.~s~,~s~กลับไปและข่มขู่ ~r~ออร์เทก้า~s~
+trev1:2388335521,The yellow bar below the Radar shows Trevor's special ability level. ~n~Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to activate Trevor's ability.,แถบสีเหลืองด้านล่างเรดาร์แสดงระดับความสามารถพิเศษของTrevor ~n~กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ ร่วมกันเพื่อเปิดใช้งานความสามารถของ Trevor
+trev1:2393863393,~s~Trevor left without threatening Ortega.~s~,~s~Trevor ไปโดยไม่ได้ข่มขู่ Ortega~s~
+trev1:2488692159,Ron died.~s~,Ron ตายแล้ว~s~
+trev1:2614966937,"Increasing Trevor's special ability Stat will increase the maximum size of the special ability bar. To do this, fill up the bar often.",การเพิ่มสถิติความสามารถพิเศษของTrevor จะเพิ่มความจุสูงสุดของแถบความสามารถพิเศษได้ ในการทำเช่นนี้ให้ทำการเติมแถบบ่อยๆ
+trev1:2658146479,~s~Return to and threaten ~r~Ortega.~s~,~s~กลับไปและข่มขู่ ~r~Ortega~s~
 trev1:2868292282,When in cover at a corner press ~INPUT_JUMP~ and ~INPUT_MOVE_LR~ towards the corner to go around.,เมื่ออยู่ในหน้าปกที่มุมกด ~INPUT_JUMP~ และ ~INPUT_MOVE_LR~ ไปที่มุมเพื่อไปรอบ ๆ
 trev1:2886661235,~s~The trailer was not pushed into the river.~s~,~s~รถพ่วงไม่ได้ผลักลงไปในแม่น้ำ~s~
 trev1:2978776516,Hold ~INPUT_VEH_AIM~ to shoot.,กดค้าง ~INPUT_VEH_AIM~ เพื่อยิง
 trev1:2989854746,~s~Go to ~y~Grapeseed.~s~,~s~ไปที่ ~y~เกรปซี้ด~s~
-trev1:2993750733,"This is Trevor's safehouse, you can save vehicles by parking in the Garage. You can modify your vehicle at any Los Santos Customs Garage.",นี่คือเซฟเฮ้าส์ของเทรเวอร์ คุณสามารถเก็บพาหนะได้ด้วยการจอดรถในโรงรถ คุณสามารถปรับแต่งพาหนะของคุณได้ที่อู่ซ่อมรถใดๆ ก็ได้ใน ลอส ซานโตส
-trev1:3061104585,Ron and Wade died.~s~,รอนและเว้ดตายแล้ว~s~
-trev1:3068598669,~s~Go to ~y~Ron's place.,~s~ไปที่ ~y~สถานที่ของรอน
-trev1:3281728327,Wade died.~s~,เว้ดตายแล้ว~s~
-trev1:3318320765,The yellow bar indicates Trevor's special ability level. Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to put Trevor into a rage which will greatly reduce the damage he takes.,แถบสีเหลืองแสดงถึงระดับความสามารถพิเศษของเทรเวอร์ กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ ร่วมกัน เพื่อให้เทรเวอร์อยู่ในโหมดบ้าคลั่งซึ่งจะลดความเสียหายที่เขาเจออย่างมาก
+trev1:2993750733,"This is Trevor's safehouse, you can save vehicles by parking in the Garage. You can modify your vehicle at any Los Santos Customs Garage.",นี่คือเซฟเฮ้าส์ของTrevor คุณสามารถเก็บพาหนะได้ด้วยการจอดรถในโรงรถ คุณสามารถปรับแต่งพาหนะของคุณได้ที่อู่ซ่อมรถใดๆ ก็ได้ใน ลอส ซานโตส
+trev1:3061104585,Ron and Wade died.~s~,Ron และWade ตายแล้ว~s~
+trev1:3068598669,~s~Go to ~y~Ron's place.,~s~ไปที่ ~y~สถานที่ของRon
+trev1:3281728327,Wade died.~s~,Wade ตายแล้ว~s~
+trev1:3318320765,The yellow bar indicates Trevor's special ability level. Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to put Trevor into a rage which will greatly reduce the damage he takes.,แถบสีเหลืองแสดงถึงระดับความสามารถพิเศษของTrevor กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ ร่วมกัน เพื่อให้Trevor อยู่ในโหมดบ้าคลั่งซึ่งจะลดความเสียหายที่เขาเจออย่างมาก
 trev1:3409395093,Hold ~INPUT_LOOK_BEHIND~ followed by ~INPUT_AIM~ to quickly lock on to an enemy behind you.,กดค้าง ~INPUT_LOOK_BEHIND~ ตามด้วย ~INPUT_AIM~ เพื่อล็อคไปยังศัตรูที่อยู่ข้างหลังนายอย่างรวดเร็ว
 trev1:3418273132,Walk around the trailer to find various activities to take part in.,เดินไปรอบ ๆ รถเทรลเลอร์เพื่อหากิจกรรมต่างๆ เพื่อเข้าร่วม
-trev1:3433925600,~s~Wait for ~b~Ron ~s~to get in.,~s~รอ ~b~รอน~s~ขึ้นรถ
+trev1:3433925600,~s~Wait for ~b~Ron ~s~to get in.,~s~รอ ~b~Ron~s~ขึ้นรถ
 trev1:3470412131,~s~Take down the ~r~bikers.~s~,~s~กำจัด ~r~พวกไบค์เกอร์~s~
 trev1:3510193795,The bikers escaped.~s~,ไบค์เกอร์หลบหนี~s~
 trev1:3555368440,~s~Return to the ~y~trailer park.~s~,~s~กลับไปที่ ~y~ลานจอดเทรเลอร์~s~
-trev1:3680446787,~s~Return to ~b~Ron.~s~,~s~กลับไปที่ ~b~รอน~s~
+trev1:3680446787,~s~Return to ~b~Ron.~s~,~s~กลับไปที่ ~b~Ron~s~
 trev1:3690761531,~s~Get in the ~b~truck.,~s~ขึ้นไปบน ~b~รถบรรทุก
 trev1:3819070767,"You can save your game by sleeping in the bed, and change your clothes by walking up to the wardrobe.",คุณสามารถบันทึกเกมของคุณด้วยการนอนบนเตียงและเปลี่ยนเสื้อผ้าของคุณโดยการเดินไปที่ตู้เสื้อผ้า
 trev1:3840963983,~s~Follow the ~r~van.,~s~ติดตาม ~r~รถตู้
-trev1:3933947771,~s~Wait for ~b~Wade ~s~to get in.,~s~รอ ~b~เว้ด~s~ขึ้นรถ
+trev1:3933947771,~s~Wait for ~b~Wade ~s~to get in.,~s~รอ ~b~Wade~s~ขึ้นรถ
 trev1:3939235906,Hold ~INPUT_VEH_AIM~ to aim.~n~Press ~INPUT_VEH_ATTACK~ to shoot.,กดค้าง ~INPUT_VEH_AIM~ เพื่อเล็ง ~n~กด ~INPUT_VEH_ATTACK~ เพื่อยิง
-trev1:3973435628,~s~Threaten ~r~Ortega.,~s~ข่มขู่ ~r~ออร์เทก้า
-trev1:3989440424,Wade was abandoned.~s~,เว้ดถูกละทิ้ง~s~
+trev1:3973435628,~s~Threaten ~r~Ortega.,~s~ข่มขู่ ~r~Ortega
+trev1:3989440424,Wade was abandoned.~s~,Wade ถูกละทิ้ง~s~
 trev1:4084313076,"All the drivers died, and can no longer be chased.~s~",คนขับทั้งหมดตายแล้วและไม่สามารถไล่ล่าได้อีกต่อไป~s~
 trev1:4093143770,"Near misses in vehicles, taking damage, killing targets with explosions and headshots will fill the special ability bar.",รถเกือบเฉี่ยวชน ได้รับความเสียหาย การฆ่าเป้าหมายด้วย ระเบิด และ การยิง Headshots จะเป็นการเติมแถบความสามารถพิเศษ
-trev1:4140294164,~s~Don't leave ~b~Wade ~s~behind.~s~,~s~อย่าทิ้ง ~b~เว้ด~s~ไว้ข้างหลัง~s~
-trev1:4290390920,~s~Ortega was killed too early.,~s~ออร์เทก้าถูกฆ่าเร็วเกินไป
+trev1:4140294164,~s~Don't leave ~b~Wade ~s~behind.~s~,~s~อย่าทิ้ง ~b~Wade~s~ไว้ข้างหลัง~s~
+trev1:4290390920,~s~Ortega was killed too early.,~s~Ortegaถูกฆ่าเร็วเกินไป

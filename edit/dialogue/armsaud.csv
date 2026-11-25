@@ -2,7 +2,7 @@
 armsaud:5828336,~z~Another happy customer.,~z~ลูกค้าที่มีความสุขอีกราย
 armsaud:6328791,"~z~You might have noticed some turbulence during the recent bombings, but we're expecting a smooth",~z~นายอาจจะสังเกตเห็นแรงสั่นสะเทือนบ้างระหว่างการทิ้งระเบิดเมื่อครู่ แต่เราหวังว่าการเดินทางต่อจากนี้จะราบรื่นนะ
 armsaud:7780601,"~z~Oscar? Hello, hello.",~z~ออสการ์? ฮัลโหล ฮัลโหล
-armsaud:12135769,"~z~Gotta make it count, Trevor.",~z~ต้องทำให้มันเข้าเป้านะเทรเวอร์
+armsaud:12135769,"~z~Gotta make it count, Trevor.",~z~ต้องทำให้มันเข้าเป้านะ Trevor
 armsaud:13878744,"~z~Good. Make it quick, the Mexicans are everywhere right now.",~z~ดี รีบทำให้ไวเลย ตอนนี้พวกเม็กซิกันอยู่เต็มไปหมด
 armsaud:17729073,~z~Are you talking to me?,~z~นายพูดกับฉันเหรอ?
 armsaud:24561363,~z~We need to deal with those bastards before they get to the drop site.,~z~เราต้องจัดการไอ้พวกสารเลวนั่นก่อนที่พวกมันจะไปถึงจุดทิ้งของ
@@ -15,7 +15,7 @@ armsaud:61129721,~z~That's not the news I was hoping for.,~z~นั่นไม�
 armsaud:67872582,~z~So the Salvadorians are trying to set up on our turf again.,~z~งั้นพวกซัลวาดอร์ก็พยายามจะมาตั้งฐานในถิ่นเราอีกแล้วสินะ
 armsaud:72284895,~z~Where aircraft go to die. Lucky I know this place.,~z~ที่ที่เครื่องบินมาเพื่อตายน่ะเหรอ โชคดีนะที่ฉันรู้จักที่นี่
 armsaud:75966059,"~z~Great, man. That was your last buyer - you can head on back.",~z~เยี่ยมมากเพื่อน นั่นคือผู้ซื้อรายสุดท้ายของนายแล้ว นายกลับมาได้เลย
-armsaud:92890896,"~z~Come on, Trevor. Let's get this done.",~z~เอาน่าเทรเวอร์ รีบทำให้มันจบๆ ไป
+armsaud:92890896,"~z~Come on, Trevor. Let's get this done.",~z~เอาน่า Trevor รีบทำให้มันจบๆ ไป
 armsaud:92954110,"~z~Well, hay un problema. The Salvadorians are watching all our planes. Better move fast on this.",~z~เอาล่ะ มีปัญหาแล้วล่ะ พวกซัลวาดอร์กำลังจับตาดูเครื่องบินของเราทุกลำ รีบจัดการเรื่องนี้ให้ไวเลยดีกว่า
 armsaud:95872574,~z~Ah. Thank fuck for that.,~z~อา ขอบพระคุณสวรรค์สำหรับเรื่องนั้น
 armsaud:96892252,~z~Or maybe they should keep an eye out for me.,~z~หรือบางทีพวกมันควรจะระวังฉันมากกว่านะ
@@ -42,10 +42,10 @@ armsaud:257627312,"~z~Are you going in the right direction? On my screen, you're
 armsaud:259047095,~z~They're coming after me.,~z~พวกมันกำลังตามล่าฉันอยู่
 armsaud:259855596,~z~Are you okay? You look way off course.,~z~นายโอเคไหม? นายดูออกนอกเส้นทางไปไกลเลยนะ
 armsaud:269939910,~z~You're gonna pop up on radar at that altitude.,~z~นายจะโผล่บนเรดาร์นะถ้าอยู่ความสูงระดับนั้น
-armsaud:285757819,~z~Dame una mamada. Cúrame mamacita.,~z~[ประโยคภาษาสเปน]
+armsaud:285757819,~z~Dame una mamada. Cúrame mamacita.,~z~Dame una mamada. Cúrame mamacita.
 armsaud:298076156,"~z~Oh, I won't waste any.",~z~โอ้ ฉันไม่ยอมเสียเปล่าหรอก
 armsaud:305683580,"~z~Talk to me, Oscar.",~z~ว่ามาเลยออสการ์
-armsaud:311776357,"~z~All good, Trevor?",~z~ทุกอย่างเรียบร้อยดีไหมเทรเวอร์?
+armsaud:311776357,"~z~All good, Trevor?",~z~ทุกอย่างเรียบร้อยดีไหม Trevor?
 armsaud:321866638,~z~Good job.,~z~ทำได้ดีมาก
 armsaud:322759263,~z~I hope you can get to them before they deliver the weapons.,~z~ฉันหวังว่านายจะไปถึงพวกมันก่อนที่พวกมันจะส่งอาวุธนะ
 armsaud:336229059,~z~That's what I like to hear.,~z~นั่นแหละที่ฉันอยากได้ยิน
@@ -81,7 +81,7 @@ armsaud:654920584,~z~This isn't good. I triggered an alarm.,~z~เรื่อ�
 armsaud:693383351,~z~I still see some of them intact down there.,~z~ฉันยังเห็นพวกมันบางส่วนยังสภาพดีอยู่ข้างล่างนั่นนะ
 armsaud:695062613,"~z~Oh shit, I do not like the sound of that alarm.",~z~ให้ตายสิ กูไม่ชอบเสียงสัญญาณเตือนภัยนั่นเลยจริงๆ
 armsaud:703593808,~z~That one's a hit.,~z~ลูกนั้นเข้าเป้า
-armsaud:710770689,"~z~Where are you going, Trevor?",~z~นายกำลังจะไปไหนน่ะเทรเวอร์?
+armsaud:710770689,"~z~Where are you going, Trevor?",~z~นายกำลังจะไปไหนน่ะ Trevor?
 armsaud:768968589,"~z~Shit, fire not in the hole.",~z~ให้ตายสิ ระเบิดไม่ลงเป้า
 armsaud:778287055,~z~They should've listened.,~z~พวกมันน่าจะเชื่อคำเตือนนะ
 armsaud:790738729,"~z~Just a reminder about the set-up, man. Plane's rigged with a multiple release mechanism.",~z~แค่เตือนความจำเรื่องการติดตั้งน่ะเพื่อน เครื่องบินลำนี้ติดตั้งกลไกการปล่อยของแบบหลายชิ้นไว้
@@ -95,7 +95,7 @@ armsaud:883743766,~z~You make it all sound so professional.,~z~นายพู�
 armsaud:886301735,~z~They know that drop site.,~z~พวกมันรู้จักจุดทิ้งของจุดนั้น
 armsaud:897472312,"~z~Okay, so they're all dead.",~z~โอเค งั้นพวกมันก็ตายกันหมดแล้ว
 armsaud:904825675,~z~I have made the pick-up.,~z~ฉันรับของมาเรียบร้อยแล้ว
-armsaud:915360153,~z~Managed to track down some more Salvadorian drop sites that need a Trevor Philips welcome.,~z~ตามรอยจุดทิ้งของพวกซัลวาดอร์เพิ่มได้แล้ว พวกนั้นต้องการการต้อนรับแบบเทรเวอร์ฟิลิปส์สักหน่อยนะ
+armsaud:915360153,~z~Managed to track down some more Salvadorian drop sites that need a Trevor Philips welcome.,~z~ตามรอยจุดทิ้งของพวกซัลวาดอร์เพิ่มได้แล้ว พวกนั้นต้องการการต้อนรับแบบ Trevor ฟิลิปส์สักหน่อยนะ
 armsaud:924162856,"~z~I got a bad feeling the Aztecas know about this, so watch yourself.",~z~ฉันสังหรณ์ใจไม่ค่อยดีว่าพวกอัซเทก้ารู้เรื่องนี้แล้ว เพราะงั้นระวังตัวด้วย
 armsaud:926238200,~z~They asked for it.,~z~พวกมันวอนหาเรื่องเองนะ
 armsaud:936347435,"~z~I think they got there already, T. Get after them.",~z~ฉันว่าพวกมันไปถึงที่นั่นแล้วนะที ตามพวกมันไปเร็ว
@@ -125,16 +125,16 @@ armsaud:1134224548,"~z~They got it, those motherfuckers!",~z~พวกมัน�
 armsaud:1139549223,"~z~I got some more stash spots that could use a visit from you, T.",~z~ฉันมีจุดซ่อนของเพิ่มที่น่าให้นายไปแวะเยี่ยมสักหน่อยนะที
 armsaud:1147198698,~z~They know there's an operation going down here.,~z~พวกมันรู้ว่ามีการปฏิบัติงานอยู่ที่นี่
 armsaud:1150633975,~z~Coordinates for the drop sites should be up on screen any second now.,~z~พิกัดสำหรับจุดทิ้งของน่าจะขึ้นบนหน้าจอในอีกไม่กี่วินาทีนี้แหละ
-armsaud:1152905469,"~z~Come on, Trevor. Take 'em out.",~z~เอาน่าเทรเวอร์ จัดการพวกมันซะ
+armsaud:1152905469,"~z~Come on, Trevor. Take 'em out.",~z~เอาน่า Trevor จัดการพวกมันซะ
 armsaud:1157160673,~z~Closest I could find to the Midwest.,~z~เท่าที่ฉันจะหาที่ที่ใกล้เคียงกับมิดเวสต์ได้ที่สุดแล้วล่ะ
 armsaud:1158326762,~z~Those bastards are on me.,~z~ไอ้พวกสารเลวนั่นเกาะติดฉันเลย
 armsaud:1166811812,"~z~Radio's saying they got our guns. They're laughing at us, man!",~z~ในวิทยุบอกว่าพวกมันได้ปืนของเราไปแล้ว พวกมันกำลังหัวเราะเยาะเรานะเพื่อน!
 armsaud:1168909103,"~z~I don't think so, fellas.",~z~ฉันไม่คิดว่างั้นนะพวก
-armsaud:1192105926,"~z~Keep that foot down, Trevor.",~z~เหยียบคันเร่งค้างไว้เลยเทรเวอร์
+armsaud:1192105926,"~z~Keep that foot down, Trevor.",~z~เหยียบคันเร่งค้างไว้เลย Trevor
 armsaud:1208854784,"~z~Last one down. That's a wrap, my friend, you can bring it back in.",~z~ชิ้นสุดท้ายลงไปแล้ว จบงานแล้วล่ะเพื่อน เอาเครื่องกลับมาได้เลย
 armsaud:1211321633,~z~That's a lot of bombs wasted.,~z~เสียระเบิดไปเปล่าๆ ตั้งเยอะแยะ
 armsaud:1212428278,~z~Package on board.,~z~พัสดุขึ้นเครื่องเรียบร้อย
-armsaud:1222514127,~z~Trevor Philips Industries global expansion plan right on schedule.,~z~แผนการขยายธุรกิจระดับโลกของเทรเวอร์ฟิลิปส์อินดัสทรีส์เป็นไปตามกำหนดการเป๊ะ
+armsaud:1222514127,~z~Trevor Philips Industries global expansion plan right on schedule.,~z~แผนการขยายธุรกิจระดับโลกของ Trevor ฟิลิปส์อินดัสทรีส์เป็นไปตามกำหนดการเป๊ะ
 armsaud:1243837131,"~z~You make a couple of drops,",~z~นายไปทิ้งของสองสามจุด
 armsaud:1247963503,~z~The drop site is off Algonquin Blvd. on a dirt island.,~z~จุดทิ้งของอยู่นอกถนนแอลกองควินบนเกาะดิน
 armsaud:1301296271,~z~it's fair competition in the market place.,~z~มันเป็นการแข่งขันที่ยุติธรรมในตลาดน่ะ
@@ -250,7 +250,7 @@ armsaud:2251018475,"~z~No, I'm keeping it tranquilo, bro, you know?",~z~ก็�
 armsaud:2251545578,"~z~Gotta get a solid line before you hit that trigger, man.",~z~ต้องเล็งให้ตรงแนวเป๊ะๆ ก่อนจะกดปุ่มปล่อยนะเพื่อน
 armsaud:2256415709,"~z~This is the Wild West, man. It all goes through here now. Drugs come in, guns go out.",~z~นี่มันยุคคาวบอยตะวันตกชัดๆ เลยเพื่อน ทุกอย่างต้องผ่านทางนี้หมด ยาเสพติดเข้ามา อาวุธออกไป
 armsaud:2258640123,~z~And that's a hit. Like dominoes!,~z~และนั่นคือการโดนเป้าหมาย เหมือนโดมิโนเลย!
-armsaud:2284613364,~z~We got a good export story.,~z~เราเปลี่ยนวิกฤตเป็นโอกาส
+armsaud:2284613364,~z~We got a good export story.,~z~เรามีเรื่องราวการส่งออกที่ดี
 armsaud:2286433550,"~z~Instead of a single bomb, you can now drop a chain.",~z~แทนที่จะทิ้งระเบิดลูกเดียว ตอนนี้นายสามารถทิ้งระเบิดแบบปูพรมเป็นชุดได้แล้ว
 armsaud:2292094750,~z~Fore!,~z~ระวัง! (ศัพท์กอล์ฟ)
 armsaud:2311123189,~z~You American?,~z~นายเป็นอเมริกันเหรอ?
@@ -259,22 +259,22 @@ armsaud:2332614605,"~z~Good job, before they even knew you were there.",~z~ท�
 armsaud:2336692393,~z~Do you just sit on that radio all day?,~z~นายวันๆ นั่งเฝ้าหน้าวิทยุอย่างเดียวเลยหรือไง?
 armsaud:2340260771,"~z~Oops, that missed.",~z~อุ๊ปส์ ลูกนั้นพลาดแฮะ
 armsaud:2344088334,"~z~Okay, that one definitely hit.",~z~โอเค ลูกนั้นเข้าเป้าแน่นอน
-armsaud:2344774576,"~z~Trevor Philips, reporting for duty.",~z~เทรเวอร์ฟิลิปส์ มารายงานตัวเพื่อปฏิบัติหน้าที่ครับ
+armsaud:2344774576,"~z~Trevor Philips, reporting for duty.",~z~Trevor ฟิลิปส์ มารายงานตัวเพื่อปฏิบัติหน้าที่ครับ
 armsaud:2366985047,"~z~I see our friends, Oscar.",~z~ฉันเห็นเพื่อนของเราแล้วออสการ์
 armsaud:2379737918,~z~How did I miss everything?,~z~ฉันพลาดทุกอย่างไปได้ยังไงเนี่ย?
 armsaud:2399780224,~z~Got the package.,~z~ได้รับพัสดุแล้ว
 armsaud:2422842556,"~z~Getting talk about the drop site on the radio. I hope this isn't a trap, man.",~z~ได้ยินเสียงพูดเรื่องจุดทิ้งของในวิทยุ ฉันหวังว่านี่คงไม่ใช่กับดักนะเพื่อน
 armsaud:2424766282,~z~On target.,~z~เข้าเป้า
 armsaud:2427236965,~z~Thank you for flying Air Philips. This is your captain speaking.,~z~ขอบคุณที่ใช้บริการแอร์ฟิลิปส์ นี่คือกัปตันของนายกำลังพูดอยู่
-armsaud:2433464845,"~z~No, no, no. You don't mess with Trevor Philips Industries.",~z~ไม่ ไม่ ไม่ นายจะมาแหยมกับเทรเวอร์ฟิลิปส์อินดัสทรีส์ไม่ได้นะ
+armsaud:2433464845,"~z~No, no, no. You don't mess with Trevor Philips Industries.",~z~ไม่ ไม่ ไม่ นายจะมาแหยมกับ Trevor ฟิลิปส์อินดัสทรีส์ไม่ได้นะ
 armsaud:2437117614,"~z~Gotta lay that carpet straight, hermano.",~z~ต้องทิ้งระเบิดปูพรมให้ตรงแถวนะเพื่อน
-armsaud:2440799362,"~z~Shit, you ain't got enough ammo to take out the rest, Trevor.",~z~ให้ตายสิ มึงมีกระสุนไม่พอจัดการที่เหลือแล้วนะเทรเวอร์
+armsaud:2440799362,"~z~Shit, you ain't got enough ammo to take out the rest, Trevor.",~z~ให้ตายสิ มึงมีกระสุนไม่พอจัดการที่เหลือแล้วนะ Trevor
 armsaud:2442635788,~z~Booya!,~z~บูย่า!
 armsaud:2446188522,~z~I think I lost the chopper.,~z~ฉันว่าฉันสลัดเฮลิคอปเตอร์หลุดแล้วนะ
 armsaud:2449932654,"~z~Movement on the scanner, man. Coming your way.",~z~มีพิกัดเคลื่อนไหวบนเครื่องสแกนนะเพื่อน กำลังมุ่งหน้าไปทางนาย
 armsaud:2452748537,~z~A dirt island?,~z~เกาะที่เป็นดินเหรอ?
 armsaud:2463365710,"~z~Drop it down, man. You're too high.",~z~ลดระดับลงมาหน่อยเพื่อน นายอยู่สูงเกินไป
-armsaud:2466847032,"~z~Customers ain't gonna be happy we didn't make all the drops, Trevor.",~z~ลูกค้าคงไม่พอใจแน่ที่เราทิ้งของไม่ครบทุกจุดนะเทรเวอร์
+armsaud:2466847032,"~z~Customers ain't gonna be happy we didn't make all the drops, Trevor.",~z~ลูกค้าคงไม่พอใจแน่ที่เราทิ้งของไม่ครบทุกจุดนะ Trevor
 armsaud:2481835031,"~z~So, I might have delivered the weapons to the wrong place.",~z~คือว่า ฉันอาจจะเอาอาวุธไปส่งผิดที่น่ะ
 armsaud:2484498719,~z~We need to take out all their transport.,~z~เราต้องจัดการยานพาหนะขนส่งของพวกมันให้หมด
 armsaud:2488008744,~z~I got cops after me.,~z~ตำรวจกำลังตามล่าฉันอยู่
@@ -324,7 +324,7 @@ armsaud:2735913291,"~z~See, now we're out of drops. I don't know what my buyers 
 armsaud:2742990373,"~z~Yeah, yeah...",~z~เออๆ...
 armsaud:2752401145,"~z~Damn, I'm good!",~z~ให้ตายสิ กูนี่เก่งจริงๆ!
 armsaud:2756345057,~z~It's cool. Go at 'em twice as hard with the next one.,~z~ไม่เป็นไร คราวหน้าก็จัดหนักใส่พวกมันเป็นสองเท่าเลยละกัน
-armsaud:2758975034,"~z~Nice work, Trevor.",~z~ผลงานดีมากเทรเวอร์
+armsaud:2758975034,"~z~Nice work, Trevor.",~z~ผลงานดีมาก Trevor
 armsaud:2764500491,~z~Just make sure you have several targets lined up beneath the plane before releasing so we don't waste ammo.,~z~แค่ให้แน่ใจว่านายเล็งเป้าหมายไว้หลายๆ จุดข้างล่างเครื่องก่อนจะปล่อยของนะ เราจะได้ไม่เสียกระสุนเปล่า
 armsaud:2776012331,~z~The Aztecas are on the move again.,~z~พวกอัซเทก้าเริ่มเคลื่อนไหวอีกแล้ว
 armsaud:2776249765,~z~Only way we're gonna be able to stop them is with carpet bombs.,~z~ทางเดียวที่เราจะหยุดพวกมันได้คือการทิ้งระเบิดปูพรมเมึงั้นแหละ
@@ -334,9 +334,9 @@ armsaud:2814871452,~z~Guess who.,~z~ทายสิว่าใคร
 armsaud:2826339103,"~z~Okay, fly back to the airfield. You're out of cargo.",~z~โอเค บินกลับมาที่สนามบินได้เลย สินค้าหมดแล้ว
 armsaud:2828908841,~z~You nearly gave me a heart attack.,~z~นายทำฉันเกือบหัวใจวายนะเนี่ย
 armsaud:2832449294,"~z~Son ratas, hermano. They're always multiplying.",~z~พวกมันเหมือนหนูเลยเพื่อน มันแพร่พันธุ์กันได้ตลอดเวลาแหละ
-armsaud:2836718405,"~z~I like you, Trevor, you're just crazy enough.",~z~ฉันชอบนายนนะเทรเวอร์ นายมันบ้าได้ใจดีจริงๆ
+armsaud:2836718405,"~z~I like you, Trevor, you're just crazy enough.",~z~ฉันชอบนายนนะ Trevor นายมันบ้าได้ใจดีจริงๆ
 armsaud:2843299184,"~z~Okay, T, the next drop is over near the hardware store. Head over there before we get any trouble from the Salvadorians.",~z~โอเคที จุดทิ้งของจุดต่อไปอยู่แถวร้านขายอุปกรณ์ช่าง มุ่งหน้าไปที่นั่นก่อนที่เราจะมีปัญหากับพวกซัลวาดอร์นะ
-armsaud:2847106739,"~z~Loud and clear, amigo. If there's one thing Trevor Philips Industries prides itself on,",~z~ชัดเจนครับเพื่อน ถ้ามีสิ่งหนึ่งที่เทรเวอร์ฟิลิปส์อินดัสทรีส์ภาคภูมิใจล่ะก็...
+armsaud:2847106739,"~z~Loud and clear, amigo. If there's one thing Trevor Philips Industries prides itself on,",~z~ชัดเจนครับเพื่อน ถ้ามีสิ่งหนึ่งที่ Trevor ฟิลิปส์อินดัสทรีส์ภาคภูมิใจล่ะก็...
 armsaud:2853486554,~z~Those guns are coming home with us.,~z~อาวุธพวกนั้นจะต้องกลับบ้านไปพร้อมกับเรา
 armsaud:2856157139,~z~Your location looks all wrong.,~z~ตำแหน่งที่อยู่มึงมันดูผิดไปหมดเลยนะ
 armsaud:2857271265,~z~You're going the wrong way.,~z~นายไปผิดทางแล้ว
@@ -345,9 +345,9 @@ armsaud:2866163358,~z~Got all of them.,~z~จัดการได้ครบ�
 armsaud:2885048699,"~z~You used up all the ammo. We can't finish the job, man.",~z~นายใช้กระสุนหมดเกลี้ยงเลย เราทำงานนี้ให้จบไม่ได้นะเพื่อน
 armsaud:2893222945,~z~How stupid are you?,~z~นายมันโง่แค่ไหนกันเนี่ย?
 armsaud:2900123041,"~z~Someone leaked us, man. You might have some people waiting for you.",~z~มีคนปล่อยข่าวเราเพื่อน นายอาจจะมีคนรอต้อนรับอยู่นะ
-armsaud:2903481862,"~z~Can't let them make that deal, Trevor.",~z~จะยอมให้พวกมันทำข้อตกลงนั่นไม่ได้นะเทรเวอร์
+armsaud:2903481862,"~z~Can't let them make that deal, Trevor.",~z~จะยอมให้พวกมันทำข้อตกลงนั่นไม่ได้นะ Trevor
 armsaud:2910177362,"~z~What? Do you ever get the feeling we might be understaffed? Me, you and an antique airplane.",~z~อะไรนะ? นายเคยรู้สึกบ้างไหมว่าเราอาจจะขาดคนน่ะ? มีแค่ฉัน นาย กับเครื่องบินโบราณลำหนึ่ง
-armsaud:2910608659,"~z~Trevor? T? Hey, hey, hey, T, you there?",~z~เทรเวอร์? ที? เฮ้ เฮ้ เฮ้ ที นายอยู่ไหม?
+armsaud:2910608659,"~z~Trevor? T? Hey, hey, hey, T, you there?",~z~Trevor? ที? เฮ้ เฮ้ เฮ้ ที นายอยู่ไหม?
 armsaud:2917149396,"~z~Maybe five years on and off. I pretty much stay north now. Too much competition,",~z~อาจจะสักห้าปีได้มั้ง แบบมาๆ ไปๆ น่ะ ตอนนี้ฉันอยู่ทางเหนือเป็นหลักแล้ว คู่แข่งเยอะเกิน
 armsaud:2925657211,~z~And here come our friends.,~z~และนี่ไงเพื่อนของเรามากันแล้ว
 armsaud:2933654241,~z~I think I lost them.,~z~ฉันว่าฉันสลัดพวกมันหลุดแล้ว
@@ -365,12 +365,12 @@ armsaud:3034936179,"~z~Come on, we don't want to lose that package.",~z~เอ�
 armsaud:3040992798,"~z~Scanner's blowing up, man. Cops are on to you.",~z~เครื่องสแกนแทบระเบิดแล้วเพื่อน ตำรวจกำลังตามล่านายอยู่
 armsaud:3052446989,"~z~Okay, I've got a visual on the poachers.",~z~โอเค ฉันเห็นพวกขโมยแล้ว
 armsaud:3077325094,"~z~Are you okay, man? I thought you'd be back by now?",~z~นายโอเคไหมเพื่อน? ฉันนึกว่านายจะกลับมาป่านนี้แล้วซะอีก?
-armsaud:3077993677,~z~On fire!,~z~ฟอร์มกำลังร้อนแรง!
+armsaud:3077993677,~z~On fire!,~z~ลงเป้า!
 armsaud:3080880076,"~z~The Senora runners are tracking all our planes, so be careful.",~z~พวกนักขนของเซโนร่ากำลังตามรอยเครื่องบินของเราทุกลำ เพราะงั้นระวังตัวด้วย
 armsaud:3092932588,"~z~I've put in the coordinates. You make the drops, you get out of there. Easy.",~z~ฉันป้อนพิกัดลงไปแล้ว นายแค่ไปทิ้งของแล้วก็ออกมาจากที่นั่น ง่ายๆ
 armsaud:3099798987,~z~You can't drop from that height. There's a failsafe on the release mechanism.,~z~นายไม่สามารถทิ้งของที่ความสูงขนาดนั้นได้ มีระบบป้องกันความผิดพลาดติดตั้งอยู่ที่กลไกการปล่อยของ
 armsaud:3100756275,~z~You were right about those cops.,~z~นายพูดถูกเรื่องตำรวจพวกนั้นนะ
-armsaud:3104864652,"~z~I tracked down some more hideouts where those hillbillies got product stashed. I think you know what to do, Trevor.",~z~ฉันตามรอยที่กบดานที่พวกบ้านนอกนั่นซ่อนของไว้ได้เพิ่มแล้ว ฉันว่านายรู้ดีว่าต้องทำยังไงนะเทรเวอร์
+armsaud:3104864652,"~z~I tracked down some more hideouts where those hillbillies got product stashed. I think you know what to do, Trevor.",~z~ฉันตามรอยที่กบดานที่พวกบ้านนอกนั่นซ่อนของไว้ได้เพิ่มแล้ว ฉันว่านายรู้ดีว่าต้องทำยังไงนะ Trevor
 armsaud:3112062711,"~z~We gotta do this soon, or we got trouble.",~z~เราต้องรีบทำตอนนี้เลย ไม่งั้นเราจะมีปัญหาแน่
 armsaud:3112282896,"~z~Hola, Oscar.",~z~สวัสดี ออสการ์
 armsaud:3120121956,~z~The next drop is off Route 13 near some storage barns.,~z~จุดทิ้งของจุดต่อไปอยู่นอกเส้นทางหมายเลข 13 ใกล้ๆ กับพวกโรงเก็บของ
@@ -383,7 +383,7 @@ armsaud:3176454172,"~z~To control the market down there,",~z~ถ้าอยา�
 armsaud:3177237514,"~z~Gotta show them we mean business, T.",~z~ต้องโชว์ให้พวกมันเห็นว่าเราเอาจริงนะที
 armsaud:3181727289,~z~We got another pickup near that old house on the hill.,~z~เรามีของให้ไปรับอีกจุดใกล้ๆ บ้านหลังเก่าบนเขานั่น
 armsaud:3189641815,~z~How can we go wrong?,~z~เราจะพลาดได้ยังไงล่ะ?
-armsaud:3193559571,"~z~Watch your back there, Trevor. Other vehicles coming in.",~z~ระวังหลังด้วยนะเทรเวอร์ มีรถคันอื่นกำลังเข้ามา
+armsaud:3193559571,"~z~Watch your back there, Trevor. Other vehicles coming in.",~z~ระวังหลังด้วยนะ Trevor มีรถคันอื่นกำลังเข้ามา
 armsaud:3200066319,"~z~Whoa, whoa, whoa. So let's get this straight. I bought the hangar, I fly the plane?",~z~โฮ่ โว้ว โว้ว มาตกลงกันให้ชัดๆ ก่อนนะ คือฉันเป็นคนซื้อโรงจอดเครื่องบิน แล้วฉันยังต้องเป็นคนขับเครื่องบินเองอีกเหรอ?
 armsaud:3203767503,~z~We can move product from Liberty City to Mexico City and back in twenty four hours.,~z~เราสามารถขนส่งสินค้าจากลิเบอร์ตี้ซิตี้ไปยังเม็กซิโกซิตี้และกลับมาได้ภายในยี่สิบสี่ชั่วโมง
 armsaud:3204537065,~z~Cargo received.,~z~ได้รับสินค้าแล้ว
@@ -393,10 +393,10 @@ armsaud:3233440832,~z~Music to my ears.,~z~เป็นเสียงที่�
 armsaud:3242979775,~z~And watch out for that hillbilly gang. They're trying to poach everything.,~z~และระวังแก๊งบ้านนอกพวกนั้นด้วย พวกมันพยายามจะแย่งชิงทุกอย่างไป
 armsaud:3248344310,~z~Those bastards didn't even get a look in.,~z~ไอ้พวกสารเลวนั่นไม่มีโอกาสได้แม้แต่จะมองเลยละ
 armsaud:3249198487,~z~Are you bringing that package in? Too many eyes on us right now.,~z~นายกำลังเอาพัสดุชิ้นนั้นมาใช่ไหม? ตอนนี้มีคนจับตาดูเรามากเกินไปแล้ว
-armsaud:3277422285,"~z~Hey Trevor, next drop is happening near the trailer park.",~z~เฮ้เทรเวอร์ จุดทิ้งของจุดต่อไปอยู่แถวๆ ลานจอดรถบ้านเคลื่อนที่นะ
+armsaud:3277422285,"~z~Hey Trevor, next drop is happening near the trailer park.",~z~เฮ้ Trevor จุดทิ้งของจุดต่อไปอยู่แถวๆ ลานจอดรถบ้านเคลื่อนที่นะ
 armsaud:3277734665,"~z~At that altitude, the rig won't let you drop.",~z~ที่ความสูงระดับนั้น เครื่องทิ้งของจะไม่ยอมให้นายปล่อยของหรอกนะ
 armsaud:3280597737,"~z~Muy bien, that's all the drops done. You can come on home now.",~z~ดีมาก ทิ้งของครบทุกจุดแล้ว กลับบ้านได้แล้วตอนนี้
-armsaud:3287579523,"~z~Cops heading right for you. Get out of there, Trevor.",~z~ตำรวจกำลังมุ่งหน้าไปหานาย ออกมาจากที่นั่นซะเทรเวอร์
+armsaud:3287579523,"~z~Cops heading right for you. Get out of there, Trevor.",~z~ตำรวจกำลังมุ่งหน้าไปหานาย ออกมาจากที่นั่นซะ Trevor
 armsaud:3293439483,"~z~Careful, T. I think they're coming for you.",~z~ระวังนะที ฉันว่าพวกมันกำลังมาหานาย
 armsaud:3294585061,~z~Nicely done.,~z~ทำได้สวย
 armsaud:3315103457,"~z~This is our turf, man!",~z~นี่มันถิ่นเรานะเพื่อน!
@@ -428,9 +428,9 @@ armsaud:3458346900,"~z~I say, we hit back now, take out a few of their bases, re
 armsaud:3459641468,"~z~I never relax, but that's good to know.",~z~ฉันไม่เคยผ่อนคลายหรอกนะ แต่ขอบใจที่บอกให้รู้
 armsaud:3481034389,~z~Package delivered.,~z~พัสดุส่งเรียบร้อย
 armsaud:3489789080,~z~Bang! On the money.,~z~ปัง! แม่นเหมือนจับวาง
-armsaud:3509918113,"~z~Roger, Oscar, Trevor.",~z~รับทราบ ออสการ์ เทรเวอร์
+armsaud:3509918113,"~z~Roger, Oscar, Trevor.",~z~รับทราบ ออสการ์ Trevor
 armsaud:3515342673,~z~I lost the helicopter.,~z~ฉันสลัดเฮลิคอปเตอร์หลุดแล้ว
-armsaud:3519052355,"~z~Cops got eyes all over the main roads, Trevor.",~z~ตำรวจเฝ้าอยู่เต็มถนนสายหลักเลยนะเทรเวอร์
+armsaud:3519052355,"~z~Cops got eyes all over the main roads, Trevor.",~z~ตำรวจเฝ้าอยู่เต็มถนนสายหลักเลยนะ Trevor
 armsaud:3520436041,"~z~Shit, shit. Cops all over the radio. You got trouble.",~z~ให้ตายสิ ให้ตายสิ ตำรวจเต็มวิทยุไปหมดเลย มึงมีปัญหาแล้วล่ะ
 armsaud:3542103751,"~z~There's another delivery for us. They're making the drop by a maintenance shed near the train tracks. Sending you the location now, man.",~z~มีการส่งของให้เราอีกชุดนะ พวกนั้นจะทิ้งของตรงเพิงซ่อมบำรุงใกล้ทางรถไฟ กำลังส่งพิกัดให้มึงนะเพื่อน
 armsaud:3557949935,~z~There's another drop coming in near that plateau by the airfield.,~z~มีของอีกจุดกำลังจะมาลงแถวที่ราบสูงใกล้สนามบิน
@@ -452,7 +452,7 @@ armsaud:3660922213,~z~Package delivered.,~z~พัสดุส่งเรีย
 armsaud:3667095122,~z~I got the competition in my sights.,~z~ฉันเห็นพวกคู่แข่งในสายตาแล้ว
 armsaud:3690340219,"~z~They must be getting close, man.",~z~พวกมันต้องอยู่ใกล้ๆ แล้วแน่เลยเพื่อน
 armsaud:3702760351,"~z~Okay, Oscar. Time for Daddy to go to work.",~z~โอเคออสการ์ ได้เวลาคุณพ่อออกไปทำงานแล้ว
-armsaud:3708842541,"~z~This is Trevor, come in.",~z~นี่เทรเวอร์เรียก ตอบด้วย
+armsaud:3708842541,"~z~This is Trevor, come in.",~z~นี่ Trevor เรียก ตอบด้วย
 armsaud:3711002453,~z~Got another pick-up for you near the old dock house.,~z~มีของให้ไปรับอีกจุดแถวๆ บ้านท่าเรือเก่า
 armsaud:3711712864,~z~I got a bad feeling about this. Keep your eyes open.,~z~ฉันสังหรณ์ใจไม่ค่อยดีเกี่ยวกับเรื่องนี้เลย ลืมตาดูให้ดีล่ะ
 armsaud:3713269465,~z~I got it.,~z~ฉันเข้าใจแล้ว
@@ -465,7 +465,7 @@ armsaud:3758455621,~z~You're outta your league!,~z~นายน่ะมัน�
 armsaud:3767219032,"~z~Like I say, any time you wanna speak Spanish, you let me know. You might need it if the El Salvadorians get onto you.",~z~อย่างที่ฉันบอกนะ เมื่อไหร่ก็ตามที่นายอยากพูดภาษาสเปน ก็บอกฉันได้เลย นายอาจจะต้องใช้มันถ้าพวกเอลซัลวาดอร์ตามล่านาย
 armsaud:3771831757,"~z~Good. Listen, man, we got some heat. Cops, Feds, I ain't sure, but they got radar set up, scanners.",~z~ดี ฟังนะเพื่อน เรามีปัญหาแล้วล่ะ ตำรวจ พวกเอฟบีไอ ฉันก็ไม่แน่ใจนัก แต่พวกมันติดตั้งเรดาร์กับเครื่องสแกนไว้เพียบเลย
 armsaud:3782892003,~z~We're expecting another package. You better get to the drop site before any of those other rats sniff it out.,~z~เรากำลังรอพัสดุอีกชิ้นนะ นายควรจะรีบไปที่จุดทิ้งของก่อนที่พวกหนูสกปรกตัวอื่นจะมาได้กลิ่นมันเข้า
-armsaud:3802594828,"~z~That's called efficiency, Trevor.",~z~นั่นแหละที่เขาเรียกว่าประสิทธิภาพนะเทรเวอร์
+armsaud:3802594828,"~z~That's called efficiency, Trevor.",~z~นั่นแหละที่เขาเรียกว่าประสิทธิภาพนะ Trevor
 armsaud:3803056626,"~z~Hey, what's up, man? How you doing?",~z~เฮ้ เป็นไงเพื่อน? สบายดีไหม?
 armsaud:3804982223,~z~I think I can handle that.,~z~ฉันว่าฉันจัดการเรื่องนั้นได้
 armsaud:3808533713,~z~Probably safer to stay off-road. There's a lot of heat around here now.,~z~ไปทางวิบากน่าจะปลอดภัยกว่านะ แถวนี้กำลังมีปัญหาหนักเลยตอนนี้
@@ -482,7 +482,7 @@ armsaud:3870086177,~z~I love this!,~z~ฉันรักงานนี้จั
 armsaud:3876766412,"~z~Mierda, my buyers won't be happy.",~z~ให้ตายสิ คนซื้อของฉันต้องไม่พอใจแน่ๆ
 armsaud:3892728820,"~z~Shit, sorry man. I think the drop got leaked. Watch out for an ambush.",~z~ให้ตายสิ โทษทีเพื่อน กูว่าจุดทิ้งของความลับรั่วซะแล้ว ระวังโดนซุ่มโจมตีด้วยนะ
 armsaud:3897231258,~z~Got another supply train for you. The Aztecas are moving a shipment out to Liberty City today.,~z~มีขบวนรถขนเสบียงมาอีกแล้ว พวกอัซเทก้ากำลังจะขนสินค้าออกไปที่ลิเบอร์ตี้ซิตี้วันนี้
-armsaud:3912019543,"~z~You okay, Trevor? This is taking a long time.",~z~นายโอเคไหมเทรเวอร์? นี่มันเริ่มจะนานเกินไปแล้วนะ
+armsaud:3912019543,"~z~You okay, Trevor? This is taking a long time.",~z~นายโอเคไหม Trevor? นี่มันเริ่มจะนานเกินไปแล้วนะ
 armsaud:3926092680,"~z~Scrambled their radio, man. They got the package!",~z~วิทยุพวกมันโดนรบกวนแล้วเพื่อน พวกมันได้พัสดุไปแล้ว!
 armsaud:3936063867,"~z~You need to be lower to make the drop, man.",~z~นายต้องบินต่ำกว่านี้เพื่อจะทิ้งของนะเพื่อน
 armsaud:3937583815,~z~How many of these fuckers are there? I've never had to work so hard for a monopoly in my life.,~z~ไอ้พวกระยำพวกนี้มันมีเยอะแค่ไหนกันวะ? กูไม่เคยต้องทำงานหนักขนาดนี้เพื่อผูกขาดตลาดมาก่อนเลยในชีวิต
@@ -505,7 +505,7 @@ armsaud:4063102096,~z~That should slow down their operation.,~z~นั่นน�
 armsaud:4064289820,"~z~I think that's the last of the cargo, so head back to the airfield.",~z~ฉันว่านั่นคือสินค้าชิ้นสุดท้ายแล้วล่ะ บินกลับไปที่สนามบินได้เลย
 armsaud:4064788621,~z~In and out. Fast and clean. Come on.,~z~เข้าแล้วออกให้ไว รวดเร็วและใสสะอาด เอาน่า
 armsaud:4072639884,~z~Gracias a Dios.,~z~ขอบคุณพระเจ้า
-armsaud:4073899734,"~z~I got some intel on new bases the US runners are using. Maybe you should drop in on them, Trevor?",~z~ฉันมีข้อมูลลับเกี่ยวกับฐานทัพใหม่ที่พวกนักขนของชาวอเมริกันใช้ บางทีนายน่าจะแวะไปเยี่ยมพวกมันหน่อยนะเทรเวอร์?
+armsaud:4073899734,"~z~I got some intel on new bases the US runners are using. Maybe you should drop in on them, Trevor?",~z~ฉันมีข้อมูลลับเกี่ยวกับฐานทัพใหม่ที่พวกนักขนของชาวอเมริกันใช้ บางทีนายน่าจะแวะไปเยี่ยมพวกมันหน่อยนะ Trevor?
 armsaud:4075758158,~z~I got information on more locations where the Aztecas have set up.,~z~กูมีข้อมูลเกี่ยวกับสถานที่อื่นๆ ที่พวกอัซเทก้าตั้งฐานไว้เพิ่ม
 armsaud:4082578893,~z~I learned everything I know from some lovely ladies just south of the border.,~z~ฉันเรียนรู้ทุกอย่างที่ฉันรู้มาจากสาวสวยบางคนที่อยู่ทางใต้ของพรมแดนน่ะ
 armsaud:4085288273,~z~What? I will fucking destroy them!,~z~อะไรนะ? กูจะขยี้พวกมันให้แหลกเลย!

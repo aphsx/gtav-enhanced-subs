@@ -1,55 +1,55 @@
 ﻿id,en,th
-h4heist:84316865,~INPUT_SCRIPT_RDOWN~ Pick up a container.~s~,~INPUT_SCRIPT_RDOWN~ รับคอนเทนเนอร์~s~
-h4heist:168008829,~s~Return to your ~b~buddies.~s~,~s~กลับไปที่ ~b~เพื่อนของคุณ~s~
+h4heist:84316865,~INPUT_SCRIPT_RDOWN~ Pick up a container.~s~,~INPUT_SCRIPT_RDOWN~รับคอนเทนเนอร์~s~
+h4heist:168008829,~s~Return to your ~b~buddies.~s~,~s~กลับไปที่~b~เพื่อนของคุณ~s~
 h4heist:211708593,~s~The cops were led to the car.~s~,~s~ตำรวจถูกนำไปที่รถ~s~
 h4heist:231268348,~s~SWITCH to Trevor.~s~,~s~เปลี่ยนเป็น เทรเวอร์~s~
 h4heist:254462051,~s~Molly's car was destroyed.~s~,~s~รถของมอลลี่ถูกทำลาย~s~
 h4heist:476085596,~s~The transporter was destroyed.~s~,~s~รถขนย้ายถูกทำลาย~s~
-h4heist:613561524,~s~Return to ~b~Lamar~s~ and ~b~Trevor.~s~,~s~กลับไปที่ ~b~ลามาร์~s~และ ~b~เทรเวอร์~s~
+h4heist:613561524,~s~Return to ~b~Lamar~s~ and ~b~Trevor.~s~,~s~กลับไปที่~b~ลามาร์~s~และ~b~เทรเวอร์~s~
 h4heist:647038413,~s~The trailer fell off the truck.~s~,~s~เทรเลอร์หล่นลงจากรถบรรทุก~s~
 h4heist:912387049,~s~The cars were destroyed.~s~,~s~รถยนต์ถูกทำลาย~s~
 h4heist:914351589,~s~Molly was scared off.~s~,~s~มอลลี่ตกใจกลัว~s~
-h4heist:916664472,~s~Get into one of the ~b~cars.~s~,~s~เข้าไปหนึ่งใน ~b~รถ~s~ พวกนั้น
-h4heist:943640993,~s~Return to ~b~Lamar.~s~,~s~กลับไปที่ ~b~ลามาร์~s~
-h4heist:1014811111,~s~Keep the truck steady for ~b~Franklin.,~s~คอยให้รถบรรทุกมั่นคงสำหรับ ~b~แฟรงคลิน
+h4heist:916664472,~s~Get into one of the ~b~cars.~s~,~s~เข้าไปหนึ่งใน~b~รถ~s~พวกนั้น
+h4heist:943640993,~s~Return to ~b~Lamar.~s~,~s~กลับไปที่~b~ลามาร์~s~
+h4heist:1014811111,~s~Keep the truck steady for ~b~Franklin.,~s~คอยให้รถบรรทุกมั่นคงสำหรับ~b~แฟรงคลิน
 h4heist:1174913576,~s~The car got stuck.~s~,~s~รถติดขัด~s~
-h4heist:1280495899,~s~Go to the ~y~drop-off point.~s~,~s~ไปที่ ~y~จุดส่งของ~s~
-h4heist:1349405171,~s~Press ~INPUT_VEH_ATTACK~ to fire the mounted guns.~n~Press ~INPUT_SCRIPT_LS~ to drop spikes.~s~,~s~กด ~INPUT_VEH_ATTACK~ เพื่อยิงปืนที่ติดตั้ง ~n~กด ~INPUT_SCRIPT_LS~ เพื่อวางหนามแทงล้อ~s~
+h4heist:1280495899,~s~Go to the ~y~drop-off point.~s~,~s~ไปที่~y~จุดส่งของ~s~
+h4heist:1349405171,~s~Press ~INPUT_VEH_ATTACK~ to fire the mounted guns.~n~Press ~INPUT_SCRIPT_LS~ to drop spikes.~s~,~s~กด~INPUT_VEH_ATTACK~เพื่อยิงปืนที่ติดตั้ง~n~กด~INPUT_SCRIPT_LS~เพื่อวางหนามแทงล้อ~s~
 h4heist:1467085998,~s~Drive off the truck.,~s~ขับรถบบรทุกออกไป
-h4heist:1477826298,~s~Return to ~b~Franklin.~s~,~s~กลับไปที่ ~b~แฟรงคลิน~s~
-h4heist:1515367425,~s~Get into the ~b~car.~s~,~s~เข้าไปใน ~b~รถ~s~
-h4heist:1574221262,~s~Defend the ~b~truck ~s~from the Cops.,~s~ปกป้อง ~b~รถบรรทุก ~s~จากตำรวจ
+h4heist:1477826298,~s~Return to ~b~Franklin.~s~,~s~กลับไปที่~b~แฟรงคลิน~s~
+h4heist:1515367425,~s~Get into the ~b~car.~s~,~s~เข้าไปใน~b~รถ~s~
+h4heist:1574221262,~s~Defend the ~b~truck ~s~from the Cops.,~s~ปกป้อง~b~รถบรรทุก~s~จากตำรวจ
 h4heist:1685683246,~s~The trailer was abandoned.~s~,~s~เทรเลอร์ถูกละทิ้ง~s~
-h4heist:1708843496,~s~Hold ~INPUT_VEH_HORN~ to drop spikes.,~s~กดค้าง ~INPUT_VEH_HORN~ เพื่อวางหนาม
-h4heist:1766660102,~s~Collect the ~b~car.~s~,~s~รวบรวม ~b~รถ~s~
+h4heist:1708843496,~s~Hold ~INPUT_VEH_HORN~ to drop spikes.,~s~กดค้าง~INPUT_VEH_HORN~เพื่อวางหนาม
+h4heist:1766660102,~s~Collect the ~b~car.~s~,~s~รวบรวม~b~รถ~s~
 h4heist:1789387768,~s~Trevor and Lamar were abandoned.~s~,~s~เทรเวอร์และ ลามาร์ถูกละทิ้ง~s~
-h4heist:1814503062,~s~Get into the ~b~truck.~s~,~s~เข้าไปใน ~b~รถบรรทุก~s~
-h4heist:1922614170,~INPUTGROUP_MOVE~ Move crane.~n~~INPUT_SCRIPT_RIGHT_AXIS_Y~ Move spreader.~n~~INPUT_SCRIPT_RDOWN~ Pick up and release containers.~n~~INPUT_NEXT_CAMERA~ Change view.~s~,~INPUTGROUP_MOVE~ เคลื่อนย้ายเครน~n~~INPUT_SCRIPT_RIGHT_AXIS_Y~ เคลื่อนย้ายที่คีบตู้คอนเทนเนอร์~n~~INPUT_SCRIPT_RDOWN~ ยกและวางตู้คอนเทนเนอร์~n~~INPUT_NEXT_CAMERA~ เปลี่ยนมุมมอง~s~
-h4heist:2190635702,~s~Get back into the ~b~car.~s~,~s~กลับเข้าไปใน ~b~รถ~s~
+h4heist:1814503062,~s~Get into the ~b~truck.~s~,~s~เข้าไปใน~b~รถบรรทุก~s~
+h4heist:1922614170,~INPUTGROUP_MOVE~ Move crane.~n~~INPUT_SCRIPT_RIGHT_AXIS_Y~ Move spreader.~n~~INPUT_SCRIPT_RDOWN~ Pick up and release containers.~n~~INPUT_NEXT_CAMERA~ Change view.~s~,~INPUTGROUP_MOVE~เคลื่อนย้ายเครน~n~~INPUT_SCRIPT_RIGHT_AXIS_Y~เคลื่อนย้ายที่คีบตู้คอนเทนเนอร์~n~~INPUT_SCRIPT_RDOWN~ยกและวางตู้คอนเทนเนอร์~n~~INPUT_NEXT_CAMERA~เปลี่ยนมุมมอง~s~
+h4heist:2190635702,~s~Get back into the ~b~car.~s~,~s~กลับเข้าไปใน~b~รถ~s~
 h4heist:2210451552,~s~Franklin and Lamar were abandoned.~s~,~s~แฟรงคลินและลามาร์ถูกละทิ้ง~s~
 h4heist:2229708009,~s~Lamar died.~s~,~s~ลามาร์ตายแล้ว~s~
-h4heist:2318957844,~s~Take the car to the ~b~garage.~s~,~s~นำรถไปที่ ~b~โรงรถ~s~
+h4heist:2318957844,~s~Take the car to the ~b~garage.~s~,~s~นำรถไปที่~b~โรงรถ~s~
 h4heist:2415713465,~s~The trailer got stuck.~s~,~s~รถพ่วงติดขัด~s~
-h4heist:2429532911,~INPUTGROUP_MOVE~ Move crane.~n~~INPUT_SCRIPT_RIGHT_AXIS_Y~ Move spreader.~n~~INPUT_NEXT_CAMERA~ Change view.~s~,~INPUTGROUP_MOVE~ เคลื่อนย้ายเครน~n~~INPUT_SCRIPT_RIGHT_AXIS_Y~ เคลื่อนย้ายที่คีบตู้คอนเทนเนอร์~n~~INPUT_NEXT_CAMERA~ เปลี่ยนมุมมอง~s~
-h4heist:2475652802,~s~Attach the truck to the ~b~trailer.~s~,~s~ติดรถบรรทุกกับ ~b~เทรเลอร์~s~
+h4heist:2429532911,~INPUTGROUP_MOVE~ Move crane.~n~~INPUT_SCRIPT_RIGHT_AXIS_Y~ Move spreader.~n~~INPUT_NEXT_CAMERA~ Change view.~s~,~INPUTGROUP_MOVE~เคลื่อนย้ายเครน~n~~INPUT_SCRIPT_RIGHT_AXIS_Y~เคลื่อนย้ายที่คีบตู้คอนเทนเนอร์~n~~INPUT_NEXT_CAMERA~เปลี่ยนมุมมอง~s~
+h4heist:2475652802,~s~Attach the truck to the ~b~trailer.~s~,~s~ติดรถบรรทุกกับ~b~เทรเลอร์~s~
 h4heist:2572437197,~s~One of the cars was destroyed.~s~,~s~หนึ่งในรถยนต์ถูกทำลาย~s~
 h4heist:2653190658,~s~The car was abandoned.~s~,~s~รถถูกละทิ้ง~s~
 h4heist:2714011662,~s~SWITCH to Franklin.~s~,~s~เปลี่ยนเป็น แฟรงคลิน~s~
 h4heist:2986549389,~s~The truck got stuck.~s~,~s~รถบรรทุกติดขัด~s~
-h4heist:3113321031,~s~Press ~INPUT_VEH_CIN_CAM~ to toggle cinematic camera.,~s~กด ~INPUT_VEH_CIN_CAM~ เพื่อสลับเป็นมุมมองภาพยนตร์
-h4heist:3197074141,~s~Go to the ~y~gas station.~s~,~s~ไปที่ ~y~ปั๊มน้ำมัน~s~
-h4heist:3323151139,~s~Press ~INPUT_VEH_AIM~ to fire the mounted guns.~n~Press ~INPUT_SCRIPT_LS~ to drop spikes.~s~,~s~กด ~INPUT_VEH_AIM~ เพื่อยิงปืนที่ติดตั้ง ~n~กด ~INPUT_SCRIPT_LS~ เพื่อวางหนามแทงล้อ~s~
+h4heist:3113321031,~s~Press ~INPUT_VEH_CIN_CAM~ to toggle cinematic camera.,~s~กด~INPUT_VEH_CIN_CAM~เพื่อสลับเป็นมุมมองภาพยนตร์
+h4heist:3197074141,~s~Go to the ~y~gas station.~s~,~s~ไปที่~y~ปั๊มน้ำมัน~s~
+h4heist:3323151139,~s~Press ~INPUT_VEH_AIM~ to fire the mounted guns.~n~Press ~INPUT_SCRIPT_LS~ to drop spikes.~s~,~s~กด~INPUT_VEH_AIM~เพื่อยิงปืนที่ติดตั้ง~n~กด~INPUT_SCRIPT_LS~เพื่อวางหนามแทงล้อ~s~
 h4heist:3394019599,~s~Molly died.~s~,~s~มอลลี่ตายแล้ว~s~
 h4heist:3455401507,~s~Franklin fell off the truck.~s~,~s~แฟรงคลินตกจากรถบรรทุก~s~
-h4heist:3602826288,~s~Climb into the ~b~JB 700.~s~,~s~ปีนเข้าไปหา ~b~JB 700~s~
+h4heist:3602826288,~s~Climb into the ~b~JB 700.~s~,~s~ปีนเข้าไปหา~b~JB 700~s~
 h4heist:3645477539,~s~Molly was abandoned.~s~,~s~มอลลี่ถูกละทิ้ง~s~
-h4heist:3665981091,~s~Meet with ~b~Molly.~s~,~s~พบกับ ~b~มอลลี่~s~
+h4heist:3665981091,~s~Meet with ~b~Molly.~s~,~s~พบกับ~b~มอลลี่~s~
 h4heist:3671066389,~s~The cops were led to the drop-off point.~s~,~s~ตำรวจถูกนำไปสู่จุดส่งของ~s~
-h4heist:3750364711,~s~Press ~INPUT_ENTER~ to get into the car.,~s~กด ~INPUT_ENTER~ เพื่อเข้าไปในรถ
-h4heist:3757780397,~s~Get back into the ~b~truck.~s~,~s~กลับเข้าไปใน ~b~รถบรรทุก~s~
+h4heist:3750364711,~s~Press ~INPUT_ENTER~ to get into the car.,~s~กด~INPUT_ENTER~เพื่อเข้าไปในรถ
+h4heist:3757780397,~s~Get back into the ~b~truck.~s~,~s~กลับเข้าไปใน~b~รถบรรทุก~s~
 h4heist:3907822414,~s~The Cops were led to the truck.~s~,~s~ตำรวจถูกพาไปที่รถบรรทุก~s~
 h4heist:3960398908,~s~Lamar was abandoned.~s~,~s~ลามาร์ถูกละทิ้ง~s~
 h4heist:4049696165,~s~Some of the cars were destroyed.~s~,~s~รถบางคันถูกทำลาย~s~
-h4heist:4121817541,~s~Follow the ~b~truck ~s~to the docks.,~s~ติดตาม ~b~รถบรรทุก~s~ ไปที่ท่าเรือ
-h4heist:4125010999,~s~Follow the ~b~truck ~s~to the drop-off point.,~s~ติดตาม ~b~รถบรรทุก~s~ถึงจุดส่งของ
-h4heist:4141832523,~s~Return to ~b~Lamar~s~ and ~b~Franklin.~s~,~s~กลับไปที่ ~b~ลามาร์~s~ และ ~b~แฟรงคลิน~s~
+h4heist:4121817541,~s~Follow the ~b~truck ~s~to the docks.,~s~ติดตาม~b~รถบรรทุก~s~ไปที่ท่าเรือ
+h4heist:4125010999,~s~Follow the ~b~truck ~s~to the drop-off point.,~s~ติดตาม~b~รถบรรทุก~s~ถึงจุดส่งของ
+h4heist:4141832523,~s~Return to ~b~Lamar~s~ and ~b~Franklin.~s~,~s~กลับไปที่~b~ลามาร์~s~และ~b~แฟรงคลิน~s~

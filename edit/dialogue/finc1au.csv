@@ -1,6 +1,6 @@
 ﻿id,en,th
 finc1au:1447837,~z~Watch out! Another FIB team on the way!,~z~ระวัง! ทีมเอฟไอบีอีกทีมกำลังมา!
-finc1au:1772174,~z~I got to stay out here with Lamar. Can you get to him?,~z~ผมต้องอยู่ที่นี่ช่วยลามาร์ คุณไปหาเขาได้ไหม?
+finc1au:1772174,~z~I got to stay out here with Lamar. Can you get to him?,~z~ผมต้องอยู่ที่นี่ช่วย Lamar คุณไปหาเขาได้ไหม?
 finc1au:6306775,"~z~Hey, man, what the fuck am I doin' risking my ass tryin' to save y'all ass",~z~เฮ้เพื่อน งั้นผมจะเอาคอขึ้นเขียงเพื่อช่วยพวกคุณทำไม
 finc1au:7117978,"~z~And when I find Mr. Weston, I'll send the coordinates.",~z~เมื่อฉันเจอเวสตันแล้ว ฉันจะส่งพิกัดไปให้
 finc1au:8046932,"~z~We got one shot at this, guys.",~z~เรามีโอกาสแค่ครั้งเดียวนะทุกคน
@@ -17,7 +17,7 @@ finc1au:45488696,"~z~There something a street nigga might be able to do to help 
 finc1au:46458850,~z~Fuck it!,~z~ไอ้หอกเอ๊ย!
 finc1au:56137410,~z~Here we go!,~z~เอาล่ะ เริ่มเลย!
 finc1au:56827136,~z~It's gotta end somehow!,~z~มันต้องจบลงสักทางนั่นแหละ!
-finc1au:57876570,~z~then kill Trevor.,~z~แล้วค่อยฆ่าเทรเวอร์
+finc1au:57876570,~z~then kill Trevor.,~z~แล้วค่อยฆ่า Trevor
 finc1au:66753077,"~z~Man, imagine the fuckin' scenario that will fuck things up the worst.",~z~นึกภาพวันโลกาวินาศที่มันพินาศยิ่งกว่าดูสิ
 finc1au:67443146,"~z~Homies is homies, nigga.",~z~เพื่อนก็คือเพื่อนนะเพื่อน
 finc1au:68545063,~z~That might just be it - let's regroup outside that big yellow door.,~z~น่าจะเรียบร้อยแล้วล่ะ - ไปรวมตัวกันที่หน้าประตูสีเหลืองบานใหญ่นั่นเถอะ
@@ -29,9 +29,9 @@ finc1au:88442596,"~z~Keep your problems the fuck out of America, huh?",~z~เอ
 finc1au:90415023,~z~I thought someone might have your phone.,~z~ฉันนึกว่าใครเก็บโทรศัพท์นายได้
 finc1au:97152781,"~z~Chill, dog. You gotta wait.",~z~เย็นก่อนเพื่อน ต้องรอก่อน
 finc1au:98392167,~t~Why are you here?,~t~นายมาทำอะไรที่นี่?
-finc1au:109671351,"~z~Talk to me, Trevor.",~z~คุยกับฉันหน่อยเทรเวอร์
+finc1au:109671351,"~z~Talk to me, Trevor.",~z~คุยกับฉันหน่อย Trevor
 finc1au:113615396,"~z~And, uh, Wei Cheng, W-E-I-C-H-E-N-G,",~z~แล้วก็ เอ่อ เวยเฉิง W-E-I-C-H-E-N-G
-finc1au:118455859,~z~That's Trevor Philips - I need a team down here now!,~z~นั่นเทรเวอร์ฟิลิปส์ - ฉันต้องการทีมช่วยเหลือที่นี่เดี๋ยวนี้!
+finc1au:118455859,~z~That's Trevor Philips - I need a team down here now!,~z~นั่น Trevor ฟิลิปส์ - ฉันต้องการทีมช่วยเหลือที่นี่เดี๋ยวนี้!
 finc1au:125569490,~z~You see this Merryweather chopper?,~z~นายเห็นเฮลิคอปเตอร์เมอร์รีเวทเธอร์นี่ไหม?
 finc1au:127293949,"~z~Eh, thanks, homie!",~z~เอ้อ ขอบใจนะเพื่อน!
 finc1au:131578916,"~z~SOS, nigga. SOS!",~z~SOS โว้ย SOS!
@@ -56,7 +56,7 @@ finc1au:196742018,~z~Devin Weston? That punk bitch? Why didn't you say we was cr
 finc1au:198807840,~z~Any way man...,~z~ยังไงก็เถอะเพื่อน...
 finc1au:199429072,"~z~We ain't creeping on him, nigga. Least I don't think he goin' be there.",~z~เราไม่ได้จะเก็บเขา เพื่อน กูคิดว่าเขาคงไม่โผล่ไปที่นั่นหรอก
 finc1au:201457912,~z~I was in an emotional state.,~z~ตอนนั้นอารมณ์ฉันกำลังพุ่งพล่าน
-finc1au:208833693,~z~Steve Haines.,~z~สตีฟ เฮนส์
+finc1au:208833693,~z~Steve Haines.,~z~Steve Hainesส์
 finc1au:234811580,~z~I'm goin' move as soon as I got an opening!,~z~ฉันจะขยับทันทีที่มีช่องว่าง!
 finc1au:246585651,~t~He killed Tao!,~t~มันฆ่าเถา!
 finc1au:254458012,"~z~I need a chopper here, right now! Tell Don Percival to fuck himself.",~z~กูต้องการเฮลิคอปเตอร์ที่นี่ เดี๋ยวนี้! บอกดอนเพอร์ซิวาลไปลงนรกซะ
@@ -70,15 +70,15 @@ finc1au:299961095,~z~You better bail out of here.,~z~นายน่าจะร
 finc1au:302827768,~z~This is kind of intense.,~z~เรื่องนี้ชักจะตึงเครียดขึ้นมาแล้วสิ
 finc1au:303049868,~z~Damn...,~z~ให้ตายสิ...
 finc1au:310948089,"~z~The old man's here, he's leaving the beach club, I'll do it now.",~z~ตาแก่นั่นอยู่ที่นี่ เขากำลังจะออกจากเดอะบีชคลับ ผมจะจัดการเดี๋ยวนี้
-finc1au:314513326,"~z~That's Trevor Philips, you idiots!",~z~นั่นเทรเวอร์ฟิลิปส์นะไอ้พวกโง่!
+finc1au:314513326,"~z~That's Trevor Philips, you idiots!",~z~นั่น Trevor ฟิลิปส์นะไอ้พวกโง่!
 finc1au:315510104,~z~What the fuck do you think?,~z~คิดว่าไงล่ะ?
 finc1au:318874532,~z~Number one is outsourcing.,~z~อย่างแรกก็คือจ้างคนนอก
 finc1au:320682786,"~z~No, no, but look, I got you on speakerphone.",~z~ไม่ ไม่ ฟังนะ ผมจะคุยเปิดลำโพง
 finc1au:330245047,"~z~But we know your opinions on the matter, Devin.",~z~แต่เรารู้ดีว่าแกจะคิดยังไง เดวิน
 finc1au:335757112,~z~What? Do I have a choice?,~z~อะไร? ฉันเลือกได้เหรอ?
 finc1au:346528751,~z~We wanna throw him in?,~z~จะรวมเขาด้วยเหรอ?
-finc1au:346734945,"~z~But I-I I'm sorry,",~z~แต่ฉัน-ฉันเสียใจ
-finc1au:350100508,"~z~Hey, Lamar. It's me, homie.",~z~เฮ้ ลามาร์ กูเองเพื่อน
+finc1au:346734945,"~z~But I-I I'm sorry,",~z~แต่ผม-ฉันเสียใจ
+finc1au:350100508,"~z~Hey, Lamar. It's me, homie.",~z~เฮ้ Lamar กูเองเพื่อน
 finc1au:352959884,"~z~Alright, alright. Ah!",~z~เอาล่ะ อ๊าก!
 finc1au:354821801,"~z~In this instance,",~z~ในกรณีนี้
 finc1au:365605893,"~z~You know, that old, that uh...",~z~คุณก็รู้ ไอ้แกที่เอ่อ...
@@ -100,7 +100,7 @@ finc1au:423696314,"~z~Eh, that could be all of 'em - let's regroup by that big l
 finc1au:423734621,~z~One of those badass looking Merryweather choppers!,~z~หนึ่งในเฮลิคอปเตอร์เมอร์รีเวทเธอร์ที่ดูดุดันนั่นไง!
 finc1au:428902293,~z~Another Merryweather team - coming in right next to me!,~z~ทีมเมอร์รีเวทเธอร์อีกทีม - กำลังเข้ามาใกล้ๆ ฉันเลย!
 finc1au:438577152,~z~Dave Norton.,~z~เดฟ นอร์ตัน
-finc1au:438652350,"~z~kill Michael,",~z~ฆ่าไมเคิล
+finc1au:438652350,"~z~kill Michael,",~z~ฆ่า Michael
 finc1au:441231161,~z~So nobody fucks with us afterwards.,~z~จะได้ไม่มีใครมาเล่นงานเราอีกจากนี้
 finc1au:448107468,~z~I don't like the sound of that - hold there.,~z~ฟังดูไม่ค่อยดีเลย - อยู่ตรงนั้นแหละ
 finc1au:457755933,~z~So...,~z~เพราะงั้น...
@@ -109,7 +109,7 @@ finc1au:465950856,"~z~Yeah, I'm here.",~z~ใช่ ยังอยู่ดี
 finc1au:493262098,~z~Where's the gold? I don't see it!,~z~ทองอยู่ไหน? ฉันไม่เห็นเลย!
 finc1au:494031346,~z~More of them!,~z~พวกมันมากันอีก!
 finc1au:497671433,"~z~Harold ""Stretch"" Joseph still outstanding. I'm taking care of him.","~z~ฮาโรลด์ ""สเตรทช์"" โจเซฟ ยังอยู่ ฉันกำลังไปจัดการมัน"
-finc1au:498559058,~z~Franklin?,~z~แฟรงคลินล่ะ?
+finc1au:498559058,~z~Franklin?,~z~Franklin ล่ะ?
 finc1au:503213694,"~z~Okay, well. I can tell you that Agent Haines is taping his show over on Del Perro Pier.",~z~โอเค เอาล่ะ ที่ฉันบอกได้คือเจ้าหน้าที่เฮนส์กำลังถ่ายรายการตัวเองอยู่ที่เดล เพอร์โร่ เพียร์
 finc1au:505232127,"~z~But the way I see it,",~z~แต่ว่าจากที่ฉันเห็น
 finc1au:507272061,"~z~Ah! I got a signal from Mr. Harold Joseph's phone,",~z~อ้า! ฉันเจอสัญญาณจากมือถือนายฮาโรลด์ โจเซฟ แล้ว
@@ -119,7 +119,7 @@ finc1au:517201654,~z~We still got to do Stretch and Agent Haines.,~z~เรา�
 finc1au:520176729,~t~Assassin! Get us out!,~t~นักฆ่า! พาเราออกไป!
 finc1au:527314732,"~z~Hey, man. The way I see it,",~z~เฮ้เพื่อน จากที่ผมเห็นนะ
 finc1au:540815244,"~z~I'll tell you one thing, T.",~z~จะบอกอะไรอย่างนึงนะที
-finc1au:543995447,"~z~I got a message from your homies, Lamar and Franklin.",~z~กูมีข้อความจากเพื่อนของแก ลามาร์ กับ แฟรงคลิน
+finc1au:543995447,"~z~I got a message from your homies, Lamar and Franklin.",~z~กูมีข้อความจากเพื่อนของแก Lamar กับ Franklin
 finc1au:546232399,~z~As friends.,~z~แบบเพื่อน
 finc1au:549901133,"~z~That's hood, my nigga. Thank you.",~z~นั่นแหละสไตล์สลัมเลยเพื่อน ขอบใจนะ
 finc1au:553209488,~z~That is not meant to be here!,~z~นั่นมันไม่ควรจะมาอยู่ตรงนี้!
@@ -128,7 +128,7 @@ finc1au:559777654,"~z~I tried burning my friends, and it didn't work out so good
 finc1au:561364056,"~z~Fuck man, you know how it is, homie.",~z~ให้ตายสิเพื่อน มึงก็รู้ว่าเป็นยังไง
 finc1au:585536916,~z~All I've ever wanted is to watch you drift in and out of consciousness as you're slowly disembowled.,~z~ทั้งหมดที่ฉันต้องการ ก็คือมองดูวิญญาณดวงน้อยๆ ของแก ลอยละลิ่วออกจากตัวของแก
 finc1au:592154897,~z~Have we heard from the foundry team?,~z~มีข่าวจากทีมโรงหล่อบ้างไหม?
-finc1au:596307539,~z~Lamar Davis. Disrespectful ass motherfucker's trying to break the order of things.,~z~ลามาร์ เดวิส ไอ้เนรมึงนั่นมันแหกคำสั่งกู
+finc1au:596307539,~z~Lamar Davis. Disrespectful ass motherfucker's trying to break the order of things.,~z~Lamar เดวิส ไอ้เนรมึงนั่นมันแหกคำสั่งกู
 finc1au:597229615,~z~Hey! Lemme out!,~z~นี่! ปล่อยฉันออกไป!
 finc1au:598421389,~z~Pipe down.,~z~เงียบซะ
 finc1au:604745564,~z~Lame punks.,~z~ไอ้พวกสวะไม่ได้เรื่อง
@@ -138,8 +138,8 @@ finc1au:623421618,"~z~I heard something over here, checking it out.",~z~ฉั�
 finc1au:624999525,~z~What's next? Huh?,~z~เอาไงต่อล่ะ? ว่าไง?
 finc1au:628758254,"~z~You know, you're a, you're a resourceful guy, getting past those trained killers. I need someone like you in my organization.","~z~รู้ไหม นายเป็น นายเป็นคนฉลาด, จัดการไอ้พวกนักฆ่าฝีมือดีได้หมดเลย ฉันต้องการคนแบบนายในองค์กรของฉัน"
 finc1au:637133019,~z~You're alive!,~z~นายยังไม่ตาย!
-finc1au:638904998,"~z~Look, man. Michael and Trevor, they should be inside. Can you stay out here and let us know when the bad dudes is coming?",~z~ฟังนะเพื่อน ไมเคิลกับเทรเวอร์น่าจะอยู่ข้างใน นายช่วยอยู่ข้างนอกแล้วบอกให้เรารู้ถ้าพวกมันมาแล้วได้ไหม?
-finc1au:653940324,"~z~Steve Haines,",~z~สตีฟ เฮนส์
+finc1au:638904998,"~z~Look, man. Michael and Trevor, they should be inside. Can you stay out here and let us know when the bad dudes is coming?",~z~ฟังนะเพื่อน Michael กับ Trevor น่าจะอยู่ข้างใน นายช่วยอยู่ข้างนอกแล้วบอกให้เรารู้ถ้าพวกมันมาแล้วได้ไหม?
+finc1au:653940324,"~z~Steve Haines,",~z~Steve Hainesส์
 finc1au:655315612,~z~Roll on this bitch!,~z~ลุยกับนังตัวดีนี่เลย!
 finc1au:659015676,~z~You just start running and shit.,~z~มึงก็แค่ออกตัววิ่งไปเลย
 finc1au:662160125,~z~the rich white asshole who scammed us on them cars...,~z~ไอ้หอกคนรวยที่หลอกให้เราขโมยรถให้...
@@ -159,7 +159,7 @@ finc1au:729904647,~z~Shotgun! Woo!,~z~ยิงใส้แตก! วู้!
 finc1au:743948844,"~z~Here we are, Slick, with a few minutes for some one on one time.",~z~เราถึงแล้วไอ้เกลอ มีเวลาให้ได้จู๋จี้กันแล้ว
 finc1au:749393946,~z~there's two great evils that bedevil American capitalism,~z~มันมีความเลวอยู่สองแบบที่ทำลายทุนนิยมอเมริกา
 finc1au:753584361,~z~I'm getting too old for this nonsense.,~z~ฉันแก่ไปกับเรื่องไร้สาระนี่แล้ว
-finc1au:753912311,"~z~That's Trevor Philips, you idiots! Get me an evac team!",~z~นั่นเทรเวอร์ฟิลิปส์นะไอ้พวกโง่! ส่งทีมพาฉันออกไปเดี๋ยวนี้!
+finc1au:753912311,"~z~That's Trevor Philips, you idiots! Get me an evac team!",~z~นั่น Trevor ฟิลิปส์นะไอ้พวกโง่! ส่งทีมพาฉันออกไปเดี๋ยวนี้!
 finc1au:760995253,"~z~Shit, nigga, you play big, you stand to lose...",~z~ให้ตายสิ งานใหญ่ก็ต้องกล้าได้กล้าเสีย...
 finc1au:763510429,"~z~Yeah, hey, uhhh... Good to meet you.",~z~ใช่ เฮ้ เอ่อ... ยินดีที่ได้รู้จักนะ
 finc1au:766364587,"~z~Ain't anybody getting turned again, and you know it.",~z~จะไม่มีใครเปลี่ยนฝั่งเปลี่ยนสีอีกทั้งนั้น นายก็เห็นแล้ว
@@ -173,7 +173,7 @@ finc1au:794121573,~z~You want me to bring 'em down?,~z~นายอยากใ�
 finc1au:798085947,~z~Taking him out!,~z~กำลังจัดการมัน!
 finc1au:803656681,~z~This one's mine!,~z~คนนี้ของฉัน!
 finc1au:810349729,"~z~Now, if we're gonna be men of peace and tranquility we tie up loose ends.",~z~เอาล่ะ ถ้าเราอยากจะอยู่อย่างสงบเราก็ต้องปิดบัญชีซะ
-finc1au:810917796,~t~Only for the weak.,~t~สำหรับพวกอ่อนแอเมึงั้นแหละ
+finc1au:810917796,~t~Only for the weak.,~t~สำหรับพวกอ่อนแอเคุณั้นแหละ
 finc1au:811749347,~z~Bite me. You can unload that whole clip and never even hit me.,~z~ฝันไปเถอะ นายจะยิงให้หมดแม็กก็ไม่มีทางโดนฉันหรอก
 finc1au:814621704,~z~These my streets you stepping on!,~z~นี่มันถิ่นของฉันนะที่นายกำลังเหยียบอยู่น่ะ!
 finc1au:815521172,~z~Course it does.,~z~แน่นอนอยู่แล้ว
@@ -183,8 +183,8 @@ finc1au:833584927,"~z~Alright, good.",~z~ได้เลย เยี่ยม
 finc1au:843241061,~z~Looks like we did it.,~z~ดูเหมือนเราจะทำได้
 finc1au:851150352,~z~You wanna piece of me? Fuckin' come get me!,~z~อยากลองดีกับกูเหรอ? ก็เข้ามาเซิวะ!
 finc1au:854919628,"~z~Dog, shit's fucked up right now.",~z~เพื่อน ตอนนี้เรื่องมันชักจะวุ่นวายไปกันใหญ่แล้ว
-finc1au:856561821,"~z~And Franklin's pal, Stretch.",~z~และก็เพื่อนแฟรงคลิน สเตรทช์
-finc1au:856742886,~z~What happens next is I plant Steve Haines in the dirt.,~z~รายการต่อไปคือส่งไอ้ สตีฟ เฮนส์ ลงหลุมซะ
+finc1au:856561821,"~z~And Franklin's pal, Stretch.",~z~และก็เพื่อน Franklin สเตรทช์
+finc1au:856742886,~z~What happens next is I plant Steve Haines in the dirt.,~z~รายการต่อไปคือส่งไอ้ Steve Hainesส์ ลงหลุมซะ
 finc1au:859706207,"~z~Never better, amigo.",~z~ดีที่สุดแล้วเพื่อนเอ๋ย
 finc1au:873231873,"~z~When I find Mr. Weston, I'll send the coordinates.",~z~ถ้าฉันหาคุณเวสตันเจอแล้ว ฉันจะส่งพิกัดไปให้
 finc1au:884319254,"~z~Yeah, I'm bringing a rifle. It's a good gun, it'll get the job done.",~z~เออ ฉันเอาปืนไรเฟิลมา ปืนนี้มันดี มันทำหน้าที่ได้ดีแน่
@@ -228,7 +228,7 @@ finc1au:1028862781,"~z~Merryweather are here - upper catwalk, far side!",~z~เ�
 finc1au:1029558299,~z~On me!,~z~ตามฉันมา!
 finc1au:1030222218,~z~Do I engage these guys?,~z~ให้ฉันจัดการไอ้พวกนี้เลยไหม?
 finc1au:1039527371,"~z~Shit, for now.",~z~ก็คงตอนนี้
-finc1au:1040597363,"~z~Eh, Trevor! All these dudes want you dead?",~z~เอ้อ เทรเวอร์! ไอ้พวกนี้มันอยากให้นายตายกันหมดเลยเหรอ?
+finc1au:1040597363,"~z~Eh, Trevor! All these dudes want you dead?",~z~เอ้อ Trevor! ไอ้พวกนี้มันอยากให้นายตายกันหมดเลยเหรอ?
 finc1au:1046378777,"~z~when he puts it like that, it makes sense.",~z~พอเขาพูดมาแบบนี้ มันก็ฟังขึ้นนะ
 finc1au:1048874296,"~z~Lay low, my nigga.",~z~กบดานไว้นะ เพื่อนรัก
 finc1au:1064336805,~z~of the type that you practice.,~z~แบบที่นายทำลงไป
@@ -246,14 +246,14 @@ finc1au:1114335018,"~z~If not, man, I'll put bullets in both you motherfuckers."
 finc1au:1115319310,~z~We'll come help you as soon as the building is clear.,~z~เราจะไปช่วยนายทันทีที่เคลียร์ตึกเสร็จ
 finc1au:1116963819,"~z~Hey, my bad, homie.",~z~เฮ้ กูผิดเองเพื่อน
 finc1au:1117806490,~z~He is not getting through here!,~z~มันไม่มีทางผ่านตรงนี้ไปได้หรอก!
-finc1au:1123042521,"~t~There are many temptations here, sir.",~t~ที่นี่มีสิ่งล่อใจมากมายนะมึง
+finc1au:1123042521,"~t~There are many temptations here, sir.",~t~ที่นี่มีสิ่งล่อใจมากมายนะคุณ
 finc1au:1125447817,"~z~Look, I was just calling to see how you was doing, dog.",~z~ฟังนะ ฉันแค่โทรมาเช็กดูว่านายเป็นยังไงบ้างเพื่อน
 finc1au:1125706973,~z~T - are you there?,~z~ที - นายอยู่ตรงนั้นไหม?
-finc1au:1128323829,~z~Merryweather coming out the door next to me!,~z~เมอร์รีเวทเธอร์กำลังออกมาจากประตูข้างๆ ฉัน!
+finc1au:1128323829,~z~Merryweather coming out the door next to me!,~z~เมอร์รีเวทเธอร์กำลังออกมาจากประตูข้างๆ ผม!
 finc1au:1129004947,~z~You're a dead man!,~z~แกตายแน่!
 finc1au:1133117439,~z~Next time I'll leave you to it.,~z~คราวหน้าแกจะทำอะไรก็เชิญ
 finc1au:1134355318,~z~How much this asshole paying you? I hope it was worth it!,~z~ไอ้สารเลวนี่จ่ายมึงเท่าไหร่? กูหวังว่ามันจะคุ้มนะ!
-finc1au:1135828157,"~z~Merryweather is here - upper catwalk, Franklin's side!",~z~เมอร์รีเวทเธอร์อยู่นี่ - ทางเดินด้านบน ฝั่งของแฟรงคลิน!
+finc1au:1135828157,"~z~Merryweather is here - upper catwalk, Franklin's side!",~z~เมอร์รีเวทเธอร์อยู่นี่ - ทางเดินด้านบน ฝั่งของ Franklin!
 finc1au:1137545334,~z~There he is!,~z~มาแล้ว!
 finc1au:1138602539,~z~Stretch and Wei Cheng are still in play.,~z~สเตรทช์ กับ เหว่ย แชง ที่ยังเหลืออยู่
 finc1au:1145613427,~z~I know. But who better to have in a fucked up situation than a fucked up nigga like me?,~z~กูรู้ แต่จะมีใครดีไปกว่าการมีคนสติหลุดแบบกูมาอยู่ในสถานการณ์บ้าๆ แบบนี้ล่ะ?
@@ -268,7 +268,7 @@ finc1au:1164193418,"~z~Hold tight, dog. Please, hold tight.",~z~ใจเย็�
 finc1au:1164561847,~z~You ain't clapping me!,~z~นายสอยฉันไม่ได้หรอก!
 finc1au:1165716810,"~z~Man, that's what the fuck I wanted to hear. Hey, look, I'm coming to yo' crib to get your ass.",~z~นั่นแหละที่กูอยากได้ยิน เฮ้ ฟังนะ กูกำลังไปที่บ้านไปรับมึง
 finc1au:1189638644,~z~Look at these punks!,~z~ดูไอ้พวกสวะนี่สิ!
-finc1au:1192667051,"~z~I'm serious, dog. That's hood. Michael and Trevor, too. We grateful.",~z~ฉันซีเรียสนะเพื่อน นั่นมันอันตรายมาก ทั้งกับไมเคิลและเทรเวอร์ด้วย เราขอบใจมาก
+finc1au:1192667051,"~z~I'm serious, dog. That's hood. Michael and Trevor, too. We grateful.",~z~ฉันซีเรียสนะเพื่อน นั่นมันอันตรายมาก ทั้งกับ Michael และ Trevor ด้วย เราขอบใจมาก
 finc1au:1196337168,~z~from whatever hole he hibernates in.,~z~จากไอ้รูที่มันมุดออกมา
 finc1au:1197877522,~z~Pull 'em out of the Congo. Wind down operations in the Middle East. I don't care.,~z~ถอนกำลังพวกมันออกมาจากคองโกซะ ยุติปฏิบัติการในตะวันออกกลางด้วย ฉันไม่สนหรอก
 finc1au:1200196179,~z~Thanks for all the advice.,~z~ขอบใจที่คอยแนะนำนะ
@@ -277,11 +277,11 @@ finc1au:1209662607,~z~Enemy operative in the vicinity!,~z~พบสายลั�
 finc1au:1213139466,"~z~man, just hit me dog, we brothers homie, alright?",~z~เพื่อน แค่ติดต่อมานะเพื่อน เราเป็นพี่น้องกันนะ โอเคไหม?
 finc1au:1217584563,"~z~I'm clear! Your pal Stretch - he ain't a problem no more, Frank.",~z~ฉันเรียบร้อยแล้ว! เพื่อนนายสเตรทช์ เขาไม่ใช่ปัญหาอีกต่อไปแล้ว แฟรงค์
 finc1au:1219265464,~z~Oh fuck...,~z~โอ้ ให้ตายสิ...
-finc1au:1219531870,"~z~Ain't that the truth? But ain't nobody pissed off as many motherfuckers as Michael and Trevor, dog.",~z~แล้วไม่จริงรึไง? แต่ไม่มีใครทำไอ้เวรนั่นยั๊วะได้เท่าไมเคิลกับเทรเวอร์แล้วเพื่อน
+finc1au:1219531870,"~z~Ain't that the truth? But ain't nobody pissed off as many motherfuckers as Michael and Trevor, dog.",~z~แล้วไม่จริงรึไง? แต่ไม่มีใครทำไอ้เวรนั่นยั๊วะได้เท่า Michael กับ Trevor แล้วเพื่อน
 finc1au:1223231523,"~z~Okay, alright.",~z~เอโค เอาล่ะนะ
 finc1au:1232500044,"~z~Alright, good.",~z~ตกลง เยี่ยมเลย
 finc1au:1239965258,~z~He's after DW! Extreme prejudice!,~z~มันกำลังตามล่าเดวินเวสตัน! จัดการขั้นเด็ดขาดไปเลย!
-finc1au:1248429030,"~z~Be very afraid, Franklin!",~z~จงกลัวเอาไว้แฟรงคลิน!
+finc1au:1248429030,"~z~Be very afraid, Franklin!",~z~จงกลัวเอาไว้ Franklin!
 finc1au:1252234920,~z~You trying to clap my homie?,~z~มึงพยายามจะสอยเพื่อนกูเหรอ?
 finc1au:1252970611,~z~if you're just gonna kill each other?,~z~ถ้าพวกคุณจะฆ่ากันเองอยู่แล้ว?
 finc1au:1253246909,~z~Maybe we can hangout or somethin'?,~z~บางทีเราน่าจะไปเที่ยวกันบ้างไหม?
@@ -291,7 +291,7 @@ finc1au:1270713134,~z~We got a lot of old friends I think need to be re-educated
 finc1au:1270852682,"~z~We told these motherfuckers there's a fat package up in this place. They all coming to get it, and get us too, nigga.",~z~เราบอกไอ้พวกสารเลวพวกนี้ไปว่ามีของชิ้นใหญ่ติดอยู่ที่นี่ พวกมันเลยแห่กันมาเพื่อจะเอามันไป และจะจัดการเราด้วยเพื่อน
 finc1au:1283021790,"~z~This ain't a game, motherfucker!",~z~นี่ไม่ใช่เกมนะไอ้สารเลว!
 finc1au:1284684222,~z~You wanna kill me? Take a fucking shot!,~z~อยากฆ่ากูนักเหรอ? ก็ยิงมาสิไอ้เวร!
-finc1au:1291559986,~z~Some other motherfucker wants me to kill Trevor.,~z~และก็มีไอ้เวรอีกตัวอยากให้กูฆ่าเทรเวอร์
+finc1au:1291559986,~z~Some other motherfucker wants me to kill Trevor.,~z~และก็มีไอ้เวรอีกตัวอยากให้กูฆ่า Trevor
 finc1au:1296772769,"~z~Man, Stretch has been a liability.",~z~สเตรทช์มันจะต้องชดใช้เพื่อน
 finc1au:1297286840,~z~Up there on the catwalk - I think Merryweather are here!,~z~บนทางเดินนั่น - ฉันว่าเมอร์รีเวทเธอร์อยู่นี่!
 finc1au:1301692695,"~z~Hey man, that's yo' motherfucking problem. He ain't fucking with me, nigga. I'm out.",~z~เฮ้เพื่อน นั่นมันปัญหาของแกว่ะ เขาไม่เกี่ยวกับกูนะพวก กูไปล่ะ
@@ -301,7 +301,7 @@ finc1au:1308677272,~z~Here's Merryweather - coming in on the upper catwalk on th
 finc1au:1309840393,"~z~Hey, we need you over here, kid.",~z~เฮ้ เราต้องการนายทางนี้นะไอ้หนู
 finc1au:1314999877,"~z~I got the best ones, so I ain't taking anyone else's.",~z~ฉันได้ตัวเจ๋งสุด ฉันไม่สนใจอย่างอื่นแน่นอน
 finc1au:1317216251,"~z~Yeah, ain't that the truth?",~z~ใช่ ก็ถูกแล้วไม่ใช่เหรอ?
-finc1au:1320746611,"~z~Eh, Michael. You help me, now I help you!",~z~เอ้อ ไมเคิล นายช่วยฉัน คราวนี้ฉันช่วยนาย!
+finc1au:1320746611,"~z~Eh, Michael. You help me, now I help you!",~z~เอ้อ Michael นายช่วยฉัน คราวนี้ฉันช่วยนาย!
 finc1au:1321816795,~z~I don't lose!,~z~ฉันต้องไม่แพ้!
 finc1au:1323424699,"~z~They're throwing everything they got at us!  If we can take this, they'll have nothing left!",~z~พวกมันทุ่มทุกอย่างที่มีใส่เราแล้ว! ถ้าเรายันไว้ได้ พวกมันก็ไม่เหลืออะไรแล้ว!
 finc1au:1324287182,"~z~It's war zone outside, homies!",~z~ข้างนอกนั่นมันสมรภูมิชัดๆ เลยเพื่อน!
@@ -320,7 +320,7 @@ finc1au:1380532314,"~z~Okay, I'll go ask his ass about his punk-ass dad.",~z~โ
 finc1au:1381370063,~z~There's more dudes!,~z~มีพวกมันมาเพิ่มอีก!
 finc1au:1393698024,"~z~I picked C, ain't that a bitch?",~z~กูเลือกซี ใช่ไหมล่ะไอ้เวร?
 finc1au:1409223545,"~z~Alright, man.",~z~เอาล่ะเพื่อน
-finc1au:1410969295,~z~Lamar's in the shit.,~z~ลามาร์กำลังลำบาก
+finc1au:1410969295,~z~Lamar's in the shit.,~z~Lamar กำลังลำบาก
 finc1au:1414695672,~z~They creepin'.,~z~มันมากันแล้ว
 finc1au:1416859096,"~z~If you're clear over there, come help me with these punks!",~z~ถ้าทางนั้นเคลียร์แล้ว มาช่วยฉันจัดการไอ้พวกสวะนี่ที!
 finc1au:1434700764,"~t~Quick! Go, go!",~t~เร็ว! ไปๆ!
@@ -331,7 +331,7 @@ finc1au:1444415116,~z~We're ready for you! Come on!,~z~เราพร้อม�
 finc1au:1456867684,"~z~So, what's the difference between this and our licks in the hood?",~z~แล้วเรื่องนี้มันต่างจากตอนที่เราลุยกันในสลัมยังไงล่ะ?
 finc1au:1465039100,"~z~T. T, come in.",~z~ที ที ตอบด้วย
 finc1au:1468547867,"~z~Oh fuck, what a mess, man.",~z~โอ้ให้ตายสิ เป็นหางว่าวเลยเพื่อน
-finc1au:1472927368,~z~Trevor! Trevor!!!,~z~เทรเวอร์! เทรเวอร์!!!
+finc1au:1472927368,~z~Trevor! Trevor!!!,~z~Trevor! Trevor!!!
 finc1au:1487745723,~z~Why ain't you inside with the rest of them?,~z~ทำไมคุณถึงไม่อยู่ข้างในกับคนอื่นๆ?
 finc1au:1493554513,"~z~Get over here and help me, if things ain't bad where you at.",~z~มานี่แล้วมาช่วยฉันที ถ้าทางที่นายอยู่มันไม่ได้แย่นักนะ
 finc1au:1496201927,"~z~Well, I can see that.",~z~ฉันเข้าใจแล้ว
@@ -341,7 +341,7 @@ finc1au:1505997070,"~z~Considering you popular and all, I thought there'd be mor
 finc1au:1507410699,~z~Merryweather gunship - incoming!,~z~เรือรบเมอร์รีเวทเธอร์ - กำลังมา!
 finc1au:1508716598,"~z~Hey, Devin...",~z~เฮ้ เดวิน...
 finc1au:1515923221,~z~Fuck!,~z~ให้ตายสิ!
-finc1au:1524340758,"~z~Come on, Trevor...",~z~มาเถอะเทรเวอร์...
+finc1au:1524340758,"~z~Come on, Trevor...",~z~มาเถอะ Trevor...
 finc1au:1524424499,~z~It wouldn't be right if I didn't have to save your ass just once.,~z~คงแปลกสินะถ้าวันไหนฉันไม่ต้องมาช่วยนาย
 finc1au:1530610667,~z~Where you headed?,~z~นายกำลังจะไปไหน?
 finc1au:1531948272,~z~Who writes this bullshit anyway?,~z~ใครเป็นคนเขียนบทให้เนี่ย?
@@ -366,13 +366,13 @@ finc1au:1620360909,~z~Offshoring your profits.,~z~เอาเงินที่
 finc1au:1625577107,~z~We goin' take 'em all out.,~z~เราจะเก็บพวกมันให้เรียบ
 finc1au:1626667962,~z~Let me out this trunk!,~z~ปล่อยฉันออกจากกระโปรงรถโว้ย!
 finc1au:1627444968,"~z~Oh, did Mike make it?",~z~โอ้ ไมค์ตายรึยัง?
-finc1au:1630820595,"~z~I think, actually, Weston owns a piece of Merryweather.",~z~ที่จริงแล้วฉันว่า เวสตันต้องเป็นหุ้นส่วนของเมอรี่เวเธอร์ด้วย
+finc1au:1630820595,"~z~I think, actually, Weston owns a piece of Merryweather.",~z~ที่จริงแล้วฉันว่า เวสตันต้องเป็นหุ้นส่วนของ Merryweatherด้วย
 finc1au:1633170767,"~z~Yep, there's that.",~z~ใช่ นั่นก็ด้วย
-finc1au:1650678114,"~z~Wei Cheng. Wei Cheng. And Franklin's pal, Stretch.",~z~เหว่ย แชง เหว่ย แชง และก็เพื่อนแฟรงคลิน ไอ้สเตรทช์
+finc1au:1650678114,"~z~Wei Cheng. Wei Cheng. And Franklin's pal, Stretch.",~z~เหว่ย แชง เหว่ย แชง และก็เพื่อน Franklin ไอ้สเตรทช์
 finc1au:1660381616,"~z~Hold on, homie! I'ma try to get to you!",~z~อดทนไว้เพื่อน! กูจะพยายามไปหามึง!
 finc1au:1663689239,~z~Tao Cheng's credit card just bought a magnum at the beach club in Pacific Bluffs.,~z~บัตรเครดิตของเต๋า แชง เพิ่งรูดเงินเป็นฟ่อนที่บีชคลับในแปซิฟิก บลัฟฟ์
 finc1au:1666549107,~t~Maybe it is time my son went back to the mainland.,~t~บางทีอาจถึงเวลาที่ลูกชายฉันต้องกลับไปแผ่นดินใหญ่แล้ว
-finc1au:1667517796,~z~Lamar's in trouble.,~z~ลามาร์กำลังมีปัญหา
+finc1au:1667517796,~z~Lamar's in trouble.,~z~Lamar กำลังมีปัญหา
 finc1au:1676259337,~z~This is why the people I put in my trunk are usually dead.,~z~นี่แหละนะ คนที่ฉันจับยัดกระโปรงรถส่วนใหญ่ถึงไม่รอด
 finc1au:1676968722,~z~I can't take too much more of this!,~z~ฉันจะทนไม่ไหวแล้วนะ!
 finc1au:1678873249,"~z~Yes! Yes! That's the kind of creativity I need on my team. Come on, come on, let me out of here.",~z~ใช่! ใช่! สร้างสรรค์มากเลยฉันอยากได้มาร่วมทีม เร็วเข้า เร็วเข้า เอาฉันออกไปจากนี่ที
@@ -381,12 +381,12 @@ finc1au:1691037922,~z~Punk-ass bitches!,~z~ไอ้พวกสวะหน้�
 finc1au:1694807476,~z~Civilization's greatest virtue.,~z~ยอดคุณธรรมของคนเจริญแล้ว
 finc1au:1695958992,"~z~Oh, it's horrible.",~z~โอ้ มันทุเรศชะมัด
 finc1au:1704538283,"~z~Slow down, Slick! Think about this!",~z~ใจเย็นก่อนไอ้เกลอ! คิดดูดีๆ สิ!
-finc1au:1706794362,"~z~Hypocrisy, Franklin.",~z~การเสแสร้งน่ะแฟรงคลิน
+finc1au:1706794362,"~z~Hypocrisy, Franklin.",~z~การเสแสร้งน่ะ Franklin
 finc1au:1707362892,"~z~You know, Devin.",~z~รู้ไหมเดวิน
-finc1au:1709449768,"~z~Say something, Trevor!",~z~พูดอะไรหน่อยสิเทรเวอร์!
+finc1au:1709449768,"~z~Say something, Trevor!",~z~พูดอะไรหน่อยสิ Trevor!
 finc1au:1710829125,"~z~I know 'em when I see 'em, homie.",~z~กูรู้ไม่ผิดแน่เพื่อน
 finc1au:1734894715,"~z~then maybe, maybe,",~z~งั้นบางที บางที
-finc1au:1737057693,"~z~and B. Known to be friendly with Don Percival, who runs Merryweather.",~z~และสอง รู้ว่าเป็นเพื่อนกับดอน เพอร์ซิวัล ที่เป็นเจ้าของเมอรี่เวเธอร์
+finc1au:1737057693,"~z~and B. Known to be friendly with Don Percival, who runs Merryweather.",~z~และสอง รู้ว่าเป็นเพื่อนกับดอน เพอร์ซิวัล ที่เป็นเจ้าของ Merryweather
 finc1au:1740662417,~z~They sent some more!,~z~พวกมันส่งคนมาเพิ่มอีกแล้ว!
 finc1au:1743677197,"~z~Alright then, as uh...",~z~เอาล่ะ ในฐานะที่เป็น...
 finc1au:1754562059,"~z~We good, T?",~z~โอเคไหม ที?
@@ -394,9 +394,9 @@ finc1au:1760518673,~z~Almost. A couple of loose ends.,~z~เกือบแล�
 finc1au:1762276455,"~z~It's all good, nigga. Who better to have in a fucked up situation than a fucked up fool like me?",~z~ไม่แย่หรอกเพื่อน จะมีใครเจอเรื่องซวยกว่าที่ไอ้โง่อย่างกูเจอได้อีกวะ?
 finc1au:1764428854,"~z~I'm getting out of here, and I'm coming for you!",~z~ฉันจะหนีไปจากนี่ และฉันจะตามล่าแก!
 finc1au:1772298094,"~z~Let's take these guys down, T.",~z~มาจัดการไอ้พวกนี้กันเถอะที
-finc1au:1774053254,~z~Devin Weston and Steve Haines.,~z~เดวิน เวสตัน กับ สตีฟ เฮนส์
+finc1au:1774053254,~z~Devin Weston and Steve Haines.,~z~เดวิน เวสตัน กับ Steve Hainesส์
 finc1au:1780541130,~z~I want a last reminder of what an annoying prick he is.,~z~ฉันอยากจะรำลึกว่าไอ้หัวขวดทำอะไรเป็นอย่างสุดท้าย
-finc1au:1780628278,"~z~Shit, Trevor!",~z~ให้ตายสิ เทรเวอร์!
+finc1au:1780628278,"~z~Shit, Trevor!",~z~ให้ตายสิ Trevor!
 finc1au:1787531064,"~z~Alright, the audio's clean?",~z~เอาล่ะ เสียงชัดดีไหม?
 finc1au:1790537456,"~z~You a real homie and I love you, dog.",~z~มึงคือเพื่อนตายและกูรักมึงนะเพื่อน
 finc1au:1792404342,~z~I ain't got no better ideas.,~z~ผมไม่มีไอเดียดีกว่านี้แล้ว
@@ -406,7 +406,7 @@ finc1au:1830277902,~z~Hey guys! More!,~z~เฮ้พวก! มาอีกแ�
 finc1au:1832876329,~z~I think I got an angle on the upper walkway!,~z~ฉันว่าฉันได้มุมยิงจากทางเดินด้านบนนะ!
 finc1au:1833843963,"~z~Now, if we doin' this shit, man, it's either now or never.",~z~เอาล่ะ ถ้าจะทำเรื่องนี้ก็ต้องทำด้วยกันไม่งั้นก็จบ
 finc1au:1836041841,"~z~Alright, I'm looking for him.",~z~ตกลง ฉันกำลังตามหาเขาอยู่
-finc1au:1836569383,"~z~Hey, I'm retired. But Franklin'll teach you if we survive this!",~z~เฮ้ ฉันเกษียณแล้ว แต่แฟรงคลินจะสอนนายเองถ้าเราโชคดีรอดไปได้นะ!
+finc1au:1836569383,"~z~Hey, I'm retired. But Franklin'll teach you if we survive this!",~z~เฮ้ ฉันเกษียณแล้ว แต่ Franklin จะสอนนายเองถ้าเราโชคดีรอดไปได้นะ!
 finc1au:1837402947,~z~Argh!,~z~อ้าก!
 finc1au:1839580222,~z~I ain't putting my gun away.,~z~ยังไงฉันก็ไม่วางปืนหรอก
 finc1au:1843782290,~z~Uhh! Where am I? What's happening?,~z~เอ่อ! ฉันอยู่ที่ไหน? เกิดอะไรขึ้น?
@@ -414,7 +414,7 @@ finc1au:1849644522,~z~Peace.,~z~ลาก่อน
 finc1au:1852470344,~z~Oh! Look out! More agents!,~z~โอ้! ระวัง! เจ้าหน้าที่มาเพิ่มอีกแล้ว!
 finc1au:1854248972,"~z~I'm a professional, let's go.",~z~ฉันมันมืออาชีพ เริ่มเลย
 finc1au:1855547162,~z~We don't leave until they're all dead!,~z~เราจะไม่ไปไหนจนกว่าพวกมันจะตายกันหมด!
-finc1au:1856688818,~z~Hey! Lamar and Franklin send their best.,~z~เฮ้! ลามาร์ กับ แฟรงคลิน ฝากความคิดถึงให้แก
+finc1au:1856688818,~z~Hey! Lamar and Franklin send their best.,~z~เฮ้! Lamar กับ Franklin ฝากความคิดถึงให้แก
 finc1au:1860724283,~z~Who are the motherfuckers?,~z~ใครคือไอ้พวกเวรนั่น?
 finc1au:1860747764,~z~More of 'em!,~z~พวกมันมากันอีกแล้ว!
 finc1au:1861705551,"~z~The metal's meant to be inside, assholes!",~z~เหล็กพวกนั้นมันควรจะอยู่ข้างในนะไอ้พวกโง่!
@@ -454,7 +454,7 @@ finc1au:2045864608,~z~Hey! Do I take the shot?,~z~นี่! ให้ฉัน�
 finc1au:2049398729,~z~You go over there.,~z~คุณไปตรงนั้น
 finc1au:2054973611,~z~we only just begun to clean this shit up.,~z~เราเพิ่งจะเริ่มเก็บกวาดเรื่องเวรนี่
 finc1au:2061774141,~z~That gun - it makes me think this is a setup.,~z~ปืนนั่น ยิ่งทำให้ฉันคิดว่านี่เป็นการจัดฉาก
-finc1au:2062237746,~z~These the fools picking on you!?,~z~ไอ้พวกโง่นี่เหรอที่หาเรื่องมึงน่ะ!?
+finc1au:2062237746,~z~These the fools picking on you!?,~z~ไอ้พวกโง่นี่เหรอที่หาเรื่องคุณน่ะ!?
 finc1au:2063309240,"~z~Hold tight, man - I'm on my way!",~z~นิ่งไว้เพื่อน - ฉันกำลังไปแล้ว!
 finc1au:2065097279,~z~Merryweather in the building - check out the catwalk up there!,~z~เมอร์รีเวทเธอร์อยู่ในตึก - เช็กทางเดินบนนั่นดู!
 finc1au:2072504680,"~z~Eh, what's happening over there?",~z~เอ้อ เกิดอะไรขึ้นตรงนั้นน่ะ?
@@ -462,25 +462,25 @@ finc1au:2074141420,"~z~I know, I still hate myself...",~z~ฉันรู้ ฉ
 finc1au:2083559280,~z~Shooting permit came up immediately.,~z~ได้รับอนุญาติให้ถ่ายทำเมื่อครู่นี้
 finc1au:2107981732,~z~Was that crap you pulled some kind of test?,~z~ไอ้เรื่องเฮงซวยที่นายทำนั่นมันคือการทดสอบอะไรหรือเปล่า?
 finc1au:2112091443,~z~Then all of a sudden your legs give and you just can't run no more.,~z~แล้วจู่ๆ ขานายก็นิ่งไปเฉยๆ จนวิ่งต่อไม่ไหว
-finc1au:2117580656,"~z~Hi, I'm Steve Haines. Hi, I'm...",~z~หวัดดี ผมสตีฟ เฮนส์ หวัดดี ผม...
+finc1au:2117580656,"~z~Hi, I'm Steve Haines. Hi, I'm...",~z~หวัดดี ผม Steve Hainesส์ หวัดดี ผม...
 finc1au:2119340287,~z~You go to the foundry and get yourself set up.,~z~นายไปที่โรงหลอมแล้วเตรียมตัวให้พร้อม
 finc1au:2119873973,~z~You can't do this to me!,~z~แกทำแบบนี้กับฉันไม่ได้นะ!
 finc1au:2121241615,~z~Now we keep a low profile and get on with our lives.,~z~เราก็ทำตัวเงียบๆ และใช้ชีวิตกันต่อ
 finc1au:2126353185,~z~in capturing the bullion that we just lifted.,~z~ที่จะชิงทองที่เราขนไป
-finc1au:2135589246,~z~I don't know how you fools did all your robberies without me!,~z~กูไม่รู้เลยว่าพวกมึงไปปล้นกันรอดมาได้ยังไงถ้าไม่มีกู!
+finc1au:2135589246,~z~I don't know how you fools did all your robberies without me!,~z~ผมไม่รู้เลยว่าพวกคุณไปปล้นกันรอดมาได้ยังไงถ้าไม่มีผม!
 finc1au:2137006003,~z~Who is this? Stop calling this number.,~z~นั่นใครน่ะ? เลิกโทรมาเบอร์นี้ได้แล้ว
 finc1au:2139841173,~z~Watch your sectors.,~z~คอยดูพื้นที่ไว้
 finc1au:2142336922,"~z~Eh, old dude, now that I saved your ass, you gonna teach me to become a bank robber?",~z~เอ้อ ตากลุง ตอนนี้ฉันช่วยนายไว้แล้ว นายจะสอนฉันเป็นโจรปล้นธนาคารได้หรือยัง?
 finc1au:2144385498,"~z~Okay, fine, we're on. I'm ready.",~z~โอเค ดี เราเริ่มเลย ฉันพร้อมแล้ว
 finc1au:2144808936,~z~Slick!,~z~ไอ้เวรเอ้ย!
-finc1au:2158781819,~z~You see these fools?,~z~มึงเห็นไอ้พวกโง่นี่ไหม?
+finc1au:2158781819,~z~You see these fools?,~z~คุณเห็นไอ้พวกโง่นี่ไหม?
 finc1au:2160276176,~z~I need some help here!,~z~ฉันต้องการคนช่วยตรงนี้!
 finc1au:2164190607,"~z~Fine, I'll try and find him.",~z~ก็ได้ ฉันจะไปตามหาเขา
 finc1au:2171542244,"~z~I'm doing my best, man.",~z~ฉันทำดีที่สุดแล้วเพื่อน
 finc1au:2174727619,~z~And uh... Wei Cheng.,~z~แล้วก็... เหว่ย แชง
 finc1au:2175344154,~z~Someone tell me what that was!,~z~ใครก็ได้บอกฉันทีว่านั่นมันเสียงอะไร!
 finc1au:2177853486,~z~You think you can down it?,~z~นายคิดว่าสอยมันร่วงได้ไหม?
-finc1au:2182486066,~z~How about you get Lester on the line?,~z~งั้นนายโทรหาเลสเตอร์ดีไหม?
+finc1au:2182486066,~z~How about you get Lester on the line?,~z~งั้นนายโทรหา Lester ดีไหม?
 finc1au:2184367381,~z~Devin!,~z~เดวิน!
 finc1au:2185346988,"~z~Dude, this is getting heavy!",~z~เพื่อน เรื่องนี้เริ่มจะตึงมือแล้วนะ!
 finc1au:2200983655,~z~Absolutely.,~z~ก็ต้องได้อยู่แล้ว
@@ -490,13 +490,13 @@ finc1au:2203664619,~z~Speed.,~z~สปีด
 finc1au:2206142580,"~z~I hear something, watch DW.",~z~ฉันได้ยินอะไรบางอย่าง จับตาดูเดวินเวสตันไว้
 finc1au:2211832327,~z~Let's finish this!,~z~มาจบเรื่องนี้กันเถอะ!
 finc1au:2213941802,~z~why don't you just go ahead and tell me?,~z~ทำไมนายไม่บอกฉันมาซักที?
-finc1au:2215684289,~z~Michael!,~z~ไมเคิล!
+finc1au:2215684289,~z~Michael!,~z~Michael!
 finc1au:2219702956,"~z~I was a little winded, alright? I took a TO. It's nice to see you so worked up.",~z~ฉันหน้ามืดไปหน่อยนะเข้าใจไหม? ดีใจที่เห็นนายตื่นเต้นนะ
-finc1au:2226208983,"~z~It is a setup, we're setting up Merryweather and the FIB, making them think the metal's here.",~z~มันก็เป็นการจัดฉากไง เรากำลังจัดฉากพวกเมอรี่เวเธอร์กับพวกเอฟไอบี ทำให้มันคิดว่าทองอยู่ที่นี่
+finc1au:2226208983,"~z~It is a setup, we're setting up Merryweather and the FIB, making them think the metal's here.",~z~มันก็เป็นการจัดฉากไง เรากำลังจัดฉากพวก Merryweatherกับพวกเอฟไอบี ทำให้มันคิดว่าทองอยู่ที่นี่
 finc1au:2227000268,~z~Who's this peckerwood?,~z~ไอ้หน่อนี่มันเป็นใครวะ?
 finc1au:2227304910,~z~Looks like we did it.,~z~ดูเหมือนเราจะทำได้นะ
 finc1au:2228685578,"~z~Merryweather got word too! They're coming in on the top level, to my right!",~z~เมอร์รีเวทเธอร์รู้เรื่องแล้วเหมือนกัน! พวกมันกำลังเข้ามาจากชั้นบน ทางขวาของฉัน!
-finc1au:2233032850,"~z~Trevor, stop being a prick!",~z~เทรเวอร์ เลิกทำตัวเป็นไอ้สารเลวสักที!
+finc1au:2233032850,"~z~Trevor, stop being a prick!",~z~Trevor เลิกทำตัวเป็นไอ้สารเลวสักที!
 finc1au:2234294003,~z~Hey man he got Stretch man! Roll on his ass!,~z~เฮ้เพื่อน มันสอยสเตรตช์ไปแล้ว! ลุยกับมันเลย!
 finc1au:2234304592,~z~We keep putting them down until they stop pulling up!,~z~เราต้องจัดการพวกมันจนกว่ามันจะหยุดเข้ามา!
 finc1au:2241644194,~z~you're not saving me!,~z~นายไม่ได้ช่วยฉัน!
@@ -508,17 +508,17 @@ finc1au:2298759940,~z~Pull over!,~z~จอดสิวะ!
 finc1au:2307032763,"~z~Well, let me see there's uh...",~z~ให้ฉันนึกนะก็มี เอ่อ...
 finc1au:2313678727,"~z~Difference is several tons of gold, homie.",~z~ความแตกต่างคือทองคำหลายตันนะเพื่อน
 finc1au:2314060727,"~z~Ain't anybody getting turned again, and you know it.",~z~ไม่มีใครจะเปลี่ยนอีกแล้ว นายก็เห็นแล้ว
-finc1au:2316413609,"~z~Steve Haines is under a lot of heat because of the shootings at Kortz center,",~z~สตีฟ เฮนส์ ถูกตำรวจจับตาเพราะเรื่องยิงกันที่คอร์ทซ์ เซ็นเตอร์
+finc1au:2316413609,"~z~Steve Haines is under a lot of heat because of the shootings at Kortz center,",~z~Steve Hainesส์ ถูกตำรวจจับตาเพราะเรื่องยิงกันที่คอร์ทซ์ เซ็นเตอร์
 finc1au:2335614619,"~z~You too, homie. You done with this bullshit now?",~z~เหมือนกันเพื่อน มึงจบเรื่องแล้วใช่ไหม?
 finc1au:2336577787,~t~Enough talk. I will take care of this private business in a private place.,~t~เลิกคุย อั๊วะจะไปจัดการธุรส่วนตัวในที่ส่วนตัว
 finc1au:2339573046,~z~Cut!,~z~คัต!
 finc1au:2340983988,~z~and then ya underpaid that company,~z~จากนั้นแกยังจ่ายค่าจ้างให้น้อยนิด
-finc1au:2348763778,~z~Steve Haines to start.,~z~สตีฟ เฮนส์ ก่อนเลย
+finc1au:2348763778,~z~Steve Haines to start.,~z~Steve Hainesส์ ก่อนเลย
 finc1au:2358175971,"~z~there are people who are useful to you, and people who ain't, and the people who ain't got to go.",~z~มีทั้งคนมีประโยชน์กับนาย และก็คนที่ไม่มี และคนที่ไม่ต้องถูกกำจัดด้วย
 finc1au:2359989899,~z~I think we can handle these goons.,~z~ฉันว่าเราจัดการไอ้พวกกระจอกนี่ได้
 finc1au:2360488084,~z~So now what?,~z~แล้วไงต่อ?
 finc1au:2364007039,~z~I'm here for you!,~z~ฉันอยู่ตรงนี้เพื่อนาย!
-finc1au:2375400478,"~z~Well, let's get it cleaned up. How about you get Lester on the line.",~z~เอาล่ะ จัดการให้เรียบร้อย นายช่วยต่อสายหาเลสเตอร์หน่อยเป็นไง
+finc1au:2375400478,"~z~Well, let's get it cleaned up. How about you get Lester on the line.",~z~เอาล่ะ จัดการให้เรียบร้อย นายช่วยต่อสายหา Lester หน่อยเป็นไง
 finc1au:2376806129,"~z~Okay, well, I can tell you that Agent Haines is taping his show over on Del Perro pier.",~z~โอเค เอาล่ะ ที่บอกได้คือเจ้าหน้าที่เฮนส์ กำลังอัดเทปรายการของเขาเองอยู่ที่ เดล เพอร์โร่ เพียร์
 finc1au:2378970389,"~z~Ain't nothing above and beyond when it come to the homies, homie.",~z~ไม่มีอะไรอันตรายทั้งนั้นถ้ามันคิดจะทำร้ายเพื่อนกู
 finc1au:2394226620,"~z~Man, things are kind of fucked up right now, dog.",~z~ตอนนี้เรื่องมันซวยไปกันใหญ่แล้วเพื่อน
@@ -527,11 +527,11 @@ finc1au:2401215935,~z~You got an angle on this thing?,~z~นายได้ม�
 finc1au:2404550362,"~z~Find a happy place, you zen cock!",~z~นึกถึงเรื่องดีๆ ไว้สิ ไอ้บ้าลัทธิ!
 finc1au:2407366989,~z~Wassup homie?,~z~ว่าไงเพื่อน?
 finc1au:2413940733,~z~Hey!,~z~นี่!
-finc1au:2440346722,"~z~Eh, Lamar. That was above and beyond, homie.",~z~เฮ้ ลามาร์ นั่นมันอันตรายมากนะเพื่อน
+finc1au:2440346722,"~z~Eh, Lamar. That was above and beyond, homie.",~z~เฮ้ Lamar นั่นมันอันตรายมากนะเพื่อน
 finc1au:2440898019,"~z~Somehow, shit, we managed, homie!",~z~ไม่รู้เหมือนกัน ให้ตายสิ เราก็รอดมาได้นะเพื่อน!
 finc1au:2442753337,~z~Shit.,~z~บ้าชิบ
-finc1au:2444438948,~z~Some motherfucker wants me to kill Michael.,~z~มีไอ้เวรคนนึงอยากให้กูฆ่าไมเคิล
-finc1au:2444924439,"~z~Yeah, Trevor will throw anyone in just to satisfy his bloodlust.",~z~ใช่แล้ว เทรเวอร์ใส่ทุกคนในบัญชีเพื่อสนองความบ้าเลือดตัวเอง
+finc1au:2444438948,~z~Some motherfucker wants me to kill Michael.,~z~มีไอ้เวรคนนึงอยากให้กูฆ่า Michael
+finc1au:2444924439,"~z~Yeah, Trevor will throw anyone in just to satisfy his bloodlust.",~z~ใช่แล้ว Trevor ใส่ทุกคนในบัญชีเพื่อสนองความบ้าเลือดตัวเอง
 finc1au:2454790725,~z~You wouldn't want to be sent offshore,~z~นายไม่อยากส่งเงินไปนอกประเทศ
 finc1au:2466823703,"~z~I guess this is it, y'know?",~z~ฉันว่าแบบนี้แหละ เข้าใจไหม?
 finc1au:2474396696,~z~Combat situation! Guard the asset!,~z~สถานการณ์ปะทะ! คุ้มกันทรัพย์สินไว้!
@@ -561,7 +561,7 @@ finc1au:2595619370,~t~You will die!,~t~นายต้องตาย!
 finc1au:2599081672,"~z~Ah, fuck. What a mess, man.",~z~อ้า บ้าเอ๊ย เป็นหางว่าวเลย
 finc1au:2603489454,"~z~Man, y'all gotta keep your fuckin' heads right and end this shit.",~z~คุณทั้งคู่สงบศึกกันแล้วจัดการเรื่องนี้ก่อนได้ไหม
 finc1au:2604672718,"~z~Hey, man. The way I see it...",~z~เฮ้เพื่อนจากที่ผมเห็นนะ...
-finc1au:2615427597,"~z~Lamar, you don't have to be here. It ain't your fight.",~z~ลามาร์ นายไม่จำเป็นต้องอยู่ที่นี่ มันไม่ใช่การต่อสู้ของนาย
+finc1au:2615427597,"~z~Lamar, you don't have to be here. It ain't your fight.",~z~Lamar นายไม่จำเป็นต้องอยู่ที่นี่ มันไม่ใช่การต่อสู้ของนาย
 finc1au:2625184920,~z~You two motherfuckers terrify me of that middle age.,~z~ไอ้แสบอย่างพวกมึงทำกูประสาทกินเรื่องอายุไปเลย
 finc1au:2643996476,~z~Who wanna clap your homies?,~z~ใครที่อยากจะเก็บเพื่อนมึง?
 finc1au:2647979466,"~z~Yeah, it's great.",~z~ใช่ มันใช้ได้
@@ -589,7 +589,7 @@ finc1au:2720789649,~z~Whoa!,~z~โว้ว!
 finc1au:2721466170,~z~This ain't right! Close down the area!,~z~แบบนี้ไม่ถูกต้อง! ปิดล้อมพื้นที่ซะ!
 finc1au:2726238525,~z~You gonna kill some of these guys?,~z~นายจะฆ่าไอ้พวกนี้บ้างไหม?
 finc1au:2742958302,~z~We just gonna wait around for someone to kill us?,~z~เราจะรออยู่นี่ให้มีคนมาฆ่าเหรอ?
-finc1au:2747294149,"~z~You want me to jack up interest on that business loan? Get a team to my place, stat.",~z~นายอยากให้ฉันเพิ่มดอกเบี้ยเงินกู้ธุรกิจนั่นไหมล่ะ? ส่งทีมไปที่บ้านฉันเดี๋ยวนี้เลย
+finc1au:2747294149,"~z~You want me to jack up interest on that business loan? Get a team to my place, stat.",~z~นายอยากให้ฉันเพิ่มดอกเบี้ยเงินผม้ธุรกิจนั่นไหมล่ะ? ส่งทีมไปที่บ้านฉันเดี๋ยวนี้เลย
 finc1au:2751582321,"~z~Man, I'm fucked, man.",~z~เวรแล้ว ผมซวยแล้วเพื่อน
 finc1au:2764182614,"~z~A'ight, homie. Hit me.",~z~เอาล่ะเพื่อน บอกมาเลย
 finc1au:2768147037,"~z~We take out our assigned targets, any deviation will lead to confusion, and probably failure.",~z~เราจัดการเป้าหมายของเรา ถ้ามีอะไรที่ทำให้เบี่ยงเบนออกจากแผนจะทำให้พวกเราล้มเหลวได้
@@ -621,7 +621,7 @@ finc1au:2860582109,~z~Or... are we gonna wait until this fucker gets turned agai
 finc1au:2860648013,~z~It ain't looking good for me!,~z~ดูท่าจะไม่ค่อยดีสำหรับฉันแล้วนะ!
 finc1au:2868037171,"~z~Oh, bite me.",~z~โอ้ ไอ้หอก
 finc1au:2869010098,~z~Where are you?,~z~นายอยู่ที่ไหน?
-finc1au:2880507018,"~z~Hey, Lester, I dealt with Haines. You got a location on Devin Weston yet?",~z~เฮ้ เลสเตอร์ กูจัดการเฮนส์แล้ว มึงได้ตำแหน่งของ เดวิน เวสตัน รึยัง?
+finc1au:2880507018,"~z~Hey, Lester, I dealt with Haines. You got a location on Devin Weston yet?",~z~เฮ้ Lester ผมจัดการเฮนส์แล้ว คุณได้ตำแหน่งของ เดวิน เวสตัน รึยัง?
 finc1au:2885902809,~z~All done.,~z~เรียบร้อยแล้ว
 finc1au:2896871492,"~z~It's getting heavy out here, dudes!",~z~ข้างนอกนี่เริ่มตึงมือแล้วนะพวก!
 finc1au:2902042289,~t~Who sent you?,~t~ใครส่งนายมา?
@@ -665,24 +665,24 @@ finc1au:3092562603,~z~and poorly matched friends.,~z~แถมยังคบแ
 finc1au:3092874780,"~z~You erm, just calling for a chat?",~z~นี่นายเอ่อ แค่โทรมาทักทายเหรอ?
 finc1au:3102256254,~z~This could be it - our showdown with a private army - and you're bringing a rifle?,~z~นี่มันต้องเป็น - การบู้สะบั้นหั่นแหละกับไอ้พวกกองกำลังส่วนตัว - แต่นายเอาไรเฟิลมาเนี่ยนะ?
 finc1au:3104924272,"~z~Or, are we gonna wait till this fucker gets turned again?",~z~หรือเราจะรอจนกว่าไอ้เวรนี่ทรยศอีก?
-finc1au:3105144305,"~z~Michael caused me problems, so Michael had to go.",~z~ไมเคิลสร้างปัญหาให้ฉัน เพราะงั้นไมเคิลต้องถูกกำจัดนะ
+finc1au:3105144305,"~z~Michael caused me problems, so Michael had to go.",~z~Michael สร้างปัญหาให้ผม เพราะงั้น Michael ต้องถูกกำจัดนะ
 finc1au:3105382681,~z~Their reckoning is upon them!,~z~ถึงเวลาสะสางบัญชีแค้นของพวกมันแล้ว!
 finc1au:3113060910,~z~Another attack!,~z~พวกมันบุกมาอีกแล้ว!
 finc1au:3116665528,~z~Woo!,~z~วู้!
 finc1au:3119176480,"~z~Back off my niggas, bitch.",~z~ถอยไปให้ห่างจากเพื่อนกูนะนังตัวดี
-finc1au:3131273852,~z~Michael and Trevor forever.,~z~ไมเคิลกับเทรเวอร์ตลอดไป
+finc1au:3131273852,~z~Michael and Trevor forever.,~z~Michael กับ Trevor ตลอดไป
 finc1au:3133767632,~z~I feel I can't kill both of 'em.,~z~ผมว่าผมฆ่าทั้งสองคนไม่ลงหรอก
-finc1au:3133924532,"~z~If you like shooting a man in the back from a mile away, or as I like to call it, pulling a Michael.",~z~ถ้านายชอบยิงคนจากข้างหลังในระยะเป็นไมล์ หรือที่ฉันชอบเรียกว่า การทำแบบไมเคิลน่ะนะ
+finc1au:3133924532,"~z~If you like shooting a man in the back from a mile away, or as I like to call it, pulling a Michael.",~z~ถ้านายชอบยิงคนจากข้างหลังในระยะเป็นไมล์ หรือที่ฉันชอบเรียกว่า การทำแบบ Michael น่ะนะ
 finc1au:3148930273,"~z~You - you don't know what you're getting into, pal!",~z~แก - แกไม่รู้หรอกว่าต้องเจออะไรเพื่อน!
 finc1au:3152063768,~z~You're over!,~z~แกเสร็จฉันแน่!
 finc1au:3160988518,~z~He got it.,~z~เขาเข้าใจแล้ว
 finc1au:3162834676,"~z~Aight, good.",~z~ตกลง ดีเลย
 finc1au:3165615873,~z~because you thought you were big enough,~z~เพราะแกคิดว่าข้านี่แหละขาใหญ่
 finc1au:3166068827,"~z~T, M, there's some serious shit going on down here where I'm at!",~z~ที เอ็ม ตรงที่กูอยู่ตอนนี้มีเรื่องใหญ่เกิดขึ้นแล้ว!
-finc1au:3169120684,"~z~You need to get here, Franklin.",~z~นายต้องมาที่นี่นะแฟรงคลิน
+finc1au:3169120684,"~z~You need to get here, Franklin.",~z~นายต้องมาที่นี่นะ Franklin
 finc1au:3172365671,~z~Bye bye.,~z~บ๊าย บาย
 finc1au:3183256248,~z~Please. Pair of bitches.,~z~ขอล่ะ ไอ้เวรสองตัวนั่น
-finc1au:3184902120,"~z~Look, here's Franklin.",~z~ดูสิ นั่นแฟรงคลินนี่นา
+finc1au:3184902120,"~z~Look, here's Franklin.",~z~ดูสิ นั่น Franklin นี่นา
 finc1au:3186319566,"~z~If you ain't doing anything, I could use some help with these guys!",~z~ถ้านายไม่ได้ทำอะไรอยู่ ฉันต้องการคนมาช่วยจัดการไอ้พวกนี้หน่อย!
 finc1au:3186662123,~z~What you got for me?,~z~แล้วมีอะไรให้ผมไหม?
 finc1au:3196819080,"~z~You know everything, dog.",~z~คุณรู้ทุกอย่างนะเพื่อน
@@ -695,7 +695,7 @@ finc1au:3205099509,"~z~Ah, bite me.",~z~อ้า ไอ้หอก
 finc1au:3213858630,~z~Let's do it!,~z~ลุยกันเลย!
 finc1au:3216545970,~z~Crooked motherfuckers!,~z~ไอ้พวกตำรวจชั่ว!
 finc1au:3221099670,"~z~No, we got some work to do. Can you get us some whereabouts?",~z~ไม่ เรามีงานต้องทำ นายพอจะหาที่อยู่ของพวกนั้นให้เราได้ไหม?
-finc1au:3229993864,"~z~Look, I got my own company - Trevor Philips Industries...",~z~ฟังนะ ฉันมีบริษัทของตัวเองแล้ว - เทรเวอร์ ฟิลิปส์ อินดรัสทรีย์...
+finc1au:3229993864,"~z~Look, I got my own company - Trevor Philips Industries...",~z~ฟังนะ ฉันมีบริษัทของตัวเองแล้ว - Trevor ฟิลิปส์ อินดรัสทรีย์...
 finc1au:3232086526,~z~I took care of them!,~z~ฉันจัดการพวกมันเรียบร้อยแล้ว!
 finc1au:3245867442,"~z~Safe and sound! Ain't that right, buddy?",~z~ปลอดภัยหายห่วง! อย่างนั้นใช่ไหมเพื่อน?
 finc1au:3265949946,"~z~Look, man.",~z~นี่เพื่อน
@@ -710,26 +710,26 @@ finc1au:3320714039,"~z~It's a good gun, and you asking me to put it down is maki
 finc1au:3324656639,~z~Looks like we did it.,~z~ดูเหมือนเราจะทำได้
 finc1au:3341506309,~z~You can't hide forever!,~z~นายซ่อนตัวตลอดไปไม่ได้หรอก!
 finc1au:3348633742,"~z~Eh, is that two bitches or is it fifteen? Man, that's a lot of meat.",~z~เอ้อ นั่นนังตัวดีสองคนหรือสิบห้าคนน่ะ? ให้ตายสิ นั่นมันเนื้อเน้นๆ เลยนะ
-finc1au:3358770573,"~z~Yeah, yeah, I do. Merryweather team was dispatched to protect him at his house in the Tongva Hills.",~z~ใช่ ใช่ ได้แล้ว หน่วยของเมอรี่เวเธอร์ถูกส่งไปคุ้มครองตัวเขาที่บ้าน ใน ตองวา ฮิลล์
+finc1au:3358770573,"~z~Yeah, yeah, I do. Merryweather team was dispatched to protect him at his house in the Tongva Hills.",~z~ใช่ ใช่ ได้แล้ว หน่วยของ Merryweatherถูกส่งไปคุ้มครองตัวเขาที่บ้าน ใน ตองวา ฮิลล์
 finc1au:3360139170,~z~More on the way!,~z~กำลังมากันอีกเพียบ!
 finc1au:3362566111,"~z~Alright. Thanks, dog.",~z~ก็ได้ ขอบคุณนะเพื่อน
 finc1au:3376847077,~t~It's a hit! We need to go!,~t~นี่เป็นการลอบสังหาร! เราต้องไปแล้ว!
-finc1au:3385879039,~z~Trevor.,~z~เทรเวอร์
+finc1au:3385879039,~z~Trevor.,~z~Trevor
 finc1au:3392219547,~z~What's the plan?,~z~แผนคืออะไร?
 finc1au:3397626348,"~z~I'll see you put in the ground, Wheels!",~z~ฉันจะตื๊บให้เละเลย ไอ้ล้อเลื่อน!
-finc1au:3398883355,~z~Lamar. Franklin. They ain't shit.,~z~ลามาร์ แฟรงคลิน พวกนั้นมันไม่มีน้ำยาหรอก
+finc1au:3398883355,~z~Lamar. Franklin. They ain't shit.,~z~Lamar Franklin พวกนั้นมันไม่มีน้ำยาหรอก
 finc1au:3400108396,~z~We'll get through this!,~z~เราจะผ่านเรื่องนี้ไปด้วยกัน!
 finc1au:3400552588,~z~I'm in the shit!,~z~กูกำลังลำบาก!
 finc1au:3402017031,~z~I got a signal from Mr. Harold Joseph's phone over at the B. J. Smith Recreation Center.,~z~ฉันได้รับสัญญาณจากโทรศัพท์ของแฮโรลด์โจเซฟแถวๆ ศูนย์นันทนาการบีเจสมิธ
-finc1au:3404834551,"~z~Oh, shit, you one of Franklin's old-ass homies!",~z~โอ้เวร แกคือไอ้แก่เพื่อนไอ้แฟรงคลิน!
-finc1au:3410084597,~z~They running up on me!,~z~พวกมันกำลังวิ่งกูเข้ามาหาฉัน!
+finc1au:3404834551,"~z~Oh, shit, you one of Franklin's old-ass homies!",~z~โอ้เวร แกคือไอ้แก่เพื่อนไอ้ Franklin!
+finc1au:3410084597,~z~They running up on me!,~z~พวกมันกำลังวิ่งผมเข้ามาหาฉัน!
 finc1au:3415600185,~z~Where we going?,~z~เราจะไปไหนกัน?
 finc1au:3416105113,"~z~Yo, that's fucked up shit, my nigga!",~z~โย่ นั่นมันเรื่องเฮงซวยชัดๆ เลยเพื่อน!
 finc1au:3417475522,~z~Aarrghhh!,~z~อ๊ากกกก!
 finc1au:3418087301,"~z~Uh huh. Yeah, boom.",~z~อาฮะ ใช่ ตูมเลย
 finc1au:3419540033,"~z~Shit, you know he bound to come back.",~z~บ้าชิบ คุณรู้ว่ามันต้องมาอีกแน่
-finc1au:3426227402,"~z~Oh, no. I wouldn't. ~c~~n~Franklin?",~z~โอ้ ไม่ ไม่ทำแน่ ~c~~n~แฟรงคลิน?
-finc1au:3428463141,"~z~Y'know, I-I-I don't know!",~z~ก็แบบ ฉัน-ฉัน-ฉันไม่รู้!
+finc1au:3426227402,"~z~Oh, no. I wouldn't. ~c~~n~Franklin?",~z~โอ้ ไม่ ไม่ทำแน่ ~c~~n~Franklin?
+finc1au:3428463141,"~z~Y'know, I-I-I don't know!",~z~ก็แบบ ผม-ผม-ฉันไม่รู้!
 finc1au:3432227167,"~z~How about downing it, buddy!",~z~สอยมันให้ร่วงเลยไหมเพื่อน!
 finc1au:3435529313,~z~Why ain't you shooting?,~z~ทำไมไม่ยิงล่ะ?
 finc1au:3435629424,"~z~Ain't anybody getting turned again, and you know it.",~z~ไม่มีใครจะเปลี่ยนอะไรแล้ว นายก็รู้แล้ว
@@ -768,7 +768,7 @@ finc1au:3583134250,~z~You got it.,~z~ได้อยู่แล้ว
 finc1au:3585993334,~t~Make them quietly.,~t~จัดการพวกมันเงียบๆ
 finc1au:3622159312,~z~Well let's get it cleaned up.,~z~งั้นก็รีบเก็บกวาดกันซะ
 finc1au:3626940344,~z~A setup for me. It's a weird gun and it's making me nervous. Put it down.,~z~จัดฉากฉันน่ะสิ มันเป็นปืนที่ไม่เข้าท่าและยิ่งทำให้ฉันสติแตก วางลงซะ
-finc1au:3628621169,~z~Franklin!,~z~แฟรงคลิน!
+finc1au:3628621169,~z~Franklin!,~z~Franklin!
 finc1au:3630720551,~z~Screw you!,~z~ไปตายซะ!
 finc1au:3631750578,"~z~Oh, so you ain't the mercurial motherfucker you fronting as, huh?",~z~โอ้ งั้นมึงก็ไม่ใช่ไอ้คนไม่มีหัวใจอย่างที่เห็นสินะ?
 finc1au:3639520684,~t~Tao! My boy!,~t~เถา! ลูกพ่อ!
@@ -795,7 +795,7 @@ finc1au:3727732244,~t~Kill him! Kill him!,~t~ฆ่ามัน! ฆ่ามั
 finc1au:3728395399,~z~Stay with me!,~z~อยู่กับฉันไว้!
 finc1au:3736195293,~z~Shotgun. Whoo! I wanted to ice that fucker since the moment I met him.,~z~ที่นั่งข้างคนขับ วู้ว! ฉันอยากจะจัดการไอ้เวรนั่นตั้งแต่วินาทีแรกที่เจอหน้ามันแล้ว
 finc1au:3738610517,~z~Are they mine?,~z~พวกนั้นเป็นคนของฉันเหรอ?
-finc1au:3738750661,"~z~You one of them old dudes hangs with Franklin. Oh, okay, I get it.",~z~แกคือไอ้พวกที่ไปกับแฟรงคลินสินะ โอ้ โอเค เข้าใจแล้วโว้ย
+finc1au:3738750661,"~z~You one of them old dudes hangs with Franklin. Oh, okay, I get it.",~z~แกคือไอ้พวกที่ไปกับ Franklin สินะ โอ้ โอเค เข้าใจแล้วโว้ย
 finc1au:3740858320,~z~You don't want me as an enemy!,~z~แกไม่อยากเป็นศัตรูกับฉันหรอก!
 finc1au:3748874531,~z~and then you have to act all deflated,~z~แล้วจากนั้นนายก็จะหน้าหดเหลือสองนิ้ว
 finc1au:3750047981,"~z~We finish things here, one way or another.",~z~เราต้องจบเรื่องที่นี่ ไม่ว่าจะด้วยวิธีไหนก็ตาม
@@ -805,9 +805,9 @@ finc1au:3772954753,~z~Should I take 'em?,~z~ฉันควรจัดการ
 finc1au:3775289073,"~z~Yeah, I'm here.",~z~ใช่ ยังอยู่ดี
 finc1au:3780374297,"~z~I need some help man, quick!",~z~มาช่วยฉันหน่อยเพื่อน เร็วเข้า!
 finc1au:3780375702,~z~Are we clear?,~z~เราเคลียร์แล้วใช่ไหม?
-finc1au:3785112350,"~z~Frank, come on, get over here.",~z~แฟรงก์ มาเถอะ มาทางนี้
+finc1au:3785112350,"~z~Frank, come on, get over here.",~z~Frank มาเถอะ มาทางนี้
 finc1au:3789741267,"~z~Alright, alright. I'm coming, dog.",~z~โอเค โอเค ฉันกำลังไป เพื่อน
-finc1au:3791562647,"~z~Eh! You must be Michael. It's Lamar, man. Nice to meet you, finally.",~z~เอ้อ! นายต้องเป็นไมเคิลแน่ๆ ลามาร์เอง ยินดีที่ได้รู้จักนะ ในที่สุดก็ได้เจอกันสักที
+finc1au:3791562647,"~z~Eh! You must be Michael. It's Lamar, man. Nice to meet you, finally.",~z~เอ้อ! นายต้องเป็น Michael แน่ๆ Lamar เอง ยินดีที่ได้รู้จักนะ ในที่สุดก็ได้เจอกันสักที
 finc1au:3791650046,~z~Take the money! Let me go!,~z~เอาเงินไปเลย! ปล่อยฉันไปนะ!
 finc1au:3796339019,"~z~Well that is good, bro. Good. But I learnt one too.",~z~ก็ดีนะเพื่อน ดี แต่กูก็เรียนรู้มาอย่างหนึ่งเหมือนกัน
 finc1au:3803044276,~z~Alright.,~z~ตามนั้น
@@ -817,7 +817,7 @@ finc1au:3810306872,"~z~What I say, a fucked up homie, for a fucked up situation.
 finc1au:3810615219,~z~You're fucked!,~z~ก็มึงซวยนี่!
 finc1au:3811178030,"~z~Hey, man. The way I see it...",~z~เฮ้เพื่อนจากที่ผมเห็นนะ...
 finc1au:3815259895,~z~Can you cap some of these guys?,~z~นายช่วยเก็บไอ้พวกนี้สักหน่อยได้ไหม?
-finc1au:3831807102,"~z~I mean, things could get really messy.",~z~ฉันหมายถึง ทุกอย่างมันต้องเละไม่มีชิ้นดี
+finc1au:3831807102,"~z~I mean, things could get really messy.",~z~คือ ทุกอย่างมันต้องเละไม่มีชิ้นดี
 finc1au:3833191821,~z~Steve Haines to start.,~z~เริ่มที่สตีฟเฮนส์ก่อน
 finc1au:3836265333,~z~They're down!,~z~พวกมันโดนสอยร่วงแล้ว!
 finc1au:3837898208,~z~There's an exit here on this level. I'm going out.,~z~ตรงชั้นนี้มีทางออกอยู่ ฉันกำลังจะออกไป
@@ -830,7 +830,7 @@ finc1au:3898524506,~z~What about that Triad motherfucker?,~z~แล้วไอ�
 finc1au:3900930117,"~z~Only pair of bitches the Stretch tolerate, are the ones that worked his pole last night.",~z~มีแค่อีเวรสองตัวเมึงั้นที่เดอะ สเตรทช์ จะยอม คืออีนังที่ขย่มตอเขาเมื่อคืนนี้
 finc1au:3907911356,"~z~Hey, what's up?",~z~เฮ้ เป็นไงบ้าง?
 finc1au:3917270867,"~z~No, see.",~z~ไม่ เข้าใจนะ
-finc1au:3921166105,"~z~You're right to be afraid, Franklin.",~z~คิดถูกแล้วที่กลัวแฟรงคลิน
+finc1au:3921166105,"~z~You're right to be afraid, Franklin.",~z~คิดถูกแล้วที่กลัว Franklin
 finc1au:3926408417,"~z~You here for me, though, ain't you?",~z~นายมาหาฉันใช่ไหมล่ะ?
 finc1au:3929384556,"~z~flawed,",~z~พวกมีปม
 finc1au:3935530599,~z~He's mine!,~z~มันเป็นของฉัน!
@@ -846,7 +846,7 @@ finc1au:3979961519,"~z~and say, ""No, no, it's just that somebody got the same t
 finc1au:3980676203,"~z~This ends here, people.",~z~เรื่องนี้ต้องจบลงที่นี่แหละทุกคน
 finc1au:3988441038,~z~Attack is on! Defensive positions!,~z~พวกมันบุกมาแล้ว! ประจำตำแหน่งป้องกันไว้!
 finc1au:3988516881,~z~And Devin Weston's ass.,~z~และก็ไอ้เดวิน เวสตัน
-finc1au:3990991131,~z~Here's Merryweather - coming in on the upper catwalk on Franklin's side!,~z~เมอร์รีเวทเธอร์มาแล้ว - อยู่บนทางเดินด้านบนฝั่งของแฟรงคลิน!
+finc1au:3990991131,~z~Here's Merryweather - coming in on the upper catwalk on Franklin's side!,~z~เมอร์รีเวทเธอร์มาแล้ว - อยู่บนทางเดินด้านบนฝั่งของ Franklin!
 finc1au:3991200822,"~z~Oh, that angry rich fucker",~z~โอ้ ไอ้เศรษฐีหอกนั่น
 finc1au:3993697516,~t~Get us out!,~t~พาเราออกไป!
 finc1au:3993863578,~z~There he go.,~z~มันอยู่นั่นไง
@@ -855,7 +855,7 @@ finc1au:4000142962,~z~This is a shit show!,~z~เทศกาลปล่อย�
 finc1au:4001628647,~z~I need some help over here!,~z~ฉันต้องการคนช่วยทางนี้หน่อย!
 finc1au:4006408830,~z~And the other one?,~z~แล้วอีกคนล่ะ?
 finc1au:4009737000,"~z~You might be about to pull that again with Merryweather, for all I know.",~z~ที่ฉันรู้ แกอาจจะทำแบบเดียวกันกับพวกเมอรี่เวธอร์อีกก็ได้
-finc1au:4016489850,~z~Trevor.,~z~เทรเวอร์
+finc1au:4016489850,~z~Trevor.,~z~Trevor
 finc1au:4030305725,~z~You creepy bum!,~z~ไอ้ประสาทเอ้ย!
 finc1au:4032579619,"~z~When we clear the interior, we'll come out to you.",~z~เมื่อเราเคลียร์ข้างในเสร็จ เราจะออกไปหานะ
 finc1au:4033880780,"~z~Hey look, hear me out, man. If it's too heavy for you, you can back out, no drama.",~z~เฮ้ ฟังฉันนะเพื่อน ถ้ามันหนักเกินไปสำหรับนาย นายถอนตัวได้นะ ไม่มีดร่าม่า
@@ -866,15 +866,15 @@ finc1au:4052153991,"~z~Oh, I got him. I got him. Let's keep him clear of know as
 finc1au:4064978641,"~z~You actually doing something for your homies for a change? Hell yeah, I'm in.",~z~มึงกำลังจะช่วยเพื่อนของมึงงั้นเหรอ? ให้ตายสิ กูเอาด้วย
 finc1au:4070046360,"~z~No, we got some work to do.",~z~ไม่ เรามีเรื่องต้องจัดการ
 finc1au:4075125340,"~z~Uh huh. You, ah, just calling for a chat?",~z~อาฮะ นาย เอ่อ แค่โทรมาคุยเล่นเหรอ?
-finc1au:4101287205,"~z~Ah, there's Frank.",~z~อา นั่นแฟรงก์นี่นา
+finc1au:4101287205,"~z~Ah, there's Frank.",~z~อา นั่น Frank นี่นา
 finc1au:4102614416,~z~Why ain't this old bitch been shot yet!?,~z~ทำไมอีแก่รอยัลนี่ถึงยังไม่โดนยิงสักที!?
 finc1au:4116984533,"~z~Y'all like that, right?",~z~พวกนายชอบแบบนั้นใช่ไหมล่ะ?
 finc1au:4118348292,~z~We got some more to deal with!,~z~มีพวกมันมาให้เราจัดการเพิ่มอีกแล้ว!
 finc1au:4118988128,"~z~DW pays our salaries, people! Come on!",~z~เดวินเวสตันเป็นคนจ่ายเงินเดือนเรานะทุกคน! เร็วเข้า!
-finc1au:4124658387,~z~Trevor Philips has left the building!,~z~เทรเวอร์ฟิลิปส์ออกจากตึกไปแล้ว!
+finc1au:4124658387,~z~Trevor Philips has left the building!,~z~Trevor ฟิลิปส์ออกจากตึกไปแล้ว!
 finc1au:4126549519,~z~Is the chin? How's the chin?,~z~แล้วคางล่ะ? คางฉันเป็นไง?
 finc1au:4130472854,~z~Nah. Not really.,~z~ไม่ล่ะ ก็ไม่เชิง
-finc1au:4137409868,~z~How did Trevor Philips get that close? I need an extraction!,~z~เทรเวอร์ฟิลิปส์เข้ามาใกล้ขนาดนี้ได้ยังไง? ฉันต้องการคนพาออกไปเดี๋ยวนี้!
+finc1au:4137409868,~z~How did Trevor Philips get that close? I need an extraction!,~z~Trevor ฟิลิปส์เข้ามาใกล้ขนาดนี้ได้ยังไง? ฉันต้องการคนพาออกไปเดี๋ยวนี้!
 finc1au:4146190616,"~z~Start shooting, a'ight?",~z~เริ่มยิงได้แล้ว โอเคไหม?
 finc1au:4147993634,~z~Can I kill 'em?,~z~ฉันฆ่าพวกมันได้ไหม?
 finc1au:4153716019,~z~Homies! Where the fuck y'all goin?,~z~ทุกคน! พวกแกจะไปไหนกันวะ?
@@ -884,12 +884,12 @@ finc1au:4172875774,"~z~A. Known to be a major asshole,",~z~ข้อหนึ่
 finc1au:4176176055,~z~What's up? Huh?,~z~ว่าไง?
 finc1au:4176537082,~z~Keep your heads!,~z~ตั้งสติไว้!
 finc1au:4181319277,"~z~Shit, nigga. You getting me all emotional now. Nigga, might have to stop me from sucking your dick, nigga.",~z~บ้าชะมัดเพื่อน แกทำกูดราม่าน้ำตาแตกนะ คงต้องหยุดไม่ให้กูบ๊วบไอ้จ้อนแกแล้ว ไอ้เวรเอ้ย
-finc1au:4182302650,"~z~It's Lamar, dog. But I think you know that!",~z~ลามาร์เองเพื่อน แต่ฉันว่านายก็น่าจะรู้อยู่แล้วนะ!
+finc1au:4182302650,"~z~It's Lamar, dog. But I think you know that!",~z~Lamar เองเพื่อน แต่ฉันว่านายก็น่าจะรู้อยู่แล้วนะ!
 finc1au:4186453501,"~z~I'ma retire your ass, for good, fool.",~z~กูจะส่งมึงไปลงนรกตลอดกาลเลยไอ้โง่
 finc1au:4189030667,~z~If I tell them both,~z~ถ้าฉันบอกข่าวมันทั้งคู่
 finc1au:4189678017,"~z~God, this is crap.",~z~เพราะเจ้า ห่วยแตกชะมัด
 finc1au:4201161141,~z~Ah.,~z~อ่า.
-finc1au:4202553892,"~z~Hey, Franklin's buddy. Thanks man.",~z~เฮ้ เพื่อนของแฟรงคลิน ขอบใจนะเพื่อน
+finc1au:4202553892,"~z~Hey, Franklin's buddy. Thanks man.",~z~เฮ้ เพื่อนของ Franklin ขอบใจนะเพื่อน
 finc1au:4203860309,~z~I'm getting kinda bored of killing you pricks!,~z~ฉันเริ่มจะเบื่อกับการฆ่าไอ้พวกสวะอย่างพวกนายแล้วนะ!
 finc1au:4208827030,~z~Is anyone gonna help me?,~z~จะมีใครมาช่วยฉันบ้างไหม?
 finc1au:4213170452,"~z~Blast some of them, a'ight?",~z~สอยพวกมันสักหน่อยสิ โอเคไหม?
@@ -905,6 +905,6 @@ finc1au:4250600226,~z~I don't know what the fuck to do right now.,~z~ผมไ�
 finc1au:4259524880,~z~I'm going to get you!,~z~ฉันจะเล่นงานแก!
 finc1au:4260259713,~z~So does that mean I don't have to go to therapy?,~z~งั้นแปลว่าฉันก็ไม่ต้องบำบัดสิ?
 finc1au:4261126106,"~z~Oh, shit. You doin' somethin' for the homies?",~z~โอ้ ให้ตายสิ มึงกำลังทำอะไรบางอย่างเพื่อเพื่อนพ้องอยู่เหรอ?
-finc1au:4265742560,~z~I'm gonna get in touch with Michael and Trevor.,~z~ฉันจะไปบอกไมเคิลและเทรเวอร์
+finc1au:4265742560,~z~I'm gonna get in touch with Michael and Trevor.,~z~ฉันจะไปบอก Michael และ Trevor
 finc1au:4277621695,"~z~Come on, come on.",~z~เร็วเข้าๆ
-finc1au:4286107321,"~z~This is a serious offer! Work for me, you'll have everything you've ever wanted.",~z~นี่เป็นข้อเสนอจริงจังนะ! มาทำงานให้ฉัน แล้วนายจะได้ทุกอย่างที่ต้องการ
+finc1au:4286107321,"~z~This is a serious offer! Work for me, you'll have everything you've ever wanted.",~z~นี่เป็นข้อเสนอจริงจังนะ! มาทำงานให้ผม แล้วนายจะได้ทุกอย่างที่ต้องการ

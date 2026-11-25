@@ -1,33 +1,33 @@
 ﻿id,en,th
-sol5:109534450,Meet ~b~Jimmy.,ไปพบ ~b~จิมมี่
+sol5:109534450,Meet ~b~Jimmy.,ไปพบ ~b~Jimmy
 sol5:210032234,Go to the ~y~red carpet.,ไปที่ ~y~งานพรมแดง
 sol5:502979561,The movie premiere was ruined.,งานภาพยนตร์รอบปฐมทัศน์ถูกทำลาย
-sol5:1098314339,~s~Michael's family were not saved in time.,~s~ครอบครัวของไมเคิลไม่ได้รับการช่วยทันเวลา
+sol5:1098314339,~s~Michael's family were not saved in time.,~s~ครอบครัวของMichael ไม่ได้รับการช่วยทันเวลา
 sol5:1121706792,~s~More ~r~Merryweather~s~ are arriving around at the front of the house.,~s~มีพวก~r~Merryweather~s~เข้ามาเพิ่มที่ด้านหน้าของบ้าน
 sol5:1124695565,~s~Press ~INPUT_VEH_CIN_CAM~ to toggle the limo-cam.,~s~กด ~INPUT_VEH_CIN_CAM~ เพื่อสลับเป็นมุมรถลิมูซีน
-sol5:1166000874,Change into your tuxedo in ~y~Ponsonbys~s~ to attend the Meltdown premiere.,เปลี่ยนเป็นชุดทักซิโด้ของคุณใน ~y~พอนซันบีส์~s~เพื่อเข้าร่วมงานรอบปฐมทัศน์ เมลต์ดาวน์
-sol5:1290331723,~s~Tracey died.,~s~เทรซี่ย์ตายแล้ว
+sol5:1166000874,Change into your tuxedo in ~y~Ponsonbys~s~ to attend the Meltdown premiere.,เปลี่ยนเป็นชุดทักซิโด้ของคุณใน ~y~Ponsonbys~s~เพื่อเข้าร่วมงานรอบปฐมทัศน์ เมลต์ดาวน์
+sol5:1290331723,~s~Tracey died.,~s~Tracey ตายแล้ว
 sol5:1389535544,~s~Take out the ~r~hostage taker.,~s~จัดการ ~r~คนจับตัวประกัน
-sol5:1417355052,~s~Find ~b~Tracey.,~s~หา ~b~เทรซี่ย์
+sol5:1417355052,~s~Find ~b~Tracey.,~s~หา ~b~Tracey
 sol5:1658613487,~s~Go inside the ~y~house.,~s~เข้าไปใน ~y~บ้าน
 sol5:1690726520,You missed the premiere.,คุณพลาดรอบปฐมทัศน์
 sol5:1716069546,You left the limo.,คุณออกจากรถลิมูซีน
 sol5:1907892699,~s~Save your ~b~family.,~s~ช่วย ~b~ครอบครัวของคุณ
 sol5:2059840724,The limo driver died.,คนขับรถลิมูซีนตายแล้ว
-sol5:2179022824,~s~Michael's family were abandoned.,~s~ครอบครัวของไมเคิลถูกละทิ้ง
+sol5:2179022824,~s~Michael's family were abandoned.,~s~ครอบครัวของMichael ถูกละทิ้ง
 sol5:2452531869,Lazlow Jones,ลาซโล่ว์ โจนส์
 sol5:2579417578,"You got 2 minutes to sacrifice yourself for your family, dickhead!",แกมีเวลา 2 นาทีที่จะสังเวยตัวเองเพื่อครอบครัวของแก ไอ้หอก!
 sol5:2691680031,Red Carpet Laz-lowdown,งานพรมแดง ลาซ-โลว์ดาวน์
-sol5:2726418758,You led the cops to Michael's home.,คุณพาตำรวจไปที่บ้านของไมเคิล
+sol5:2726418758,You led the cops to Michael's home.,คุณพาตำรวจไปที่บ้านของMichael
 sol5:2758774457,~s~Go to your ~b~family.,~s~ไปที่ ~b~ครอบครัวของคุณ
-sol5:2785985878,~s~Clear the house of ~r~Merryweather.,~s~เคลียร์บ้านจาก ~r~พวกเมอรี่เวเธอร์
-sol5:2941650272,~s~Clear the outside of ~r~Merryweather.,~s~เคลียร์ด้านนอกจาก ~r~พวกเมอรี่เวเธอร์
+sol5:2785985878,~s~Clear the house of ~r~Merryweather.,~s~เคลียร์บ้านจาก ~r~Merryweather
+sol5:2941650272,~s~Clear the outside of ~r~Merryweather.,~s~เคลียร์ด้านนอกจาก ~r~Merryweather
 sol5:3201852495,Get in the ~b~limousine.,เข้าไปใน ~b~รถลิมูซีน
 sol5:3250951549,The limo was destroyed.,รถลิมูซีนถูกทำลาย
 sol5:3262685204,~s~Press ~INPUT_SCRIPT_PAD_RIGHT~ to toggle the limo-cam.,~s~กด ~INPUT_SCRIPT_PAD_RIGHT~ เพื่อสลับเป็นมุมของรถลิมูซีน
-sol5:3342588257,Ponsonbys closed.,พอนซันบีส์ ปิดแล้ว
-sol5:3597091591,~s~Jimmy died.,~s~จิมมี่ตายแล้ว
-sol5:3928350768,Try using Michael's special ability to help you during combat.  Press ~INPUT_SPECIAL_ABILITY_PC~ when the special ability bar has some charge.~s~,ลองใช้ความสามารถพิเศษของไมเคิลเพื่อช่วยคุณในระหว่างการต่อสู้ กด ~INPUT_SPECIAL_ABILITY_PC~ เมื่อแถบความสามารถพิเศษมีการเพิ่มขึ้น~s~
-sol5:3958133450,~s~Amanda died.,~s~อแมนด้าตายแล้ว
+sol5:3342588257,Ponsonbys closed.,Ponsonbys ปิดแล้ว
+sol5:3597091591,~s~Jimmy died.,~s~Jimmy ตายแล้ว
+sol5:3928350768,Try using Michael's special ability to help you during combat.  Press ~INPUT_SPECIAL_ABILITY_PC~ when the special ability bar has some charge.~s~,ลองใช้ความสามารถพิเศษของMichael เพื่อช่วยคุณในระหว่างการต่อสู้ กด ~INPUT_SPECIAL_ABILITY_PC~ เมื่อแถบความสามารถพิเศษมีการเพิ่มขึ้น~s~
+sol5:3958133450,~s~Amanda died.,~s~Amanda ตายแล้ว
 sol5:3964872174,Try using Michael's special ability to help you during combat.  Press ~INPUT_SPECIAL_ABILITY~ and ~INPUT_SPECIAL_ABILITY_SECONDARY~ simultaneously when the special ability bar has some charge.~s~,ลองใช้ความสามารถพิเศษของ Michael ช่วยในการต่อสู้ กด ~INPUT_SPECIAL_ABILITY~ และ ~INPUT_SPECIAL_ABILITY_SECONDARY~ พร้อมกันเมื่อแถบความสามารถพิเศษมีชาร์จ~s~
-sol5:4215352942,Buy a tuxedo in ~y~Ponsonbys~s~ to attend the Meltdown premiere.,ซื้อทักซิโด้ใน ~y~พอนซันบีส์~s~เพื่อเข้าร่วมงานรอบปฐมทัศน์ เมลต์ดาวน์
+sol5:4215352942,Buy a tuxedo in ~y~Ponsonbys~s~ to attend the Meltdown premiere.,ซื้อทักซิโด้ใน ~y~Ponsonbys~s~เพื่อเข้าร่วมงานรอบปฐมทัศน์ เมลต์ดาวน์

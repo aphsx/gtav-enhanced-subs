@@ -1,6 +1,6 @@
 ﻿id,en,th
 exilaud:64561193,~z~You're fucking dead.,~z~แกตายแน่
-exilaud:202815060,"~z~The great homecoming. Los Santos has missed you, Michael... so have my boys.",~z~ยินดีต้อนรับกลับบ้าน ลอส ซานโตส คิดถึงนายนะไมเคิล เด็กๆ ของฉันด้วย
+exilaud:202815060,"~z~The great homecoming. Los Santos has missed you, Michael... so have my boys.",~z~ยินดีต้อนรับกลับบ้าน ลอส ซานโตส คิดถึงนายนะMichael เด็กๆ ของฉันด้วย
 exilaud:245215409,~z~Ah. Brother O'Neil.,~z~ไงล่ะ พี่น้องโอ'นีล
 exilaud:286829117,"~z~T! Eh, man...",~z~ที! เดี๋ยวสิเพื่อน...
 exilaud:370028053,~z~I will find you!,~z~ฉันจะตามล่าแก!
@@ -9,7 +9,7 @@ exilaud:807297713,~z~What's this about you beefing with Martin Madrazo?,~z~เ�
 exilaud:808612306,"~z~Don't' mind me, Marty. I'm just here to kill some of your people.",~z~ไม่ต้องสนฉันหรอกมาร์ตี้ ฉันแค่จะมาฆ่าคนของนายเล่นๆ
 exilaud:836036002,"~z~Patricia doesn't want to speak to you, and, frankly, neither do I.",~z~แพทริเซียเธอไม่อยากคุยกับนาย และบอกตรงๆ นะ ฉันเองก็เหมือนกัน
 exilaud:883485050,"~z~I'm told you've come back to Los Santos, Trevor. Tell me where my wife is before you are killed.",~z~ฉันบอกคนของฉันว่านายกลับมาลอส ซานโตส แล้ว บอกมาว่าเมียฉันอยู่ไหนก่อนนายจะถูกฆ่า
-exilaud:969990397,"~z~My spotters saw you coming into the city, Michael. You will be dead soon.",~z~คนส่งข่าวฉันเห็นนายกลับเข้าเมือง ไมเคิล อีกเดี๋ยวได้ตายสมใจแน่
+exilaud:969990397,"~z~My spotters saw you coming into the city, Michael. You will be dead soon.",~z~คนส่งข่าวฉันเห็นนายกลับเข้าเมือง Michael อีกเดี๋ยวได้ตายสมใจแน่
 exilaud:1067882435,"~z~Hey, you want to expedite the situation, come fucking find me.",~z~เฮ้ ถ้าอยากจบเรื่องนี้ให้เร็วๆ ก็มาหากูสิวะ
 exilaud:1167432856,"~z~My spotters tell me you're back in Los Santos, Mr. Philips. What excellent news.",~z~คนส่งข่าวฉันบอกว่านายกลับมาลอส ซานโตส แล้ว คุณฟิลิปส์ ข่าวดีอะไรอย่างนี้
 exilaud:1286183759,~z~Where is my wife?!?,~z~เมียฉันอยู่ไหน?!?
@@ -20,19 +20,19 @@ exilaud:1531688639,"~z~She's a long way from your lies and your abuse, Martin.",
 exilaud:1584366728,~z~What have you done?! What have you done?!? Where is she?!?,~z~แกทำอะไร?! แกทำอะไร?!? เธออยู่ที่ไหน?!?
 exilaud:1657888280,"~z~Aren't we all? We live and we die, that's our curse.",~z~ทุกคนก็ต้องตาย เราอยู่แล้วก็ตายไป นั่นแหละวิถีของเรา
 exilaud:1685659119,"~z~Well, I ain't surprised. I heard some funny stories about some dude pinching a really nasty Mexican's dude wife,",~z~อืม ฉันก็ไม่ได้แปลกใจเท่าไหร่นะ ฉันได้ยินเรื่องตลกๆ เกี่ยวกับผู้ชายบางคนที่ไปฉุดเมียของไอ้พวกเม็กซิกันใจคอโหดเหี้ยมมา
-exilaud:1708304398,"~z~Franklin, buddy. Wassup?",~z~แฟรงคลิน ไงเพื่อน วอทแซ่บบ?
+exilaud:1708304398,"~z~Franklin, buddy. Wassup?",~z~Franklin ไงเพื่อน วอทแซ่บบ?
 exilaud:1759138736,"~z~Martin. You know, I've been thinking about it, and I'm not quite sure if I'm ready to accept an apology.",~z~มาร์ติน ฉันมาคิดดูแล้ว ฉันไม่แน่ใจว่าจะรับคำขอโทษจากนายนะ
 exilaud:1990198709,"~z~I'll be there, man. I don't know when, but I'll be there.",~z~ฉันไปแน่ ไม่รู้ตอนไหนแต่ว่าไปแน่
-exilaud:2007942234,"~z~and im thinking to myself, maybe thats my man Trevor.",~z~แล้วฉันก็คิดกับตัวเองว่า บางทีนั่นอาจจะเป็นเทรเวอร์เพื่อนฉันก็ได้
+exilaud:2007942234,"~z~and im thinking to myself, maybe thats my man Trevor.",~z~แล้วฉันก็คิดกับตัวเองว่า บางทีนั่นอาจจะเป็นTrevor เพื่อนฉันก็ได้
 exilaud:2099149412,~z~That's all you need to know.,~z~นั่นแหละที่นายต้องรู้
-exilaud:2210335097,~z~Trevor!!!,~z~เทรเวอร์!!!
+exilaud:2210335097,~z~Trevor!!!,~z~Trevor!!!
 exilaud:2239129429,"~z~Hey look, there's these redneck dudes been looking for you, homie. Some angry motherfuckers.",~z~เฮ้ฟังนะ มีไอ้พวกบ้านนอกสามคนกำลังหาตัวมึงอยู่นะเพื่อน กำลังคลั่งน่าดูเลย
 exilaud:2401383982,"~z~Well, I better kill that little birdy, and all the big armed birdies you send after me.",~z~งั้นฉันควรจะฆ่านกน้อยตัวนั้นทิ้งซะ รวมถึงไอ้นกยักษ์ติดอาวุธที่นายส่งมาตามล่าฉันด้วย
 exilaud:2477439697,~z~You had too many brothers. They needed culling.,~z~แกมีพี่น้องเยอะเกินไป ต้องมีการคัดตัวบ้างสิ
 exilaud:2511620489,"~z~How many you wanna lose, Martin. How many?!",~z~อยากให้ตายกันกี่คนล่ะมาร์ติน กี่คน?!
 exilaud:2587675886,"~z~Vespucci Beach, Los Santos, you inbred hillbilly fuck.",~z~เวสปุชชี่บีช ลอสซานโตส ไอ้บ้านนอกคอกนา
 exilaud:2712281028,"~z~I found where they stay man, and I been following them...",~z~ผมเจอพวกมันและกำลังตามพวกมันอยู่...
-exilaud:2797568276,"~z~Welcome back to Los Santos, Michael. I'm sorry you won't be alive long enough to enjoy it here.",~z~ต้อนรับกลับสู่ลอส ซานโตส นะไมเคิล โทษทีนายคงอยู่ชื่นชมที่นี่ได้อีกไม่นานนัก
+exilaud:2797568276,"~z~Welcome back to Los Santos, Michael. I'm sorry you won't be alive long enough to enjoy it here.",~z~ต้อนรับกลับสู่ลอส ซานโตส นะMichael โทษทีนายคงอยู่ชื่นชมที่นี่ได้อีกไม่นานนัก
 exilaud:2837865928,"~z~You burned the farm, killed my brothers.",~z~แกเผาไร่กู ฆ่าพี่น้องกู
 exilaud:2840155401,"~z~If you say so. Watch out, okay?",~z~ถ้านายว่าอย่างนั้นนะ ระวังตัวด้วยล่ะ โอเคไหม?
 exilaud:2970812494,"~z~As long as you die, it really doesn't matter.",~z~ก็มากจนกว่านายตาย เท่าไหร่ไม่สำคัญ
@@ -42,7 +42,7 @@ exilaud:3175601919,~z~Okay. That's got to be the O'Neil brothers - what's left o
 exilaud:3434491111,~z~Whoa. Whoa. Whoa. You're the guy stealing contracts.,~z~โว้ว โว้ว โว้ว นายต่างหากที่เป็นคนขโมยข้อตกลง
 exilaud:3435535362,"~z~Nothing to worry about, my paranoid friend, it's all under control.",~z~ไม่มีอะไรต้องกังวลหรอกเพื่อนจอมระแวงของฉัน ทุกอย่างอยู่ภายใต้การควบคุม
 exilaud:3521134507,"~z~M'kay, well, I'll put some coffee on then. I'll see you soon.",~z~อ๋อเหรอ ฉันจะชงกาแฟไว้รอนะเพื่อน แล้วเจอกัน
-exilaud:3634466226,~z~I'll pick up Michael and we'll come to you.,~z~ฉันจะไปรับไมเคิลแล้วตามไปเจอนาย
+exilaud:3634466226,~z~I'll pick up Michael and we'll come to you.,~z~ฉันจะไปรับMichael แล้วตามไปเจอนาย
 exilaud:3795834874,"~z~Fuck you, man.",~z~ไปตายซะ
 exilaud:3975109716,"~z~If he connects us, we're finished. In every sense, man.",~z~ถ้าเขาสืบมาถึงพวกเราได้ เราจบเห่แน่ จบเห่ในทุกๆ ความหมายเลยเพื่อน
 exilaud:4067699871,"~z~She's safe, look, I'm going to find a way to make this right with you...",~z~เธอปลอดภัย ฟังนะฉันกำลังหาทางทำให้เรื่องนี้มันถูกต้อง...

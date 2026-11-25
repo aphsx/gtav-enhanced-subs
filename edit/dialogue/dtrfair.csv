@@ -1,4 +1,4 @@
-﻿id,en,th
+id,en,th
 dtrfair:34705556,~s~To raise the landing gear press ~INPUT_VEH_FLY_UNDERCARRIAGE~ ~s~,~s~กด ~INPUT_VEH_FLY_UNDERCARRIAGE~ เพื่อเก็บฐานล้อ ~s~
 dtrfair:45446861,~s~Use ~INPUTGROUP_SCRIPT_LSTICK_ALL~ to adjust the bomb's horizontal trajectory.~s~,~s~ใช้ ~INPUTGROUP_SCRIPT_LSTICK_ALL~ เพื่อปรับวิถีแนวราบของระเบิด ~s~
 dtrfair:66797479,Accurate Drop Bonus,โบนัสความแม่นยำในการส่ง

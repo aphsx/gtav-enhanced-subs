@@ -1,25 +1,25 @@
 ﻿id,en,th
-ass_bs:165238313,~s~Franklin's cover was blown.~s~,~s~การพรางตัวของแฟรงคลินถูกเปิดเผย~s~
-ass_bs:211371620,Bus,รสบัส
+ass_bs:165238313,~s~Franklin's cover was blown.~s~,~s~การพรางตัวของ Franklin ถูกเปิดเผย~s~
+ass_bs:211371620,Bus,รถบัส
 ass_bs:345968553,Completion - Bronze,เสร็จสิ้น - บรอนซ์
-ass_bs:412347003,Bus Assassination,การลอบสังหารรถบัส
+ass_bs:412347003,Bus Assassination,การลอบสังหารบนรถบัส
 ass_bs:444572437,~s~Parking near a bus stop will attract passengers to board the bus.~s~,~s~จอดรถใกล้กับป้ายรถเมล์จะทำให้ผู้โดยสารขึ้นรถบัส~s~
-ass_bs:520132171,Alesandro Hotel,โรงแรม อเลสซานโดร
+ass_bs:520132171,Alesandro Hotel,Alesandro Hotel
 ass_bs:661814409,Money Earned,ได้รับเงิน
-ass_bs:799292333,~s~Franklin died.~s~,~s~แฟรงคลินตายแล้ว~s~
+ass_bs:799292333,~s~Franklin died.~s~,~s~Franklin ตายแล้ว~s~
 ass_bs:804724398,~s~The target escaped.~s~,~s~เป้าหมายหลบหนี~s~
 ass_bs:864168448,~s~Head to the ~y~Dashound Bus Center.~s~,~s~มุ่งหน้าไปที่ ~y~ศูนย์รถบัส แดซฮาวด์~s~
 ass_bs:914999788,~s~Lose the Cops.~s~,~s~หนีตำรวจ~s~
 ass_bs:927466370,~s~The bus was destroyed.~s~,~s~รถบัสถูกทำลาย~s~
-ass_bs:969377678,~s~Return to the area.,~s~กลับไปยังพื้นที่
+ass_bs:969377678,~s~Return to the area.,~s~กลับไปยังพื้นที่~s~
 ass_bs:1277102342,Continue,ดำเนินการต่อ
-ass_bs:1472042553,Completion - Gold,เสร็จสิ้น - ทองคำ
-ass_bs:1679663236,Mission Row,มิชชั่น โรว์
+ass_bs:1472042553,Completion - Gold,เสร็จสิ้น - ทอง
+ass_bs:1679663236,Mission Row,Mission Row
 ass_bs:1684750918,~s~Steal the bus and use it as cover to search for the target at nearby stops. Avoid causing harm to innocents to maintain your cover.~s~,~s~ขโมยรถบัสและใช้อำพรางตัวเพื่อค้นหาเป้าหมายบริเวณที่หยุดรถ หลีกเลี่ยงการก่ออันตรายต่อผู้บริสุทธิ์ เพื่อรักษาการพรางตัวของคุณ~s~
 ass_bs:2039908752,~s~The bus was abandoned.~s~,~s~รถบัสถูกละทิ้ง~s~
 ass_bs:2046487849,~s~Drive to each ~y~bus stop~s~ until the target is located.~s~,~s~ขับไป ~y~ป้ายรถเมล์~s~ แต่ละจุดจนกว่าจะพบเป้าหมาย~s~
-ass_bs:2070859558,San Andreas Blvd.,ซาน แอนเดรียส บูเลอวาร์ด
-ass_bs:2218746926,Completion,ความสำเร็จ
+ass_bs:2070859558,San Andreas Blvd.,San Andreas Blvd.
+ass_bs:2218746926,Completion,สำเร็จ
 ass_bs:2378073932,~s~Exit the bus.~s~,~s~ออกจากรถบัส~s~
 ass_bs:2398537393,~s~Press ~INPUT_VEH_CIN_CAM~ to view inside the bus.~s~,~s~กด ~INPUT_VEH_CIN_CAM~ เพื่อดูภายในรถบัส~s~
 ass_bs:2410710554,Completion - No Medal,เสร็จสิ้น - ไม่มีเหรียญ
@@ -28,11 +28,11 @@ ass_bs:2659222134,~s~Get back in the ~b~bus.~s~,~s~กลับไปที่ ~
 ass_bs:2682470187,Time Taken,ใช้เวลา
 ass_bs:2754391826,Completion - Silver,เสร็จสิ้น - เงิน
 ass_bs:3052461824,~s~Get the ~b~bus.~s~,~s~ไปเอา ~b~รถบัส~s~
-ass_bs:3147855209,Base Reward,จากเงินรางวัล
+ass_bs:3147855209,Base Reward,รางวัลพื้นฐาน
 ass_bs:3241877861,Mission Passed,ภารกิจสำเร็จ
-ass_bs:3266239917,Olympic Fwy.,โอลิมปิก ฟรีเวย์
+ass_bs:3266239917,Olympic Fwy.,Olympic Fwy.
 ass_bs:3298457138,~s~The mission will fail if the bus is abandoned~s~.,~s~ภารกิจจะล้มเหลวหากรถบัสถูกละทิ้ง~s~
 ass_bs:3814728814,~s~The mission was abandoned.~s~,~s~ภารกิจถูกละทิ้ง~s~
 ass_bs:3818924948,~s~Leave the area.~s~,~s~ออกจากพื้นที่~s~
 ass_bs:3917504039,~s~Assassinate the ~r~target.~s~,~s~ลอบสังหาร ~r~เป้าหมาย~s~
-ass_bs:4151611162,Hit and Run Bonus,โบนัส ชนแล้วชิ่ง
+ass_bs:4151611162,Hit and Run Bonus,โบนัสชนแล้วหนี

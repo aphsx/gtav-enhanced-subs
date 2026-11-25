@@ -1,26 +1,26 @@
 ﻿id,en,th
-bsprep:435193066,~s~Lower the engine onto the ~b~trailer.,~s~หย่อน หัวรถจัก ลงบน ~b~รถพว่ง
-bsprep:689566949,~s~Press ~INPUT_CONTEXT~ to change the sidings.,~s~กด ~INPUT_CONTEXT~ เพื่อเปลี่ยน ทางเลี่ยง
-bsprep:886722868,~s~Pick up the ~b~freight engine.,~s~จับ ~b~หัวรถจักร
-bsprep:931664078,SWITCH to Trevor.,เปลี่ยนเป็น เทรเวอร์
-bsprep:967064696,~s~Lower the flatbed onto the ~b~trailer.,~s~ลดระดับรถยกลงบน ~b~รถพ่วง
-bsprep:1278320475,~s~Get to the ~y~signal box.,~s~ไปที่ ~y~กล่องสัญญาณ
-bsprep:1652358924,~s~Wait until Franklin uncouples the ~b~freight engine.,~s~รอจนกระทั่งแฟรงคลินปลดการเชื่อมต่อ ~b~หัวรถจักร
+bsprep:435193066,~s~Lower the engine onto the ~b~trailer.,~s~หย่อนหัวรถจักลงบน ~b~รถพ่วง
+bsprep:689566949,~s~Press ~INPUT_CONTEXT~ to change the sidings.,~s~กด ~INPUT_CONTEXT~ สลับทางแยก
+bsprep:886722868,~s~Pick up the ~b~freight engine.,~s~เก็บ ~b~หัวรถจักสินค้า
+bsprep:931664078,SWITCH to Trevor.,สลับไปที่ Trevor
+bsprep:967064696,~s~Lower the flatbed onto the ~b~trailer.,~s~หย่อนรถพื้นเรียบลงบน ~b~รถพ่วง
+bsprep:1278320475,~s~Get to the ~y~signal box.,~s~ไปที่ ~y~ห้องสัญญาณ
+bsprep:1652358924,~s~Wait until Franklin uncouples the ~b~freight engine.,~s~รอจน Franklin ตัดขบวน ~b~หัวรถจัก
 bsprep:1674503919,The truck was destroyed.,รถบรรทุกถูกทำลาย
-bsprep:1701835309,~s~The sidings cannot be activated when a train is present.,~s~ทางเลี่ยง ไม่สามารถใช้งานได้เมื่อมีรถไฟอยู่
-bsprep:1892381535,The train was not stolen.,รถไฟไม่ถูกขโมย
-bsprep:2293968256,Wait for a train to stop in the sidings.,รอให้รถไฟหยุดใน ทางเลี่ยง
-bsprep:2316356922,~s~Incapacitate the ~r~railway workers.,~s~ทำให้คนงานรถไฟ ~r~ไร้ความสามารถ
-bsprep:2439833593,~s~Press ~INPUT_VEH_GRAPPLING_HOOK~ to activate the electromagnet.,~s~กด ~INPUT_VEH_GRAPPLING_HOOK~ เพื่อเปิดการทำงานแม่เหล็กไฟฟ้า
-bsprep:2466441149,~s~Take the flatbed to ~y~Trevor's airstrip.,~s~นำ รถยก ไปที่ ~y~ลานบินของเทรเวอร์
-bsprep:2555603644,~s~Wait until Trevor uncouples the ~b~freight engine.,~s~รอจนกระทั่งเทรเวอร์ปลดการเชื่อมต่อ ~b~หัวรถจักร
+bsprep:1701835309,~s~The sidings cannot be activated when a train is present.,~s~เปิดทางแยกไม่ได้เมื่อมีรถไฟอยู่
+bsprep:1892381535,The train was not stolen.,ไม่ได้ขโมยรถไฟ
+bsprep:2293968256,Wait for a train to stop in the sidings.,รอรถไฟจอดที่ทางแยก
+bsprep:2316356922,~s~Incapacitate the ~r~railway workers.,~s~จัดการ ~r~คนงานรถไฟ
+bsprep:2439833593,~s~Press ~INPUT_VEH_GRAPPLING_HOOK~ to activate the electromagnet.,~s~กด ~INPUT_VEH_GRAPPLING_HOOK~ เปิดแม่เหล็กไฟฟ้า
+bsprep:2466441149,~s~Take the flatbed to ~y~Trevor's airstrip.,~s~เอารถพื้นเรียบไป ~y~ลานบินของ Trevor
+bsprep:2555603644,~s~Wait until Trevor uncouples the ~b~freight engine.,~s~รอจน Trevor ตัดขบวน ~b~หัวรถจัก
 bsprep:2563424172,~s~The train was destroyed.,~s~รถไฟถูกทำลาย
-bsprep:2632103391,~s~Get in the ~b~Skylift.,~s~เข้าไปใน ~b~สกายลิฟต์
+bsprep:2632103391,~s~Get in the ~b~Skylift.,~s~ขึ้น ~b~Skylift
 bsprep:2673027326,~s~The helicopter was destroyed.,~s~เฮลิคอปเตอร์ถูกทำลาย
-bsprep:2789142046,SWITCH to Michael.,เปลี่ยนเป็น ไมเคิล
-bsprep:2842988960,~s~Wait until Michael uncouples the ~b~freight engine.,~s~รอจนกระทั่งไมเคิลปลดการเชื่อมต่อ ~b~หัวรถจักร
-bsprep:3700532695,~s~The cops were alerted.,~s~ตำรวจได้รับการแจ้งเตือน
-bsprep:3866608021,~s~Press ~INPUT_VEH_GRAPPLING_HOOK~ to deactivate the electromagnet.,~s~กด ~INPUT_VEH_GRAPPLING_HOOK~ เพื่อปิดการทำงานแม่เหล็กไฟฟ้า
-bsprep:3991171055,One of the crew was killed.,หนึ่งในทีมถูกฆ่าตาย
-bsprep:4261053145,~s~Take the freight engine to ~y~Trevor's airstrip.,~s~นำ หัวรถจักร ไปที่ ~y~ลานบินของเทรเวอร์
-bsprep:4275408145,~s~Pick up a ~b~flatbed carriage.,~s~จับ A ~b~รถยก
+bsprep:2789142046,SWITCH to Michael.,สลับไปที่ Michael
+bsprep:2842988960,~s~Wait until Michael uncouples the ~b~freight engine.,~s~รอจน Michael ตัดขบวน ~b~หัวรถจัก
+bsprep:3700532695,~s~The cops were alerted.,~s~ตำรวจได้รับแจ้งแล้ว
+bsprep:3866608021,~s~Press ~INPUT_VEH_GRAPPLING_HOOK~ to deactivate the electromagnet.,~s~กด ~INPUT_VEH_GRAPPLING_HOOK~ ปิดแม่เหล็กไฟฟ้า
+bsprep:3991171055,One of the crew was killed.,มีคนในทีมตาย
+bsprep:4261053145,~s~Take the freight engine to ~y~Trevor's airstrip.,~s~เอาหัวรถจักไป ~y~ลานบินของ Trevor
+bsprep:4275408145,~s~Pick up a ~b~flatbed carriage.,~s~เก็บ ~b~รถบรรทุกพื้นเรียบ

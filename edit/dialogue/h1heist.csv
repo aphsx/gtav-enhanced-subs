@@ -1,28 +1,28 @@
 ﻿id,en,th
-h1heist:11254249,~s~Michael and the gang abseil down the lift shaft to safety. Then ditch the fire truck and separate.,~s~ไมเคิลกับพวกโรยตัวลงจากปล่องลิฟต์เพื่อความปลอดภัย จากนั้นก็ทิ้งรถดับเพลิงแล้วแยกย้ายกันไป
-h1heist:54041470,~s~Escape and lose the Cops.,~s~หนีและสลัดตำรวจให้หลุด
-h1heist:186745996,~s~Enter the ~y~FIB Headquarters.,~s~เข้าไปใน ~y~สำนักงานใหญ่ของ FIB
-h1heist:319770256,~s~Get into the ~b~fire truck.,~s~เข้าไปใน ~b~รถดับเพลิง
-h1heist:984198663,~s~A ~b~crew member~s~ was abandoned.,~s~~b~ลูกทีม~s~ ถูกละทิ้ง
-h1heist:1425743189,~r~One of your crew died.,~r~หนึ่งในลูกทีมคุณตายแล้ว
-h1heist:1696104609,~s~Steal the ~g~documents.~s~,~s~ขโมย ~g~ข้อมูล~s~
+h1heist:11254249,~s~Michael and the gang abseil down the lift shaft to safety. Then ditch the fire truck and separate.,~s~ไมเคิลกับทีมโรยตัวลงปล่องลิฟต์ไปปลอดภัย แล้วทิ้งรถดับเพลิงแยกทาง
+h1heist:54041470,~s~Escape and lose the Cops.,~s~หนีและสลัดตำรวจ
+h1heist:186745996,~s~Enter the ~y~FIB Headquarters.,~s~เข้า~y~สำนักงานใหญ่ FIB
+h1heist:319770256,~s~Get into the ~b~fire truck.,~s~ขึ้น~b~รถดับเพลิง
+h1heist:984198663,~s~A ~b~crew member~s~ was abandoned.,~s~~b~ลูกทีม~s~ถูกทิ้งไว้
+h1heist:1425743189,~r~One of your crew died.,~r~ลูกทีมคนหนึ่งตายแล้ว
+h1heist:1696104609,~s~Steal the ~g~documents.~s~,~s~ขโมย~g~เอกสาร~s~
 h1heist:1717916254,~r~Fire truck destroyed.,~r~รถดับเพลิงถูกทำลาย
-h1heist:1860126579,~s~Escape the building. Get to the ~y~elevators.,~s~หนีออกจากอาคาร ไปที่ ~y~ลิฟต์
-h1heist:2037072946,~s~Enter the ~y~elevator.,~s~เข้าไปใน ~y~ลิฟต์
-h1heist:2041291736,~s~The ~b~crew~s~ was abandoned.,~s~~b~ลูกทีม~s~ ถูกละทิ้ง
-h1heist:2087288257,~s~Press ~INPUT_VEH_ATTACK~ to use the lift.,~s~กด ~INPUT_VEH_ATTACK~ เพื่อใช้ลิฟต์
-h1heist:2196939895,~s~Escape the building. Get back to the ~y~staircase.,~s~หนีออกจากอาคาร กลับไปที่ ~y~บันได
-h1heist:2459426954,~s~Press ~PAD_LSTICK_NONE~ to turn on the siren.,~s~กด ~PAD_LSTICK_NONE~ เพื่อเปิดไซเรน
-h1heist:2496245692,~s~Get back in the ~b~fire truck.~s~,~s~กลับไปยัง ~b~รถดับเพลิง~s~
-h1heist:2781335677,Hotswap to Michael. Press and hold ~INPUT_VEH_ATTACK~ then select ~input_whistle~.,สลับไปเป็นไมเคิล กดค้าง ~INPUT_VEH_ATTACK~ จากนั้นเลือก ~input_whistle~
-h1heist:2809023663,~s~Ditch the fire truck at the ~y~underpass.,~s~ทิ้งรถดับเพลิงที่ ~y~อุโมงค์ลอดใต้ถนน
-h1heist:2895738321,~s~Assemble with the crew and get the ~b~fire truck.,~s~รวมตัวกับทีมและไปที่ ~b~รถดับเพลิง
-h1heist:3378316863,~s~Get to the ~y~FIB Headquarters.~s~,~s~เข้าไปยัง ~y~สำนักงานใหญ่ของ FIB~s~
-h1heist:3501938661,"~s~Michael, the documents are stored on a laptop on the 53rd floor. Let's go...",~s~ไมเคิล เอกสารถูกเก็บไว้ในแล็ปท็อปที่ชั้น 53 ไปกันเถอะ...
+h1heist:1860126579,~s~Escape the building. Get to the ~y~elevators.,~s~หนีออกจากอาคาร ไปที่~y~ลิฟต์
+h1heist:2037072946,~s~Enter the ~y~elevator.,~s~เข้า~y~ลิฟต์
+h1heist:2041291736,~s~The ~b~crew~s~ was abandoned.,~s~~b~ลูกทีม~s~ถูกทิ้งไว้
+h1heist:2087288257,~s~Press ~INPUT_VEH_ATTACK~ to use the lift.,~s~กด~INPUT_VEH_ATTACK~เพื่อใช้ลิฟต์
+h1heist:2196939895,~s~Escape the building. Get back to the ~y~staircase.,~s~หนีออกจากอาคาร กลับไปที่~y~บันได
+h1heist:2459426954,~s~Press ~PAD_LSTICK_NONE~ to turn on the siren.,~s~กด~PAD_LSTICK_NONE~เปิดไซเรน
+h1heist:2496245692,~s~Get back in the ~b~fire truck.~s~,~s~กลับขึ้น~b~รถดับเพลิง~s~
+h1heist:2781335677,Hotswap to Michael. Press and hold ~INPUT_VEH_ATTACK~ then select ~input_whistle~.,สลับเป็นไมเคิล กดค้าง~INPUT_VEH_ATTACK~แล้วเลือก~input_whistle~
+h1heist:2809023663,~s~Ditch the fire truck at the ~y~underpass.,~s~ทิ้งรถดับเพลิงที่~y~อุโมงค์ใต้ถนน
+h1heist:2895738321,~s~Assemble with the crew and get the ~b~fire truck.,~s~รวมกับทีมแล้วไปเอา~b~รถดับเพลิง
+h1heist:3378316863,~s~Get to the ~y~FIB Headquarters.~s~,~s~ไป~y~สำนักงานใหญ่ FIB~s~
+h1heist:3501938661,"~s~Michael, the documents are stored on a laptop on the 53rd floor. Let's go...",~s~ไมเคิล เอกสารอยู่ในแล็ปท็อปชั้น 53 ไปกัน
 h1heist:3527503235,~s~MISSION PASSED,~s~ภารกิจสำเร็จ
-h1heist:3601841466,~s~Get near to the ~y~FIB Headquarters.~s~,~s~เข้าไปใกล้ ~y~สำนักงานใหญ่ของ FIB~s~
-h1heist:3684593067,~s~Follow ~b~Trevor and the crew~s~ and find an ~y~escape route.,~s~ตาม ~b~เทรเวอร์และลูกทีม~s~ และหา ~y~เส้นทางหนี
-h1heist:3885696408,~s~Follow ~b~Trevor and the crew~s~ to the ~y~53rd floor.,~s~ตาม ~b~เทรเวอร์และลูกทีม~s~ ไปที่ ~y~ชั้น 53
-h1heist:3921430229,~r~The crew was abandoned.,~r~ลูกทีมถูกละทิ้ง
-h1heist:4047275344,~s~Use the phone to trigger the explosive charge.~s~,~s~ใช้โทรศัพท์เพื่อจุดระเบิด~s~
-h1heist:4117335270,~s~The meter around the radar represents the oxygen level available. Escape before it runs out.,~s~มาตรวัดรอบเรดาร์แสดงระดับออกซิเจนที่เหลืออยู่ หนีออกมาก่อนที่มันจะหมด
+h1heist:3601841466,~s~Get near to the ~y~FIB Headquarters.~s~,~s~เข้าใกล้~y~สำนักงานใหญ่ FIB~s~
+h1heist:3684593067,~s~Follow ~b~Trevor and the crew~s~ and find an ~y~escape route.,~s~ตาม~b~เทรเวอร์กับลูกทีม~s~แล้วหา~y~ทางหนี
+h1heist:3885696408,~s~Follow ~b~Trevor and the crew~s~ to the ~y~53rd floor.,~s~ตาม~b~เทรเวอร์กับลูกทีม~s~ไป~y~ชั้น 53
+h1heist:3921430229,~r~The crew was abandoned.,~r~ลูกทีมถูกทิ้งไว้
+h1heist:4047275344,~s~Use the phone to trigger the explosive charge.~s~,~s~ใช้โทรศัพท์จุดระเบิด~s~
+h1heist:4117335270,~s~The meter around the radar represents the oxygen level available. Escape before it runs out.,~s~มาตรวัดรอบเรดาร์คือออกซิเจนที่เหลือ หนีก่อนหมด

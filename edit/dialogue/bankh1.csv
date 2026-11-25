@@ -1,49 +1,49 @@
 ﻿id,en,th
 bankh1:67357416,~s~Shoot the ~g~fence~s~ down.,~s~ยิง ~g~รั้ว~s~ให้พัง
 bankh1:257438604,~s~Hold off the ~r~military.~s~,~s~ตรึงกำลัง ~r~ทหาร~s~ ไว้
-bankh1:507752209,The getaway vehicle was destroyed.,พาหนะหลบหนีถูกทำลาย
+bankh1:507752209,The getaway vehicle was destroyed.,รถหลบหนีถูกทำลาย
 bankh1:886775544,~s~Go to the ~y~railway platform.,~s~ไปที่ ~y~ชานชาลาทางรถไฟ
 bankh1:896270609,~s~Get in the ~b~van.,~s~เข้าไปใน ~b~รถตู้
-bankh1:906715994,~s~Michael was abandoned.,~s~ไมเคิลถูกละทิ้ง
+bankh1:906715994,~s~Michael was abandoned.,~s~Michael ถูกละทิ้ง
 bankh1:913266772,~s~Go ~y~inside the bank.,~s~เข้าไป ~y~ข้างในธนาคาร
 bankh1:927358863,~s~Take out the ~r~helicopter.,~s~จัดการ ~r~เฮลิคอปเตอร์
 bankh1:979690724,~s~Go to the ~y~pier.~s~,~s~ไปที่ ~y~ท่าเรือ~s~
-bankh1:1062866767,~s~Michael and Trevor were abandoned.,~s~ไมเคิลและเทรเวอร์ ถูกละทิ้ง
+bankh1:1062866767,~s~Michael and Trevor were abandoned.,~s~Michael และ Trevor ถูกละทิ้ง
 bankh1:1155938748,You abandoned the heist.,คุณละทิ้งการปล้น
 bankh1:1168465829,~s~A crew member died.,~s~สมาชิกทีมตายแล้ว
 bankh1:1348408734,~s~Bonds,~s~พันธบัตร
 bankh1:1414337302,~s~The dozer was destroyed.,~s~รถดันดินถูกทำลาย
 bankh1:1421009717,~s~Get on the ~y~train.~s~,~s~ขึ้นไปบน ~y~รถไฟ~s~
-bankh1:1424305628,~s~Trevor was abandoned.,~s~เทรเวอร์ถูกละทิ้ง
+bankh1:1424305628,~s~Trevor was abandoned.,~s~Trevor ถูกละทิ้ง
 bankh1:1454809792,~s~Take out the ~r~Cops.,~s~จัดการ ~r~ตำรวจ
 bankh1:1455952290,~s~The vehicle was destroyed.,~s~พาหนะถูกทำลาย
-bankh1:1592603839,~s~Return to ~b~Michael.~s~,~s~กลับไปที่ ~b~ไมเคิล~s~
+bankh1:1592603839,~s~Return to ~b~Michael.~s~,~s~กลับไปที่ ~b~Michael~s~
 bankh1:1610550214,~s~Back the van up to the ~y~bank entrance.,~s~กลับขึ้นรถตู้ไปที่ ~y~ทางเข้าธนาคาร
-bankh1:1655588147,~s~Go to the ~y~drop-off point.,~s~ไปที่ ~y~drop off point
+bankh1:1655588147,~s~Go to the ~y~drop-off point.,~s~ไปที่ ~y~จุดส่งมอบ~s~
 bankh1:1874480863,~s~Press ~INPUT_SCRIPT_PAD_RIGHT~ to kick the vault gate.,~s~กด ~INPUT_SCRIPT_PAD_RIGHT~ เพื่อถีบประตูห้องนิรภัย
-bankh1:1912854794,~s~Return to ~b~Michael~s~ and ~b~~a~.,~s~กลับไปที่ ~b~ไมเคิล~s~และ ~b~~a~
+bankh1:1912854794,~s~Return to ~b~Michael~s~ and ~b~~a~.,~s~กลับไปที่ ~b~Michael~s~และ ~b~~a~
 bankh1:1994038590,~s~The crew was abandoned.,~s~ทีมถูกละทิ้ง
 bankh1:2059400993,~s~Hold off the ~r~military.~s~,~s~ตรึงกำลัง ~r~ทหาร~s~ ไว้
 bankh1:2317478787,~s~Go to the ~y~bank.~s~,~s~ไปที่ ~y~ธนาคาร~s~
-bankh1:2392496315,SWITCH to Franklin.,เปลี่ยนเป็น แฟรงคลิน
+bankh1:2392496315,SWITCH to Franklin.,สลับเป็น Franklin
 bankh1:2414260572,~s~Escape the tank.,~s~หลบหนีรถถัง
-bankh1:2464031437,~s~Return to ~b~Trevor.~s~,~s~กลับไปที่ ~b~เทรเวอร์~s~
+bankh1:2464031437,~s~Return to ~b~Trevor.~s~,~s~กลับไปที่ ~b~Trevor~s~
 bankh1:2506946153,~s~Go to the ~y~factory.,~s~ไปที่ ~y~โรงงาน
 bankh1:2613208142,~s~The dozer was abandoned.,~s~รถดันดินถูกละทิ้ง
 bankh1:2637988450,~s~Get back in the ~b~van.,~s~กลับไปที่ ~b~รถตู้
-bankh1:2645971811,SWITCH to Michael.,เปลี่ยนเป็น ไมเคิล
-bankh1:2669050367,~s~Follow ~b~Michael~s~ and ~b~~a~.,~s~ติดตาม ~b~ไมเคิล~s~และ ~b~~a~
+bankh1:2645971811,SWITCH to Michael.,สลับเป็น Michael
+bankh1:2669050367,~s~Follow ~b~Michael~s~ and ~b~~a~.,~s~ติดตาม ~b~Michael~s~และ ~b~~a~
 bankh1:2847696420,~s~Return to ~b~the crew.~s~,~s~กลับไปที่ ~b~ทีม~s~
 bankh1:2858139181,~s~Go inside the ~y~Cluckin' Bell Factory.,~s~เข้าไปด้านใน ~y~โรงงาน คลัคกิน' เบลล์
 bankh1:3195428483,~s~Take out the ~r~military~s~ to advance.,~s~จัดการ ~r~ทหาร~s~เพื่อไปข้างหน้า
-bankh1:3243037636,~s~Follow ~b~Michael~s~ and ~b~~a~.,~s~ติดตาม ~b~ไมเคิล~s~และ ~b~~a~
+bankh1:3243037636,~s~Follow ~b~Michael~s~ and ~b~~a~.,~s~ติดตาม ~b~Michael~s~และ ~b~~a~
 bankh1:3311117632,~s~Go to the ~y~vault.,~s~ไปที่ ~y~ตู้นิรภัย
 bankh1:3313623011,~s~Use ~INPUT_VEH_MOVE_UD~ to raise or lower the blade.,~s~ใช้ ~INPUT_VEH_MOVE_UD~ เพื่อยกใบมีดขึ้นหรือลง
-bankh1:3380518719,~s~Go to ~b~Michael~s~ and ~b~Trevor.,~s~ไปที่ ~b~ไมเคิล~s~และ ~b~เทรเวอร์
-bankh1:3545835630,~s~Follow ~b~Trevor~s~ and ~b~~a~.,~s~ติดตาม ~b~เทรเวอร์~s~และ ~b~~a~
+bankh1:3380518719,~s~Go to ~b~Michael~s~ and ~b~Trevor.,~s~ไปที่ ~b~Michael~s~และ ~b~Trevor
+bankh1:3545835630,~s~Follow ~b~Trevor~s~ and ~b~~a~.,~s~ติดตาม ~b~Trevor~s~และ ~b~~a~
 bankh1:3732931398,~s~The crew missed the train.~s~,~s~ทีมพลาดรถไฟ~s~
 bankh1:3873140234,~s~Park the van near the ~y~bank entrance.,~s~จอดรถตู้ใกล้กับ ~y~ทางเข้าธนาคาร
-bankh1:4150107643,~s~Return to ~b~Trevor~s~ and ~b~~a~.,~s~กลับไปที่ ~b~เทรเวอร์~s~และ ~b~~a~
+bankh1:4150107643,~s~Return to ~b~Trevor~s~ and ~b~~a~.,~s~กลับไปที่ ~b~Trevor~s~และ ~b~~a~
 bankh1:4197579894,~s~Get back in the ~b~bulldozer.,~s~กลับไปที่ ~b~รถดันดิน
 bankh1:4215086593,~s~The heist was blown.,~s~การปล้นถูกเปิดเผย
 bankh1:4235367662,~s~~a~ was abandoned.,~s~~a~ถูกละทิ้ง

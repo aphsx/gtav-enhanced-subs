@@ -1,44 +1,44 @@
 ﻿id,en,th
-lem1:44101287,~s~Don't abandon the deal.~s~,~s~อย่าละทิ้งข้อตกลง~s~
+lem1:44101287,~s~Don't abandon the deal.~s~,~s~อย่าทิ้งดีลไป~s~
 lem1:129964848,~s~Press ~INPUT_VEH_LOOK_BEHIND~ to look behind.~s~,~s~กด ~INPUT_VEH_LOOK_BEHIND~ เพื่อดูข้างหลัง~s~
-lem1:186427063,~s~Stretch was abandoned.~s~,~s~สเตรทช์ถูกละทิ้ง~s~
-lem1:259141572,~s~Return to ~b~Lamar. ~s~,~s~กลับไปที่ ~b~ลามาร์~s~
+lem1:186427063,~s~Stretch was abandoned.~s~,~s~ปล่อยให้ Stretch ถูกทิ้งไว้~s~
+lem1:259141572,~s~Return to ~b~Lamar. ~s~,~s~กลับไปหา ~b~Lamar~s~
 lem1:342997987,"~s~Use ~INPUTGROUP_WHEEL~ to select a weapon, and release ~INPUT_SELECT_WEAPON~ to equip it.",~s~ใช้ ~INPUTGROUP_WHEEL~ เพื่อเลือกดูอาวุธ และปล่อย ~INPUT_SELECT_WEAPON~ เพื่อเลือกใช้งาน
 lem1:463373352,~s~While aiming press ~INPUT_THROW_GRENADE~ to throw a grenade.,~s~ในขณะเล็ง ให้กด ~INPUT_THROW_GRENADE~ เพื่อโยนระเบิดมือ
 lem1:477954060,~s~Press ~INPUT_WEAPON_SPECIAL_TWO~ while aiming to toggle the weapon flashlight.,~s~กด ~INPUT_WEAPON_SPECIAL_TWO~ ในขณะเล็งเพื่อสลับไปที่ไฟฉายของอาวุธ
-lem1:590496884,~s~Franklin was barred from Ammu-Nation.~s~,~s~แฟรงคลินถูกกันออกไปจากร้านขายอาวุธ~s~
+lem1:590496884,~s~Franklin was barred from Ammu-Nation.~s~,~s~Franklin โดนไล่ออกจาก Ammu-Nation~s~
 lem1:665371160,~s~Press ~INPUT_ATTACK~ to throw the grenade.~s~,~s~กด ~INPUT_ATTACK~ เพื่อโยนระเบิดมือ~s~
-lem1:817809748,~s~Wait for ~b~Stretch.~s~,~s~รอ ~b~สเตรทช์~s~
-lem1:902883077,Go back to ~y~Ammu-Nation ~s~and buy a Pump Shotgun with a flashlight mod.,กลับไปที่ ~y~ร้านขายอาวุธ ~s~และซื้อปืนลูกซองปั๊มด้วยที่ปรับแต่งด้วยไฟฉาย
-lem1:1024067473,~s~Go to ~y~Ammu-Nation.~s~,~s~ไปที่ ~y~ร้านขายอาวุธ~s~
+lem1:817809748,~s~Wait for ~b~Stretch.~s~,~s~รอ ~b~Stretch~s~
+lem1:902883077,Go back to ~y~Ammu-Nation ~s~and buy a Pump Shotgun with a flashlight mod.,กลับไป ~y~Ammu-Nation~s~ แล้วซื้อปืนลูกซองแบบปั๊มพร้อมไฟฉาย
+lem1:1024067473,~s~Go to ~y~Ammu-Nation.~s~,~s~ไปที่ ~y~Ammu-Nation~s~
 lem1:1032313298,Buy an item from the shop.,ซื้อสินค้าจากร้านค้า
 lem1:1123040537,~s~Get back into the ~b~vehicle.~s~,~s~กลับเข้าไปใน ~b~พาหนะ~s~
-lem1:1132207466,Go back to ~y~Ammu-Nation ~s~and buy an item.,กลับไปที่ ~y~ร้านขายอาวุธ ~s~และซื้อสินค้า
+lem1:1132207466,Go back to ~y~Ammu-Nation ~s~and buy an item.,กลับไป ~y~Ammu-Nation~s~ แล้วซื้อของ
 lem1:1223717001,"~s~Weapon accuracy, max ammo capacity, reload speed and crosshair movement will improve as the Shooting Stat increases.",~s~ความแม่นยำของอาวุธ ความจุสูงสุดของกระสุน ความเร็วในการบรรจุ และการเคลื่อนที่เป้ายิงจะเพิ่มขึ้นเมื่อสถิติการยิงเพิ่มขึ้น
-lem1:1307965153,~s~Stretch died.~s~,~s~สเตรทช์ตายแล้ว~s~
-lem1:1344947672,~s~Franklin did not have enough money to buy the Pump Shotgun and flashlight mod.~s~,~s~แฟรงคลินมีเงินไม่เพียงพอที่จะซื้อปืนลูกซองปั๊มและปรับแต่งไฟฉาย~s~
-lem1:1542507977,~s~Lamar died.~s~,~s~ลามาร์ตายแล้ว~s~
-lem1:1596955919,~s~The Shooting Stat will increase with successful hits on enemies. Increase this quicker by going to the Shooting Range or performing headshots.,~s~สถิติการยิงจะเพิ่มขึ้นด้วยการโจมตีศัตรูที่สำเร็จ ทำให้เพิ่มเร็วขึ้นโดยไปที่สนามซ้อมยิงปืนหรือยิงแบบ headshots
-lem1:1680952813,~s~Lamar and Stretch were abandoned.~s~,~s~ลามาร์และสเตรทช์ถูกละทิ้ง~s~
+lem1:1307965153,~s~Stretch died.~s~,~s~Stretch ตายแล้ว~s~
+lem1:1344947672,~s~Franklin did not have enough money to buy the Pump Shotgun and flashlight mod.~s~,~s~Franklin มีเงินไม่พอซื้อปืนลูกซองกับไฟฉาย~s~
+lem1:1542507977,~s~Lamar died.~s~,~s~Lamar ตายแล้ว~s~
+lem1:1596955919,~s~The Shooting Stat will increase with successful hits on enemies. Increase this quicker by going to the Shooting Range or performing headshots.,~s~สถิติการยิงจะขึ้นเมื่อยิงโดนศัตรู ไปซ้อมที่สนามยิงหรือยิง headshot จะขึ้นเร็วกว่า~s~
+lem1:1680952813,~s~Lamar and Stretch were abandoned.~s~,~s~ปล่อยให้ Lamar กับ Stretch ถูกทิ้งไว้~s~
 lem1:1701626354,~s~Escape the junkyard.~s~,~s~หลบหนีจากลานเก็บขยะ~s~
 lem1:1722048583,~s~Hold ~INPUT_SELECT_WEAPON~ to bring up the weapon wheel.,~s~กดค้าง ~INPUT_SELECT_WEAPON~ เพื่อเปิดเมนูอาวุธขึ้นมา
-lem1:1962668370,~s~Wait for ~b~Lamar ~s~and ~b~Stretch.~s~,~s~รอ ~b~ลามาร์ ~s~และ ~b~สเตรทช์~s~
+lem1:1962668370,~s~Wait for ~b~Lamar ~s~and ~b~Stretch.~s~,~s~รอ ~b~Lamar~s~ กับ ~b~Stretch~s~
 lem1:1988493224,~s~Go to the meeting at the ~y~recycling plant.~s~,~s~ไปประชุมที่ ~y~โรงงานรีไซเคิล~s~
-lem1:2167993871,"~s~The Cops can be evaded more easily by hiding in alleys, finding spots off the road, and switching cars.",~s~สามารถหลบเลี่ยงตำรวจได้ง่ายขึ้นโดยการซ่อนในตรอกซอกซอย หาจุดที่อยู่นอกถนน และการเปลี่ยนรถยนต์
-lem1:2173332852,~s~The deal was missed.~s~,~s~ข้อตกลงไม่เกิดขึ้น~s~
-lem1:2545321732,~s~Try using Franklin's special ability to evade the Cops. Press ~INPUT_SPECIAL_ABILITY_PC~ to activate Franklin's ability.,~s~ลองใช้ความสามารถพิเศษของแฟรงคลินในการหลบเลี่ยงตำรวจ กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อเปิดใช้งานความสามารถของ แฟรงคลิน
-lem1:2659248396,~s~Return to ~b~Stretch. ~s~,~s~กลับไปที่ ~b~สเตรทช์~s~
-lem1:2673542035,~s~Go back to ~y~Franklin's house.~s~,~s~กลับไปที่ ~y~บ้านของแฟรงคลิน~s~
+lem1:2167993871,"~s~The Cops can be evaded more easily by hiding in alleys, finding spots off the road, and switching cars.",~s~หลบตำรวจได้ง่ายขึ้นถ้าซ่อนในตรอก หลบออกนอกถนน หรือสลับรถ~s~
+lem1:2173332852,~s~The deal was missed.~s~,~s~พลาดดีลไปแล้ว~s~
+lem1:2545321732,~s~Try using Franklin's special ability to evade the Cops. Press ~INPUT_SPECIAL_ABILITY_PC~ to activate Franklin's ability.,~s~ลองใช้สกิลพิเศษของ Franklin หลบตำรวจ กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อเปิดใช้~s~
+lem1:2659248396,~s~Return to ~b~Stretch. ~s~,~s~กลับไปหา ~b~Stretch~s~
+lem1:2673542035,~s~Go back to ~y~Franklin's house.~s~,~s~กลับไปที่ ~y~บ้าน Franklin~s~
 lem1:2698843210,~s~Press ~INPUT_FRONTEND_ACCEPT~ to purchase mods and ammo.,~s~กด ~INPUT_FRONTEND_ACCEPT~ เพื่อซื้อการปรับแต่งและกระสุน
 lem1:2706652534,~s~Find a four-door vehicle.~s~,~s~ค้นหาพาหนะสี่ประตู~s~
 lem1:2813739569,~s~Hold ~INPUT_SELECT_WEAPON~ and use ~INPUTGROUP_WHEEL~ to select grenades.~s~,~s~กดค้าง ~INPUT_SELECT_WEAPON~ และใช้ ~INPUTGROUP_WHEEL~ เพื่อเลือกระเบิด~s~
 lem1:2828540469,Buy a Pump Shotgun and a flashlight mod.,ซื้อปืนลูกซองปั๊มและปรับแต่งด้วยไฟฉาย
-lem1:2939167650,~s~Ammu-Nation stores are now available at ~BLIP_GUN_SHOP~,~s~ร้านขายอาวุธ เปิดให้บริการแล้วที่ ~ blip_gun_shop ~
-lem1:3051069715,~s~Lamar and Stretch died.~s~,~s~ลามาร์และสเตรทช์ตายแล้ว~s~
+lem1:2939167650,~s~Ammu-Nation stores are now available at ~BLIP_GUN_SHOP~,~s~ร้าน Ammu-Nation เปิดแล้วที่ ~BLIP_GUN_SHOP~~s~
+lem1:3051069715,~s~Lamar and Stretch died.~s~,~s~Lamar กับ Stretch ตายแล้ว~s~
 lem1:3328325903,Buy a flashlight mod for the Pump Shotgun.,ซื้อการปรับแต่งไฟฉายสำหรับปืนลูกซองปั๊ม
-lem1:3469371712,~s~Return to ~b~Lamar ~s~and ~b~Stretch.~s~,~s~กลับไปที่ ~b~ลามาร์ ~s~และ ~b~สเตรทช์~s~
-lem1:3604076660,~s~Try using Franklin's special ability to evade the Cops. Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to activate Franklin's ability.,~s~ลองใช้ความสามารถพิเศษของแฟรงคลินในการหลบเลี่ยงตำรวจ กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ ร่วมกันเพื่อเปิดใช้งานความสามารถของ แฟรงคลิน
+lem1:3469371712,~s~Return to ~b~Lamar ~s~and ~b~Stretch.~s~,~s~กลับไปหา ~b~Lamar~s~ กับ ~b~Stretch~s~
+lem1:3604076660,~s~Try using Franklin's special ability to evade the Cops. Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ together to activate Franklin's ability.,~s~ลองใช้สกิลพิเศษของ Franklin หลบตำรวจ กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ พร้อมกัน~s~
 lem1:3666183593,~s~Escape the recycling plant.~s~,~s~หลบหนีจากโรงงานรีไซเคิล~s~
-lem1:3686871815,Go back to ~y~Ammu-Nation ~s~and buy a flashlight mod for the shotgun.,กลับไปที่ ~y~ร้านขายอาวุธ ~s~และซื้อการปรับแต่งไฟฉายสำหรับปืนลูกซอง
-lem1:4247541441,~s~Lamar was abandoned.~s~,~s~ลามาร์ถูกละทิ้ง~s~
-lem1:4294681596,~s~Wait for ~b~Lamar.~s~,~s~รอ ~b~ลามาร์~s~
+lem1:3686871815,Go back to ~y~Ammu-Nation ~s~and buy a flashlight mod for the shotgun.,กลับไป ~y~Ammu-Nation~s~ แล้วซื้อไฟฉายให้ปืนลูกซอง
+lem1:4247541441,~s~Lamar was abandoned.~s~,~s~ปล่อยให้ Lamar ถูกทิ้งไว้~s~
+lem1:4294681596,~s~Wait for ~b~Lamar.~s~,~s~รอ ~b~Lamar~s~

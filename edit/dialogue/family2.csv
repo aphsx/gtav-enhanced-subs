@@ -1,6 +1,6 @@
 ﻿id,en,th
-family2:75482021,Michael's bike was abandoned.,จักรยานของไมเคิลถูกแล้วทิ้ง
-family2:189878018,~s~Do not abandon ~b~Jimmy. ~s~,~s~อย่าละทิ้ง ~b~จิมมี่ ~s~
+family2:75482021,Michael's bike was abandoned.,จักรยานของ Michael ถูกแล้วทิ้ง
+family2:189878018,~s~Do not abandon ~b~Jimmy. ~s~,~s~อย่าละทิ้ง ~b~ Jimmy~s~
 family2:192194956,~s~Go to the ~y~marina. ~s~,~s~ไปที่ ~y~ท่าจอดเรือ ~s~
 family2:277510840,Get back in the ~b~car. ~s~,กลับไปขึ้น ~b~รถ ~s~
 family2:410108806,~s~Lose the ~r~pursuers. ~s~,~s~สลัด ~r~ผู้ไล่ตาม ~s~
@@ -13,17 +13,17 @@ family2:1001529791,Select a bike.,เลือกจักรยาน
 family2:1076071918,"Press ~INPUT_SPRINT~ to start/stop swimming, and use ~INPUTGROUP_MOVE~ to control direction.~n~Hold ~INPUT_SPRINT~ to swim faster.",กด ~INPUT_SPRINT~ เพื่อเริ่ม/หยุดว่ายน้ำ และใช้ ~INPUTGROUP_MOVE~ เพื่อควบคุมทิศทาง~n~กดค้าง ~INPUT_SPRINT~ เพื่อว่ายเร็วขึ้น
 family2:1087013969,Apply the front brake with ~INPUT_VEH_PUSHBIKE_FRONT_BRAKE~~n~Apply the rear brake with ~INPUT_VEH_PUSHBIKE_REAR_BRAKE~~n~To reverse hold ~INPUT_VEH_BRAKE~,ใช้เบรกหน้าด้วย ~INPUT_VEH_PUSHBIKE_FRONT_BRAKE~~n~ใช้เบรกหลังด้วย ~INPUT_VEH_PUSHBIKE_REAR_BRAKE~~n~ถอยหลังกดค้าง ~INPUT_VEH_BRAKE~
 family2:1164483983,~s~Head for the ~y~outlet. ~s~,~s~ไปที่ ~y~ทางระบาย ~s~
-family2:1178498260,Jimmy was injured. ~s~,จิมมี่ได้รับบาดเจ็บ ~s~
+family2:1178498260,Jimmy was injured. ~s~,Jimmy ได้รับบาดเจ็บ ~s~
 family2:1184281664,The rental guy died. ~s~,เจ้าของร้านเช่าตายแล้ว ~s~
-family2:1244706845,Wait for ~b~Tracey. ~s~,รอ ~b~เทรซี่ย์ ~s~
-family2:1263022966,Tracey died. ~s~,เทรซี่ย์ตายแล้ว ~s~
+family2:1244706845,Wait for ~b~Tracey. ~s~,รอ ~b~ Tracey ย์ ~s~
+family2:1263022966,Tracey died. ~s~,Tracey ย์ตายแล้ว ~s~
 family2:1447623789,Go back to the cycle path.,ย้อนกลับไปที่เส้นทางจักรยาน
 family2:1524218067,You trashed the bikes.,คุณทิ้งจักรยาน
 family2:1554413187,Swim to the ~b~yacht. ~s~,ว่ายน้ำไปที่ ~b~เรือยอร์ช ~s~
 family2:1758024277,If you stay underwater for too long you will start to drown.,หากคุณอยู่ใต้น้ำนานเกินไป คุณจะเริ่มจมน้ำ
 family2:1802759333,Mission Failed ~s~,ภารกิจล้มเหลว ~s~
 family2:1832460838,Go to the ~y~shore. ~s~,ไปที่ ~y~ฝั่ง ~s~
-family2:1835348312,Jimmy was abandoned. ~s~,จิมมี่ถูกละทิ้ง ~s~
+family2:1835348312,Jimmy was abandoned. ~s~,Jimmy ถูกละทิ้ง ~s~
 family2:1844993708,Cycling will improve your general stamina. Increasing your stamina will allow you to perform aerobic exercise for longer.,การปั่นจักรยานจะช่วยเพิ่มความแข็งแกร่งโดยทั่วไปของคุณ การเพิ่มความแข็งแกร่งจะช่วยให้คุณสามารถออกกำลังกายแบบแอโรบิกได้นานขึ้น
 family2:1856128980,Hold ~INPUT_VEH_PUSHBIKE_PEDAL~ to cycle and~n~Press ~INPUT_VEH_PUSHBIKE_SPRINT~ to toggle sprinting.,กดค้าง ~INPUT_VEH_PUSHBIKE_PEDAL~ เพื่อปั่นและ~n~กด ~INPUT_VEH_PUSHBIKE_SPRINT~ เพื่อสลับไปเร่งความเร็ว
 family2:2064316625,Press ~INPUT_VEH_JUMP~ to perform a bunny hop. ~n~When moving forward on a bicycle hold ~INPUT_VEH_MOVE_UP_ONLY~ and then ~INPUT_VEH_MOVE_DOWN_ONLY~ to pull a wheelie.,กด ~INPUT_VEH_JUMP~ เพื่อใช้ท่าบันนี่ฮอป ~n~เมื่อขี่จักรยานไปข้างหน้า ให้กด ~INPUT_VEH_MOVE_UP_ONLY~ และจากนั้น ~INPUT_VEH_MOVE_DOWN_ONLY~ เพื่อดึงรถยกล้อ
@@ -32,19 +32,19 @@ family2:2149842885,Press ~INPUT_SPRINT~ to start/stop swimming.~n~Hold ~INPUT_SP
 family2:2173173315,~s~Lose the Cops. ~s~,~s~หนีจากตำรวจ ~s~
 family2:2173807931,This vehicle does not have enough seats.,พาหนะคันนี้มีที่นั่งไม่เพียงพอ
 family2:2191162473,Michael fell off the Seashark.,ไมเคิบตกจากซีชาร์ก
-family2:2277358769,Jimmy died. ~s~,จิมมี่ตายแล้ว ~s~
-family2:2313793307,The bike is unrideable. ~s~,จักรยานไม่สามารถขับได้ ~s~
-family2:2332605299,~s~Go back to ~b~Tracey. ~s~,~s~กลับไปหา ~b~เทรซี่ย์ ~s~
+family2:2277358769,Jimmy died. ~s~,Jimmy ตายแล้ว ~s~
+family2:2313793307,The bike is unrideable. ~s~,จักรยานขับได้ ~s~
+family2:2332605299,~s~Go back to ~b~Tracey. ~s~,~s~กลับไปหา ~b~ Tracey ย์ ~s~
 family2:2350659399,~s~Hold ~INPUT_VEH_ACCELERATE~ to accelerate.~s~,~s~กดค้าง ~INPUT_VEH_ACCELERATE~ เพื่อเร่งความเร็ว~s~
 family2:2382920159,Go into the ~y~house.,เข้าไปข้างใน ~y~บ้าน
-family2:2401690715,Jimmy was spooked. ~s~,จิมมี่ตกใจ ~s~
+family2:2401690715,Jimmy was spooked. ~s~,Jimmy ตกใจ ~s~
 family2:2590102482,Hold ~INPUT_VEH_BRAKE~ to use the brake and to reverse. ~n~,กดค้าง ~INPUT_VEH_BRAKE~ เพื่อใช้เบรกและถอยหลัง ~n~
 family2:2595012319,Get back on the ~b~Seashark. ~s~,กลับขึ้นไปบน ~b~Seashark. ~s~
 family2:2629735286,Go to the ~y~bike rental stand.,ไปที่ ~y~จุดเช่าจักรยาน
-family2:2678502089,Tracey was spooked. ~s~,เทรซี่ย์ตกใจ ~s~
+family2:2678502089,Tracey was spooked. ~s~,Tracey ย์ตกใจ ~s~
 family2:2688468874,The Seashark was flipped.,ซีชาร์กคว่ำแล้ว
-family2:2822150887,Jimmy was abandoned. ~s~,จิมมี่ถูกละทิ้ง ~s~
-family2:2843241682,~s~Go over to ~b~Jimmy. ~s~,~s~เข้าไปหา ~b~จิมมี่ ~s~
+family2:2822150887,Jimmy was abandoned. ~s~,Jimmy ถูกละทิ้ง ~s~
+family2:2843241682,~s~Go over to ~b~Jimmy. ~s~,~s~เข้าไปหา ~b~ Jimmy~s~
 family2:2882333485,Enemy,ศัตรู
 family2:2884905218,Swim to ~y~shore. ~s~,ว่ายไปที่ ~y~ฝั่ง ~s~
 family2:2942097525,The area was abandoned. ~s~,พื้นที่ถูกละทิ้ง ~s~
@@ -52,21 +52,21 @@ family2:2965199286,"The car was destroyed, find another vehicle.",รถถู�
 family2:2969887710,Mission Passed,ภารกิจสำเร็จ
 family2:3042729806,The rental guy was spooked. ~s~,เจ้าของร้านเช่าตกใจ ~s~
 family2:3091016417,Run towards the edge of the pier and press ~INPUT_JUMP~ to dive into the water.,ไปที่ขอบของท่าเรือแล้วกด ~INPUT_JUMP~ เพื่อกระโดดลงไปในน้ำ
-family2:3128118983,Wait for ~b~Jimmy. ~s~,รอ ~b~จิมมี่ ~s~
+family2:3128118983,Wait for ~b~Jimmy. ~s~,รอ ~b~ Jimmy~s~
 family2:3158284031,Get back on the ~b~bike. ~s~,กลับขึ้น ~b~จักรยาน ~s~
 family2:3162282901,Use the ladders to get on board the yacht.,ใช้บันไดเพื่อขึ้นเรือยอร์ช
-family2:3171219541,The car is undriveable. ~s~,รถไม่สามารถขับได้ ~s~
-family2:3247862621,Tracey was injured. ~s~,เทรซี่ย์บาดเจ็บ ~s~
+family2:3171219541,The car is undriveable. ~s~,รถขับได้ ~s~
+family2:3247862621,Tracey was injured. ~s~,Tracey ย์บาดเจ็บ ~s~
 family2:3262580648,Hold ~INPUT_VEH_PUSHBIKE_PEDAL~ to cycle and~n~tap ~INPUT_VEH_PUSHBIKE_PEDAL~ to cycle faster.,กด ~INPUT_VEH_PUSHBIKE_PEDAL~ เพื่อปั่นและ~n~แตะ ~INPUT_VEH_PUSHBIKE_PEDAL~ เพื่อปั่นให้เร็วขึ้น
 family2:3371348466,Approach the ~b~bike rental.,เข้าไปที่ ~b~ร้านเช่าจักรยาน
 family2:3390808074,Get in the ~b~car. ~s~,เข้าไปใน ~b~รถ ~s~
-family2:3421142348,The bike got stuck.,จักรยานไม่สามารถไปต่อได้
+family2:3421142348,The bike got stuck.,จักรยานไปต่อได้
 family2:3669497832,Yacht,เรือยอร์ช
 family2:3673570544,The Seashark was grounded.,ซีชาร์กเกยพื้นแล้ว
 family2:3798550787,Hold ~INPUT_SPRINT~ to swim.~n~Rapidly tap ~INPUT_SPRINT~ to swim faster.,กด ~INPUT_SPRINT~ เพื่อว่ายน้ำ~n~ แตะอย่างรวดเร็ว ~INPUT_SPRINT~ เพื่อว่ายเร็วขึ้น
-family2:3799121564,~s~Return to ~b~Jimmy. ~s~,~s~กลับไปหา ~b~จิมมี่ ~s~
+family2:3799121564,~s~Return to ~b~Jimmy. ~s~,~s~กลับไปหา ~b~ Jimmy~s~
 family2:3973450922,Hold ~INPUTGROUP_MOVE~ to swim.~n~Use ~INPUTGROUP_LOOK~ to change direction.~n~Hold ~INPUT_SPRINT~ to swim faster.,กดค้าง ~INPUTGROUP_MOVE~ เพื่อว่าย~n~ใช้ ~INPUTGROUP_LOOK~ เพื่อเปลี่ยนทิศทาง~n~กดค้าง ~INPUT_SPRINT~ เพื่อว่ายเร็วขึ้น
-family2:3985416978,Race Jimmy to the ~y~pier. ~s~,แข่งกับจิมมี่ไปที่ ~y~ท่าเรือ ~s~
+family2:3985416978,Race Jimmy to the ~y~pier. ~s~,แข่งกับ Jimmy ไปที่ ~y~ท่าเรือ ~s~
 family2:4061028587,When moving forward on a bicycle hold ~INPUT_VEH_MOVE_UP_ONLY~ and then ~INPUT_VEH_MOVE_DOWN_ONLY~ to pull a wheelie.,เมื่อเคลื่อนที่ไปข้างหน้าด้วยจักรยาน กดค้าง ~INPUT_VEH_MOVE_UP_ONLY~ แล้วจากนั้น ~INPUT_VEH_MOVE_DOWN_ONLY~ เพื่อหยุดล้อ
-family2:4095108873,Tracey was abandoned. ~s~,เทรซี่ย์ถูกละทิ้ง ~s~
+family2:4095108873,Tracey was abandoned. ~s~,Tracey ย์ถูกละทิ้ง ~s~
 family2:4105629086,Use ~INPUTGROUP_MOVE~ when moving to change direction. ~n~,ใช้ ~INPUTGROUP_MOVE~ เมื่อเคลื่อนที่เพื่อเปลี่ยนทิศทาง ~n~

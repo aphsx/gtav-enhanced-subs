@@ -1,23 +1,23 @@
 ﻿id,en,th
 h1set1:905063057,The janitor was spooked. ~s~,ภารโรงตื่นตกใจ~s~
 h1set1:1195237840,~s~Lose the Cops. ~s~,~s~หนีตำรวจ~s~
-h1set1:1285767518,~s~Follow the ~b~janitor.~s~,~s~ติดตาม ~b~ภารโรง.~s~
-h1set1:1379669674,~s~Go to the ~y~office.~s~,~s~ไปที่ ~y~สำนักงาน~s~
-h1set1:1387625612,Press ~INPUT_VEH_CIN_CAM~ to focus on the janitor.,กด ~INPUT_VEH_CIN_CAM~ เพื่อโฟกัสไปที่ภารโรง
+h1set1:1285767518,~s~Follow the ~b~janitor.~s~,~s~ติดตาม~b~ภารโรง.~s~
+h1set1:1379669674,~s~Go to the ~y~office.~s~,~s~ไปที่~y~สำนักงาน~s~
+h1set1:1387625612,Press ~INPUT_VEH_CIN_CAM~ to focus on the janitor.,กด~INPUT_VEH_CIN_CAM~เพื่อโฟกัสไปที่ภารโรง
 h1set1:1429589469,The janitor died. ~s~,ภารโรงตายแล้ว~s~
-h1set1:1477436265,Go back to the ~b~janitor. ~s~,กลับไปที่ ~b~ภารโรง~s~
-h1set1:1581845653,~s~Go to the ~y~FIB building.~s~,~s~ไปที่ ~y~ตึกเอฟไอบี~s~
+h1set1:1477436265,Go back to the ~b~janitor. ~s~,กลับไปที่~b~ภารโรง~s~
+h1set1:1581845653,~s~Go to the ~y~FIB building.~s~,~s~ไปที่~y~ตึกเอฟไอบี~s~
 h1set1:1660119336,The janitor cannot get home. ~s~,ภารโรงไม่สามารถกลับบ้านได้~s~
 h1set1:1691981840,The area was abandoned. ~s~,พื้นที่ถูกละทิ้ง~s~
-h1set1:1710657889,~s~Get back in your ~b~car. ~s~,~s~กลับเข้ามาใน ~b~รถของคุณ~s~
+h1set1:1710657889,~s~Get back in your ~b~car. ~s~,~s~กลับเข้ามาใน~b~รถของคุณ~s~
 h1set1:1853460822,Lester was abandoned. ~s~,เลสเตอร์ถูกละทิ้ง~s~
 h1set1:2106283447,The janitor escaped. ~s~,ภารโรงหลบหนี~s~
 h1set1:2107568915,Lester died. ~s~,เลสเตอร์ตายแล้ว~s~
-h1set1:2219211429,~s~Inject the ~r~janitor~s~.,~s~ข่มขู่ ~r~ภารโรง~s~
-h1set1:2571912158,~s~Follow the ~b~janitor ~s~into his apartment.,~s~ติดตาม ~b~ภารโรง~s~เข้าไปในอพาร์ตเมนต์ของเขา
-h1set1:2684426858,~s~Go to the ~y~garment factory. ~s~,~s~ไปที่ ~y~โรงงานเย็บผ้า~s~
+h1set1:2219211429,~s~Inject the ~r~janitor~s~.,~s~ข่มขู่~r~ภารโรง~s~
+h1set1:2571912158,~s~Follow the ~b~janitor ~s~into his apartment.,~s~ติดตาม~b~ภารโรง~s~เข้าไปในอพาร์ตเมนต์ของเขา
+h1set1:2684426858,~s~Go to the ~y~garment factory. ~s~,~s~ไปที่~y~โรงงานเย็บผ้า~s~
 h1set1:2895722150,~s~Wait for the janitor's car.,~s~รอรถของภารโรง
 h1set1:3611900081,~s~The car got stuck. ~s~,~s~รถติดขัด~s~
-h1set1:3643077154,~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the license plate.,~s~กด ~INPUT_VEH_CIN_CAM~ เพื่อสลับโฟกัสที่ป้ายทะเบียน
-h1set1:3976297992,You are getting too close to the ~b~janitor.~s~,คุณเข้าใกล้ ~b~ภารโรง~s~ มากเกินไป
+h1set1:3643077154,~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the license plate.,~s~กด~INPUT_VEH_CIN_CAM~เพื่อสลับโฟกัสที่ป้ายทะเบียน
+h1set1:3976297992,You are getting too close to the ~b~janitor.~s~,คุณเข้าใกล้~b~ภารโรง~s~มากเกินไป
 h1set1:4262405573,Security was alerted. ~s~,ร.ป.ภ. ได้รับการแจ้งเตือน~s~

@@ -1,61 +1,61 @@
 ﻿id,en,th
-h3heist:17987938,~s~Take out the ~r~Cops~s~ before getting to the ~y~rendezvous point.~s~,~s~จัดการ ~r~พวกตำรวจ~s~ ก่อนจะไปถึง ~y~จุดนับพบ~s~
+h3heist:17987938,~s~Take out the ~r~Cops~s~ before getting to the ~y~rendezvous point.~s~,~s~จัดการ~r~พวกตำรวจ~s~ก่อนจะไปถึง~y~จุดนับพบ~s~
 h3heist:126537539,~s~The truck was destroyed.~s~,~s~รถบรรทุกถูกทำลาย~s~
-h3heist:333035261,~s~You are abandoning the heist. Go back and steal the ~g~jewelry.~s~,~s~คุณกำลังละทิ้งการปล้น กลับไปและขโมย ~g~เครื่องประดับ~s~
-h3heist:373658198,~s~Get back in the ~b~truck.~s~,~s~กลับไปที่ ~b~รถบรรทุก~s~
+h3heist:333035261,~s~You are abandoning the heist. Go back and steal the ~g~jewelry.~s~,~s~คุณกำลังละทิ้งการปล้น กลับไปและขโมย~g~เครื่องประดับ~s~
+h3heist:373658198,~s~Get back in the ~b~truck.~s~,~s~กลับไปที่~b~รถบรรทุก~s~
 h3heist:389508616,~s~The security guard escaped.~s~,~s~เจ้าหน้าที่รักษาความปลอดภัยหลบหนีไป~s~
 h3heist:515438795,~s~The manager phoned the Cops.~s~,~s~ผู้จัดการโทรหาตำรวจ~s~
 h3heist:570112183,~s~Not enough goods were stolen to cover your debt.~s~,~s~ของที่ปล้นไม่พอที่จะชดใช้หนี้ของคุณ~s~
-h3heist:693663715,~s~Get in the ~b~truck.~s~,~s~เข้าไปใน ~b~รถบรรทุก~s~
-h3heist:708197751,~s~Go to the ~y~garment factory.~s~,~s~ไปที่ ~y~โรงงานเย็บผ้า~s~
-h3heist:716791820,~s~Get in the ~b~car.~s~,~s~ขึ้นไปบน ~b~รถ~s~
+h3heist:693663715,~s~Get in the ~b~truck.~s~,~s~เข้าไปใน~b~รถบรรทุก~s~
+h3heist:708197751,~s~Go to the ~y~garment factory.~s~,~s~ไปที่~y~โรงงานเย็บผ้า~s~
+h3heist:716791820,~s~Get in the ~b~car.~s~,~s~ขึ้นไปบน~b~รถ~s~
 h3heist:809328390,~s~Franklin died.~s~,~s~แฟรงคลินตายแล้ว~s~
 h3heist:831538727,~s~The heist was abandoned.~s~,~s~การปล้นถูกละทิ้ง~s~
 h3heist:854272178,~s~Ram the ~r~police cars.~s~,~s~พุ่งชน~r~รถตำรวจ~s~
-h3heist:869982249,~s~Get in the ~b~car.~s~,~s~ขึ้นไปบน ~b~รถ~s~
-h3heist:1010949712,~s~Stop the ~r~guard.~s~,~s~หยุด ~r~การ์ด~s~
+h3heist:869982249,~s~Get in the ~b~car.~s~,~s~ขึ้นไปบน~b~รถ~s~
+h3heist:1010949712,~s~Stop the ~r~guard.~s~,~s~หยุด~r~การ์ด~s~
 h3heist:1116237111,~s~A crew member was abandoned.~s~,~s~สมาชิกทีมถูกละทิ้ง~s~
 h3heist:1163763942,~s~Leave the store.,~s~ออกจากร้านค้า
-h3heist:1193809753,Press ~INPUT_CONTEXT~ when next to a cabinet to steal jewelry.,กด ~INPUT_CONTEXT~ เมื่อถัดจากตู้เพื่อขโมยเครื่องประดับ
-h3heist:1238882800,~s~Get onto the ~b~bike.~s~,~s~ขึ้น ~b~มอเตอร์โซค์~s~
+h3heist:1193809753,Press ~INPUT_CONTEXT~ when next to a cabinet to steal jewelry.,กด~INPUT_CONTEXT~เมื่อถัดจากตู้เพื่อขโมยเครื่องประดับ
+h3heist:1238882800,~s~Get onto the ~b~bike.~s~,~s~ขึ้น~b~มอเตอร์โซค์~s~
 h3heist:1342749124,The BZ gas got onto the street and alerted the cops.,แก๊สยาสลบตกไปที่ถนนและทำให้ตำรวจรู้ตัว
 h3heist:1383183667,~s~The Cops were alerted.,~s~ตำรวจได้รับการแจ้งเตือน
-h3heist:1399702432,~s~Go to the ~y~jewelry store.~s~,~s~ไปที่ ~y~ร้านขายเพชร~s~
-h3heist:1422014208,~s~Follow the ~b~crew.~s~,~s~ติดตาม ~b~ทีม~s~
-h3heist:1472631032,Press ~INPUT_SCRIPT_RRIGHT~ when next to a cabinet to steal jewelry.,กด ~INPUT_SCRIPT_RRIGHT~ เมื่ออยู่ถัดจากตู้เพื่อขโมยเครื่องประดับ
-h3heist:1628401283,~s~Get back on the ~b~bike.~s~,~s~กลับไปที่ ~b~มอเตอร์โซค์~s~
+h3heist:1399702432,~s~Go to the ~y~jewelry store.~s~,~s~ไปที่~y~ร้านขายเพชร~s~
+h3heist:1422014208,~s~Follow the ~b~crew.~s~,~s~ติดตาม~b~ทีม~s~
+h3heist:1472631032,Press ~INPUT_SCRIPT_RRIGHT~ when next to a cabinet to steal jewelry.,กด~INPUT_SCRIPT_RRIGHT~เมื่ออยู่ถัดจากตู้เพื่อขโมยเครื่องประดับ
+h3heist:1628401283,~s~Get back on the ~b~bike.~s~,~s~กลับไปที่~b~มอเตอร์โซค์~s~
 h3heist:1747366326,~s~Franklin ran out of BZ gas.,~s~แก๊สยาสลบของแฟรงคลินหมดแล้ว
 h3heist:1798503815,~s~The gunman died.~s~,~s~มือปืนตายแล้ว~s~
-h3heist:1821332884,~s~Hold ~INPUT_AIM~ to aim the throw.~n~Press ~INPUT_ATTACK~ to throw the projectile.~s~,~s~กดค้าง ~INPUT_AIM~ เพื่อเล็งการขว้าง~n~กด ~INPUT_ATTACK~ เพื่อขว้างให้ย้อยลง~s~
+h3heist:1821332884,~s~Hold ~INPUT_AIM~ to aim the throw.~n~Press ~INPUT_ATTACK~ to throw the projectile.~s~,~s~กดค้าง~INPUT_AIM~เพื่อเล็งการขว้าง~n~กด~INPUT_ATTACK~เพื่อขว้างให้ย้อยลง~s~
 h3heist:1869465912,~s~The driver died.~s~,~s~คนขับตายแล้ว~s~
-h3heist:1919162997,~s~Stop the ~r~store manager~s~ from calling the police.~s~,~s~หยุด ~r~ผู้จัดการร้าน~s~ จากการโทรหาตำรวจ~s~
-h3heist:2021823263,~s~Get back in the ~b~van.~s~,~s~กลับไปที่ ~b~รถตู้~s~
-h3heist:2022494772,~s~Franklin's special ability can be used to navigate the tunnels. Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ to activate.,~s~ความสามารถพิเศษของแฟรงคลินสามารถใช้ในการนำทางที่อุโมงค์ กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ เพื่อเปิดใช้งาน
-h3heist:2058888721,~s~Steal the ~g~jewelry.~s~,~s~ขโมย ~g~เครื่องประดับ~s~
-h3heist:2069492521,~s~Hold ~INPUT_SELECT_WEAPON~ and use ~INPUTGROUP_WHEEL~ to select BZ gas.~s~,~s~กดค้าง ~INPUT_SELECT_WEAPON~ และใช้ ~INPUTGROUP_WHEEL~ เพื่อเลือกแก๊สยาสลบ~s~
-h3heist:2131163691,Use  ~INPUTGROUP_WEAPON_WHEEL_CYCLE~ to select an alternate weapon within the same slot.,ใช้ ~INPUTGROUP_WEAPON_WHEEL_CYCLE~ เพื่อเลือกอาวุธสำลองในสล็อตเดียวกัน
+h3heist:1919162997,~s~Stop the ~r~store manager~s~ from calling the police.~s~,~s~หยุด~r~ผู้จัดการร้าน~s~จากการโทรหาตำรวจ~s~
+h3heist:2021823263,~s~Get back in the ~b~van.~s~,~s~กลับไปที่~b~รถตู้~s~
+h3heist:2022494772,~s~Franklin's special ability can be used to navigate the tunnels. Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ to activate.,~s~ความสามารถพิเศษของแฟรงคลินสามารถใช้ในการนำทางที่อุโมงค์ กด~INPUT_SPECIAL_ABILITY~+~INPUT_SPECIAL_ABILITY_SECONDARY~เพื่อเปิดใช้งาน
+h3heist:2058888721,~s~Steal the ~g~jewelry.~s~,~s~ขโมย~g~เครื่องประดับ~s~
+h3heist:2069492521,~s~Hold ~INPUT_SELECT_WEAPON~ and use ~INPUTGROUP_WHEEL~ to select BZ gas.~s~,~s~กดค้าง~INPUT_SELECT_WEAPON~และใช้~INPUTGROUP_WHEEL~เพื่อเลือกแก๊สยาสลบ~s~
+h3heist:2131163691,Use  ~INPUTGROUP_WEAPON_WHEEL_CYCLE~ to select an alternate weapon within the same slot.,ใช้~INPUTGROUP_WEAPON_WHEEL_CYCLE~เพื่อเลือกอาวุธสำลองในสล็อตเดียวกัน
 h3heist:2243991945,~s~The jewelry store has closed.,~s~ร้านขายเครื่องประดับปิดแล้ว
-h3heist:2377359368,Throw the BZ gas into the ~g~air vent.,โยนแก๊สยาสลบลงใน ~g~ช่องระบายอากาศ
+h3heist:2377359368,Throw the BZ gas into the ~g~air vent.,โยนแก๊สยาสลบลงใน~g~ช่องระบายอากาศ
 h3heist:2519604913,~s~Franklin lost the crew.~s~,~s~แฟรงคลินหลงกับทีม~s~
 h3heist:2538888087,~s~Michael didn't escape before the Cops responded.~s~,~s~ไมเคิลหลบหนีไม่ทันก่อนที่ตำรวจจะตอบสนอง~s~
 h3heist:2577018281,~s~A crew member died.~s~,~s~สมาชิกทีมตายแล้ว~s~
 h3heist:2602698735,~s~Michael was abandoned.~s~,~s~ไมเคิลถูกละทิ้ง~s~
 h3heist:2734142063,~s~The van was destroyed.~s~,~s~รถตู้ถูกทำลาย~s~
 h3heist:2853520131,~s~Franklin was abandoned.~s~,~s~แฟรงคลินถูกละทิ้ง~s~
-h3heist:2969687836,~s~Get in the ~b~van.~s~,~s~ขึ้นไปบน ~b~รถตู้~s~
+h3heist:2969687836,~s~Get in the ~b~van.~s~,~s~ขึ้นไปบน~b~รถตู้~s~
 h3heist:3067613451,~s~Franklin's bike was abandoned.~s~,~s~มอเตอร์ไซค์ของแฟรงคลินถูกละทิ้ง~s~
-h3heist:3069426746,~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the crew.,~s~กด ~INPUT_VEH_CIN_CAM~ เพื่อสลับไปโฟกัสที่ทีม
+h3heist:3069426746,~s~Press ~INPUT_VEH_CIN_CAM~ to toggle focus on the crew.,~s~กด~INPUT_VEH_CIN_CAM~เพื่อสลับไปโฟกัสที่ทีม
 h3heist:3236190298,~s~Your cover was blown.,~s~การพรางตัวของคุณถูกเปิดเผย
-h3heist:3381709529,~s~Franklin's special ability can be used to navigate the tunnels. Press ~INPUT_SPECIAL_ABILITY_PC~ to activate.,~s~ความสามารถพิเศษของแฟรงคลินสามารถใช้ในการนำทางที่อุโมงค์ กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อเปิดใช้งาน
+h3heist:3381709529,~s~Franklin's special ability can be used to navigate the tunnels. Press ~INPUT_SPECIAL_ABILITY_PC~ to activate.,~s~ความสามารถพิเศษของแฟรงคลินสามารถใช้ในการนำทางที่อุโมงค์ กด~INPUT_SPECIAL_ABILITY_PC~เพื่อเปิดใช้งาน
 h3heist:3717023333,~s~Michael died.~s~,~s~ไมเคิลตายแล้ว~s~
-h3heist:3733343863,~s~Wait for the ~b~crew.~s~,~s~รอ ~b~ทีม~s~
+h3heist:3733343863,~s~Wait for the ~b~crew.~s~,~s~รอ~b~ทีม~s~
 h3heist:3949623090,~s~The hacker died.~s~,~s~แฮ็กเกอร์ตายแล้ว~s~
-h3heist:4054016239,~s~Get back in the ~b~truck.~s~,~s~กลับไปที่ ~b~รถบรรทุก~s~
+h3heist:4054016239,~s~Get back in the ~b~truck.~s~,~s~กลับไปที่~b~รถบรรทุก~s~
 h3heist:4085700681,~s~The bike was destroyed.~s~,~s~มอเตอร์ไซค์ถูกทำลาย~s~
-h3heist:4086611363,~s~The more you use crew members the more their skills will improve. Their cut will not change.,~s~ยิ่งคุณใช้สมาชิกทีมมากเท่าไหร่ ทักษะของพวกเขาก็จะดีขึ้นเมึงั้น ส่วนแบ่งของพวกเขาจะไม่เปลี่ยนแปลง
+h3heist:4086611363,~s~The more you use crew members the more their skills will improve. Their cut will not change.,~s~ยิ่งคุณใช้สมาชิกทีมมากเท่าไหร่ ทักษะของพวกมันจะดีขึ้นเมึงั้น ส่วนแบ่งของพวกเขาจะไม่เปลี่ยนแปลง
 h3heist:4102990820,~s~The car was destroyed.~s~,~s~รถถูกทำลาย~s~
-h3heist:4162056948,~s~Get back in the ~b~car.~s~,~s~กลับไปที่ ~b~รถ~s~
-h3heist:4169284008,~s~Go to the ~y~lockup.~s~,~s~ไปที่ ~y~โรงเก็บ~s~
+h3heist:4162056948,~s~Get back in the ~b~car.~s~,~s~กลับไปที่~b~รถ~s~
+h3heist:4169284008,~s~Go to the ~y~lockup.~s~,~s~ไปที่~y~โรงเก็บ~s~
 h3heist:4174228673,~s~Don't leave the ~b~crew~s~ behind.,~s~อย่าทิ้ง~b~ทีม~s~ไว้ข้างหลัง
 h3heist:4224621107,~s~Franklin was abandoned.~s~,~s~แฟรงคลินถูกละทิ้ง~s~
-h3heist:4243589478,~s~Go to the ~y~roof.~s~,~s~ไปที่ ~y~หลังคา~s~
+h3heist:4243589478,~s~Go to the ~y~roof.~s~,~s~ไปที่~y~หลังคา~s~

@@ -1,89 +1,89 @@
 ﻿id,en,th
 h1set4:7606887,Franklin died.~s~,แฟรงคลินตายแล้ว~s~
-h1set4:57384447,Plant the bomb in the ~y~locker.~s~,วางระเบิดใน ~y~ตู้ล็อกเกอร์~s~
-h1set4:69589696,~s~Leave the building and go to your ~b~vehicle.~s~,~s~ออกจากอาคารและไปที่ ~b~พาหนะของคุณ~s~
-h1set4:91491167,Enter the ~y~FIB building.~s~,เข้าไปที่ ~y~ตึกเอฟไอบี~s~
-h1set4:116234835,Press ~INPUT_DETONATE~ to detonate the explosives.,กด ~INPUT_DETONATE~ เพื่อทำการจุดระเบิด
-h1set4:122589172,Go to the ~y~elevator shaft.~s~,ไปที่ ~y~ปล่องลิฟต์~s~
-h1set4:267237123,Plant the bomb in the ~y~restroom.~s~,วางระเบิดใน ~y~ห้องน้ำ~s~
-h1set4:376127061,~a~ died.~s~,~a~ ตายแล้ว~s~
+h1set4:57384447,Plant the bomb in the ~y~locker.~s~,วางระเบิดใน~y~ตู้ล็อกเกอร์~s~
+h1set4:69589696,~s~Leave the building and go to your ~b~vehicle.~s~,~s~ออกจากอาคารและไปที่~b~พาหนะของคุณ~s~
+h1set4:91491167,Enter the ~y~FIB building.~s~,เข้าไปที่~y~ตึกเอฟไอบี~s~
+h1set4:116234835,Press ~INPUT_DETONATE~ to detonate the explosives.,กด~INPUT_DETONATE~เพื่อทำการจุดระเบิด
+h1set4:122589172,Go to the ~y~elevator shaft.~s~,ไปที่~y~ปล่องลิฟต์~s~
+h1set4:267237123,Plant the bomb in the ~y~restroom.~s~,วางระเบิดใน~y~ห้องน้ำ~s~
+h1set4:376127061,~a~ died.~s~,~a~ตายแล้ว~s~
 h1set4:391331849,Michael was abandoned.~s~,ไมเคิลถูกละทิ้ง~s~
 h1set4:429918044,Lester is dead.,เลสเตอร์ตายแล้ว
 h1set4:435176799,The heist was abandoned.~s~,งานปล้นถูกละทิ้ง~s~
-h1set4:497963652,Go to the next ~y~room.~s~,ไปที่ ~y~ห้องต่อไป~s~
-h1set4:532725752,~s~Press ~INPUT_VEH_CIN_CAM~ to attack the janitor.,~s~กด ~INPUT_VEH_CIN_CAM~ เพื่อโจมตีภารโรง
+h1set4:497963652,Go to the next ~y~room.~s~,ไปที่~y~ห้องต่อไป~s~
+h1set4:532725752,~s~Press ~INPUT_VEH_CIN_CAM~ to attack the janitor.,~s~กด~INPUT_VEH_CIN_CAM~เพื่อโจมตีภารโรง
 h1set4:601934852,~s~Leave the fire truck.~s~,~s~ออกจากรถดับเพลิง~s~
-h1set4:651352951,"~s~With ""Detonate"" highlighted press ~INPUT_CELLPHONE_SELECT~ to call.~s~","~s~เมื่อไฮไลท์ไปที่ ""ระเบิด"" แล้ว ให้กด ~INPUT_CELLPHONE_SELECT~ เพื่อโทรออก~s~"
-h1set4:675208437,Press ~INPUT_SCRIPT_LB~ to clean the mop.,กด ~INPUT_SCRIPT_LB~ เพื่อทำความสะอาดไม้ถูพื้น
+h1set4:651352951,"~s~With ""Detonate"" highlighted press ~INPUT_CELLPHONE_SELECT~ to call.~s~","~s~เมื่อไฮไลท์ไปที่ ""ระเบิด"" แล้ว ให้กด~INPUT_CELLPHONE_SELECT~เพื่อโทรออก~s~"
+h1set4:675208437,Press ~INPUT_SCRIPT_LB~ to clean the mop.,กด~INPUT_SCRIPT_LB~เพื่อทำความสะอาดไม้ถูพื้น
 h1set4:716236512,The fire truck got stuck.~s~,รถดับเพลิงติดขัด~s~
 h1set4:764963987,The oxygen ran out.~s~,ออกซิเจนหมด~s~
-h1set4:821190531,Return to ~b~Michael.~s~,กลับไปที่ ~b~ไมเคิล~s~
-h1set4:906066042,The mop is dirty. Clean the mop in the ~g~bucket.~s~,ไม้ถูพื้นสกปรก ทำความสะอาดไม้ถูกใน ~g~ถัง~s~
-h1set4:976292745,~s~Go to the ~y~FIB building.~s~,~s~ไปที่ ~y~ตึกเอฟไอบี~s~
+h1set4:821190531,Return to ~b~Michael.~s~,กลับไปที่~b~ไมเคิล~s~
+h1set4:906066042,The mop is dirty. Clean the mop in the ~g~bucket.~s~,ไม้ถูพื้นสกปรก ทำความสะอาดไม้ถูกใน~g~ถัง~s~
+h1set4:976292745,~s~Go to the ~y~FIB building.~s~,~s~ไปที่~y~ตึกเอฟไอบี~s~
 h1set4:985166607,Get to the ~y~garment factory.~s~,ไปที่โรงงานเย็บผ้า~y~
-h1set4:1040386173,Press ~INPUT_SCRIPT_RDOWN~ to clean the floor with the mop.,กด ~INPUT_SCRIPT_RDOWN~ เพื่อทำความสะอาดพื้นด้วยไม้ถูพื้น
-h1set4:1057476863,~s~Time: ~a~~s~,~s~เวลา: ~a~~s~
-h1set4:1122944362,Pick up the mop and get the office floor cleaned.,รับไม้ถูกพิ้นและทำความสะอาดพื้นสำนักงาน
+h1set4:1040386173,Press ~INPUT_SCRIPT_RDOWN~ to clean the floor with the mop.,กด~INPUT_SCRIPT_RDOWN~เพื่อทำความสะอาดพื้นด้วยไม้ถูพื้น
+h1set4:1057476863,~s~Time: ~a~~s~,~s~เวลา:~a~~s~
+h1set4:1122944362,Pick up the mop and get the office floor cleaned.,รับไม้ถูกพื้นและทำความสะอาดพื้นสำนักงาน
 h1set4:1128190534,"Michael: ""Johnny's off so i'm covering.""","ไมเคิล: ""Johnny's off so i'm covering."""
 h1set4:1153125008,~s~OXYGEN~s~,~s~ออกซิเจน~s~
-h1set4:1191650613,~s~Go to the ~y~elevator.~s~,~s~ไปที่ ~y~ลิฟต์~s~
+h1set4:1191650613,~s~Go to the ~y~elevator.~s~,~s~ไปที่~y~ลิฟต์~s~
 h1set4:1196417723,The fire truck was destroyed in public.,รถดับเพลิงถูกทำลายในที่สาธารณะ
-h1set4:1196825725,~s~Press ~INPUT_PHONE~ to bring up the phone.~s~,~s~กด ~INPUT_PHONE~ เพื่อเปิดโทรศัพท์ขึ้น~s~
-h1set4:1421817333,Press ~INPUT_SCRIPT_PAD_RIGHT~ to drop the bucket.,กด ~INPUT_SCRIPT_PAD_RIGHT~ เพื่อวางถัง
-h1set4:1422246066,~s~Press ~INPUT_VEH_ATTACK~ to use the elevator.,~s~กด ~INPUT_VEH_ATTACK~ เพื่อใช้ลิฟต์
+h1set4:1196825725,~s~Press ~INPUT_PHONE~ to bring up the phone.~s~,~s~กด~INPUT_PHONE~เพื่อเปิดโทรศัพท์ขึ้น~s~
+h1set4:1421817333,Press ~INPUT_SCRIPT_PAD_RIGHT~ to drop the bucket.,กด~INPUT_SCRIPT_PAD_RIGHT~เพื่อวางถัง
+h1set4:1422246066,~s~Press ~INPUT_VEH_ATTACK~ to use the elevator.,~s~กด~INPUT_VEH_ATTACK~เพื่อใช้ลิฟต์
 h1set4:1435023586,~s~Use the phone to detonate the C4.~s~,~s~ใช้โทรศัพท์เพื่อจุดระเบิด C4~s~
 h1set4:1470600577,~s~One of the crew members died.~s~,~s~หนึ่งในสมาชิกทีมตายแล้ว~s~
-h1set4:1511473663,~s~Press ~INPUT_CELLPHONE_SELECT~ to view the contact list.~s~,~s~กด ~INPUT_CELLPHONE_SELECT~ เพื่อดูรายชื่อผู้ติดต่อ~s~
-h1set4:1527104130,"To walk with the mop, use ~INPUTGROUP_MOVE~.",การเดินไปกับไม้ถูพิ้น ให้ใช้ ~INPUTGROUP_MOVE~
-h1set4:1659651886,Pick up Michael at ~y~Pillbox Hill.~s~,รับ ไมเคิล ที่ ~y~พิลบอกซ์ ฮิลล์~s~
-h1set4:1686095517,Go to the ~y~top floor.~s~,ไปที่ ~y~ชั้นบนสุด~s~
+h1set4:1511473663,~s~Press ~INPUT_CELLPHONE_SELECT~ to view the contact list.~s~,~s~กด~INPUT_CELLPHONE_SELECT~เพื่อดูรายชื่อผู้ติดต่อ~s~
+h1set4:1527104130,"To walk with the mop, use ~INPUTGROUP_MOVE~.",การเดินไปกับไม้ถูพื้น ให้ใช้~INPUTGROUP_MOVE~
+h1set4:1659651886,Pick up Michael at ~y~Pillbox Hill.~s~,รับ ไมเคิล ที่~y~พิลบอกซ์ ฮิลล์~s~
+h1set4:1686095517,Go to the ~y~top floor.~s~,ไปที่~y~ชั้นบนสุด~s~
 h1set4:1721126306,~s~Leave the building.~s~,~s~ออกจากอาคาร~s~
-h1set4:1940061804,~s~Mop the ~r~floor.~s~,~s~ทำการ ~r~ถูพื้น~s~
-h1set4:1951000841,Go to the ~y~elevator~s~ and leave the office.,ไปที่ ~y~ลิฟต์~s~ และออกจากสำนักงาน
+h1set4:1940061804,~s~Mop the ~r~floor.~s~,~s~ทำการ~r~ถูพื้น~s~
+h1set4:1951000841,Go to the ~y~elevator~s~ and leave the office.,ไปที่~y~ลิฟต์~s~และออกจากสำนักงาน
 h1set4:2018439663,Put the weapon away.,เอาอาวุธออกไป
-h1set4:2112912094,~s~Get in the ~y~elevator shaft.~s~,~s~เข้าไปใน ~y~ปล่องลิฟต์~s~
-h1set4:2188087625,~s~Press ~INPUT_JUMP~ to climb the rubble.,~s~กด ~INPUT_JUMP~ เพื่อปีนซากปรักหักพัง
-h1set4:2191662154,~s~Press ~INPUT_VEH_ATTACK~ to plant the bombs.,~s~กด ~INPUT_VEH_ATTACK~ เพื่อวางระเบิด
-h1set4:2214398291,Follow ~b~Michael~s~ out of the building.,ติดตาม ~b~ไมเคิล~s~ออกจากอาคาร
-h1set4:2238417740,Go to the ~y~office floor.~s~,ไปที่ ~y~พื้นของออฟฟิศ
-h1set4:2284720341,Plant the bombs in the ~y~locations.~s~,วางระเบิดใน ~y~ตำแหน่งที่กำหนด~s~
-h1set4:2298253206,Return to ~b~~a~.,กลับไปที่ ~b~~a~
-h1set4:2411601529,~s~Climb up the ~y~rubble.~s~,~s~ปีนขึ้นไปบน ~y~ซากปรักหักพัง~s~
-h1set4:2545298697,Go to ~y~Lester's house.~s~,ไปที่ ~y~บ้านของเลสเตอร์~s~
-h1set4:2597697056,~s~Pick up the ~g~mop.~s~,~s~หยิบ ~g~ไม้ถูพื้น~s~
-h1set4:2665433648,Use ~INPUT_MOVE_DOWN_ONLY~ to rappel. Hold ~INPUT_SCRIPT_RLEFT~ to descend faster.,ใช้ ~INPUT_MOVE_DOWN_ONLY~ เพื่อโรยตัว กดค้าง ~INPUT_SCRIPT_RLEFT~ เพื่อลงให้เร็วขึ้น
-h1set4:2673819447,~s~Take the mop and bucket back to the ~y~closet.~s~,~s~เอาไม้ถูพื้นและถังกลับไปที่ ~y~ห้อง~s~
-h1set4:2835076668,Destroy the ~r~fire truck.~s~,ทำลาย ~r~รถดับเพลิง~s~
-h1set4:2864994017,Get the ~g~containment drive.~s~,เอา ~g~ไดร์ฟข้อมูล~s~
-h1set4:2875937907,~s~Plant the explosives on the ~b~door.~s~,~s~วางระเบิดที่ ~b~ประตู~s~
-h1set4:2897533410,~s~Pick up the ~g~bucket.~s~,~s~หยิบ ~g~ถัง~s~
+h1set4:2112912094,~s~Get in the ~y~elevator shaft.~s~,~s~เข้าไปใน~y~ปล่องลิฟต์~s~
+h1set4:2188087625,~s~Press ~INPUT_JUMP~ to climb the rubble.,~s~กด~INPUT_JUMP~เพื่อปีนซากปรักหักพัง
+h1set4:2191662154,~s~Press ~INPUT_VEH_ATTACK~ to plant the bombs.,~s~กด~INPUT_VEH_ATTACK~เพื่อวางระเบิด
+h1set4:2214398291,Follow ~b~Michael~s~ out of the building.,ติดตาม~b~ไมเคิล~s~ออกจากอาคาร
+h1set4:2238417740,Go to the ~y~office floor.~s~,ไปที่~y~พื้นของออฟฟิศ
+h1set4:2284720341,Plant the bombs in the ~y~locations.~s~,วางระเบิดใน~y~ตำแหน่งที่กำหนด~s~
+h1set4:2298253206,Return to ~b~~a~.,กลับไปที่~b~~a~
+h1set4:2411601529,~s~Climb up the ~y~rubble.~s~,~s~ปีนขึ้นไปบน~y~ซากปรักหักพัง~s~
+h1set4:2545298697,Go to ~y~Lester's house.~s~,ไปที่~y~บ้านของเลสเตอร์~s~
+h1set4:2597697056,~s~Pick up the ~g~mop.~s~,~s~หยิบ~g~ไม้ถูพื้น~s~
+h1set4:2665433648,Use ~INPUT_MOVE_DOWN_ONLY~ to rappel. Hold ~INPUT_SCRIPT_RLEFT~ to descend faster.,ใช้~INPUT_MOVE_DOWN_ONLY~เพื่อโรยตัว กดค้าง~INPUT_SCRIPT_RLEFT~เพื่อลงให้เร็วขึ้น
+h1set4:2673819447,~s~Take the mop and bucket back to the ~y~closet.~s~,~s~เอาไม้ถูพื้นและถังกลับไปที่~y~ห้อง~s~
+h1set4:2835076668,Destroy the ~r~fire truck.~s~,ทำลาย~r~รถดับเพลิง~s~
+h1set4:2864994017,Get the ~g~containment drive.~s~,เอา~g~ไดร์ฟข้อมูล~s~
+h1set4:2875937907,~s~Plant the explosives on the ~b~door.~s~,~s~วางระเบิดที่~b~ประตู~s~
+h1set4:2897533410,~s~Pick up the ~g~bucket.~s~,~s~หยิบ~g~ถัง~s~
 h1set4:2908482612,The fire truck was destroyed.~s~,รถดับเพลิงถูกทำลาย~s~
-h1set4:3057347091,Wait for the ~b~crew.~s~,รอ ~b~ทีม~s~
-h1set4:3073798833,Get in the ~b~car.~s~,ขึ้น ~b~รถ~s~
-h1set4:3077238830,Get back in the ~b~fire truck.~s~,กลับไปที่ ~b~รถดับเพลิง~s~
+h1set4:3057347091,Wait for the ~b~crew.~s~,รอ~b~ทีม~s~
+h1set4:3073798833,Get in the ~b~car.~s~,ขึ้น~b~รถ~s~
+h1set4:3077238830,Get back in the ~b~fire truck.~s~,กลับไปที่~b~รถดับเพลิง~s~
 h1set4:3088707376,Bucket,ถัง
 h1set4:3149105383,Cover was blown.~s~,การพรางตัวถูกเปิดเผย~s~
 h1set4:3256681650,~s~Here's my I.D. officer~s~,~s~นี่คือบัตรผ่านฉัน เจ้าหน้าที่~s~
 h1set4:3317686181,Out of sticky bombs.~s~,ระเบิดสติ๊กกี้บอมบ์หมดแล้ว~s~
-h1set4:3331689511,~s~Bucket and mop~s~,~s~ถัง และ ไม่ถูพื้น~s~
+h1set4:3331689511,~s~Bucket and mop~s~,~s~ถัง และไม้ถูพื้น~s~
 h1set4:3422039797,Get back in the room and start cleaning the floor.,กลับเข้าไปในห้องและเริ่มทำความสะอาดพื้น
-h1set4:3431176171,~s~Return to ~b~~a~.,~s~กลับไปที่ ~b~~a~
+h1set4:3431176171,~s~Return to ~b~~a~.,~s~กลับไปที่~b~~a~
 h1set4:3455655242,~b~~a~~s~ was abandoned.,~b~~a~~s~ถูกละทิ้ง
-h1set4:3466994064,Go to the ~y~getaway location.~s~,ไปที่ ~y~สถานที่หลบหนี~s~
+h1set4:3466994064,Go to the ~y~getaway location.~s~,ไปที่~y~สถานที่หลบหนี~s~
 h1set4:3488488824,"~s~Getting too close to the FIB building, cover will be compromised.~s~",~s~เข้าใกล้ ตึกเอฟไอบี มากเกินไป การพรางตัวจะถูกเปิดเผยได้~s~
-h1set4:3509792471,Use ~INPUT_MOVE_LR~ ~INPUT_SCRIPT_RDOWN~ to avoid the falling debris.,ใช้ ~INPUT_MOVE_LR~ ~INPUT_SCRIPT_RDOWN~ เพื่อหลีกเลี่ยงเศษซากที่ตกลงมา
+h1set4:3509792471,Use ~INPUT_MOVE_LR~ ~INPUT_SCRIPT_RDOWN~ to avoid the falling debris.,ใช้~INPUT_MOVE_LR~~INPUT_SCRIPT_RDOWN~เพื่อหลีกเลี่ยงเศษซากที่ตกลงมา
 h1set4:3622534093,I'm here to clean the FIB office.,ฉันมาที่นี่เพื่อทำความสะอาดออฟฟิศเอฟไอบี
 h1set4:3648860310,~s~Blow open the door.~s~,~s~ระเบิดเพื่อประตู~s~
-h1set4:3660893038,Enter the FIB building and go to the ~y~turnstile.~s~,เข้า ตึกเอฟไอบี และไปที่ ~y~ประตูกั้น~s~
-h1set4:3715152953,Follow your ~b~crew.~s~,ติดตาม ~b~ทีมของคุณ~s~
-h1set4:3716499327,Press ~INPUT_SCRIPT_PAD_RIGHT~ to pick up the bucket.,กด ~INPUT_SCRIPT_PAD_RIGHT~ เพื่อหยิบถัง
-h1set4:3719346757,~s~Return to the ~b~crew.~s~,~s~กลับไปที่ ~b~ทีม~s~
+h1set4:3660893038,Enter the FIB building and go to the ~y~turnstile.~s~,เข้า ตึกเอฟไอบี และไปที่~y~ประตูกั้น~s~
+h1set4:3715152953,Follow your ~b~crew.~s~,ติดตาม~b~ทีมของคุณ~s~
+h1set4:3716499327,Press ~INPUT_SCRIPT_PAD_RIGHT~ to pick up the bucket.,กด~INPUT_SCRIPT_PAD_RIGHT~เพื่อหยิบถัง
+h1set4:3719346757,~s~Return to the ~b~crew.~s~,~s~กลับไปที่~b~ทีม~s~
 h1set4:3804813073,Michael died.~s~,ไมเคิลตายแล้ว~s~
-h1set4:3951482377,Help up ~b~~a~.,ช่วย ~b~~a~
-h1set4:3954333884,Wait for your ~b~buddy.~s~,รอ ~b~เพื่อน~s~ ของคุณ
+h1set4:3951482377,Help up ~b~~a~.,ช่วย~b~~a~
+h1set4:3954333884,Wait for your ~b~buddy.~s~,รอ~b~เพื่อน~s~ของคุณ
 h1set4:4000590002,"Guard: ""okay let him through""","การ์ด: ""โอเคให้เขาผ่าน"""
 h1set4:4007156884,~s~Stand back from the doors.~s~,~s~ถอยห่างจากประตู~s~
-h1set4:4043596640,Leave the building and get to the ~b~fire truck.~s~,ออกจากอาคารและไปที่ ~b~รถดับเพลิง~s~
+h1set4:4043596640,Leave the building and get to the ~b~fire truck.~s~,ออกจากอาคารและไปที่~b~รถดับเพลิง~s~
 h1set4:4047467518,The crew was abandoned.~s~,ทีมถูกละทิ้ง~s~
 h1set4:4065092476,Containment Drive.,ไดรฟ์ข้อมูล
 h1set4:4260952461,~s~SWITCH to Franklin.~s~,~s~เปลี่ยนเป็น แฟรงคลิน~s~

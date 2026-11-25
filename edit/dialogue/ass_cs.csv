@@ -1,7 +1,7 @@
 ﻿id,en,th
 ass_cs:336577387,Completion - Silver,เสร็จสิ้น - เงิน
-ass_cs:353674661,No Fly Zone Bonus,โบนัส ที่นี่เขาห้ามบิน
-ass_cs:409249285,Construction Site,สถานที่ก่อสร้าง
+ass_cs:353674661,No Fly Zone Bonus,โบนัสเขตห้ามบิน
+ass_cs:409249285,Construction Site,Construction Site
 ass_cs:419472761,~s~Assassinate the ~r~target.~s~,~s~ลอบสังหาร ~r~เป้าหมาย~s~
 ass_cs:562275240,~s~The mission was abandoned.~s~,~s~ภารกิจถูกละทิ้ง~s~
 ass_cs:610403800,~s~The target escaped.~s~,~s~เป้าหมายหลบหนี~s~
@@ -13,17 +13,17 @@ ass_cs:1187827823,~s~Return and search for the target.~s~,~s~กลับไป�
 ass_cs:1243940045,Continue,ดำเนินการต่อ
 ass_cs:1244699986,Money Earned,ได้รับเงิน
 ass_cs:1690195288,Mission Passed,ภารกิจสำเร็จ
-ass_cs:2185447623,~s~Franklin died.~s~,~s~แฟรงคลินตายแล้ว~s~
+ass_cs:2185447623,~s~Franklin died.~s~,~s~Franklin ตายแล้ว~s~
 ass_cs:2236852282,~s~Leave the area.~s~,~s~ออกจากพื้นที่~s~
 ass_cs:2287043797,~s~Press ~INPUT_PARACHUTE_DEPLOY~ while airborne to deploy your parachute.~s~,~s~กด ~INPUT_PARACHUTE_DEPLOY~ ขณะอยู่กลางอากาศเพื่อกระตุกร่มชูชีพของคุณ~s~
 ass_cs:2343321880,"~s~Use ~INPUTGROUP_LOOK~ to look around, and use ~INPUTGROUP_MOVE~ to zoom in and out.",~s~ใช้ ~INPUTGROUP_LOOK~ เพื่อมองไปรอบๆ และใช้ ~INPUTGROUP_MOVE~ เพื่อซูมเข้าและออก
 ass_cs:2621287263,~s~Press ~INPUT_CONTEXT~ to activate the elevator.~s~,~s~กด ~INPUT_CONTEXT~ เพื่อเปิดใช้งานลิฟต์~s~
 ass_cs:2941732436,~s~Go to the ~y~construction site.~s~,~s~ไปที่ ~y~สถานที่ก่อสร้าง~s~
 ass_cs:2960007248,~s~You've assassinated the target. Leave the area by any means necessary.~s~,~s~คุณลอบสังหารเป้าหมายแล้ว ออกจากพื้นที่ด้วยวิธีการใดๆ ก็ได้ที่จำเป็น~s~
-ass_cs:2964028568,Completion - Gold,เสร็จสิ้น - ทองคำ
-ass_cs:3315953198,Construction Site,สถานที่ก่อสร้าง
+ass_cs:2964028568,Completion - Gold,เสร็จสิ้น - ทอง
+ass_cs:3315953198,Construction Site,Construction Site
 ass_cs:3601552172,Target,เป้าหมาย
 ass_cs:4081920369,~s~Return to the ~y~construction site.~s~,~s~กลับไปที่ ~y~สถานที่ก่อสร้าง~s~
-ass_cs:4249039489,Base Reward,จากเงินรางวัล
+ass_cs:4249039489,Base Reward,รางวัลพื้นฐาน
 ass_cs:4280895195,~s~Search for elevators to go up to the roof.~s~,~s~ค้นหาลิฟต์ขึ้นไปบนหลังคา~s~
-ass_cs:4284009274,Completion,ความสำเร็จ
+ass_cs:4284009274,Completion,สำเร็จ

@@ -1,13 +1,13 @@
 ﻿id,en,th
-fam5:30943874,~s~Go to ~y~Burger Shot.~s~,~s~ไปที่ ~y~เบอร์เกอร์ ช็อท~s~
-fam5:1919096346,~s~Fabien died.,~s~ฟาเบียนตายแล้ว
-fam5:1972943553,~s~The car is undriveable.,~s~รถไม่สามารถขับได้
-fam5:2459620649,Press ~INPUT_VEH_CIN_CAM~ to toggle cinematic camera.,กด ~INPUT_VEH_CIN_CAM~ เพื่อสลับเป็นมุมมองแบบภาพยนตร์
-fam5:2485610498,~s~Jimmy's friend died.,~s~เพื่อนของจิมมี่ตายแล้ว
+fam5:30943874,~s~Go to ~y~Burger Shot.~s~,~s~ไปที่ ~y~Burger Shot~s~.
+fam5:1919096346,~s~Fabien died.,~s~Fabien ตายแล้ว.
+fam5:1972943553,~s~The car is undriveable.,~s~รถขับต่อไม่ได้.
+fam5:2459620649,Press ~INPUT_VEH_CIN_CAM~ to toggle cinematic camera.,กด ~INPUT_VEH_CIN_CAM~ เพื่อสลับมุมกล้องภาพยนตร์.
+fam5:2485610498,~s~Jimmy's friend died.,~s~เพื่อนของ Jimmy ตายแล้ว.
 fam5:2617962436,~s~Mission Failed,~s~ภารกิจล้มเหลว
-fam5:2868090266,~s~Jimmy's friend was spooked.,~s~เพื่อนของจิมมี่ตื่นตกใจ
-fam5:3203513750,~s~Jimmy's friend was attacked.,~s~เพื่อนของจิมมี่ถูกโจมตี
-fam5:3559819091,~s~Michael did not reach enlightenment.,~s~ไมเคิลไม่บรรลุการตรัสรู้
-fam5:3785455595,~s~Michael's car was left behind.,~s~รถของไมเคิลถูกทิ้งไว้เบื้องหลัง
-fam5:3915348369,~s~Go to ~y~Jimmy's room.~s~,~s~ไปที่ ~y~ห้องของจิมมี่~s~
-fam5:4013229372,~s~Go back to ~y~Michael's house.~s~,~s~กลับไปที่ ~y~บ้านของไมเคิล~s~
+fam5:2868090266,~s~Jimmy's friend was spooked.,~s~เพื่อนของ Jimmy ตกใจวิ่งหนี.
+fam5:3203513750,~s~Jimmy's friend was attacked.,~s~เพื่อนของ Jimmy ถูกโจมตี.
+fam5:3559819091,~s~Michael did not reach enlightenment.,~s~Michael ไม่บรรลุธรรม.
+fam5:3785455595,~s~Michael's car was left behind.,~s~รถของ Michael ถูกทิ้งไว้.
+fam5:3915348369,~s~Go to ~y~Jimmy's room.~s~,~s~ไปที่ ~y~ห้องของ Jimmy~s~.
+fam5:4013229372,~s~Go back to ~y~Michael's house.~s~,~s~กลับไปที่ ~y~บ้านของ Michael~s~.

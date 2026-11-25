@@ -1,23 +1,23 @@
 ﻿id,en,th
-sol1:55070871,"~s~Increasing the strength stat will allow more damage to be inflicted when performing a melee attack, ladders to be climbed faster, more damage to be taken, and better sports performance.",~s~การเพิ่มสถิติความแข็งแรงจะช่วยให้เกิดความเสียหายมากขึ้นเมื่อทำการโจมตีระยะประชิด ปีนบันไดเร็วขึ้น รับความเสียหายได้มากขึ้น และเล่นกีฬาได้ดีขึ้น
-sol1:160810633,~w~Milton died.~s~,~w~มิลตันตายแล้ว~s~
-sol1:275198911,"~s~Scare Milton and Anton by flying at high speeds, under bridges or dangerously close to buildings.~s~",~s~ทำให้ มิลตัน และ แอนทอน กลัวโดยการบินด้วยความเร็วสูงใต้สะพานหรือใกล้กับอาคารที่เป็นอันตราย~s~
-sol1:827966360,~w~Solomon died.~s~,~w~โซโลมอนตายแล้ว~s~
-sol1:859240936,Take out the alerted workers before Rocco is warned.,จัดการคนงานที่รู้ตัวก่อนที่ ร็อกโค่ จะได้รับคำเตือน
-sol1:1026696273,~s~Change Milton and Anton's minds by flying erratically.~s~,~s~เปลี่ยนความคิดของมิลตันและแอนตันโดยการบินผาดโผน~s~
-sol1:1045211421,~w~The helicopter was destroyed.~s~,~w~เฮลิคอปเตอร์ถูกทำลาย~s~
-sol1:1436471300,~w~Michael left the mission area.~s~,~w~ไมเคิลออกจากพื้นที่ภารกิจ~s~
-sol1:1480841777,~s~Return to the mission area.~s~,~s~กลับไปที่พื้นที่ภารกิจ~s~
-sol1:1826048408,~w~Rocco died.~s~,~w~ร็อกโค่ตายแล้ว~s~
-sol1:1986275838,Beat up ~r~Rocco.~s~,เอาชนะ ~r~ร็อกโค่~s~
-sol1:2034734578,~w~Milton and Anton were abandoned.~s~,~w~มิลตัน และ แอนทอน ถูกละทิ้ง~s~
-sol1:2398227115,Go to ~y~East Los Santos.~s~,ไปที่ ~y~ลอส ซานโตส ตะวันออก~s~
-sol1:2624645572,~w~Anton died.~s~,~w~แอนทอนตายแล้ว~s~
-sol1:2680011134,~s~Return to ~b~Milton.~s~,~s~กลับไปที่ ~b~มิลตัน~s~
-sol1:2797875832,~s~Return to fight ~r~Rocco.~s~,~s~กลับไปต่อสู้ ~r~ร็อกโค่~s~
-sol1:3018589084,Go back to the ~y~studio.~s~,กลับไปที่ ~y~สตูดิโอ~s~
-sol1:3074544596,~w~Milton and Anton were spooked.~s~,~w~มิลตัน และ แอนทอนตกใจ~s~
-sol1:3156886108,~s~The strength stat can be increased by engaging in melee combat and playing sports.,~s~สถิติความแข็งแรงสามารถเพิ่มขึ้นได้โดยการต่อสู้ระยะประชิดและเล่นกีฬา
-sol1:3161947026,~w~Rocco was alerted.~s~,~w~ร็อกโค่ ได้รับการแจ้งเตือน~s~
-sol1:4057106968,~s~Return to ~b~Anton.~s~,~s~กลับไปที่ ~b~แอนทอน~s~
-sol1:4185311138,Reach the ~y~helipad~s~ without alerting Rocco.,ไปถึง ~y~ลานจอดเฮลิคอปเตอร์~s~โดยไม่ให้ ร็อกโค่ รู้ตัว
+sol1:55070871,"~s~Increasing the strength stat will allow more damage to be inflicted when performing a melee attack, ladders to be climbed faster, more damage to be taken, and better sports performance.","Increasing the strength stat will allow more damage to be inflicted when performing a melee attack, ladders to be climbed faster, more damage to be taken, and better sports performance."
+sol1:160810633,~w~Milton died.~s~,Milton died.
+sol1:275198911,"~s~Scare Milton and Anton by flying at high speeds, under bridges or dangerously close to buildings.~s~","Scare Milton and Anton by flying at high speeds, under bridges or dangerously close to buildings."
+sol1:827966360,~w~Solomon died.~s~,Solomon died.
+sol1:859240936,Take out the alerted workers before Rocco is warned.,จัดการคนงานที่ได้รับแจ้งเตือนก่อนที่ Rocco จะรู้ตัว
+sol1:1026696273,~s~Change Milton and Anton's minds by flying erratically.~s~,Change Milton and Anton's minds by flying erratically.
+sol1:1045211421,~w~The helicopter was destroyed.~s~,The helicopter was destroyed.
+sol1:1436471300,~w~Michael left the mission area.~s~,Michael left the mission area.
+sol1:1480841777,~s~Return to the mission area.~s~,Return to the mission area.
+sol1:1826048408,~w~Rocco died.~s~,Rocco died.
+sol1:1986275838,Beat up ~r~Rocco.~s~,ตีซ้อม
+sol1:2034734578,~w~Milton and Anton were abandoned.~s~,Milton and Anton were abandoned.
+sol1:2398227115,Go to ~y~East Los Santos.~s~,ไปที่ {0}
+sol1:2624645572,~w~Anton died.~s~,Anton died.
+sol1:2680011134,~s~Return to ~b~Milton.~s~,Return to Milton.
+sol1:2797875832,~s~Return to fight ~r~Rocco.~s~,Return to fight Rocco.
+sol1:3018589084,Go back to the ~y~studio.~s~,กลับไปที่ studio.
+sol1:3074544596,~w~Milton and Anton were spooked.~s~,Milton and Anton were spooked.
+sol1:3156886108,~s~The strength stat can be increased by engaging in melee combat and playing sports.,The strength stat can be increased by engaging in melee combat and playing sports.
+sol1:3161947026,~w~Rocco was alerted.~s~,Rocco was alerted.
+sol1:4057106968,~s~Return to ~b~Anton.~s~,Return to Anton.
+sol1:4185311138,Reach the ~y~helipad~s~ without alerting Rocco.,ไปให้ถึง helipad โดยไม่ทำให้ Rocco รู้ตัว

@@ -9,7 +9,7 @@ taxi:712308525,~s~Drive to the ~y~parking lot~s~ of the mistress' apartment buil
 taxi:772270816,~s~Lose the Cops.~s~,~s~หนีตำรวจ~s~
 taxi:1082389862,~s~Go to ~y~Little Gems Jewelry~s~ off Atlee St in Downtown.,~s~ไปที่ ~y~Little Gems Jewelry~s~ ที่่ถนนแอทลี่ในดาวน์ทาวน์
 taxi:1087728087,Fare: $~1~ Tips: $~1~ Total: $~1~,ค่าโดยสาร: $~1~ ทิป: $~1~ ทั้งหมด: $~1~
-taxi:1121427147,~s~Talk to his ~b~ex-girlfriend.~s~,~s~คุยกับ ~b~แฟนเก่า~s~ ของเขา
+taxi:1121427147,~s~Talk to his ~b~ex-girlfriend.~s~,~s~คุยกับ ~b~แฟนเก่า~s~ ของเขา~s~
 taxi:1196568807,~s~Drive to the ~y~Central Los Santos Medical Center~s~ off Capital Blvd.,~s~ขับไปที่ ~y~ศูนย์การแพทย์ลอสซานโตส~s~ ถนนแคปิตอล บูเลอวาร์ด
 taxi:1217406326,~s~Drive to the ~y~shipyard~s~ off Signal St in the Port. ~s~,~s~ขับไปที่ ~y~ท่าจอดเรือ~s~ ที่ถนนซิกแนลในท่าเรือ ~s~
 taxi:1255959135,Smooth Getaway,หลบหนีราบรื่น
@@ -24,7 +24,7 @@ taxi:2202295082,Daredevil Bonus,โบนัสบ้าบิ่น
 taxi:2216368440,Cut You In,ให้คุณมีส่วนแบ่ง
 taxi:2229346572,Follow Car,สะกดรอยตามรถ
 taxi:2331025942,Get a car that can fit more passengers.,หารถให้พอดีกับผู้โดยสารหลายคน
-taxi:2367756796,~s~Drive to the ~y~Vinewood sign~s~ without letting the passenger get too bored. ~s~,~s~ขับไปที่ ~y~ป้ายไวน์วู้ด~s~ โดยไม่ให้ผู้โดยสารรู้สึกเบื่อเกินไป ~s~
+taxi:2367756796,~s~Drive to the ~y~Vinewood sign~s~ without letting the passenger get too bored. ~s~,~s~ขับไปที่ ~y~ป้ายVinewood~s~ โดยไม่ให้ผู้โดยสารรู้สึกเบื่อเกินไป ~s~
 taxi:2392519547,~s~Pick up the ~b~passenger.~s~,~s~รับ ~b~ผู้โดยสาร~s~
 taxi:2408771752,~s~Drive to the ~y~destination. ~s~,~s~ขับไปที่ ~y~จุดหมาย ~s~
 taxi:2482240649,Ludicrous Speed Bonus,โบนัสความเร็วทะลุพิกัด
@@ -38,15 +38,15 @@ taxi:2786651634,~s~Drive to the ~y~24/7 Store~s~ off Innocence Blvd in South Los
 taxi:2869964277,Terminator Bonus,โบนัสคนเหล็ก
 taxi:2968660703,Taxi,แท็กซี่
 taxi:2989403342,Friend's Place,บ้านของเพื่อน
-taxi:3014625575,~s~Drive to the ~y~Fleeca bank~s~ off Hawick Ave in Vinewood. ~s~,~s~ขับไปที่ ~y~ฟลีก้าแบงค์~s~ ถนนฮาวิค อเวนิว ในไวน์วู้ด ~s~
+taxi:3014625575,~s~Drive to the ~y~Fleeca bank~s~ off Hawick Ave in Vinewood. ~s~,~s~ขับไปที่ ~y~ฟลีก้าแบงค์~s~ ถนนฮาวิค อเวนิว ในVinewood ~s~
 taxi:3060275589,PRIVATE FARE COMPLETE,ส่งผู้โดยสารส่วนตัวสำเร็จ
-taxi:3132239868,~s~Get the passenger's ~g~money.~s~,~s~รับ ~g~เงิน~s~ จากผู้โดยสาร
+taxi:3132239868,~s~Get the passenger's ~g~money.~s~,~s~รับ ~g~เงิน~s~ จากผู้โดยสาร~s~
 taxi:3140584835,Take To The Best,พาไปที่ที่ดีที่สุด
 taxi:3160311979,~s~Get back in the ~b~vehicle.~s~,~s~กลับขึ้นไปบน ~b~พาหนะ~s~
 taxi:3290995500,Knocked A Sucka Out,อัดมันจนสลบ
 taxi:3333426131,~s~Drive to the ~y~airport.~s~,~s~ขับไปที่ ~y~สนามบิน~s~
 taxi:3385338381,Got Your Back,ฉันจะช่วยหนุนหลังคุณเอง
-taxi:3399452270,~s~Drive to the ~y~poker game~s~ in Vinewood Hills within the time limit.~s~,~s~ขับไปที่ ~y~โต๊ะโป๊กเกอร์~s~ ในไวน์วู้ดฮิลล์ภายในเวลาที่กำหนด~s~
+taxi:3399452270,~s~Drive to the ~y~poker game~s~ in Vinewood Hills within the time limit.~s~,~s~ขับไปที่ ~y~โต๊ะโป๊กเกอร์~s~ ในVinewoodฮิลล์ภายในเวลาที่กำหนด~s~
 taxi:3400313806,Got You Now,จับตัวได้แล้ว
 taxi:3519899787,Liz,ลิซ
 taxi:3542725319,~s~You can cancel a taxi job before picking up the passenger by pressing ~INPUT_VEH_HORN~~s~,~s~คุณสามารถยกเลิกงานขับแท็กซี่ก่อนที่จะรับผู้โดยสารได้ โดยกด ~INPUT_VEH_HORN~~s~

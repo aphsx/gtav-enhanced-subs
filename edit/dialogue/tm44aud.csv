@@ -25,11 +25,11 @@ tm44aud:197157352,~z~can you please use it to scan the forest for the O'Neils?,~
 tm44aud:199163842,"~z~Look at you go, man. Look at you go.",~z~ดูนายทำเข้าสิเพื่อน ดูนายทำเข้า
 tm44aud:203350831,~z~I don't know. They off the road. I'ma go check.,~z~ฉันไม่รู้ พวกมันออกไปนอกถนนแล้ว ฉันจะไปเช็คดู
 tm44aud:206803273,~z~Okay. I got a guy in the water.,~z~โอเค ฉันเจอคนในน้ำแล้ว
-tm44aud:210787592,"~z~Michael, let me know if you have Chop in sight and I'll set him off.",~z~ไมเคิล บอกฉันนะถ้านายเห็นช็อปอยู่ในสายตา แล้วฉันจะปล่อยเขาไป
+tm44aud:210787592,"~z~Michael, let me know if you have Chop in sight and I'll set him off.",~z~Michael บอกฉันนะถ้านายเห็นช็อปอยู่ในสายตา แล้วฉันจะปล่อยเขาไป
 tm44aud:211298255,~z~That model's fitted with a thermal scope. Look for their heat signatures.,~z~นั่นเป็นรุ่นที่มากับกล้องจับความร้อน มองหาสัญญาณความร้อนที่นั่น
 tm44aud:227822139,~z~Alright.,~z~ตกลง
-tm44aud:238004436,~z~We got to get to Franklin.,~z~เราต้องไปหาแฟรงคลิน
-tm44aud:244322303,~z~I - eh - spoke to Franklin.,~z~ฉัน เอ่อ คุยกับแฟรงคลินมา
+tm44aud:238004436,~z~We got to get to Franklin.,~z~เราต้องไปหาFranklin
+tm44aud:244322303,~z~I - eh - spoke to Franklin.,~z~ผม เอ่อ คุยกับFranklin มา
 tm44aud:250877891,"~z~You done, dude. This is it.",~z~นายจบสิ้นแล้วเพื่อน นี่แหละจุดจบ
 tm44aud:252123117,~z~You shouldn't a fucked with TP Industries.,~z~มึงไม่ควรมาแหยมกับทีพีอินดัสทรีส์เลย
 tm44aud:280880879,"~z~Get him, Chop. Fuck his ass up!",~z~จัดการมันเลยช็อป ขย้ำมันให้เละ!
@@ -55,7 +55,7 @@ tm44aud:465778994,"~z~Oh yeah,",~z~โอ้ใช่สินะ
 tm44aud:467599371,~z~Where he at?,~z~มันอยู่ไหน?
 tm44aud:473251768,~z~Fuck me! Incoming!,~z~ให้ตายสิ! มาโน่นแล้ว!
 tm44aud:481342272,"~z~How you like the dog, motherfucker?",~z~มึงชอบหมาไหมล่ะ ไอ้นรก?
-tm44aud:485721747,"~z~Hey, Jimmy, it's your dad.",~z~เฮ้จิมมี่ นี่พ่อนะ
+tm44aud:485721747,"~z~Hey, Jimmy, it's your dad.",~z~เฮ้Jimmy นี่พ่อนะ
 tm44aud:508569387,~z~The picket fences...,~z~ไอ้ครอบครัวสุขสันต์...
 tm44aud:511079304,"~z~Eh, man. Me and Chop on these punks.",~z~เฮ้เพื่อน ผมกับช็อปกำลังตามพวกเวรนี่อยู่
 tm44aud:523502536,~z~Fiesty. I told you they were assholes.,~z~แสบน่าดู กูบอกมึงแล้วว่าพวกมันเป็นไอ้พวกเฮงซวย
@@ -68,7 +68,7 @@ tm44aud:610942631,"~z~So, where did you two go,",~z~แล้วนายสอ�
 tm44aud:616298541,"~z~Yes. I think that was Elwood, Walton, and Wynn who we",~z~ใช่แล้ว คิดว่าคงเป็นเอลวู้ด วอลตัน และ วิน
 tm44aud:628576828,~z~Shit! Shit! What is that?,~z~เวร! เวร! นั่นมันอะไรวะ?
 tm44aud:645775555,~z~I think I see someone in the river.,~z~ฉันว่าฉันเห็นใครบางคนในแม่น้ำ
-tm44aud:651684494,~z~You know the world's gone to shit when Trevor Philips can't be assed to do his own killing.,~z~โลกมันถึงจุดจบแล้วจริงๆ ตอนที่เทรเวอร์ ฟิลิปส์ ไม่ยอมลงมือฆ่าคนด้วยตัวเอง
+tm44aud:651684494,~z~You know the world's gone to shit when Trevor Philips can't be assed to do his own killing.,~z~โลกมันถึงจุดจบแล้วจริงๆ ตอนที่Trevor ฟิลิปส์ ไม่ยอมลงมือฆ่าคนด้วยตัวเอง
 tm44aud:663128514,~z~That guy wasn't moving fast enough.,~z~หมอนั่นเคลื่อนที่ช้าเกินไป
 tm44aud:691601813,"~z~You're right. Actually, I'll give that to you, you're right. This is a lifestyle choice.",~z~นายพูดถูก จริงๆ แล้วฉันยอมรับเลยว่านายพูดถูก นี่มันคือทางเลือกในการใช้ชีวิต
 tm44aud:693289088,~z~I meant morally.,~z~ฉันหมายถึงในแง่ศีลธรรม
@@ -76,12 +76,12 @@ tm44aud:704006591,~z~you and your boyfriend?,~z~นายกับคู่ข�
 tm44aud:707415527,~z~You don't even ask about the trouble.,~z~ไม่คิดจะถามถึงปัญหาด้วยซ้ำ
 tm44aud:708670833,~z~That could be him. Move your sights to the left.,~z~นั่นอาจจะเป็นเขา เลื่อนศูนย์เล็งไปทางซ้าย
 tm44aud:712323918,"~z~Bro, your eyesight is like way shot.",~z~น้องชาย สายตานายมันแย่สุดๆ ไปเลย
-tm44aud:718624602,"~z~Come on, Michael, man.",~z~มาเถอะไมเคิล
+tm44aud:718624602,"~z~Come on, Michael, man.",~z~มาเถอะMichael
 tm44aud:735978600,~z~And Tracey...,~z~และเทรซีย์ด้วย...
 tm44aud:747819468,~z~That I fucking kill only on the weekends?,~z~คือกูฆ่าคนเฉพาะวันหยุดเหรอ?
 tm44aud:754811148,~z~Wouldn't you know...,~z~ก็น่าจะรู้อยู่แล้ว...
-tm44aud:758781785,"~z~I'm the one who says thank you, he was helping me. Thank you, Franklin.",~z~ฉันต่างหากที่ต้องพูดขอบคุณ เขาแค่ลูกมือน่ะ ขอบคุณ แฟรงคลิน
-tm44aud:765440541,"~z~Michael, I've got Chop. Let me know if you need him.",~z~ไมเคิล ฉันมีช็อปอยู่ด้วย บอกมานะถ้านายต้องการเขา
+tm44aud:758781785,"~z~I'm the one who says thank you, he was helping me. Thank you, Franklin.",~z~ฉันต่างหากที่ต้องพูดขอบคุณ เขาแค่ลูกมือน่ะ ขอบคุณ Franklin
+tm44aud:765440541,"~z~Michael, I've got Chop. Let me know if you need him.",~z~Michael ฉันมีช็อปอยู่ด้วย บอกมานะถ้านายต้องการเขา
 tm44aud:775699140,"~z~They gone, man. They out in the woods somewhere.",~z~พวกมันหายไปแล้วเพื่อน พวกมันออกไปในป่าที่ไหนสักแห่งแล้ว
 tm44aud:782863490,~z~Hard times?,~z~ช่วงเวลาที่ยากลำบากเหรอ?
 tm44aud:786567390,~z~Shit! Shit! Shit!,~z~เวร! เวร! เวร!
@@ -113,9 +113,9 @@ tm44aud:937091708,~z~But I'll try.,~z~จะพยายามแล้วกั
 tm44aud:942938248,"~z~Good boy, Chop, we got 'em.",~z~เด็กดีช็อป เราได้ตัวพวกมันแล้ว
 tm44aud:946278852,~z~That might be him there. Just to your left.,~z~นั่นอาจจะเป็นเขาอยู่ตรงนั้น ทางซ้ายของนายพอดี
 tm44aud:953389884,~z~Here he is.,~z~เขาอยู่นี่
-tm44aud:964019521,"~z~If he's back in Sandy Shores, why didn't I hear about it?",~z~ถ้ามันกลับมาแซนดี้ ชอร์ส แล้วทำไมฉันไม่ได้ข่าวมันเลย?
+tm44aud:964019521,"~z~If he's back in Sandy Shores, why didn't I hear about it?",~z~ถ้ามันกลับมาSandy Shores แล้วทำไมฉันไม่ได้ข่าวมันเลย?
 tm44aud:988559807,~z~You can follow him on the thermal view and he can sniff out the gang members.,~z~นายสามารถตามมันได้ในโหมดจับความร้อน และมันสามารถดมกลิ่นหาสมาชิกแก๊งได้
-tm44aud:990434421,"~z~Young Michael wouldn't a missed that, bro.",~z~ไมเคิลตอนหนุ่มๆ คงไม่ยิงพลาดแบบนี้หรอกเพื่อน
+tm44aud:990434421,"~z~Young Michael wouldn't a missed that, bro.",~z~Michael ตอนหนุ่มๆ คงไม่ยิงพลาดแบบนี้หรอกเพื่อน
 tm44aud:1000911926,"~z~Well, we're alive. Hey, good work down there.",~z~ก็ยังมีชีวิตอยู่ เฮ้ ทำดีมากข้างล่างนั่น
 tm44aud:1008103635,"~z~Tuesdays and Thursdays,",~z~อังคารกับพฤหัสฯ
 tm44aud:1016932457,"~z~The meth and guns you got running here? You got coin coming in, you're just too cheap or too stupid to use it.",~z~ยาไอซ์กับปืนที่นายคุมอยู่ที่นี่น่ะเหรอ? นายมีเงินไหลเข้ามา แต่นายแค่ขี้เหนียวหรือไม่ก็โง่เกินกว่าจะใช้มัน
@@ -168,7 +168,7 @@ tm44aud:1531554921,~z~Jesus.,~z~พระเจ้า
 tm44aud:1536140533,"~z~Oh, I'm sorry. You want a foot rub while you're at it? Maybe some Lomi Lomi and a happy ending?",~z~โอ้ ฉันขอโทษ นายอยากได้คนนวดเท้าให้ด้วยเลยไหมล่ะ? หรือจะนวดแบบโลมิโลมิแล้วจบด้วยบริการพิเศษดี?
 tm44aud:1547056418,~z~Aim up. He's right there.,~z~เล็งขึ้นไป เขาอยู่ตรงนั้นแหละ
 tm44aud:1554585521,"~z~You missed, you chump.",~z~นายยิงพลาดนะไอ้กระจอก
-tm44aud:1558678311,"~z~I'm not going to force you, Michael.",~z~ฉันจะไม่บังคับนายหรอก ไมเคิล
+tm44aud:1558678311,"~z~I'm not going to force you, Michael.",~z~ฉันจะไม่บังคับนายหรอก Michael
 tm44aud:1568171071,~z~Let's get to him.,~z~ไปหาเขากัน
 tm44aud:1569649502,~z~Let's not forget that I'm the wronged party here.,~z~อย่าลืมล่ะว่าคนผิดคือฉันเอง
 tm44aud:1578068691,"~z~so maybe this was a kind of revenge thing, I don't know.",~z~เพราะงั้นนี่อาจจะเป็นการแก้แค้นล่ะมั๊ง ไม่รู้สินะ
@@ -184,7 +184,7 @@ tm44aud:1712797740,"~z~Well, I was out putting some people in their place.",~z~�
 tm44aud:1730069683,~z~by calling LS,~z~โดยการโทรไปที่แอลเอส
 tm44aud:1733381037,"~z~""Incoming""? Man, you're all business.","~z~""เข้าปะทะ"" เหรอ? นายนี่มันเต็มเหนี่ยวไปเลย"
 tm44aud:1762065213,~z~I'm happy you're still willing to support the aerospace and defense industry.,~z~ฉันดีใจที่นายยังเต็มใจสนับสนุนอุตสาหกรรมการบินและการป้องกันประเทศ
-tm44aud:1762193753,"~z~Trevor, man, shit, you there? There was a deer in the road, man, these motherfuckers crashed out.",~z~เทรเวอร์ ให้ตายสิมึงอยู่ไหม? มีกวางวิ่งตัดถนนเพื่อน ไอ้พวกเวรนั่นรถคว่ำแล้ว
+tm44aud:1762193753,"~z~Trevor, man, shit, you there? There was a deer in the road, man, these motherfuckers crashed out.",~z~Trevor ให้ตายสิมึงอยู่ไหม? มีกวางวิ่งตัดถนนเพื่อน ไอ้พวกเวรนั่นรถคว่ำแล้ว
 tm44aud:1783251170,~z~I'm lucky my heart ain't in a pie on your kitchen table.,~z~โชคดีชะมัดหัวใจฉันไม่ได้อยู่ถ้วยนั่นที่ครัวนาย
 tm44aud:1789472570,~z~Something's coming. What the...?,~z~บางอย่างกำลังมา นั่นมันตัวอะไร...?
 tm44aud:1806307848,~z~Moving target brought down.,~z~จัดการเป้าหมายที่กำลังเคลื่อนที่เรียบร้อย
@@ -197,7 +197,7 @@ tm44aud:1851509060,"~z~Where is he, boy?",~z~มันอยู่ไหนไ�
 tm44aud:1861580164,"~z~There was a rifle on board, too. So if your panties",~z~มีไรเฟิลมาด้วยเหมือนกัน เพราะงั้น
 tm44aud:1872047061,~z~You want a sniff?,~z~ซักหลุมไหม?
 tm44aud:1885236116,~z~Shit. It's fucking wild.,~z~ให้ตายสิ มันป่าเถื่อนชะมัด
-tm44aud:1898991249,"~z~Come on, let's go and help Franklin.",~z~เร็วเข้า ไปช่วยแฟรงคลินกัน
+tm44aud:1898991249,"~z~Come on, let's go and help Franklin.",~z~เร็วเข้า ไปช่วยFranklin กัน
 tm44aud:1904942578,~z~My brothers! You killed all of them!,~z~พี่น้องของผม! นายฆ่าพวกเขาหมดเลย!
 tm44aud:1918565916,"~z~Track him down, Frank. We're about to get shot out the sky here.",~z~ตามล่ามันให้เจอแฟรงค์ เรากำลังจะถูกสอยร่วงจากฟ้าแล้วนะ
 tm44aud:1918929881,~z~Unless moose have started walking on two legs...,~z~ยกเว้นแต่ว่าตัวมูสจะเริ่มเดินสองขาได้แล้ว...
@@ -227,7 +227,7 @@ tm44aud:2138696117,~z~but it's good.,~z~แต่ก็พอได้
 tm44aud:2142836455,~z~Yes I am.,~z~ใช่ฉันจะไป
 tm44aud:2148837185,~z~And what are you doing out so late?,~z~แล้วนายออกมาทำอะไรดึกดื่นป่านนี้?
 tm44aud:2150410632,"~z~What are you talking about? I'm North Yankton, just like...",~z~นายพูดเรื่องอะไร? ฉันคนนอร์ทแยงก์ตันนะ เหมือนกับ...
-tm44aud:2151086667,"~z~This for Trevor, bitch!",~z~นี่สำหรับเทรเวอร์นะ อีตัวแสบ!
+tm44aud:2151086667,"~z~This for Trevor, bitch!",~z~นี่สำหรับTrevor นะ อีตัวแสบ!
 tm44aud:2165012460,"~z~Oh, shit, I'm sorry, I don't have any low carb.",~z~โอ้ บ้าจริงโทษทีนะเพื่อน กูไม่มีแบบลดความอ้วน
 tm44aud:2182049444,"~z~And your street philosopher bullshit, that's gotten you real far.",~z~ไอ้ความรู้แจ้งเฮงซวยของมึงน่ะ พามึงเลอะเทอะขนาดนี้งั้นสินะ
 tm44aud:2182926564,~z~Your daddy's been a bad boy.,~z~พ่อของเธอเป็นเด็กดื้อ
@@ -239,15 +239,15 @@ tm44aud:2198655123,"~z~There was a rifle on board, too. So if your panties",~z~�
 tm44aud:2240215203,~z~Not so. I took it in lieu of payment.,~z~ไม่ใช่อย่างนั้น ฉันเอามันมาแทนค่าจ้าง
 tm44aud:2242001437,~z~Brought his ass down.,~z~จัดการมันได้แล้ว
 tm44aud:2256231320,~z~I sound just like everyone else.,~z~ฉันก็ฟังดูเหมือนคนอื่นๆ นั่นแหละ
-tm44aud:2259106278,"~z~They haven't got past Franklin, so they got to be on the hill.",~z~พวกมันยังไม่ผ่านแฟรงคลินไป เพราะฉะนั้นพวกมันต้องอยู่บนเนินเขา
-tm44aud:2277726842,"~z~Trevor, man, shit. There was a deer on the road. You there? The motherfuckers crashed out.",~z~เทรเวอร์เพื่อน ให้ตายสิ มีกวางอยู่บนถนน มึงอยู่ไหม? ไอ้พวกเวรนั่นรถคว่ำไปแล้ว
+tm44aud:2259106278,"~z~They haven't got past Franklin, so they got to be on the hill.",~z~พวกมันยังไม่ผ่านFranklin ไป เพราะฉะนั้นพวกมันต้องอยู่บนเนินเขา
+tm44aud:2277726842,"~z~Trevor, man, shit. There was a deer on the road. You there? The motherfuckers crashed out.",~z~Trevor เพื่อน ให้ตายสิ มีกวางอยู่บนถนน มึงอยู่ไหม? ไอ้พวกเวรนั่นรถคว่ำไปแล้ว
 tm44aud:2287035439,"~z~Screw this, I'm gone.",~z~ช่างแม่ม ฉันไปละ
 tm44aud:2327602202,~z~I'm surprised you aren't speaking French to me right now.,~z~ฉันแปลกใจที่นายไม่ได้พูดภาษาฝรั่งเศสกับฉันในตอนนี้
 tm44aud:2367588306,"~z~I'm sorry I'm a human being with thoughts, and feelings, and emotions.",~z~ขอโทษแล้วกันที่ฉันเป็นคน มีความคิด ความรู้สึก และมีหัวใจ
 tm44aud:2369738034,"~z~Can't outrun a bullet, baby.",~z~หนีกระสุนไม่พ้นหรอกที่รัก
 tm44aud:2375419689,"~z~you know, there's more to this gig than just going crazy all the time...",~z~รู้ไหม งานนี้ต้องทำอะไรมากกว่าแค่ทำตัวบ้าๆ ตลอดเวลา...
-tm44aud:2394340305,"~z~Yo, Trevor, I'm gonna need some air support!",~z~โย่ เทรเวอร์ ฉันต้องการการสนับสนุนทางอากาศหน่อย!
-tm44aud:2395690036,"~z~Company chopper. Yes, Michael. It's a tax write-off. Frank, you still there?",~z~เฮลิคอปเตอร์องค์กร ใช่แล้วไมเคิล ลดหย่อนภาษีซะด้วย แฟรงค์ยังอยู่ไหม?
+tm44aud:2394340305,"~z~Yo, Trevor, I'm gonna need some air support!",~z~โย่ Trevor ฉันต้องการการสนับสนุนทางอากาศหน่อย!
+tm44aud:2395690036,"~z~Company chopper. Yes, Michael. It's a tax write-off. Frank, you still there?",~z~เฮลิคอปเตอร์องค์กร ใช่แล้วMichael ลดหย่อนภาษีซะด้วย แฟรงค์ยังอยู่ไหม?
 tm44aud:2396472518,"~z~Out for a leisurely stroll in the woods, huh?",~z~ออกมาเดินเล่นในป่าสบายใจเฉิบเลยนะ หืม?
 tm44aud:2403755740,"~z~He all yours, boy. Find him.",~z~มันเป็นของนายแล้วไอ้หนู หามันให้เจอ
 tm44aud:2436058321,"~z~Hold her steady, T. I'm gonna bag me a prize buck.",~z~ถือให้นิ่งนะที ฉันจะล่ากวางตัวงามสักตัว
@@ -273,7 +273,7 @@ tm44aud:2566258829,~z~You want to see my fucking passport?,~z~มึงอยา
 tm44aud:2567413175,"~z~Come on, Chop, get down to the crash.",~z~เร็วเข้าช็อป ไปที่จุดตกซะ
 tm44aud:2578894199,"~z~Go, Chop, sniff that bad boy out.",~z~ไปเลยช็อป ไปดมกลิ่นไอ้ตัวแสบนั่นให้เจอ
 tm44aud:2583710581,~z~No.,~z~ไม่
-tm44aud:2585841300,~z~His position's too good. Franklin's got to take him.,~z~ตำแหน่งของมันดีเกินไป แฟรงคลินต้องจัดการมันเอง
+tm44aud:2585841300,~z~His position's too good. Franklin's got to take him.,~z~ตำแหน่งของมันดีเกินไป Franklin ต้องจัดการมันเอง
 tm44aud:2603000394,~z~killing everyone in sight.,~z~หรือเจอใครก็ฆ่าไปหมด
 tm44aud:2614475097,"~z~Come on, Chop. Come on.",~z~มาเร็วช็อป มาเร็ว
 tm44aud:2618401508,~z~this country was built by and for gasoline.,~z~ประเทศนี้ได้ดิบได้ดีเพราะเบนซิน
@@ -287,12 +287,12 @@ tm44aud:2658595723,"~z~Good. Me and MT are gonna take the company chopper, meet 
 tm44aud:2663966377,"~z~If you swimming, I am too, fuck it.",~z~ถ้ามึงว่าย กูก็ว่ายด้วย ช่างแม่ม
 tm44aud:2667636848,"~z~You know, Russian oligarchs pay millions to hunt game like this.",~z~รู้ไหม พวกเศรษฐีรัสเซียยอมจ่ายเป็นล้านเพื่อล่าสัตว์แบบนี้
 tm44aud:2672621941,~z~You ain't heard the last of the O'Neils!,~z~นี่ยังไม่ใช่จุดจบของพวกโอเนล!
-tm44aud:2676596085,"~z~It's sad seeing you miss like this, Michael.",~z~เสียใจที่เห็นนายยิงพลาดแบบนี้ไมเคิล
+tm44aud:2676596085,"~z~It's sad seeing you miss like this, Michael.",~z~เสียใจที่เห็นนายยิงพลาดแบบนี้Michael
 tm44aud:2688284433,"~z~We coming up the WH, north of Chumash.",~z~เรามาถึงถนนฝั่งตะวันตก ทางเหนือของชูมาช
 tm44aud:2692781362,"~z~But, whatever. Don't act like you're so popular.",~z~แต่ไงก็เถอะ อย่าทำว่านายเป็นคงดังก็แล้วกัน
 tm44aud:2704505355,~z~I'd prefer it if you gave me a heads up before we left the house.,~z~ฉันจะชอบมากถ้านายบอกฉันล่วงหน้าก่อนที่เราจะออกจากบ้าน
 tm44aud:2739753329,~z~Fuckin' wild dog!,~z~ไอ้หมาบ้าเอ๊ย!
-tm44aud:2757419784,~z~We're not gonna get the angle. Franklin's gonna have to root him out.,~z~เราจะไม่ได้มุมยิง แฟรงคลินต้องเป็นคนลากมันออกมาเอง
+tm44aud:2757419784,~z~We're not gonna get the angle. Franklin's gonna have to root him out.,~z~เราจะไม่ได้มุมยิง Franklin ต้องเป็นคนลากมันออกมาเอง
 tm44aud:2758603272,"~z~I said, if you wanted to be a patriot, you'd join the fucking Mounties.",~z~กูบอกว่า ถ้ามึงอยากเป็นผู้รักชาติ มึงก็ควรไปเข้าหน่วยตำรวจม้านู่น
 tm44aud:2761536440,"~z~Man, ten years in the sun...",~z~สิบปีกลางแสงแดด...
 tm44aud:2780996799,"~z~You're not gonna like this, T. Guy is gone.",~z~นายจะไม่ชอบใจเรื่องนี้แน่ที หมอนั่นหายไปแล้ว
@@ -308,14 +308,14 @@ tm44aud:2865341492,"~z~What? You going to push me out? I'm the one helping you, 
 tm44aud:2879648363,"~z~Don't worry, man. We got this.",~z~ไม่ต้องห่วงเพื่อน เราจัดการได้
 tm44aud:2887328013,~z~Movement just above you. Possibly human.,~z~มีการเคลื่อนไหวอยู่เหนือนายขึ้นไป อาจจะเป็นมนุษย์
 tm44aud:2906610732,~z~Helping a friend in need?,~z~ช่วยเพื่อนตอนที่ลำบากน่ะ?
-tm44aud:2930264813,~z~Poor Trevor.,~z~เทรเวอร์น้อยกลอยใจ
+tm44aud:2930264813,~z~Poor Trevor.,~z~Trevor น้อยกลอยใจ
 tm44aud:2931316485,~z~I might die.,~z~อาจจะตายก็ได้
 tm44aud:2934621659,"~z~Let's roll on this fool, Chop. Do it.",~z~จัดการไอ้โง่นี่เลยช็อป ลุยเลย
 tm44aud:2934774465,"~z~Yeah, it's cool, homie.",~z~ได้ ไม่เป็นไรเพื่อน
 tm44aud:2934949208,~z~Crap. He ain't in the water no more.,~z~บ้าเอ๊ย มันไม่ได้อยู่ในน้ำแล้ว
 tm44aud:2941070286,~z~Fine. I'll find him.,~z~ก็ได้ ฉันจะหาเขาเอง
 tm44aud:2941412704,~z~I got a guy taking a walk in the woods.,~z~ฉันเจอคนกำลังเดินอยู่ในป่า
-tm44aud:2962902729,~z~Wait a second. I remember this chopper! We used this to break into the IAA building.,~z~เดี๋ยวก่อนนะ ฉันจำชอปเปอร์ลำนี้ได้! เราใช้มันแหกเข้าตึกไอเอเอนี่
+tm44aud:2962902729,~z~Wait a second. I remember this chopper! We used this to break into the IAA building.,~z~เดี๋ยวก่อนนะ ฉันจำชอปเปอร์ลำนี้ได้! เราใช้มันแหกเข้าตึกIAAนี่
 tm44aud:2975059812,~z~What's with all the questions? Can't you just take my side for once?,~z~ถามแบบนี้ทำไมกัน? อยู่ข้างฉันซักครั้งไม่ได้เลยรึไง?
 tm44aud:2989436611,"~z~aren't all in a twist over stolen office supplies,",~z~ไม่เยี่ยวราดกางเกงเพราะเรื่องขโมยของที่ออฟฟิศมาล่ะก็
 tm44aud:2993423842,"~z~Man, this water is fucking cold!",~z~เพื่อน น้ำนี่มันหนาวชะมัด!
@@ -331,7 +331,7 @@ tm44aud:3053146859,~z~This will be a lot easier with thermal imaging enabled.,~z
 tm44aud:3078385830,"~z~Don't it feel good, huh?",~z~ไม่รู้สึกดีรึไงล่ะ?
 tm44aud:3084609867,~z~Hope you're happy.,~z~ขอให้สุขสมใจนาย
 tm44aud:3085486347,~z~Awwww. Bullshit! He got away!,~z~โถ่เว้ย! ให้ตายสิ! มันหนีไปได้!
-tm44aud:3104522423,"~z~One more word, Michael.",~z~อีกคำเดียวไมเคิล
+tm44aud:3104522423,"~z~One more word, Michael.",~z~อีกคำเดียวMichael
 tm44aud:3104676146,"~z~Uhh, yeah, he looks like a human being.",~z~เอ่อ ใช่ เขาดูเหมือนมนุษย์นะ
 tm44aud:3112496620,"~z~Chop, sniff out the next gang member.",~z~ช็อป ดมกลิ่นหาสมาชิกแก๊งคนต่อไป
 tm44aud:3117032011,"~z~No, you didn't.",~z~ไม่ นายไม่ได้บอก
@@ -346,7 +346,7 @@ tm44aud:3220175773,~z~Next stop: airfield.,~z~จุดจอดต่อไป:
 tm44aud:3249684555,~z~Woof.,~z~โฮ่ง
 tm44aud:3263297082,~z~There's nothing to shoot at. He's behind the rock!,~z~ยิงมันไม่ได้ มันซ่อนอยู่หลังก้อนหิน!
 tm44aud:3273373011,~z~We're five minutes out from the chopper.,~z~อีกห้านาทีถึงเฮลิคอปเตอร์
-tm44aud:3281374863,"~z~That's right, Chop. We goin' fuck 'em up as soon as Trevor get here.",~z~ใช่แล้วช็อป เราจะเล่นงานพวกมันทันทีที่เทรเวอร์มาถึง
+tm44aud:3281374863,"~z~That's right, Chop. We goin' fuck 'em up as soon as Trevor get here.",~z~ใช่แล้วช็อป เราจะเล่นงานพวกมันทันทีที่Trevor มาถึง
 tm44aud:3283423361,~z~Get the chopper you fool.,~z~ไปเอาเฮลิคอปเตอร์มา ไอ้โง่
 tm44aud:3292361531,"~z~you know, doing this stuff...",~z~ก็นะ ทดสอบของหน่อย...
 tm44aud:3294493568,~z~Yeah.,~z~เออ
@@ -364,7 +364,7 @@ tm44aud:3427069126,"~z~Alright, now that the angry hillbillies with rockets are 
 tm44aud:3452900422,~z~I'm doing yoga and meditation.,~z~เล่นโยคะทำสมาธิ
 tm44aud:3456673591,~z~Elk in the road!,~z~กวางข้ามถนน!
 tm44aud:3492812500,"~z~Unlike you,",~z~เขาไม่เหมือนนาย
-tm44aud:3494701822,"~z~I'm not going to force you, Michael.",~z~ฉันจะไม่บังคับนายหรอก ไมเคิล
+tm44aud:3494701822,"~z~I'm not going to force you, Michael.",~z~ฉันจะไม่บังคับนายหรอก Michael
 tm44aud:3499708393,"~z~Oh. I went to their farm, and I killed a lot of them, and then I blew it up.",~z~โอ้ ฉันไปที่ฟาร์มพวกมัน แล้วก็ฆ่าพวกมันเป็นเบือ แล้วก็ระเบิดบ้านมัน
 tm44aud:3501274994,~z~Can you get your aim on the fucking hill?,~z~มึงช่วยเล็งไปที่เนินเขาเฮงซวยนั่นได้ไหม?
 tm44aud:3512029638,"~z~Hey, dog. Can you, like, get on it? 'Cause these dudes is rolling hard.",~z~เฮ้เพื่อน ช่วยแบบว่า มาจัดการได้ไหม? ไอ้พวกนี้เอาเรื่องอยู่นะ
@@ -373,11 +373,11 @@ tm44aud:3519680404,~z~more of a man than me.,~z~จะเป็นลูกผ�
 tm44aud:3520542962,"~z~Hold up, if they stole your business, why do they want you dead?",~z~เดี๋ยวนะ ถ้าพวกมันขโมยไปจากนาย ทำไมถึงอยากจะฆ่านายอีกล่ะ?
 tm44aud:3544434125,"~z~No, they gone. They ran into the fucking woods, man. I need air support, like, right fucking now.",~z~ไม่ หนีไปได้ พวกมันวิ่งเข้าไปในป่าแล้วเพื่อน ผมต้องได้คนช่วยทางอากาศเดี๋ยวนี้เลย
 tm44aud:3546159351,~z~Move your aim to the left a bit. I think there's someone there.,~z~เลื่อนเป้าไปทางซ้ายหน่อย ฉันว่ามีใครบางคนอยู่ตรงนั้น
-tm44aud:3555059138,~z~Trevor Philips Industries can fuck itself!,~z~เทรเวอร์ ฟิลิปส์ อินดัสทรีส์ ไปลงนรกซะ!
+tm44aud:3555059138,~z~Trevor Philips Industries can fuck itself!,~z~Trevor ฟิลิปส์ อินดัสทรีส์ ไปลงนรกซะ!
 tm44aud:3563414397,"~z~Not this time, partner.",~z~ไม่ใช่ครั้งนี้เพื่อน
 tm44aud:3568610437,~z~Oh! The noble anarchist. Why don't you print me a pamphlet? I'd love to read the manifesto.,~z~โอ้! นักอนาธิปไตยผู้สูงส่ง ทำไมไม่พิมพ์ใบปลิวให้ฉันสักใบเล่า? ฉันอยากจะอ่านคำประกาศอุดมการณ์จะแย่แล้ว
 tm44aud:3574934487,"~z~Hey, Trev, man, we gonna borrow this and head back to town.",~z~เฮ้เทรฟ เราจะยืมรถคันนี้กลับเข้าเมืองนะ
-tm44aud:3583263432,~z~Wait a second. I remember this chopper! We used this to break into the IAA building.,~z~เดี๋ยวนะ ฉันจำเฮลิคอปเตอร์ลำนี้ได้! เราใช้ลำนี้บุกเข้าไปในตึกไอเอเอ
+tm44aud:3583263432,~z~Wait a second. I remember this chopper! We used this to break into the IAA building.,~z~เดี๋ยวนะ ฉันจำเฮลิคอปเตอร์ลำนี้ได้! เราใช้ลำนี้บุกเข้าไปในตึกIAA
 tm44aud:3583355940,~z~Pretend you're bankrupting a poor desperate family.,~z~ทำเหมือนว่านายกำลังทำให้ครอบครัวที่สิ้นหวังต้องล้มละลายสิ
 tm44aud:3593109641,"~z~Oh. Sure. Yeah. There's some bikers, the Chinese, Madrazo's people...",~z~โอ้ มีสิ ใช่ ไอ้พวกแว๊นซ์ไบเกอร์ แก๊งคนจีน คนของมาดราสโซ่...
 tm44aud:3642239140,~z~Why?,~z~ทำไม?
@@ -413,7 +413,7 @@ tm44aud:3923812287,"~z~Let's do this, little homie. Find him.",~z~เล่น�
 tm44aud:3940244975,~z~Dead body floating down stream.,~z~มีศพลอยตามน้ำมา
 tm44aud:3947752619,"~z~Hey, are you aiming at the hill?",~z~เฮ้ นายเล็งไปที่เนินเขาอยู่หรือเปล่า?
 tm44aud:3947974753,~z~I felt that. We close.,~z~ฉันรู้สึกได้ เราใกล้แล้ว
-tm44aud:3948759463,"~z~Where is he, Michael?",~z~มันอยู่ไหนไมเคิล?
+tm44aud:3948759463,"~z~Where is he, Michael?",~z~มันอยู่ไหนMichael?
 tm44aud:3953983658,~z~Come on. We ain't got long.,~z~เร็วเข้า เรามีเวลาไม่มากแล้ว
 tm44aud:3954292147,"~z~See you back at Casa Philips, Mike.",~z~แล้วเจอกันที่ราชวังฟิลิปส์นะไมค์
 tm44aud:3966819325,"~z~Your designer fucking glasses, your cell phone that take a stool sample, the new flat screen TV every year.",~z~แว่นแบรนด์เนมเฮงซวยของมึง โทรศัพท์ที่ตรวจตัวอย่างอุจจาระได้ ทีวีจอแบนเครื่องใหม่ทุกปี
@@ -437,7 +437,7 @@ tm44aud:4118513622,~z~There's no such thing!,~z~เรื่องแบบน�
 tm44aud:4140076848,~z~There's the new golden child.,~z~นี่ไงเด็กปั้นคนใหม่
 tm44aud:4170865596,~z~Your brain has melted.,~z~สมองนายคงละลายหมดแล้ว
 tm44aud:4173311861,~z~What's wrong with these rockets?,~z~จรวดพวกนี้มันเป็นอะไรไป?
-tm44aud:4185060865,"~z~You're their fucking monkey, Michael. Pathetic fucking patsy.",~z~มึงมันก็แค่ลิงรับใช้ของพวกมันไมเคิล ไอ้ตัวตลกที่น่าสมเพช
+tm44aud:4185060865,"~z~You're their fucking monkey, Michael. Pathetic fucking patsy.",~z~มึงมันก็แค่ลิงรับใช้ของพวกมันMichael ไอ้ตัวตลกที่น่าสมเพช
 tm44aud:4186323076,~z~You wanna show mercy to the last of these innocents?,~z~นายอยากจะแสดงความเมตตาต่อคนบริสุทธิ์คนสุดท้ายงั้นเหรอ?
 tm44aud:4195638317,"~z~He yours, Chop. Let's do this shit.",~z~มันเป็นของมึงแล้วช็อป จัดการมันเลย
 tm44aud:4199256947,~z~Woof. Woof.,~z~โฮ่ง โฮ่ง

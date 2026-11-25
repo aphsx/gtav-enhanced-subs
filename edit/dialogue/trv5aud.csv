@@ -27,11 +27,11 @@ trv5aud:773860885,"~z~Who the F is that, Floyd?",~z~นั่นมันใค�
 trv5aud:781986770,~z~Exactly.,~z~ถูกเผงเลย
 trv5aud:836964406,~z~Here?,~z~ที่นี่เหรอ?
 trv5aud:873990836,"~z~Why can't we all just be together, huh?",~z~ทำไมเราทั้งหมดถึงอยู่ด้วยกันไม่ได้ล่ะ?
-trv5aud:881088677,"~z~Lester, bro, my company's taken over management of the Vanilla Unicorn.",~z~เลสเตอร์เพื่อนรัก บริษัทของผมเข้ามาดูแลกิจการวานิลลายูนิคอร์นแล้วนะ
+trv5aud:881088677,"~z~Lester, bro, my company's taken over management of the Vanilla Unicorn.",~z~Lester เพื่อนรัก บริษัทของผมเข้ามาดูแลกิจการวานิลลายูนิคอร์นแล้วนะ
 trv5aud:943843951,"~z~Interestingly,",~z~น่าสนใจดี
 trv5aud:976280920,~z~There.,~z~ไงล่ะ
 trv5aud:1016384254,~z~Please just go and ruin somebody else's home furnishings.,~z~ขอล่ะนายช่วยไปพังของบ้านคนอื่นทีเถอะ
-trv5aud:1017170890,"~z~You ain't my G-damn cousin, Trevor.",~z~มึงไม่ใช่ญาติกูเทรเวอร์
+trv5aud:1017170890,"~z~You ain't my G-damn cousin, Trevor.",~z~มึงไม่ใช่ญาติกูTrevor
 trv5aud:1095461445,~z~Whoa.,~z~โว้ว
 trv5aud:1102654102,~z~I know just the place.,~z~ฉันรู้อยู่ที่นึง
 trv5aud:1141940178,"~z~Yeah, I told him we could hit it, you down?",~z~ใช่ ฉันบอกเขาเองว่าเราจะปล้นมัน นายล่ะ?
@@ -44,11 +44,11 @@ trv5aud:1330629391,"~z~Now I know it's unconventional, but that's the way we rol
 trv5aud:1340870755,~z~Yeah. Syrup... accident.,~z~ใช่แล้ว น้ำเชื่อม... ทำหกน่ะ
 trv5aud:1406673307,"~z~So, this is where Floyd is gonna meet us?",~z~งั้นฟลอยด์จะมาเจอเราที่นี่ใช่ไหม?
 trv5aud:1422660234,~z~Crap!,~z~สวะ!
-trv5aud:1461372390,"~z~Of course I'm down. Look, I'll get my research together and meet you at Trevor's",~z~แน่อยู่แล้วฉันเอาด้วย ฟังนะ ฉันจะรวมข้อมูลแล้วไปเจอนายที่เทรเวอร์อยู่นะ
+trv5aud:1461372390,"~z~Of course I'm down. Look, I'll get my research together and meet you at Trevor's",~z~แน่อยู่แล้วฉันเอาด้วย ฟังนะ ฉันจะรวมข้อมูลแล้วไปเจอนายที่Trevor อยู่นะ
 trv5aud:1464604226,~z~I'm not afraid to use this.,~z~ฉันไม่กลัวที่จะใช้ไอ้นี่
 trv5aud:1465159219,~z~What the F word are you doing here?,~z~นายมาทำบ้าอะไรที่นี่?
 trv5aud:1486312358,~z~I want you to leave!,~z~ฉันอยากให้นายออกไป!
-trv5aud:1613017065,~z~Ahh... Trevor?,~z~อ่า... เทรเวอร์?
+trv5aud:1613017065,~z~Ahh... Trevor?,~z~อ่า... Trevor?
 trv5aud:1665414643,~z~and then they just disappeared.,~z~แล้วจากนั้นพวกเขาก็หายตัวไป
 trv5aud:1684600129,~z~Here!,~z~ที่นี่!
 trv5aud:1692229995,~z~he's taken over the Vanilla Unicorn gentlemen's club.,~z~เขาเทคโอเวอร์กิจการคลับวานิลา ยูนิคอร์น แล้ว
@@ -64,9 +64,9 @@ trv5aud:1894434539,"~z~Let's go get in the car, alright?",~z~ขึ้นรถ�
 trv5aud:1932414798,~z~You're not a man at all.,~z~เธอไม่ใช่ลูกผู้ชายเลย
 trv5aud:1966101594,~z~Will you marry me?,~z~พวกนายแต่งกับฉันนะ?
 trv5aud:1967969391,"~z~I know that's not normal but in this crazy, crazy world,",~z~ฉันรู้ว่ามันไม่ปกติ แต่กับไอ้โลกบ้าๆ ใบนี้
-trv5aud:2076827453,~z~I...,~z~ฉัน...
+trv5aud:2076827453,~z~I...,~z~ผม...
 trv5aud:2088462433,"~z~That was weird, weren't it? The last time I saw 'em they was with you, driving out to the quarry,",~z~มันแปลกชะมัดว่าไหม? ครั้งสุดท้ายฉันเห็นพวกเขาอยู่กับนาย กำลังขับออกไปที่เหมือง
-trv5aud:2098850494,"~z~Oh, Trevor, what have you got all over yourself? You're all red. Is that... is that syrup?",~z~โอ้เทรเวอร์ อะไรเปื้อนนายไปหมดเลย? นายแดงทั้งตัวเลย หรือว่า... หรือว่าเป็นน้ำเชื่อม?
+trv5aud:2098850494,"~z~Oh, Trevor, what have you got all over yourself? You're all red. Is that... is that syrup?",~z~โอ้Trevor อะไรเปื้อนนายไปหมดเลย? นายแดงทั้งตัวเลย หรือว่า... หรือว่าเป็นน้ำเชื่อม?
 trv5aud:2098862987,"~z~I'd like you to leave, right now!",~z~ฉันอยากให้คุณไปซะ เดี๋ยวนี้!
 trv5aud:2117672681,"~z~Look, this is all I've got, alright?",~z~ฟังนะ ชีวิตฉันเหลืออยู่แค่นี้แล้วเข้าใจไหม?
 trv5aud:2126835216,"~z~Don't taste me, alright? Just... no licking.",~z~อย่าชิมสิวะ เข้าใจไหม? แค่... อย่าเลียก็พอ
@@ -77,7 +77,7 @@ trv5aud:2170889249,~z~Yeah with every executive and,~z~กับพวกเห�
 trv5aud:2213474775,~z~Get out of my condo!,~z~ออกไปจากคอนโดฉันซะ!
 trv5aud:2231152924,~z~I know exactly where to take you.,~z~ฉันรู้แล้วว่าจะพานายไปที่ไหน
 trv5aud:2232316914,"~z~you can have the weekends, alright?",~z~เสาร์อาทิตย์ด้วยก็ได้เข้าใจไหม?
-trv5aud:2305522304,"~z~My name is Trevor, sweetheart.",~z~ชื่อฉันเทรเวอร์นะที่รัก
+trv5aud:2305522304,"~z~My name is Trevor, sweetheart.",~z~ชื่อฉันTrevor นะที่รัก
 trv5aud:2316698806,~z~We've all been there.,~z~ใครๆ ก็เป็นทั้งนั้น
 trv5aud:2350876585,"~z~...and you stopped in Sandy Shores to get lit, and you met a dealer, and he looked after you.",~z~...และนายก็จอดกันที่ แซนดี้ ชอร์ เพื่อจะพี้ยา และนายก็เจอกับคนขายยา และเขาก็ดูแลนาย
 trv5aud:2361509362,"~z~Hey, gorgeous, gorgeous, gorgeous, gorgeous...",~z~เฮ้คนสวย คนสวย คนสวย คนสวย
@@ -93,14 +93,14 @@ trv5aud:2611936464,"~z~Tell the gang, and get down here.",~z~ไปบอกพ�
 trv5aud:2622103945,~z~crap!,~z~เรื่องสวะนี่!
 trv5aud:2645583823,~z~For a long time.,~z~แบบไม่ต้องพักนะ
 trv5aud:2650809257,~z~You and your weird friend.,~z~นายกับเพื่อนบ้าๆ ของนาย
-trv5aud:2661471481,~z~Hey Lester.,~z~เฮ้เลสเตอร์
+trv5aud:2661471481,~z~Hey Lester.,~z~เฮ้Lester
 trv5aud:2687773281,~z~I don't need this...,~z~ฉันไม่ต้องการไอ้...
 trv5aud:2779691719,~z~and Kush-Chronic and...,~z~กับ คุช-โครนิค และ...
 trv5aud:2783046938,"~z~taking it left, right and center.",~z~เอาทางซ้ายย้ายทางขวามาตรงกลาง
 trv5aud:2805767449,~z~Floyd's gonna meet us there.,~z~ฟลอยด์จะไปเจอเราที่นั้น
-trv5aud:2867412099,"~z~Hey there, Wade.",~z~ว่าไงเว้ด
+trv5aud:2867412099,"~z~Hey there, Wade.",~z~ว่าไงWade
 trv5aud:2882206220,~z~Now!,~z~เดี๋ยวนี้!
-trv5aud:2908320358,"~z~Hey, uhh, Trevor just called me about the... umm... the big one, the UD. You know anything?",~z~เฮ้ เอ่อ เทรเวอร์เขาเพิ่งโทรหาฉันบอกเรื่อง... เอ่อ... เดอะบิ๊กวัน คลังยูดี นายรู้เรื่องไหม?
+trv5aud:2908320358,"~z~Hey, uhh, Trevor just called me about the... umm... the big one, the UD. You know anything?",~z~เฮ้ เอ่อ Trevor เขาเพิ่งโทรหาฉันบอกเรื่อง... เอ่อ... เดอะบิ๊กวัน คลังยูดี นายรู้เรื่องไหม?
 trv5aud:2940567809,~z~I had a tough upbringing.,~z~ตอนเด็กฉันขาดความอบอุ่น
 trv5aud:2991934547,"~z~I want both of you to go, now!",~z~ฉันอยากให้พวกนายทุกคนไปซะ เดี๋ยวนี้!
 trv5aud:3016808491,"~z~Hey, you remember when we met?",~z~เฮ้ จำตอนที่เราเพิ่งเจอกันได้ไหม?
@@ -111,14 +111,14 @@ trv5aud:3096545127,~z~Here we are. What do you think?,~z~ถึงแล้ว �
 trv5aud:3098728470,~z~Oh...,~z~โอ้...
 trv5aud:3126680371,~z~I should probably go say hi.,~z~ฉันควรไปทักทายเสียหน่อย
 trv5aud:3161343868,~z~Just Floyd then?,~z~งั้นถ้าฟลอยด์คนเดียวล่ะ?
-trv5aud:3195331482,"~z~Oh, hey there, Trevor!",~z~โอ้ว่าไงเทรเวอร์!
+trv5aud:3195331482,"~z~Oh, hey there, Trevor!",~z~โอ้ว่าไงTrevor!
 trv5aud:3220107104,"~z~We're going to use it to plan the Big One, the Union Depository.",~z~เราจะใช้ที่นี่วางแผนงานใหญ่ การปล้นยูเนียนดีพอสิทอรี
 trv5aud:3232426238,~z~Who's Bob?,~z~บ๊อบไหน?
 trv5aud:3248170412,~z~My daddy was not nice to me!,~z~พ่อจ๋าเขาไม่ดีกับฉันเลย!
 trv5aud:3251335936,~z~When your friends had abandoned you.,~z~ตอนที่เพื่อนๆ เขาทิ้งนายไป
 trv5aud:3347275953,~z~Can I come in? Huh?,~z~ขอเข้าไปได้ไหม? ว่าไง?
 trv5aud:3373988014,~z~I wouldn't.,~z~ฉันว่าอย่าเลย
-trv5aud:3398493121,"~z~No, I don't think she can, Wade.",~z~ไม่ล่ะ ฉันไม่คิดว่าเธอจะทำได้นะเว้ด
+trv5aud:3398493121,"~z~No, I don't think she can, Wade.",~z~ไม่ล่ะ ฉันไม่คิดว่าเธอจะทำได้นะWade
 trv5aud:3513631793,~z~I mean now that's what Floyd told me yesterday,~z~หมายถึงนั่นแหละที่ฟลอยด์เล่าให้ฉันฟังเมื่อวาน
 trv5aud:3522726569,~z~Fuck Bob!,~z~ไอ้หอกบ๊อบ!
 trv5aud:3641115620,~z~I heard that those conferences are regular little fuck fests! Huh?,~z~เคยได้ยินว่าไอ้นัดประชุมนี่ยอดข้ออ้างของคนไปสะบึมกันเลยใช่ไหม?
@@ -136,4 +136,4 @@ trv5aud:4149859691,~z~Bob taught me.,~z~บ๊อบสอนฉัน
 trv5aud:4153762311,~z~The condo did get messy.,~z~คอนโดมันเละไปหมดเลย
 trv5aud:4163018194,~z~Through there...,~z~เข้าทางนั้น...
 trv5aud:4176437575,"~z~Sure. Last year. I was on the way to the gathering with Daisy Bell,",~z~จำได้ เมื่อปีที่แล้ว ฉันกำลังเดินทางจะไปงานเลี้ยงกับ เดซี่ เบลล์
-trv5aud:4204629229,"~z~Alright, message Franklin.",~z~ตกลง บอกข่าวแฟรงคลินด้วย
+trv5aud:4204629229,"~z~Alright, message Franklin.",~z~ตกลง บอกข่าวFranklin ด้วย

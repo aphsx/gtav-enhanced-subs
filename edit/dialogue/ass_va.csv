@@ -2,33 +2,33 @@
 ass_va:54951232,~s~The target escaped.~s~,~s~เป้าหมายหลบหนี~s~
 ass_va:63543430,~s~Return to the ~y~hotel.~s~,~s~กลับไปที่ ~y~โรงแรม~s~
 ass_va:113599751,~s~Guards have arrived to pick up the target from the hotel. He is expected to leave very soon.~s~,~s~การ์ดมาถึงแล้วเพื่อจะรับตัวเป้าหมายจากโรงแรม เขาจะออกมาในเร็วๆ นี้~s~
-ass_va:212842194,Completion,ความสำเร็จ
+ass_va:212842194,Completion,สำเร็จ
 ass_va:277419098,Completion - Silver,เสร็จสิ้น - เงิน
 ass_va:512969987,~s~The mission was abandoned.~s~,~s~ภารกิจถูกละทิ้ง~s~
 ass_va:1147477516,Continue,ดำเนินการต่อ
-ass_va:1236202996,Hotel Assassination,การลอบสังหารโรงแรม
+ass_va:1236202996,Hotel Assassination,การลอบสังหารที่โรงแรม
 ass_va:1279785505,Time Taken,ใช้เวลา
-ass_va:1446738453,~s~Franklin blew his cover by gaining a Wanted Level.~s~,~s~แฟรงคลินเผยการพรางตัวของเขาโดยทำให้รับระดับต้องการตัวเพิ่มขึ้น~s~
+ass_va:1446738453,~s~Franklin blew his cover by gaining a Wanted Level.~s~,~s~Franklin เผยตัวเพราะได้ระดับต้องการตัว~s~
 ass_va:1555693641,~s~Assassinate the ~r~target.~s~,~s~ลอบสังหาร ~r~เป้าหมาย~s~
 ass_va:1572845311,~s~Go to the ~y~hotel.~s~,~s~ไปที่ ~y~โรงแรม~s~
 ass_va:2020361081,~s~Return to the ~y~hotel.~s~,~s~กลับไปที่ ~y~โรงแรม~s~
 ass_va:2154925647,~s~Leave the area.~s~,~s~ออกจากพื้นที่~s~
 ass_va:2433717621,Completion - Bronze,เสร็จสิ้น - บรอนซ์
 ass_va:2499578679,~s~Assassinate the target.~s~,~s~ลอบสังหารเป้าหมาย~s~
-ass_va:2573924891,Sniper Kill Bonus,โบนัสฆ่าซุ่มยิง
-ass_va:2611261031,~s~Lester was attacked.~s~,~s~เลสเตอร์ถูกโจมตี~s~
-ass_va:2742523190,~s~Franklin's cover was blown.~s~,~s~การพรางตัวของแฟรงคลินถูกเปิดเผย~s~
+ass_va:2573924891,Sniper Kill Bonus,โบนัสสไนเปอร์
+ass_va:2611261031,~s~Lester was attacked.~s~,~s~Lester ถูกโจมตี~s~
+ass_va:2742523190,~s~Franklin's cover was blown.~s~,~s~การพรางตัวของ Franklin ถูกเปิดเผย~s~
 ass_va:3129573550,~r~CHECKOUT~s~,~r~จัดการ~s~
-ass_va:3180336415,~s~CHECKOUT~s~,~s~จัดการ~s~
+ass_va:3180336415,~s~CHECKOUT~s~,~s~เช็คเอาท์~s~
 ass_va:3188516295,Mission Passed,ภารกิจสำเร็จ
 ass_va:3193787448,~s~Plan the attack quickly and find a location with a good vantage point of the hotel.~s~,~s~วางแผนการโจมตีอย่างรวดเร็ว และหาจุดสังเกตการณ์ที่ดีของโรงแรม~s~
 ass_va:3244790945,Money Earned,ได้รับเงิน
 ass_va:3331002727,~s~Lose wanted level.~s~,~s~ล้างระดับความต้องการตัว~s~
 ass_va:3458895770,Completion - No Medal,เสร็จสิ้น - ไม่มีเหรียญ
-ass_va:3596253966,~s~Franklin died.~s~,~s~แฟรงคลินตายแล้ว~s~
+ass_va:3596253966,~s~Franklin died.~s~,~s~Franklin ตายแล้ว~s~
 ass_va:3697607619,Hotel,โรงแรม
-ass_va:3805231347,Completion - Gold,เสร็จสิ้น - ทองคำ
+ass_va:3805231347,Completion - Gold,เสร็จสิ้น - ทอง
 ass_va:3878103542,~s~The target was not assassinated.~s~,~s~เป้าหมายไม่ถูกลอบสังหาร~s~
 ass_va:3911829052,~s~The vehicle alerted the guards.~s~,~s~พาหนะทำให้การ์ดรู้ตัว~s~
-ass_va:4124472811,Base Reward,จากรางวัล
+ass_va:4124472811,Base Reward,รางวัลพื้นฐาน
 ass_va:4273734253,~s~Lose the Cops.~s~,~s~หนีตำรวจ~s~

@@ -8,11 +8,11 @@ jhaud:21494510,"~z~M's gone outside for some downtime, bros. If he don't come ba
 jhaud:21852503,"~z~Dude, the job?",~z~เพื่อน! งานอ่ะ?
 jhaud:27810602,~z~we'll celebrate alright?,~z~เราจะได้ฉลองกันตกลงไหม?
 jhaud:34191072,"~z~Ram 'em, brother!",~z~ชนพวกมันเลย!
-jhaud:36854838,"~z~Hey Franklin,",~z~เฮ้ แฟรงคลิน
+jhaud:36854838,"~z~Hey Franklin,",~z~เฮ้ Franklin
 jhaud:43666470,~z~Not a lot of time left...,~z~เหลือเวลาไม่มากแล้ว...
 jhaud:45355518,~z~Cops! They're waiting for us!,~z~ตำรวจ! พวกมันรอเราอยู่!
 jhaud:51281674,~z~You know what I'm saying?,~z~นายเข้าใจที่ฉันพูดไหม?
-jhaud:61215278,"~z~These guys are being paid what they're worth, based on past performances, I guess.",~z~ไอ้พวกนี้ได้รับเงินตามที่พวกเขาสมควรได้รับ! ขึ้นอยู่กับผลงานที่ผ่านมา! ฉันเดาว่า
+jhaud:61215278,"~z~These guys are being paid what they're worth, based on past performances, I guess.",~z~ไอ้พวกนี้ได้รับเงินตามที่พวกมันสมควรได้รับ! ขึ้นอยู่กับผลงานที่ผ่านมา! ฉันเดาว่า
 jhaud:64604085,~z~and we'll all make a buck.,~z~แล้วเราก็ได้เงิน
 jhaud:68173655,~z~I'll figure it out.,~z~ฉันจะคิดมันออกเอง
 jhaud:78535007,~z~Oh! You like that?,~z~โอ้! นายชอบไหม?
@@ -48,13 +48,13 @@ jhaud:210666844,~z~Emptying them out!,~z~กำลังเก็บมันใ
 jhaud:212722501,~z~This is tricky work!,~z~นี่มันเป็นงานที่ยุ่งยาก!
 jhaud:218381976,"~z~Hit the cabinets, you know what I'm saying?",~z~ชนตู้โชว์ซะ! นายเข้าใจที่ฉันพูดไหม?
 jhaud:219445644,"~z~Eh, these sports bikes ain't handling the mud - you shoulda got some scramblers, man.",~z~เอ๊ะ! จักรยานพวกนี้มันไม่เหมาะกับพื้นโคลน-นายน่าจะหาจักรยานวิบากมานะเพื่อน!
-jhaud:223100328,"~z~Packie, Karim - you're in the back of the van, Franklin'll be driving us, and I'll be riding shotgun.",~z~เป็คกี้ คาริม -พวกนายนั่งหลังรถตู้ แฟรงคลินจะขับพาเราไป ฉันจะนั่งเบาะหน้า
+jhaud:223100328,"~z~Packie, Karim - you're in the back of the van, Franklin'll be driving us, and I'll be riding shotgun.",~z~เป็คกี้ คาริม -พวกนายนั่งหลังรถตู้ Franklin จะขับพาเราไป ฉันจะนั่งเบาะหน้า
 jhaud:224292351,"~z~Daylight, here we go.",~z~กลางวันแล้ว! ไปกัน!
 jhaud:224660047,"~z~Alright, people.",~z~เอาล่ะทุกคน
-jhaud:232230913,"~z~I'm watching you leave the store on CCTV, Michael. Go back, or we'll call this off.",~z~ฉันกำลังดูนายออกจากร้านทางกล้องวงจรปิด ไมเคิล! กลับเข้าไป! ไม่งั้นเราจะยกเลิก!
+jhaud:232230913,"~z~I'm watching you leave the store on CCTV, Michael. Go back, or we'll call this off.",~z~ฉันกำลังดูนายออกจากร้านทางกล้องวงจรปิด Michael! กลับเข้าไป! ไม่งั้นเราจะยกเลิก!
 jhaud:238470422,~z~Where you going? Regroup!,~z~นายจะไปไหน? จัดกลุ่มใหม่!
 jhaud:242666065,~z~Ain't the driver meant to be telling us where to go!?,~z~ไอ้คนขับรถมันควรจะบอกทางเราไม่ใช่เหรอวะ!?
-jhaud:253136001,"~z~And then I met this dude right here, Michael, man, and he turned me onto this thing.",~z~และจากนั้นก็เขานี่ ไมเคิล ให้ตายสิ เขาก็ชักชวนมาทำงานนี้
+jhaud:253136001,"~z~And then I met this dude right here, Michael, man, and he turned me onto this thing.",~z~และจากนั้นก็เขานี่ Michael ให้ตายสิ เขาก็ชักชวนมาทำงานนี้
 jhaud:255661447,"~z~Another car, man!",~z~รถมาอีกแล้ว!
 jhaud:256496562,~z~I'll see you at the river. Go!,~z~ไว้เจอกันที่แม่น้ำ ไป!
 jhaud:269848549,~z~Eight.,~z~แปด
@@ -141,7 +141,7 @@ jhaud:558315854,"~z~No witnesses, I get it.",~z~ไม่มีพยาน! ฉ
 jhaud:570269669,~z~Almost there.,~z~เกือบถึงแล้ว
 jhaud:572624377,"~z~Good work, homie.",~z~ทำงานได้ดีเพื่อน!
 jhaud:578716746,"~z~It gets muddy, just keep going.",~z~มันเริ่มเป็นโคลนแล้ว! ขับต่อไป!
-jhaud:583365430,"~z~Michael De Santa - formerly Michael Townley, right? Can I just say,",~z~ไมเคิล เดอ ซานตา-อดีตไมเคิล ทาวน์ลีย์! ใช่ไหม? ฉันขอพูดหน่อยนะ!
+jhaud:583365430,"~z~Michael De Santa - formerly Michael Townley, right? Can I just say,",~z~Michael เดอ ซานตา-อดีตMichael ทาวน์ลีย์! ใช่ไหม? ฉันขอพูดหน่อยนะ!
 jhaud:590718692,~z~Ain't you meant to be inside the shop? Come back.,~z~นายควรจะอยู่ในร้านไม่ใช่เหรอวะ? กลับเข้าไป!
 jhaud:596872513,~z~Lester's waiting for us at the lockup.,~z~เลสเตอร์รอเราอยู่ที่จุดเก็บรถ
 jhaud:596972075,~z~Keep it together!,~z~ควบคุมสติไว้!
@@ -149,7 +149,7 @@ jhaud:598684553,~z~Let's do this!,~z~มาทำกัน!
 jhaud:599796104,"~z~We don't know each other, is that clear?",~z~เราไม่เคยรู้จักกัน ชัดเจนไหม?
 jhaud:600998065,"~z~Fuck, man, can you get them off us?",~z~เวร! เพื่อน! มึงเอาพวกมันออกไปจากเราได้ไหม?
 jhaud:601241395,"~z~We need to split up, they're gonna be looking for a crew.",~z~พวกเราต้องแยกกัน พวกนั้นกำลังมองหาคนเป็นกลุ่ม
-jhaud:604027987,"~z~Michael, you've left the store - go back or we will mission abort.",~z~ไมเคิล! นายออกจากร้านไปแล้ว-กลับเข้าไป ไม่งั้นเราจะยกเลิกภารกิจ
+jhaud:604027987,"~z~Michael, you've left the store - go back or we will mission abort.",~z~Michael! นายออกจากร้านไปแล้ว-กลับเข้าไป ไม่งั้นเราจะยกเลิกภารกิจ
 jhaud:615401405,"~z~G crashed his bike, man. That's what happens when you workin' with fools.",~z~จีขับรถชนไอ้หนุ่ม! นั่นคือสิ่งที่เกิดขึ้นเมื่อมึงทำงานกับไอ้พวกโง่
 jhaud:619497715,"~z~By the looks of it, we keep going on this road a while.",~z~ดูจากที่เห็น เราต้องขับไปบนถนนนี้อีกซักพัก
 jhaud:623873480,"~z~We hit the target, let's get out of here!",~z~เราทำตามเป้าหมายแล้ว! ไปจากที่นี่!
@@ -160,7 +160,7 @@ jhaud:635050159,~z~Where the fuck is he going?,~z~ไอ้เวรนี่ม
 jhaud:639525752,~z~Just be careful.,~z~แค่ระวังไว้ก็พอ
 jhaud:643671855,~z~You're in the presence of greatness - that guy over there.,~z~นายกำลังอยู่กับคนที่โคตรเจ๋ง-ไอ้หมอนั่น
 jhaud:646188692,"~z~You choking already, kid? Go!",~z~นายจะสำลักตายแล้วเหรอไอ้หนู? ไป!
-jhaud:648787055,"~z~Franklin - you're driving the van. Norm, Karim - you're in the back, and I'm up front, alright?",~z~แฟรงคลิน-นายขับรถตู้! นอร์ม คาริม-นายอยู่ข้างหลัง และฉันนั่งข้างหน้า! โอเค?
+jhaud:648787055,"~z~Franklin - you're driving the van. Norm, Karim - you're in the back, and I'm up front, alright?",~z~Franklin-นายขับรถตู้! นอร์ม คาริม-นายอยู่ข้างหลัง และฉันนั่งข้างหน้า! โอเค?
 jhaud:651201954,"~z~Now, we all know why we're here.",~z~เอาล่ะทุกคนรู้ดีว่าเรามานี่ทำไม
 jhaud:654301903,~z~Yeah. Fuck.,~z~เออ เวรเอ๊ย
 jhaud:654371518,~z~Hey! Can you get your shit together and stop dropping loot!?,~z~เฮ้ย! มึงจัดการตัวเองหน่อยแล้วหยุดทำของตกได้ไหม!?
@@ -183,7 +183,7 @@ jhaud:711384784,"~z~We got it all, kids. Come on.",~z~เราได้มา�
 jhaud:713111421,~z~Train coming at us!,~z~รถไฟกำลังมาหาเรา!
 jhaud:726228195,~z~They gone? Okay.,~z~พวกมันไปแล้วเหรอ? โอเค
 jhaud:726573139,"~z~I thought they had me, dog. Thanks.",~z~ฉันคิดว่าพวกมันจัดการฉันได้แล้ว! ขอบคุณ
-jhaud:732120474,"~z~Uhhh...Yeah, man, I'm Franklin, dog, and I'm new to these planned out detailed robberies.",~z~เอ่อ...ได้เพื่อน กูแฟรงคลินนะ กูยังใหม่กับงานปล้นแบบนี้
+jhaud:732120474,"~z~Uhhh...Yeah, man, I'm Franklin, dog, and I'm new to these planned out detailed robberies.",~z~เอ่อ...ได้เพื่อน กูFranklin นะ กูยังใหม่กับงานปล้นแบบนี้
 jhaud:735909159,~z~This is it.,~z~ตรงนี้แหละ
 jhaud:740505381,~z~Down. Down slow.,~z~เอามือลง ช้าๆ
 jhaud:751355324,~z~Don't tell my wife I got all these jewels.,~z~อย่าบอกเมียฉันนะว่าฉันได้เครื่องเพชรพวกนี้มา
@@ -230,7 +230,7 @@ jhaud:929483073,"~z~If that guy says shoot you, I shoot you.",~z~ถ้าไอ
 jhaud:930838995,~z~No cops in the area - I think we got a chance.,~z~ไม่มีตำรวจในพื้นที่แล้ว ฉันว่าเรามีโอกาสแล้ว
 jhaud:939716019,~z~We d-did it!,~z~เราท-ทำมันได้แล้ว!
 jhaud:941566537,~z~I feel like a chump buying myself a score.,~z~รู้สึกเหมือนไอ้แหย๋ใช้เงินซื้อความสำเร็จเลย
-jhaud:943452845,"~z~Waiting on you, kid!",~z~กำลังรอนายอยู่!
+jhaud:943452845,"~z~Waiting on you, kid!",~z~กำลังRonายอยู่!
 jhaud:947267027,~z~Through here - maybe!,~z~เข้าไปทางนี้-อาจจะ!
 jhaud:949661043,~z~Four.,~z~สี่
 jhaud:951754113,"~z~Bike team - the plan hasn't worked - cops are waiting for you in the LS River - we're here, but be ready.",~z~ทีมจักรยาน-แผนมันไม่ได้ผล-ตำรวจรอพวกนายอยู่ที่แม่น้ำแอลเอส-เราอยู่ที่นี่แต่ให้เตรียมตัวไว้
@@ -263,7 +263,7 @@ jhaud:1051316560,~z~Shouldn't you be in the car?,~z~นายไม่ควร�
 jhaud:1062553090,~z~It's go time!,~z~ได้เวลาไปแล้ว!
 jhaud:1067649228,"~z~If I'd known about the mud, I mighta chose a different bike.",~z~ถ้าฉันรู้เรื่องโคลน ฉันอาจจะเลือกจักรยานอื่น
 jhaud:1071790863,~z~Please don't hurt me. Don't hurt me. Don't...,~z~ได้โปรดอย่าทำร้ายฉัน! อย่าทำร้ายฉัน! อย่า...
-jhaud:1073144394,"~z~Maybe, but they're still part of the team. They cost us, I'll regret it.",~z~อาจจะ! แต่พวกเขาก็ยังเป็นส่วนหนึ่งของทีม! พวกเขาสร้างความเสียหายให้เรา! ฉันจะเสียใจ
+jhaud:1073144394,"~z~Maybe, but they're still part of the team. They cost us, I'll regret it.",~z~อาจจะ! แต่ก็ยังเป็นส่วนหนึ่งของทีม! พวกมันสร้างความเสียหายให้เรา! ฉันจะเสียใจ
 jhaud:1080007130,~z~That all I get for ten percent? Bullshit.,~z~แค่นี้ที่กูจะได้สำหรับสิบเปอร์เซ็นต์เหรอ? เรื่องเวร!
 jhaud:1080774678,"~z~Shit, not quite.",~z~เวร! ยังไม่พอ
 jhaud:1088606339,"~z~You lose me, you lose the rocks!",~z~นายทำฉันหลงทาง! นายก็เสียเพชร!
@@ -276,7 +276,7 @@ jhaud:1117851689,~z~That suits us. Come on. Get up to the roof.,~z~เหมา�
 jhaud:1122323954,"~z~Hang in there, boys. I got this covered.",~z~อดทนไว้พวก! ฉันจะจัดการเอง!
 jhaud:1122956695,~z~Five.,~z~ห้า
 jhaud:1124364236,~z~fifteen seconds later you come in.,~z~อีกสิบห้าวินาทีจากนั้นพวกนายก็เข้ามา
-jhaud:1129130779,"~z~Frank, you're with me. Rickie, I hope you can manage the truck with the bikes.",~z~แฟรงค์! นายไปกับฉัน! ริคกี้! ฉันหวังว่านายจะจัดการรถบรรทุกพร้อมจักรยานได้นะ
+jhaud:1129130779,"~z~Frank, you're with me. Rickie, I hope you can manage the truck with the bikes.",~z~แฟรงค์! นายไปกับฉัน! Rickie! ฉันหวังว่านายจะจัดการรถบรรทุกพร้อมจักรยานได้นะ
 jhaud:1137227386,"~z~Frank, you're with me. Christian, take the truck with the bikes.",~z~แฟรงค์! นายไปกับฉัน! คริสเตียน เอารถบรรทุกพร้อมจักรยานไป!
 jhaud:1138980917,~z~Let's go.,~z~ไปกันได้
 jhaud:1145273955,"~z~If you need another gun, gimme the word.",~z~ถ้านายต้องการคนยิงเพิ่ม บอกฉันมา
@@ -286,7 +286,7 @@ jhaud:1152261923,"~z~I know you ain't the best, N, but gotta do better! Control 
 jhaud:1172231590,~z~Can we just do this!?,~z~เราทำแค่เรื่องนี้ไม่ได้เหรอ!?
 jhaud:1174540062,"~z~More heat, guys. Watch out.",~z~ร้อนแรงขึ้นแล้วพวก! ระวัง!
 jhaud:1178060451,~z~Keep driving - the bullbars on this truck should help us with these cops!,~z~ขับต่อไป กันชนรถบรรทุกนี่น่าจะช่วยเรื่องตำรวจได้!
-jhaud:1179120150,"~z~Waiting on you, kid.",~z~กำลังรอนายอยู่!
+jhaud:1179120150,"~z~Waiting on you, kid.",~z~กำลังRonายอยู่!
 jhaud:1180121689,"~z~you're the reason I got in the game, man. You're my inspiration. The original outlaw, I...",~z~นายคือเหตุผลที่ฉันเข้ามาในวงการเพื่อน! นายเป็นแรงบันดาลใจของฉัน! ไอ้ตัวร้ายต้นฉบับ!
 jhaud:1180512172,"~z~Where'd she come from? Boss, boss, do something!",~z~เธอโผล่มาจากไหน? หัวหน้า! หัวหน้า! ทำอะไรสักอย่าง!
 jhaud:1186977651,~z~Ho!,~z~โฮ่ว!
@@ -326,7 +326,7 @@ jhaud:1301458547,~z~Keep it up. Keep moving quick. You're doing great.,~z~ทำ
 jhaud:1305560951,~z~We ain't hitting projections here. We got to push if we're gonna get what we want.,~z~เรายังไม่ได้ตามเป้าหมายที่วางไว้! เราต้องเร่งมือถ้าเราต้องการสิ่งที่ต้องการ!
 jhaud:1311243978,~z~Watch the train!,~z~ระวังรถไฟ!
 jhaud:1313653032,~z~We need more hands on these jewels!,~z~เราต้องการมือเพิ่มเพื่อจัดการเพชรพวกนี้!
-jhaud:1324222274,"~z~let me introduce myself. I'm Michael, I've done this type of thing before,",~z~ให้ฉันเริ่มแนะนำตัวเอง ฉันไมเคิล ฉันเคยทำงานแบบนี้มาก่อน
+jhaud:1324222274,"~z~let me introduce myself. I'm Michael, I've done this type of thing before,",~z~ให้ฉันเริ่มแนะนำตัวเอง ฉันMichael ฉันเคยทำงานแบบนี้มาก่อน
 jhaud:1325282615,"~z~Because you use too much gas on these guys, you'll kill 'em.",~z~เพราะถ้านายใช้แก๊สมากไป จะฆ่าพวกนั้นได้
 jhaud:1327171480,"~z~Alright, listen up. The four of us in this van - we're about to become accomplices in a major crime.",~z~เอาล่ะฟังให้ดีนะ เราสี่คนในรถตู้คันนี้ กำลังจะเป็นผู้สมรู้ร่วมคิดในอาชญากรรมร้ายแรง
 jhaud:1334827869,~z~Seven.,~z~เจ็ด
@@ -357,11 +357,11 @@ jhaud:1403654427,~z~Any questions?,~z~มีคำถามไหม?
 jhaud:1404396456,~z~Two.,~z~สอง
 jhaud:1406643432,~z~Let's go already.,~z~ไปกันได้แล้ว!
 jhaud:1418027838,"~z~Hang in there, boys! I got bullbars on the truck - I'll make short work of these cops.",~z~อดทนไว้พวก! ฉันมีกันชนเสริมที่รถบรรทุก-ฉันจะจัดการตำรวจพวกนี้ให้จบเร็ว
-jhaud:1418786299,"~z~Gus, Karim, you're riding in the back of the van, I'm passenger. Franklin, driving.",~z~กัส คาริม พวกนายนั่งหลังรถตู้ ฉันเป็นผู้โดยสาร แฟรงคลินเป็นคนขับ
+jhaud:1418786299,"~z~Gus, Karim, you're riding in the back of the van, I'm passenger. Franklin, driving.",~z~กัส คาริม พวกนายนั่งหลังรถตู้ ฉันเป็นผู้โดยสาร Franklin เป็นคนขับ
 jhaud:1420418601,"~z~Hard left here. Going onto the big road, Dorset Drive.",~z~เลี้ยวซ้ายแรงๆ ตรงนี้! ไปบนถนนใหญ่ ดอร์เซ็ท ไดรฟ์
 jhaud:1420624632,~z~Think of this as research - write it into your scripts!,~z~คิดว่านี่เป็นการวิจัย-เอาไปเขียนในบทของนาย!
 jhaud:1425180187,"~z~Let's do this, boys!",~z~มาลุยกันพวก!
-jhaud:1428941374,~z~We're waiting on you.,~z~เรากำลังรอนายอยู่
+jhaud:1428941374,~z~We're waiting on you.,~z~เรากำลังRonายอยู่
 jhaud:1429832250,"~z~Ninety seconds? Alright, that's why we pay you what we do.",~z~เก้าสิบวินาทีเหรอ? เอาล่ะ! นั่นคือเหตุผลที่เราจ่ายเงินให้นาย
 jhaud:1433171148,~z~Intense.,~z~มันส์สุด!
 jhaud:1433467642,~z~I'll clean out these displays!,~z~ฉันจะกวาดของในตู้โชว์พวกนี้ให้หมด!
@@ -426,7 +426,7 @@ jhaud:1683416223,~z~This cop's gonna clap me before I get near that tunnel. Get 
 jhaud:1694088280,"~z~We running out of river, man! You got to get these cops off us!",~z~เรากำลังจะหมดแม่น้ำแล้ว! นายต้องเอาตำรวจพวกนี้ออกไปจากเรา!
 jhaud:1694307069,"~z~The tunnel diverges, but it'll converge in a second.",~z~อุโมงค์มันแยกกัน แต่มันจะมารวมกันในไม่ช้า
 jhaud:1705341578,~z~Get on the ground! No eye contact! Look away!,~z~ลงไปนั่งกับพื้น! อย่าสบตา! มองไปทางอื่น!
-jhaud:1711658732,"~z~I'm going over things in my head, you know. I mean, I laid out for a gunman, and a hacker,",~z~ฉันกำลังคิดทบทวนเรื่องต่างๆ ในหัว! ฉันหมายถึง ฉันจ่ายเงินให้คนยิงและแฮกเกอร์แล้ว
+jhaud:1711658732,"~z~I'm going over things in my head, you know. I mean, I laid out for a gunman, and a hacker,",~z~ฉันกำลังคิดทบทวนเรื่องต่างๆ ในหัว!  ฉันจ่ายเงินให้คนยิงและแฮกเกอร์แล้ว
 jhaud:1718396535,~z~Everyone be cool!,~z~ทุกคนใจเย็นๆ!
 jhaud:1721444639,~z~Just got to get where I can throw this.,~z~ต้องไปตรงที่ขว้างเจ้านี่ได้
 jhaud:1722800392,~z~But the driver's performances weren't that hot? Great.,~z~แต่ผลงานของคนขับไม่ได้ร้อนแรงขนาดนั้นเหรอ? ยอดเยี่ยม
@@ -485,7 +485,7 @@ jhaud:1924829905,"~z~You're about to get shot, asshole! So stop!",~z~มึง�
 jhaud:1927470625,~z~Time's up. We gotta go.,~z~หมดเวลาแล้ว! เราต้องไป!
 jhaud:1928637542,"~z~Get down! Get down on the floor, you're being robbed!",~z~ลงไป! ลงไปนอนกับพื้น! นายกำลังจะถูกปล้น!
 jhaud:1929589404,~z~Back across the other side! Right!,~z~ข้ามไปอีกฝั่ง! ขวา!
-jhaud:1939240001,~z~Franklin's driving the van. Toh and McReary are in the back. I'm taking the passenger seat.,~z~แฟรงคลินขับรถตู้ เอ็ดดี้กับนอร์มอยู่ข้างหลัง ฉันนั่งข้างหน้า
+jhaud:1939240001,~z~Franklin's driving the van. Toh and McReary are in the back. I'm taking the passenger seat.,~z~Franklin ขับรถตู้ เอ็ดดี้กับนอร์มอยู่ข้างหลัง ฉันนั่งข้างหน้า
 jhaud:1943431281,~z~Hold on.,~z~รอแป๊บ!
 jhaud:1945348079,"~z~This wasn't organized,",~z~เรื่องนี้ไม่เคยเกิดขึ้น
 jhaud:1950359864,~z~Word of warning - cops are waiting for you in the LS River. We'll try to help.,~z~ขอเตือนไว้ก่อน-ตำรวจรอพวกนายอยู่ในแม่น้ำแอลเอส! เราจะพยายามช่วย!
@@ -539,7 +539,7 @@ jhaud:2187321512,"~z~We're in position, waiting on your signal.",~z~เราป
 jhaud:2189137167,~z~It ain't paste. We've done the research. It's gonna be a good haul.,~z~มันไม่ใช่ของปลอม! เราทำการวิจัยมาแล้ว! มันจะเป็นการปล้นที่ดี!
 jhaud:2193109708,"~z~I will put you down, pal! Stop!",~z~ฉันจะจัดการนาย! หยุด!
 jhaud:2193944493,"~z~Shit, too far.",~z~เวร! ไกลเกินไป
-jhaud:2196502057,"~z~I mean, I always say that...",~z~ฉันหมายถึง ฉันคอยบอกกับตัวเองว่า
+jhaud:2196502057,"~z~I mean, I always say that...",~z~ ฉันคอยบอกกับตัวเองว่า
 jhaud:2196917321,~z~our little operation.,~z~ในปฏิบัติการเล็กๆ ของเรานี้
 jhaud:2199367893,~z~Go get the bikes.,~z~ไปเอามอเตอร์ไซค์มา
 jhaud:2199609964,~z~Let's go!,~z~ไปกัน!
@@ -729,7 +729,7 @@ jhaud:2832179631,~z~You are done!,~z~นายจบแล้ว!
 jhaud:2832749092,~z~Eh! They nearly taken us out!,~z~เอ๊ะ! พวกมันเกือบจะจัดการเราได้แล้ว!
 jhaud:2839919693,"~z~I want one guy on crowd control,",~z~ฉันต้องการหนึ่งคนคอยคุมคนพวกนี้ไว้
 jhaud:2850144963,"~z~Ah, jeez. Oh, oh, please. Oh, God. Don't hurt me.",~z~โอ้ เวร! โอ้ โอ้ ได้โปรด! โอ้พระเจ้า! อย่าทำร้ายฉันเลย
-jhaud:2855871592,"~z~This crew, are they...",~z~ลูกเรือนี้ พวกเขา...
+jhaud:2855871592,"~z~This crew, are they...",~z~ลูกเรือนี้ พวกมัน...
 jhaud:2857279112,~z~This ain't as easy as it looks!,~z~นี่มันไม่ง่ายอย่างที่เห็น!
 jhaud:2870167172,"~z~Alright then, good work.",~z~เอาล่ะ! ทำได้ดีมาก
 jhaud:2871539859,"~z~Well, everyone in the store's going to be out. You won't need no crowd control.",~z~ทุกคนในร้านจะออกมา! นายไม่จำเป็นต้องควบคุมฝูงชน
@@ -764,7 +764,7 @@ jhaud:2990053103,~z~Jewelry store robbery on Little Portola Drive. Suspects leav
 jhaud:2992182391,"~z~Eh, what's going on in there? We got to get the fuck out of here!",~z~เอ๊ะ! เกิดเวรอะไรขึ้นในนั้น!? พวกเราต้องไสหัวออกไปจากที่นี่!
 jhaud:2996008133,"~z~Shit, this dirt...",~z~เวร! โคลนนี่...
 jhaud:2998107292,~z~I got it.,~z~เข้าใจแล้ว
-jhaud:3008178813,"~z~Michael's left the store. Are we calling it off? He'll go back if it's still on, right?",~z~ไมเคิลออกจากร้านไปแล้ว! เราจะยกเลิกไหม? เขาจะกลับไปถ้ามันยังดำเนินต่อไปใช่ไหม?
+jhaud:3008178813,"~z~Michael's left the store. Are we calling it off? He'll go back if it's still on, right?",~z~Michael ออกจากร้านไปแล้ว! เราจะยกเลิกไหม? เขาจะกลับไปถ้ามันยังดำเนินต่อไปใช่ไหม?
 jhaud:3012703584,"~z~This shizz be intense, yo.",~z~เรื่องเวรนี่มันโคตรมันส์!
 jhaud:3016108273,~z~Oh!,~z~โอ้!
 jhaud:3022676148,"~z~M, you got to go back inside. I think he's gone out for java, bros. Get your orders in.",~z~เอ็ม! มึงต้องกลับเข้าไปข้างใน! กูว่าเขาออกไปหากาแฟ! ไปสั่งเลย!
@@ -781,7 +781,7 @@ jhaud:3063000492,~z~My bike's spazzing out!,~z~จักรยานฉันม
 jhaud:3065513459,~z~Don't be soft - put 'em down!,~z~อย่าอ่อนแอ-จัดการพวกมัน!
 jhaud:3069561372,~z~I'll stay with you!,~z~ฉันจะอยู่กับนาย!
 jhaud:3072383092,"~z~Shit, overcooked it.",~z~เวร! โยนแรงไป
-jhaud:3076085876,~z~Franklin'll handle your getaway.,~z~แฟรงคลินจะคุมเชิงที่ประตูไว้
+jhaud:3076085876,~z~Franklin'll handle your getaway.,~z~Franklin จะคุมเชิงที่ประตูไว้
 jhaud:3080130365,~z~Fuck these rich pricks.,~z~ไอ้พวกเวรคนรวย!
 jhaud:3083834168,"~z~It don't gotta be that kinda job, boyo!",~z~งานมันไม่ต้องเป็นแบบนั้น! ไอ้หนุ่ม!
 jhaud:3085055671,~z~Keep it up.,~z~ทำต่อไป!
@@ -832,12 +832,12 @@ jhaud:3287617753,~z~Whoo!!!,~z~วู้ว!!!
 jhaud:3288115359,~z~Get the cops off me!,~z~เอาตำรวจออกไปจากฉัน!
 jhaud:3288697894,"~z~You forget a thousand things every day, pal.",~z~วันนึงมีเรื่องให้ลืมเป็นร้อยเพื่อน
 jhaud:3289279228,"~z~It's a city full of cokeheads who ain't on coke.  I swear, they put something in that kale juice.",~z~มันเป็นเมืองที่เต็มไปด้วยพวกติดโคเคนที่ไม่ได้เล่นโคเคน! ฉันสาบานได้! พวกมันใส่บางอย่างในน้ำผักคะน้านั่น
-jhaud:3293391144,"~z~Now, once it's down you signal Michael, he makes the call.",~z~พอเรียบร้อยก็ส่งสัญญาณให้ไมเคิล เขาจะจัดการเอง
+jhaud:3293391144,"~z~Now, once it's down you signal Michael, he makes the call.",~z~พอเรียบร้อยก็ส่งสัญญาณให้Michael เขาจะจัดการเอง
 jhaud:3295538817,"~z~Sure, man, what could go wrong?",~z~แน่นอนเพื่อน! จะมีอะไรผิดพลาดได้?
 jhaud:3296433119,~z~You done already?,~z~นายเสร็จแล้วเหรอ?
 jhaud:3299768749,~z~Do you love her?,~z~คุณรักเธอรึเปล่า?
 jhaud:3302961397,~z~There a problem with these cabinets!?,~z~มีปัญหากับตู้โชว์เหรอ!?
-jhaud:3305797322,~z~Yeah. They're serious. They're taking a serious cut. They better be fucking worth it.,~z~ใช่! พวกเขาก็ของจริง! พวกเขาได้รับส่วนแบ่งที่จริงจัง! พวกเขาต้องคุ้มค่าเงิน!
+jhaud:3305797322,~z~Yeah. They're serious. They're taking a serious cut. They better be fucking worth it.,~z~ใช่! ก็ของจริง! พวกมันได้รับส่วนแบ่งที่จริงจัง! พวกมันต้องคุ้มค่าเงิน!
 jhaud:3306317397,~z~I'm on your 'til the end!,~z~ฉันจะอยู่ข้างนายจนถึงที่สุด!
 jhaud:3306455222,~z~Stay in the center. Gate coming up.,~z~อยู่ตรงกลาง! ประตูกำลังจะมาถึง
 jhaud:3312971538,"~z~So you cut corners on the quality of the crew, huh?",~z~งั้นนายก็ลดคุณภาพของลูกเรือลงใช่ไหม?
@@ -857,7 +857,7 @@ jhaud:3359322245,"~z~You're good at this, M!",~z~นายเก่งเรื�
 jhaud:3359710113,"~z~Shit, if you worried about underpaying people, man, worry about underpaying me.",~z~เวร! ถ้ามึงกังวลเรื่องการจ่ายเงินให้คนน้อยเกินไป เพื่อน! กังวลเรื่องการจ่ายกูให้มันน้อยไป!
 jhaud:3362321137,"~z~We need you over here, man!",~z~เราต้องการนายที่นี่!
 jhaud:3367972665,"~z~Alright, they're down, let's keep moving.",~z~เอาล่ะ พวกมันลงไปแล้ว! ไปต่อ!
-jhaud:3368054840,"~z~You're lost? Man, you kidding me? Where'd Michael find you?",~z~นายหลงทางเหรอ? นายล้อเล่นใช่ไหม? ไมเคิลไปหานายที่ไหน?
+jhaud:3368054840,"~z~You're lost? Man, you kidding me? Where'd Michael find you?",~z~นายหลงทางเหรอ? นายล้อเล่นใช่ไหม? Michael ไปหานายที่ไหน?
 jhaud:3370306704,"~z~You loco, homie!  I'm controlling the crowd!",~z~มึงบ้าไปแล้ว! กูกำลังควบคุมฝูงชนอยู่!
 jhaud:3382793690,~z~Terrain gets very rocky.,~z~ภูมิประเทศขรุขระมาก
 jhaud:3385317466,~z~I think I can tell the difference.,~z~ฉันว่าฉันบอกความแตกต่างได้
@@ -888,7 +888,7 @@ jhaud:3457333450,~z~We should start climbing toward the surface. This is the hom
 jhaud:3465473299,"~z~Not so much being back at work, but the people I'm back at work with... present company excepted.",~z~ไม่ใช่การกลับมาทำงานหรอก! แต่เป็นคนที่ฉันทำงานด้วยต่างหาก...ยกเว้นคนปัจจุบัน
 jhaud:3468513875,~z~Oh crap. What the fuck is this?,~z~โอ้ เวร! นี่มันเวรอะไรวะ?
 jhaud:3471227976,"~z~Alright, when the gas is in the ventilation system, give us the word.",~z~พอแก๊สเข้าท่อระบายอากาศแล้ว บอกพวกเราด้วย
-jhaud:3471423789,"~z~they don't talk about who they are, and they don't care about anyone else.",~z~พวกเขาไม่พูดถึงว่าพวกเขาเป็นใคร และพวกเขาไม่สนใจใครอื่นเลย
+jhaud:3471423789,"~z~they don't talk about who they are, and they don't care about anyone else.",~z~พวกมันไม่พูดถึงว่าพวกมันเป็นใคร และพวกมันไม่สนใจใครอื่นเลย
 jhaud:3488684454,"~z~You got first score jitters - once we get there, we'll be fine.",~z~นายแค่สั่นเพราะเป็นครั้งแรก-เมื่อเราไปถึง เราจะโอเค
 jhaud:3494896770,~z~Has one of you left the store? You gotta go back in.,~z~มีคนนึงออกจากร้านไปแล้วเหรอ? นายต้องกลับเข้าไป
 jhaud:3499777392,~z~Ten seconds.,~z~สิบวินาที
@@ -921,7 +921,7 @@ jhaud:3585690648,"~z~Do something about this tail, homie!",~z~ทำอะไร
 jhaud:3585785873,~z~Take the jump. I'm right behind!,~z~กระโดดไปเลย! ฉันอยู่ข้างหลัง!
 jhaud:3586221968,~z~M! Come on!,~z~เอ็ม! เร็วเข้า!
 jhaud:3587190715,"~z~Man, get the fuck out my face!",~z~ให้ตายสิ ไปให้พ้นหน้ากูนะ!
-jhaud:3590032953,~z~Remains to be seen. We'll have a good driver waiting outside with bikes. And they'll lead you out of there.,~z~ยังคงต้องรอดู! เราจะมีคนขับที่ดีรออยู่ข้างนอกพร้อมจักรยาน! และพวกเขาจะนำพวกนายออกจากที่นั่น
+jhaud:3590032953,~z~Remains to be seen. We'll have a good driver waiting outside with bikes. And they'll lead you out of there.,~z~ยังคงต้องรอดู! เราจะมีคนขับที่ดีรออยู่ข้างนอกพร้อมจักรยาน! และพวกมันจะนำพวกนายออกจากที่นั่น
 jhaud:3594270560,~z~We going already?,~z~เราจะไปกันแล้วเหรอ?
 jhaud:3601870295,"~z~M, we ain't going to last much longer!",~z~เอ็ม! เราจะอยู่ได้อีกไม่นาน!
 jhaud:3602022972,~z~Boom.,~z~ปัง!
@@ -931,7 +931,7 @@ jhaud:3627062560,"~z~Cops get suspicious of beat up vans, okay?",~z~ตำรว
 jhaud:3627947189,~z~Let's go.,~z~ไปกันเถอะ
 jhaud:3629903547,"~z~Damn, undercooked it.",~z~ให้ตายสิ! โยนไม่ถึง
 jhaud:3640958517,~z~Quick hands!,~z~รีบๆ หน่อย!
-jhaud:3646793486,"~z~Michael, you left the store, have you seen something? Go back, or we'll abort.",~z~ไมเคิล! นายออกจากร้านไปแล้ว! นายเห็นอะไรเหรอ? กลับเข้าไป! ไม่งั้นเราจะยกเลิกภารกิจ
+jhaud:3646793486,"~z~Michael, you left the store, have you seen something? Go back, or we'll abort.",~z~Michael! นายออกจากร้านไปแล้ว! นายเห็นอะไรเหรอ? กลับเข้าไป! ไม่งั้นเราจะยกเลิกภารกิจ
 jhaud:3647364465,~z~Let's go.,~z~ไปกันเถอะ
 jhaud:3647499835,"~z~'Bout time, boss man.",~z~ถึงเวลาแล้วครับหัวหน้า
 jhaud:3650484214,"~z~Hey, I saw you had some grenades on you. Don't throw them instead of the gas bombs.",~z~เฮ้ย! ฉันเห็นว่านายมีระเบิดมือติดตัวอยู่! อย่าโยนมันแทนระเบิดแก๊ส
@@ -945,7 +945,7 @@ jhaud:3674443908,"~z~Am I doing alright, M?",~z~ฉันทำได้ดี�
 jhaud:3682709649,~z~Don't be stupid!,~z~อย่าโง่!
 jhaud:3684375837,~z~Whoa!,~z~ว้าว!
 jhaud:3694896327,"~z~Yeah, I thought you were gonna be stuck under a cop car.",~z~ใช่ นึกว่านายจะตายอยู่ใต้ท้องรถตำรวจแล้ว
-jhaud:3703166153,"~z~Everyone talks about what they're gonna do, who they're gonna be,",~z~ทุกคนพูดถึงสิ่งที่พวกเขาจะทำ ใครที่พวกเขาจะเป็น
+jhaud:3703166153,"~z~Everyone talks about what they're gonna do, who they're gonna be,",~z~ทุกคนพูดถึงสิ่งที่พวกมันจะทำ ใครที่พวกมันจะเป็น
 jhaud:3704086896,~z~They got nice stones in this joint.,~z~พวกมันมีเครื่องเพชรสวยๆ ในร้านนี่
 jhaud:3710264244,"~z~more than a few times. I've made good money doing it, enough to spend a long time not doing it.",~z~มากกว่าแค่ครั้งสองครั้ง ฉันทำเงินได้ก้อนโต มากพอจะอยู่ไปอีกนานโดยไม่ต้องทำอะไร
 jhaud:3711799893,~z~Okay.,~z~โอเค
@@ -990,7 +990,7 @@ jhaud:3889966240,"~z~Back it up, okay, everyone get ready.",~z~ถอยหล�
 jhaud:3890108464,~z~I can't take much more of this!,~z~ฉันทนไม่ไหวแล้ว!
 jhaud:3903199155,~z~this meeting never took place.,~z~การนัดเจอกันนี้ไม่เคยเกิดขึ้น
 jhaud:3910669204,~z~Whoa.,~z~ว้าว!
-jhaud:3914332920,"~z~Gus, Eddie, I need you in the back of the van, Franklin's driving, and I'm in the passenger seat.",~z~กัส เอ็ดดี้ ฉันอยากให้พวกนายนั่งหลังรถตู้ แฟรงคลินเป็นคนขับ ส่วนฉันนั่งที่เบาะหน้า
+jhaud:3914332920,"~z~Gus, Eddie, I need you in the back of the van, Franklin's driving, and I'm in the passenger seat.",~z~กัส เอ็ดดี้ ฉันอยากให้พวกนายนั่งหลังรถตู้ Franklin เป็นคนขับ ส่วนฉันนั่งที่เบาะหน้า
 jhaud:3915019853,~z~You don't gotta pop these kids!,~z~นายไม่ต้องฆ่าไอ้เด็กพวกนี้!
 jhaud:3915406705,~z~I been in worse situations than this!,~z~ฉันเคยอยู่ในสถานการณ์ที่แย่กว่านี้!
 jhaud:3916032858,~z~Put 'em down!,~z~จัดการพวกมัน!
@@ -1033,7 +1033,7 @@ jhaud:4045509399,~z~Most part?,~z~ส่วนใหญ่?
 jhaud:4046889072,"~z~Man, I underthrew it.",~z~เพื่อน! ฉันโยนเบาไป
 jhaud:4047291514,"~z~but given the location,",~z~ทำให้ได้ตำแหน่งที่ชัดเจนมา
 jhaud:4053279538,~z~elegant.,~z~ชัดเจน
-jhaud:4065012358,"~z~Used to bang for the Vagos, but, uhh, don't tell them I told you that, I'ma need them homies if I go away.",~z~เคยเป็นพวกแวโกส แต่...อย่าบอกพวกเขาว่ากูบอกมึงนะ! กูต้องการพวกเขาถ้ากูต้องติดคุก
+jhaud:4065012358,"~z~Used to bang for the Vagos, but, uhh, don't tell them I told you that, I'ma need them homies if I go away.",~z~เคยเป็นพวกแวโกส แต่...อย่าบอกพวกมันว่ากูบอกมึงนะ! กูต้องการพวกมันถ้ากูต้องติดคุก
 jhaud:4065995547,"~z~Anybody gets pinched,",~z~ถ้ามีใครถูกถาม
 jhaud:4072703070,~z~Whoo!,~z~วู้!
 jhaud:4075042251,~z~Fuck you!,~z~ไปตายซะ!

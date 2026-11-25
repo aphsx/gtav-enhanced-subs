@@ -1,44 +1,44 @@
 ﻿id,en,th
-fran2:211187534,~s~Press ~INPUT_CONTEXT~ to give the signal.,~s~กด ~INPUT_CONTEXT~ เพื่อให้สัญญาณ
-fran2:343138719,~s~Follow the ~b~bulldozer.~s~,~s~ติดตาม ~b~รถดันดิน~s~
-fran2:398751976,~s~Return to ~b~Lamar.,~s~กลับไปที่ ~b~ลามาร์
-fran2:508691967,~s~Return to ~b~Trevor.,~s~กลับไปที่ ~b~เทรเวอร์
-fran2:789032907,~s~SWITCH to ~b~Franklin ~s~or ~b~Trevor.~s~,~s~เปลี่ยนเป็น ~b~แฟรงคลิน~s~หรือ ~b~เทรเวอร์~s~
+fran2:211187534,~s~Press ~INPUT_CONTEXT~ to give the signal.,~s~กด~INPUT_CONTEXT~เพื่อให้สัญญาณ
+fran2:343138719,~s~Follow the ~b~bulldozer.~s~,~s~ติดตาม~b~รถดันดิน~s~
+fran2:398751976,~s~Return to ~b~Lamar.,~s~กลับไปที่~b~ลามาร์
+fran2:508691967,~s~Return to ~b~Trevor.,~s~กลับไปที่~b~เทรเวอร์
+fran2:789032907,~s~SWITCH to ~b~Franklin ~s~or ~b~Trevor.~s~,~s~เปลี่ยนเป็น~b~แฟรงคลิน~s~หรือ~b~เทรเวอร์~s~
 fran2:822174509,~s~SWITCH to Franklin.~s~,~s~เปลี่ยนเป็น แฟรงคลิน~s~
-fran2:962895686,~s~Get all the crew to the ~y~meet point.~s~,~s~พาทีมทั้งหมดไปที่ ~y~จุดนัดพบ~s~
+fran2:962895686,~s~Get all the crew to the ~y~meet point.~s~,~s~พาทีมทั้งหมดไปที่~y~จุดนัดพบ~s~
 fran2:1008450242,~s~Go to any marked position to choose your assault path.~s~,~s~ไปที่ตำแหน่งใดก็ได้ที่ทำเครื่องหมายไว้ เพื่อเลือกเส้นทางการโจมตีของคุณ~s~
-fran2:1135841926,~s~Destroy the ~r~barricade.~s~,~s~ทำลาย ~r~สิ่งกีดขวาง~s~
+fran2:1135841926,~s~Destroy the ~r~barricade.~s~,~s~ทำลาย~r~สิ่งกีดขวาง~s~
 fran2:1279784093,~s~Lamar was abandoned.,~s~ลามาร์ถูกละทิ้ง
-fran2:1358651911,~s~Get into an assault ~y~position.~s~,~s~เข้าสู่ ~y~ตำแหน่งโจมตี~s~
-fran2:1491124723,~s~Lead Lamar to the ~y~sawmill exit.,~s~นำลามาร์ไปยัง ~y~ทางออกของโรงเลื่อย
+fran2:1358651911,~s~Get into an assault ~y~position.~s~,~s~เข้าสู่~y~ตำแหน่งโจมตี~s~
+fran2:1491124723,~s~Lead Lamar to the ~y~sawmill exit.,~s~นำลามาร์ไปยัง~y~ทางออกของโรงเลื่อย
 fran2:1492851548,~s~The Cops were led to the sawmill.,~s~ตำรวจถูกนำไปสู่โรงเลื่อย
-fran2:1701309651,~s~Press ~INPUT_SPECIAL_ABILITY_PC~ to activate Michael's ability while sniping.,~s~กด ~INPUT_SPECIAL_ABILITY_PC~ เพื่อเปิดใช้งานความสามารถของไมเคิลในขณะที่กำลังซุ่มยิง
+fran2:1701309651,~s~Press ~INPUT_SPECIAL_ABILITY_PC~ to activate Michael's ability while sniping.,~s~กด~INPUT_SPECIAL_ABILITY_PC~เพื่อเปิดใช้งานความสามารถของไมเคิลในขณะที่กำลังซุ่มยิง
 fran2:1955665110,~s~SWITCH to Franklin.,~s~เปลี่ยนเป็น แฟรงคลิน
-fran2:2062839447,~s~Use ~INPUTGROUP_LOOK~ to move the reticle.~n~Use ~INPUTGROUP_SNIPER_ZOOM_SECONDARY~ to zoom in/out.~n~Press ~INPUT_ATTACK~ to fire the weapon.,~s~ใช้ ~INPUTGROUP_LOOK~ เพื่อเคลื่อนที่เป้าเล็ง~n~ใช้ ~INPUTGROUP_SNIPER_ZOOM_SECONDARY~ เพื่อซูมเข้า/ออก~n~กด ~INPUT_ATTACK~ เพื่อยิงอาวุธ
+fran2:2062839447,~s~Use ~INPUTGROUP_LOOK~ to move the reticle.~n~Use ~INPUTGROUP_SNIPER_ZOOM_SECONDARY~ to zoom in/out.~n~Press ~INPUT_ATTACK~ to fire the weapon.,~s~ใช้~INPUTGROUP_LOOK~เพื่อเคลื่อนที่เป้าเล็ง~n~ใช้~INPUTGROUP_SNIPER_ZOOM_SECONDARY~เพื่อซูมเข้า/ออก~n~กด~INPUT_ATTACK~เพื่อยิงอาวุธ
 fran2:2090370882,~s~Tanisha died.,~s~ทานิชาตายแล้ว
 fran2:2329879503,~s~The bulldozer was destroyed.,~s~รถดันดินถูกทำลาย
-fran2:2571166836,~s~Get in the ~b~bulldozer.~s~,~s~เข้าไปใน ~b~รถดันดิน~s~
-fran2:2577576402,"~s~Protect ~b~Franklin, ~b~Trevor~s~ and ~b~Lamar.~s~",~s~คุ้มกัน ~b~แฟรงคลิน ~b~เทรเวอร์~s~และ ~b~ลามาร์~s~
-fran2:2582112894,~s~Use ~INPUTGROUP_LOOK~ to move the reticle.~n~Use ~INPUTGROUP_SNIPER_ZOOM_SECONDARY~ while holding ~INPUT_AIM~ to zoom in/out.~n~Press ~INPUT_ATTACK~ to fire the weapon.,~s~ใช้ ~INPUTGROUP_LOOK~ เพื่อเคลื่อนที่เป้าเล็ง~n~ใช้ ~INPUTGROUP_SNIPER_ZOOM_SECONDARY~ ขณะที่กดค้าง ~INPUT_AIM~ เพื่อซูมเข้า/ออก~n~กด ~INPUT_ATTACK~ เพื่อยิงอาวุธ
-fran2:2668660606,~s~Return to ~b~Michael.,~s~กลับไปที่ ~b~ไมเคิล
-fran2:2690334326,~s~Protect ~b~Franklin and ~b~Trevor.,~s~คุ้มกัน ~b~แฟรงคลิน และ ~b~เทรเวอร์
+fran2:2571166836,~s~Get in the ~b~bulldozer.~s~,~s~เข้าไปใน~b~รถดันดิน~s~
+fran2:2577576402,"~s~Protect ~b~Franklin, ~b~Trevor~s~ and ~b~Lamar.~s~",~s~คุ้มกัน~b~แฟรงคลิน~b~เทรเวอร์~s~และ~b~ลามาร์~s~
+fran2:2582112894,~s~Use ~INPUTGROUP_LOOK~ to move the reticle.~n~Use ~INPUTGROUP_SNIPER_ZOOM_SECONDARY~ while holding ~INPUT_AIM~ to zoom in/out.~n~Press ~INPUT_ATTACK~ to fire the weapon.,~s~ใช้~INPUTGROUP_LOOK~เพื่อเคลื่อนที่เป้าเล็ง~n~ใช้~INPUTGROUP_SNIPER_ZOOM_SECONDARY~ขณะที่กดค้าง~INPUT_AIM~เพื่อซูมเข้า/ออก~n~กด~INPUT_ATTACK~เพื่อยิงอาวุธ
+fran2:2668660606,~s~Return to ~b~Michael.,~s~กลับไปที่~b~ไมเคิล
+fran2:2690334326,~s~Protect ~b~Franklin and ~b~Trevor.,~s~คุ้มกัน~b~แฟรงคลิน และ~b~เทรเวอร์
 fran2:2793211116,~s~Wait for Trevor and Michael to signal they're in position.,~s~รอให้เทรเวอร์และไมเคิลส่งสัญญาณว่าพวกเขาอยู่ในตำแหน่งแล้ว
-fran2:2798704198,~s~Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ to activate Michael's ability while sniping.,~s~กด ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ เพื่อเปิดใช้งานความสามารถของ ไมเคิล ในขณะที่กำลังซุ่มยิง
-fran2:2823559653,~s~Return to ~b~Franklin.,~s~กลับไปที่ ~b~แฟรงคลิน
-fran2:2889864230,~s~Go to ~y~meet~s~ Trevor and Michael.~s~,~s~ไป ~y~พบ~s~ เทรเวอร์ และ ไมเคิล~s~
-fran2:2923694301,~s~Press ~INPUT_CONTEXT~ to confirm Trevor's position.,~s~กด ~INPUT_CONTEXT~ เพื่อยืนยันตำแหน่งของ เทรเวอร์
+fran2:2798704198,~s~Press ~INPUT_SPECIAL_ABILITY~ + ~INPUT_SPECIAL_ABILITY_SECONDARY~ to activate Michael's ability while sniping.,~s~กด~INPUT_SPECIAL_ABILITY~+~INPUT_SPECIAL_ABILITY_SECONDARY~เพื่อเปิดใช้งานความสามารถของ ไมเคิล ในขณะที่กำลังซุ่มยิง
+fran2:2823559653,~s~Return to ~b~Franklin.,~s~กลับไปที่~b~แฟรงคลิน
+fran2:2889864230,~s~Go to ~y~meet~s~ Trevor and Michael.~s~,~s~ไป~y~พบ~s~เทรเวอร์ และ ไมเคิล~s~
+fran2:2923694301,~s~Press ~INPUT_CONTEXT~ to confirm Trevor's position.,~s~กด~INPUT_CONTEXT~เพื่อยืนยันตำแหน่งของ เทรเวอร์
 fran2:2928551529,~s~Wait for everyone.,~s~รอทุกคน
 fran2:3002988818,~s~Find Lamar.~s~,~s~ค้นหาลามาร์~s~
 fran2:3008863889,~s~Wait for Franklin and Michael to signal they're in position.,~s~รอให้แฟรงคลินและไมเคิลส่งสัญญาณว่าพวกเขาอยู่ในตำแหน่งแล้ว
 fran2:3098683734,~s~Wait for Trevor and Franklin to signal they're in position.,~s~รอให้เทรเวอร์และแฟรงคลินส่งสัญญาณว่าพวกเขาอยู่ในตำแหน่งแล้ว
-fran2:3101845281,~s~Get to ~b~Lamar.~s~,~s~ไปที่ ~b~ลามาร์~s~
-fran2:3315313432,~s~Get Lamar back to his ~y~house.,~s~รับลามาร์กลับไปที่ ~y~บ้าน
-fran2:3720464876,~s~Go to the ~y~sawmill.~s~,~s~ไปที่ ~y~โรงเลื่อย~s~
+fran2:3101845281,~s~Get to ~b~Lamar.~s~,~s~ไปที่~b~ลามาร์~s~
+fran2:3315313432,~s~Get Lamar back to his ~y~house.,~s~รับลามาร์กลับไปที่~y~บ้าน
+fran2:3720464876,~s~Go to the ~y~sawmill.~s~,~s~ไปที่~y~โรงเลื่อย~s~
 fran2:3866043265,~s~Call Trevor and Michael for extra muscle.,~s~โทรหา เทรเวอร์ และ ไมเคิล สำหรับกำลังเสริม
 fran2:3973130312,~s~The Ballas were alerted.,~s~พวกบอลลัสได้รับการแจ้งเตือน
-fran2:4125879401,~s~Park the bulldozer in ~y~position.~s~,~s~จอดรถดันดินใน ~y~ตำแหน่งที่กำหนด~s~
+fran2:4125879401,~s~Park the bulldozer in ~y~position.~s~,~s~จอดรถดันดินใน~y~ตำแหน่งที่กำหนด~s~
 fran2:4150410423,~s~Return to the sawmill.,~s~กลับไปที่โรงเลื่อย
-fran2:4175396910,~s~Get to ~b~Trevor.~s~,~s~ไปที่ ~b~เทรเวอร์~s~
+fran2:4175396910,~s~Get to ~b~Trevor.~s~,~s~ไปที่~b~เทรเวอร์~s~
 fran2:4239591289,~s~Lamar died.,~s~ลามาร์ตายแล้ว
 fran2:4271127402,~s~Wait for Trevor.~s~,~s~รอเทรเวอร์~s~
-fran2:4281406188,~s~Take out the remaining ~r~guards.~s~,~s~จัดการ ~r~พวกการ์ด~s~ ที่เหลืออยู่
+fran2:4281406188,~s~Take out the remaining ~r~guards.~s~,~s~จัดการ~r~พวกการ์ด~s~ที่เหลืออยู่
